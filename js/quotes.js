@@ -4,12 +4,12 @@ $(document).ready(function() {
 
 	// Random Varied Quote
 	let variedArray = [
-		// December 31 (TEST)
-		'&ldquo;Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.&rdquo; <br /> &mdash;Benjamin Franklin',
-        // January 1
+		// January 1
         '&ldquo;I think in terms of the day&rsquo;s resolutions, not the years&rsquo;.&rdquo; <br /> &mdash;Henry Moore',
         // January 2
-        '&ldquo;The sweetest of all sounds is praise.&rdquo; <br /> &mdash;Xenophon'
+        '&ldquo;The sweetest of all sounds is praise.&rdquo; <br /> &mdash;Xenophon',
+        // January 3
+        '&ldquo;We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.&rdquo; <br /> &mdash;E. M. Forster'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -24,12 +24,12 @@ $(document).ready(function() {
 
     // Random Love Quote
     let loveArray = [
-		// December 31 (TEST)
-		'&ldquo;With our love, we could save the world.&rdquo; <br /> &mdash;George Harrison',
-        // January 1
+		// January 1
         '&ldquo;The giving of love is an education in itself.&rdquo; <br /> &mdash;Eleanor Roosevelt',
         // January 2
-        '&ldquo;Dear Lord, I&rsquo;m so grateful I&rsquo;m still loved.&rdquo; <br /> &mdash;Vivien Leigh'
+        '&ldquo;Dear Lord, I&rsquo;m so grateful I&rsquo;m still loved.&rdquo; <br /> &mdash;Vivien Leigh',
+        // January 3
+        '&ldquo;Love means to commit yourself without guarantee.&rdquo; <br /> &mdash;Anne Campbell'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -44,12 +44,12 @@ $(document).ready(function() {
 
     // Random Art Quote
     let artArray = [
-		// December 31 (TEST)
-		'&ldquo;The job of the artist is always to deepen the mystery.&rdquo; <br /> &mdash;Francis Bacon',
-        // January 1
+		// January 1
         '&ldquo;I make pictures and someone comes in and calls it art.&rdquo; <br /> &mdash;Willem de Kooning',
         // January 2
-        '&ldquo;I think it is in collaboration that the nature of art is revealed.&rdquo; <br /> &mdash;Steve Lacy'
+        '&ldquo;I think it is in collaboration that the nature of art is revealed.&rdquo; <br /> &mdash;Steve Lacy',
+        // January 3
+        '&ldquo;Art is the only way to run away without leaving home.&rdquo; <br /> &mdash;Twyla Tharp'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
