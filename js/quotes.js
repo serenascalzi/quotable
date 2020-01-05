@@ -11,7 +11,9 @@ $(document).ready(function() {
         // January 3
         '&ldquo;We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.&rdquo; <br /> &mdash;E. M. Forster',
         // January 4
-        '&ldquo;If youth knew; if age could.&rdquo; <br /> &mdash;Sigmund Freud'
+        '&ldquo;If youth knew; if age could.&rdquo; <br /> &mdash;Sigmund Freud',
+        // January 5
+        '&ldquo;The art of being happy lies in the power of extracting happiness from common things.&rdquo; <br /> &mdash;Henry Ward Beecher'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -33,7 +35,9 @@ $(document).ready(function() {
         // January 3
         '&ldquo;Love means to commit yourself without guarantee.&rdquo; <br /> &mdash;Anne Campbell',
         // January 4
-        '&ldquo;Oh, love will make a dog howl in rhyme.&rdquo; <br /> &mdash;Francis Beaumont'
+        '&ldquo;Oh, love will make a dog howl in rhyme.&rdquo; <br /> &mdash;Francis Beaumont',
+        // January 5
+        '&ldquo;Love is when you meet someone who tells you something new about yourself.&rdquo; <br /> &mdash;Andre Breton'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -55,7 +59,9 @@ $(document).ready(function() {
         // January 3
         '&ldquo;Art is the only way to run away without leaving home.&rdquo; <br /> &mdash;Twyla Tharp',
         // January 4
-        '&ldquo;Art is science made clear.&rdquo; <br /> &mdash;Wilson Mizner'
+        '&ldquo;Art is science made clear.&rdquo; <br /> &mdash;Wilson Mizner',
+        // January 5
+        '&ldquo;Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.&rdquo; <br /> &mdash;Scott Adams'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
