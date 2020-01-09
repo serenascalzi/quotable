@@ -19,7 +19,9 @@ $(document).ready(function() {
         // January 7
         '&ldquo;Believe and act as if it were impossible to fail.&rdquo; <br /> &mdash;Charles Kettering',
         // January 8
-        '&ldquo;Defeat may serve as well as victory to shake the soul and let the glory out.&rdquo; <br /> &mdash;Edwin Markham'
+        '&ldquo;Defeat may serve as well as victory to shake the soul and let the glory out.&rdquo; <br /> &mdash;Edwin Markham',
+        // January 9
+        '&ldquo;The person who can bring the spirit of laughter into a room is indeed blessed.&rdquo; <br /> &mdash;Bennett Cerf'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // January 7
         '&ldquo;If fear is the great enemy of intimacy, love is its true friend.&rdquo; <br /> &mdash;Henri Nouwen',
         // January 8
-        '&ldquo;The only abnormality is the incapacity to love.&rdquo; <br /> &mdash;Anais Nin'
+        '&ldquo;The only abnormality is the incapacity to love.&rdquo; <br /> &mdash;Anais Nin',
+        // January 9
+        '&ldquo;Love is like the measles; we all have to go through it.&rdquo; <br /> &mdash;Jerome K. Jerome'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // January 7
         '&ldquo;Advertising is the greatest art form of the 20th century.&rdquo; <br /> &mdash;Marshall McLuhan',
         // January 8
-        '&ldquo;Fine art is that in which the hand, the head, and the heart of man go together.&rdquo; <br /> &mdash;John Ruskin'
+        '&ldquo;Fine art is that in which the hand, the head, and the heart of man go together.&rdquo; <br /> &mdash;John Ruskin',
+        // January 9
+        '&ldquo;An original artist is unable to copy. So he has only to copy in order to be original.&rdquo; <br /> &mdash;Jean Cocteau'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
