@@ -21,7 +21,9 @@ $(document).ready(function() {
         // January 8
         '&ldquo;Defeat may serve as well as victory to shake the soul and let the glory out.&rdquo; <br /> &mdash;Edwin Markham',
         // January 9
-        '&ldquo;The person who can bring the spirit of laughter into a room is indeed blessed.&rdquo; <br /> &mdash;Bennett Cerf'
+        '&ldquo;The person who can bring the spirit of laughter into a room is indeed blessed.&rdquo; <br /> &mdash;Bennett Cerf',
+        // January 10
+        '&ldquo;Our character is what we do when we think no one is looking.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // January 8
         '&ldquo;The only abnormality is the incapacity to love.&rdquo; <br /> &mdash;Anais Nin',
         // January 9
-        '&ldquo;Love is like the measles; we all have to go through it.&rdquo; <br /> &mdash;Jerome K. Jerome'
+        '&ldquo;Love is like the measles; we all have to go through it.&rdquo; <br /> &mdash;Jerome K. Jerome',
+        // January 10
+        '&ldquo;I can live without money, but I cannot live without love.&rdquo; <br /> &mdash;Judy Garland'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // January 8
         '&ldquo;Fine art is that in which the hand, the head, and the heart of man go together.&rdquo; <br /> &mdash;John Ruskin',
         // January 9
-        '&ldquo;An original artist is unable to copy. So he has only to copy in order to be original.&rdquo; <br /> &mdash;Jean Cocteau'
+        '&ldquo;An original artist is unable to copy. So he has only to copy in order to be original.&rdquo; <br /> &mdash;Jean Cocteau',
+        // January 10
+        '&ldquo;The modern work of art, as I have said, is a symbol.&rdquo; <br /> &mdash;Herbert Read'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
