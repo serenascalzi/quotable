@@ -23,7 +23,9 @@ $(document).ready(function() {
         // January 9
         '&ldquo;The person who can bring the spirit of laughter into a room is indeed blessed.&rdquo; <br /> &mdash;Bennett Cerf',
         // January 10
-        '&ldquo;Our character is what we do when we think no one is looking.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.'
+        '&ldquo;Our character is what we do when we think no one is looking.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.',
+        // January 11
+        '&ldquo;We cannot put off living until we are ready.&rdquo; <br /> &mdash;Jose Ortega y Gasset'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -57,7 +59,9 @@ $(document).ready(function() {
         // January 9
         '&ldquo;Love is like the measles; we all have to go through it.&rdquo; <br /> &mdash;Jerome K. Jerome',
         // January 10
-        '&ldquo;I can live without money, but I cannot live without love.&rdquo; <br /> &mdash;Judy Garland'
+        '&ldquo;I can live without money, but I cannot live without love.&rdquo; <br /> &mdash;Judy Garland',
+        // January 11
+        '&ldquo;The inner reality of love can be recognized only by love.&rdquo; <br /> &mdash;Hans Urs von Balthasar'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -91,7 +95,9 @@ $(document).ready(function() {
         // January 9
         '&ldquo;An original artist is unable to copy. So he has only to copy in order to be original.&rdquo; <br /> &mdash;Jean Cocteau',
         // January 10
-        '&ldquo;The modern work of art, as I have said, is a symbol.&rdquo; <br /> &mdash;Herbert Read'
+        '&ldquo;The modern work of art, as I have said, is a symbol.&rdquo; <br /> &mdash;Herbert Read',
+        // January 11
+        '&ldquo;If you know somethin&rsquo; well, you can always paint it but people would be better off buyin&rsquo; chickens.&rdquo; <br /> &mdash;Grandma Moses'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
