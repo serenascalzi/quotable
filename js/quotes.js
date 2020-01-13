@@ -27,7 +27,9 @@ $(document).ready(function() {
         // January 11
         '&ldquo;We cannot put off living until we are ready.&rdquo; <br /> &mdash;Jose Ortega y Gasset',
         // January 12
-        '&ldquo;Millions saw the apple fall, but Newton was the one who asked why.&rdquo; <br /> &mdash;Bernard Baruch'
+        '&ldquo;Millions saw the apple fall, but Newton was the one who asked why.&rdquo; <br /> &mdash;Bernard Baruch',
+        // January 13
+        '&ldquo;Anger cannot be dishonest.&rdquo; <br /> &mdash;Marcus Aurelius'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // January 11
         '&ldquo;The inner reality of love can be recognized only by love.&rdquo; <br /> &mdash;Hans Urs von Balthasar',
         // January 12
-        '&ldquo;Lovers have a right to betray you&hellip;friends don&rsquo;t.&rdquo; <br /> &mdash;Judy Holliday'
+        '&ldquo;Lovers have a right to betray you&hellip;friends don&rsquo;t.&rdquo; <br /> &mdash;Judy Holliday',
+        // January 13
+        '&ldquo;Love is when he gives you a piece of your soul, that you never knew was missing.&rdquo; <br /> &mdash;Torquato Tasso'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // January 11
         '&ldquo;If you know somethin&rsquo; well, you can always paint it but people would be better off buyin&rsquo; chickens.&rdquo; <br /> &mdash;Grandma Moses',
         // January 12
-        '&ldquo;It may be that the deep necessity of art is the examination of self-deception.&rdquo; <br /> &mdash;Robert Motherwell'
+        '&ldquo;It may be that the deep necessity of art is the examination of self-deception.&rdquo; <br /> &mdash;Robert Motherwell',
+        // January 13
+        '&ldquo;It is only an auctioneer who can equally and impartially admire all schools of art.&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
