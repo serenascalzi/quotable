@@ -29,7 +29,9 @@ $(document).ready(function() {
         // January 12
         '&ldquo;Millions saw the apple fall, but Newton was the one who asked why.&rdquo; <br /> &mdash;Bernard Baruch',
         // January 13
-        '&ldquo;Anger cannot be dishonest.&rdquo; <br /> &mdash;Marcus Aurelius'
+        '&ldquo;Anger cannot be dishonest.&rdquo; <br /> &mdash;Marcus Aurelius',
+        // January 14
+        '&ldquo;If you find it in your heart to care for somebody else, you will have succeeded.&rdquo; <br /> &mdash;Maya Angelou'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // January 12
         '&ldquo;Lovers have a right to betray you&hellip;friends don&rsquo;t.&rdquo; <br /> &mdash;Judy Holliday',
         // January 13
-        '&ldquo;Love is when he gives you a piece of your soul, that you never knew was missing.&rdquo; <br /> &mdash;Torquato Tasso'
+        '&ldquo;Love is when he gives you a piece of your soul, that you never knew was missing.&rdquo; <br /> &mdash;Torquato Tasso',
+        // January 14
+        '&ldquo;If there&rsquo;s delight in love, &rsquo;Tis when I see that heart, which others bleed for, bleed for me.&rdquo; <br /> &mdash;William Congreve'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // January 12
         '&ldquo;It may be that the deep necessity of art is the examination of self-deception.&rdquo; <br /> &mdash;Robert Motherwell',
         // January 13
-        '&ldquo;It is only an auctioneer who can equally and impartially admire all schools of art.&rdquo; <br /> &mdash;Oscar Wilde'
+        '&ldquo;It is only an auctioneer who can equally and impartially admire all schools of art.&rdquo; <br /> &mdash;Oscar Wilde',
+        // January 14
+        '&ldquo;Art is the stored honey of the human soul, gathered on wings of misery and travail.&rdquo; <br /> &mdash;Theodore Dreiser'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
