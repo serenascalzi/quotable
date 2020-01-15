@@ -31,7 +31,9 @@ $(document).ready(function() {
         // January 13
         '&ldquo;Anger cannot be dishonest.&rdquo; <br /> &mdash;Marcus Aurelius',
         // January 14
-        '&ldquo;If you find it in your heart to care for somebody else, you will have succeeded.&rdquo; <br /> &mdash;Maya Angelou'
+        '&ldquo;If you find it in your heart to care for somebody else, you will have succeeded.&rdquo; <br /> &mdash;Maya Angelou',
+        // January 15
+        '&ldquo;Wherever there is a human being, there is an opportunity for a kindness.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // January 13
         '&ldquo;Love is when he gives you a piece of your soul, that you never knew was missing.&rdquo; <br /> &mdash;Torquato Tasso',
         // January 14
-        '&ldquo;If there&rsquo;s delight in love, &rsquo;Tis when I see that heart, which others bleed for, bleed for me.&rdquo; <br /> &mdash;William Congreve'
+        '&ldquo;If there&rsquo;s delight in love, &rsquo;Tis when I see that heart, which others bleed for, bleed for me.&rdquo; <br /> &mdash;William Congreve',
+        // January 15
+        '&ldquo;We cease loving ourselves if no one loves us.&rdquo; <br /> &mdash;Madame de Stael'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // January 13
         '&ldquo;It is only an auctioneer who can equally and impartially admire all schools of art.&rdquo; <br /> &mdash;Oscar Wilde',
         // January 14
-        '&ldquo;Art is the stored honey of the human soul, gathered on wings of misery and travail.&rdquo; <br /> &mdash;Theodore Dreiser'
+        '&ldquo;Art is the stored honey of the human soul, gathered on wings of misery and travail.&rdquo; <br /> &mdash;Theodore Dreiser',
+        // January 15
+        '&ldquo;Art is the triumph over chaos.&rdquo; <br /> &mdash;John Cheever'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
