@@ -33,7 +33,9 @@ $(document).ready(function() {
         // January 14
         '&ldquo;If you find it in your heart to care for somebody else, you will have succeeded.&rdquo; <br /> &mdash;Maya Angelou',
         // January 15
-        '&ldquo;Wherever there is a human being, there is an opportunity for a kindness.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
+        '&ldquo;Wherever there is a human being, there is an opportunity for a kindness.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
+        // January 16
+        '&ldquo;The price of greatness is responsibility.&rdquo; <br /> &mdash;Winston Churchill'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // January 14
         '&ldquo;If there&rsquo;s delight in love, &rsquo;Tis when I see that heart, which others bleed for, bleed for me.&rdquo; <br /> &mdash;William Congreve',
         // January 15
-        '&ldquo;We cease loving ourselves if no one loves us.&rdquo; <br /> &mdash;Madame de Stael'
+        '&ldquo;We cease loving ourselves if no one loves us.&rdquo; <br /> &mdash;Madame de Stael',
+        // January 16
+        '&ldquo;To love and win is the best thing. To love and lose, the next best.&rdquo; <br /> &mdash;William Makepeace Thackeray'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // January 14
         '&ldquo;Art is the stored honey of the human soul, gathered on wings of misery and travail.&rdquo; <br /> &mdash;Theodore Dreiser',
         // January 15
-        '&ldquo;Art is the triumph over chaos.&rdquo; <br /> &mdash;John Cheever'
+        '&ldquo;Art is the triumph over chaos.&rdquo; <br /> &mdash;John Cheever',
+        // January 16
+        '&ldquo;I&rsquo;m afraid that if you look at a thing long enough, it loses all of its meaning.&rdquo; <br /> &mdash;Andy Warhol'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
