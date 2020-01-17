@@ -35,7 +35,9 @@ $(document).ready(function() {
         // January 15
         '&ldquo;Wherever there is a human being, there is an opportunity for a kindness.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
         // January 16
-        '&ldquo;The price of greatness is responsibility.&rdquo; <br /> &mdash;Winston Churchill'
+        '&ldquo;The price of greatness is responsibility.&rdquo; <br /> &mdash;Winston Churchill',
+        // January 17
+        '&ldquo;Thousands of geniuses live and die undiscovered &ndash; either by themselves or by others.&rdquo; <br /> &mdash;Mark Twain'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -81,7 +83,9 @@ $(document).ready(function() {
         // January 15
         '&ldquo;We cease loving ourselves if no one loves us.&rdquo; <br /> &mdash;Madame de Stael',
         // January 16
-        '&ldquo;To love and win is the best thing. To love and lose, the next best.&rdquo; <br /> &mdash;William Makepeace Thackeray'
+        '&ldquo;To love and win is the best thing. To love and lose, the next best.&rdquo; <br /> &mdash;William Makepeace Thackeray',
+        // January 17
+        '&ldquo;Looking back, I have this to regret, that too often when I loved, I did not say so.&rdquo; <br /> &mdash;Ray Stannard Baker'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -127,7 +131,9 @@ $(document).ready(function() {
         // January 15
         '&ldquo;Art is the triumph over chaos.&rdquo; <br /> &mdash;John Cheever',
         // January 16
-        '&ldquo;I&rsquo;m afraid that if you look at a thing long enough, it loses all of its meaning.&rdquo; <br /> &mdash;Andy Warhol'
+        '&ldquo;I&rsquo;m afraid that if you look at a thing long enough, it loses all of its meaning.&rdquo; <br /> &mdash;Andy Warhol',
+        // January 17
+        '&ldquo;Artists who seek perfection in everything are those who cannot attain it in anything.&rdquo; <br /> &mdash;Gustave Flaubert'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
