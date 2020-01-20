@@ -41,7 +41,9 @@ $(document).ready(function() {
         // January 18
         '&ldquo;There are those who give with joy, and that joy is their reward.&rdquo; <br /> &mdash;Khalil Gibran',
         // January 19
-        '&ldquo;A certain amount of opposition is a great help to a man. Kites rise against, not with, the wind.&rdquo; <br /> &mdash;Lewis Mumford'
+        '&ldquo;A certain amount of opposition is a great help to a man. Kites rise against, not with, the wind.&rdquo; <br /> &mdash;Lewis Mumford',
+        // January 20
+        '&ldquo;Failure is success if we learn from it.&rdquo; <br /> &mdash;Malcolm Forbes'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // January 18
         '&ldquo;The only love affair I have ever had was with music.&rdquo; <br /> &mdash;Maurice Ravel',
         // January 19
-        '&ldquo;Age does not protect you from love. But love, to some extent, protects you from age.&rdquo; <br /> &mdash;Jeanne Moreau'
+        '&ldquo;Age does not protect you from love. But love, to some extent, protects you from age.&rdquo; <br /> &mdash;Jeanne Moreau',
+        // January 20
+        '&ldquo;Love is space and time measured by the heart.&rdquo; <br /> &mdash;Marcel Proust'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // January 18
         '&ldquo;Art, like morality, consists in drawing the line somewhere.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
         // January 19
-        '&ldquo;Most works of art, like most wines, ought to be consumed in the district of their fabrication.&rdquo; <br /> &mdash;Simone Weil'
+        '&ldquo;Most works of art, like most wines, ought to be consumed in the district of their fabrication.&rdquo; <br /> &mdash;Simone Weil',
+        // January 20
+        '&ldquo;If I didn&rsquo;t choose art, I would have become an astronomer.&rdquo; <br /> &mdash;Peter Max'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
