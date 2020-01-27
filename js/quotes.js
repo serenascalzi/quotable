@@ -55,7 +55,9 @@ $(document).ready(function() {
         // January 25
         '&ldquo;It is not how old you are, but how you are old.&rdquo; <br /> &mdash;Jules Renard',
         // January 26
-        '&ldquo;Without wearing any mask we are conscious of, we have a special face for each friend.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.'
+        '&ldquo;Without wearing any mask we are conscious of, we have a special face for each friend.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
+        // January 27
+        '&ldquo;Our entire life &ndash; consists ultimately in accepting ourselves as we are.&rdquo; <br /> &mdash;Jean Anouilh'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // January 25
         '&ldquo;Loved. You can&rsquo;t use it in the past tense. Death does not stop that love at all.&rdquo; <br /> &mdash;Ken Kesey',
         // January 26
-        '&ldquo;Who is wise in love, love most, say least.&rdquo; <br /> &mdash;Alfred Lord Tennyson'
+        '&ldquo;Who is wise in love, love most, say least.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
+        // January 27
+        '&ldquo;In every man&rsquo;s heart there is a secret nerve that answers to the vibrations of beauty.&rdquo; <br /> &mdash;Christopher Morley'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // January 25
         '&ldquo;Artists are, above all, men who want to become inhuman.&rdquo; <br /> &mdash;Guillaume Apollinaire',
         // January 26
-        '&ldquo;I decided that if I could paint that flower in a huge scale, you could not ignore its beauty.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe'
+        '&ldquo;I decided that if I could paint that flower in a huge scale, you could not ignore its beauty.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe',
+        // January 27
+        '&ldquo;I really believe there are things nobody would see if I didn&rsquo;t photograph them.&rdquo; <br /> &mdash;Diane Arbus'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
