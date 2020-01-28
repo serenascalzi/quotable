@@ -57,7 +57,9 @@ $(document).ready(function() {
         // January 26
         '&ldquo;Without wearing any mask we are conscious of, we have a special face for each friend.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
         // January 27
-        '&ldquo;Our entire life &ndash; consists ultimately in accepting ourselves as we are.&rdquo; <br /> &mdash;Jean Anouilh'
+        '&ldquo;Our entire life &ndash; consists ultimately in accepting ourselves as we are.&rdquo; <br /> &mdash;Jean Anouilh',
+        // January 28
+        '&ldquo;Peace is its own reward.&rdquo; <br /> &mdash;Mahatma Gandhi'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // January 26
         '&ldquo;Who is wise in love, love most, say least.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
         // January 27
-        '&ldquo;In every man&rsquo;s heart there is a secret nerve that answers to the vibrations of beauty.&rdquo; <br /> &mdash;Christopher Morley'
+        '&ldquo;In every man&rsquo;s heart there is a secret nerve that answers to the vibrations of beauty.&rdquo; <br /> &mdash;Christopher Morley',
+        // January 28
+        '&ldquo;When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough.&rdquo; <br /> &mdash;Maurice Maeterlinck'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // January 26
         '&ldquo;I decided that if I could paint that flower in a huge scale, you could not ignore its beauty.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe',
         // January 27
-        '&ldquo;I really believe there are things nobody would see if I didn&rsquo;t photograph them.&rdquo; <br /> &mdash;Diane Arbus'
+        '&ldquo;I really believe there are things nobody would see if I didn&rsquo;t photograph them.&rdquo; <br /> &mdash;Diane Arbus',
+        // January 28
+        '&ldquo;The great artist is a slave to his ideals.&rdquo; <br /> &mdash;Christian Nestell Bovee'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
