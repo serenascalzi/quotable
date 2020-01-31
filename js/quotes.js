@@ -63,7 +63,9 @@ $(document).ready(function() {
         // January 29
         '&ldquo;Music is moonlight in the gloomy night of life.&rdquo; <br /> &mdash;Jean Paul',
         // January 30
-        '&ldquo;A man who gives his children habits of industry provides for them better than by giving them fortune.&rdquo; <br /> &mdash;Richard Whately'
+        '&ldquo;A man who gives his children habits of industry provides for them better than by giving them fortune.&rdquo; <br /> &mdash;Richard Whately',
+        // January 31
+        '&ldquo;We must make the best of those ills which cannot be avoided.&rdquo; <br /> &mdash;Clarence Day'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -137,7 +139,9 @@ $(document).ready(function() {
         // January 29
         '&ldquo;At the touch of love everyone becomes a poet.&rdquo; <br /> &mdash;Plato',
         // January 30
-        '&ldquo;Accustom yourself continually to make many acts of love, for they enkindle and melt the soul.&rdquo; <br /> &mdash;Saint Teresa of Avila'
+        '&ldquo;Accustom yourself continually to make many acts of love, for they enkindle and melt the soul.&rdquo; <br /> &mdash;Saint Teresa of Avila',
+        // January 31
+        '&ldquo;I was adored once too.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -211,7 +215,9 @@ $(document).ready(function() {
         // January 29
         '&ldquo;Art is a collaboration between God and the artist, and the less the artist does the better.&rdquo; <br /> &mdash;Andre Gide',
         // January 30
-        '&ldquo;It is the addition of strangeness to beauty that constitutes the romantic character in art.&rdquo; <br /> &mdash;Walter Hagen'
+        '&ldquo;It is the addition of strangeness to beauty that constitutes the romantic character in art.&rdquo; <br /> &mdash;Walter Hagen',
+        // January 31
+        '&ldquo;Art is Art. Everything else is everything else.&rdquo; <br /> &mdash;Ad Reinhardt'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
