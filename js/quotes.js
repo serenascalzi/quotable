@@ -7,7 +7,9 @@ $(document).ready(function() {
         // February 1
         '&ldquo;Every failure is a step to success.&rdquo; <br /> &mdash;William Whewell',
         // February 2
-        '&ldquo;Kites rise highest against the wind &ndash; not with it.&rdquo; <br /> &mdash;Winston Churchill'
+        '&ldquo;Kites rise highest against the wind &ndash; not with it.&rdquo; <br /> &mdash;Winston Churchill',
+        // February 3
+        '&ldquo;When your work speaks for itself, don&rsquo;t interrupt.&rdquo; <br /> &mdash;Henry J. Kaiser'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -25,7 +27,9 @@ $(document).ready(function() {
         // February 1
         '&ldquo;Love implies anger. The man who is angered by nothing cares about nothing.&rdquo; <br /> &mdash;Edward Abbey',
         // February 2
-        '&ldquo;I wonder what fool it was that first invented kissing.&rdquo; <br /> &mdash;Jonathan Swift'
+        '&ldquo;I wonder what fool it was that first invented kissing.&rdquo; <br /> &mdash;Jonathan Swift',
+        // February 3
+        '&ldquo;Gestures, in love, are incomparably more attractive, effective and valuable than words.&rdquo; <br /> &mdash;Francois Rabelais'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -43,7 +47,9 @@ $(document).ready(function() {
         // February 1
         '&ldquo;The rule in the art world is: you cater to the masses or you kowtow to the elite; you can&rsquo;t have both.&rdquo; <br /> &mdash;Ben Hecht',
         // February 2
-        '&ldquo;I cry out for order and find it only in art.&rdquo; <br /> &mdash;Helen Hayes'
+        '&ldquo;I cry out for order and find it only in art.&rdquo; <br /> &mdash;Helen Hayes',
+        // February 3
+        '&ldquo;Fiction reveals truths that reality obscures.&rdquo; <br /> &mdash;Jessamyn West'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
