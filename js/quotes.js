@@ -9,7 +9,9 @@ $(document).ready(function() {
         // February 2
         '&ldquo;Kites rise highest against the wind &ndash; not with it.&rdquo; <br /> &mdash;Winston Churchill',
         // February 3
-        '&ldquo;When your work speaks for itself, don&rsquo;t interrupt.&rdquo; <br /> &mdash;Henry J. Kaiser'
+        '&ldquo;When your work speaks for itself, don&rsquo;t interrupt.&rdquo; <br /> &mdash;Henry J. Kaiser',
+        // February 4
+        '&ldquo;You may delay, but time will not.&rdquo; <br /> &mdash;Benjamin Franklin'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -29,7 +31,9 @@ $(document).ready(function() {
         // February 2
         '&ldquo;I wonder what fool it was that first invented kissing.&rdquo; <br /> &mdash;Jonathan Swift',
         // February 3
-        '&ldquo;Gestures, in love, are incomparably more attractive, effective and valuable than words.&rdquo; <br /> &mdash;Francois Rabelais'
+        '&ldquo;Gestures, in love, are incomparably more attractive, effective and valuable than words.&rdquo; <br /> &mdash;Francois Rabelais',
+        // February 4
+        '&ldquo;Love is a better teacher than duty.&rdquo; <br /> &mdash;Albert Einstein'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -49,7 +53,9 @@ $(document).ready(function() {
         // February 2
         '&ldquo;I cry out for order and find it only in art.&rdquo; <br /> &mdash;Helen Hayes',
         // February 3
-        '&ldquo;Fiction reveals truths that reality obscures.&rdquo; <br /> &mdash;Jessamyn West'
+        '&ldquo;Fiction reveals truths that reality obscures.&rdquo; <br /> &mdash;Jessamyn West',
+        // February 4
+        '&ldquo;Art washes away from the soul the dust of everyday life.&rdquo; <br /> &mdash;Pablo Picasso'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
