@@ -11,7 +11,9 @@ $(document).ready(function() {
         // February 3
         '&ldquo;When your work speaks for itself, don&rsquo;t interrupt.&rdquo; <br /> &mdash;Henry J. Kaiser',
         // February 4
-        '&ldquo;You may delay, but time will not.&rdquo; <br /> &mdash;Benjamin Franklin'
+        '&ldquo;You may delay, but time will not.&rdquo; <br /> &mdash;Benjamin Franklin',
+        // February 5
+        '&ldquo;Dreams are necessary to life.&rdquo; <br /> &mdash;Anais Nin'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -33,7 +35,9 @@ $(document).ready(function() {
         // February 3
         '&ldquo;Gestures, in love, are incomparably more attractive, effective and valuable than words.&rdquo; <br /> &mdash;Francois Rabelais',
         // February 4
-        '&ldquo;Love is a better teacher than duty.&rdquo; <br /> &mdash;Albert Einstein'
+        '&ldquo;Love is a better teacher than duty.&rdquo; <br /> &mdash;Albert Einstein',
+        // February 5
+        '&ldquo;My little dog &ndash; a heartbeat at my feet.&rdquo; <br /> &mdash;Edith Wharton'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -55,7 +59,9 @@ $(document).ready(function() {
         // February 3
         '&ldquo;Fiction reveals truths that reality obscures.&rdquo; <br /> &mdash;Jessamyn West',
         // February 4
-        '&ldquo;Art washes away from the soul the dust of everyday life.&rdquo; <br /> &mdash;Pablo Picasso'
+        '&ldquo;Art washes away from the soul the dust of everyday life.&rdquo; <br /> &mdash;Pablo Picasso',
+        // February 5
+        '&ldquo;Culture is the arts elevated to a set of beliefs.&rdquo; <br /> &mdash;Thomas Wolfe'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
