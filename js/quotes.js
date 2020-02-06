@@ -13,7 +13,9 @@ $(document).ready(function() {
         // February 4
         '&ldquo;You may delay, but time will not.&rdquo; <br /> &mdash;Benjamin Franklin',
         // February 5
-        '&ldquo;Dreams are necessary to life.&rdquo; <br /> &mdash;Anais Nin'
+        '&ldquo;Dreams are necessary to life.&rdquo; <br /> &mdash;Anais Nin',
+        // February 6
+        '&ldquo;What sculpture is to a block of marble, education is to the soul.&rdquo; <br /> &mdash;Joseph Addison'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -37,7 +39,9 @@ $(document).ready(function() {
         // February 4
         '&ldquo;Love is a better teacher than duty.&rdquo; <br /> &mdash;Albert Einstein',
         // February 5
-        '&ldquo;My little dog &ndash; a heartbeat at my feet.&rdquo; <br /> &mdash;Edith Wharton'
+        '&ldquo;My little dog &ndash; a heartbeat at my feet.&rdquo; <br /> &mdash;Edith Wharton',
+        // February 6
+        '&ldquo;Love in its essence is spiritual fire.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -61,7 +65,9 @@ $(document).ready(function() {
         // February 4
         '&ldquo;Art washes away from the soul the dust of everyday life.&rdquo; <br /> &mdash;Pablo Picasso',
         // February 5
-        '&ldquo;Culture is the arts elevated to a set of beliefs.&rdquo; <br /> &mdash;Thomas Wolfe'
+        '&ldquo;Culture is the arts elevated to a set of beliefs.&rdquo; <br /> &mdash;Thomas Wolfe',
+        // February 6
+        '&ldquo;An artist cannot fail; it is a success to be one.&rdquo; <br /> &mdash;Charles Horton Cooley'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
