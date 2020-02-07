@@ -15,7 +15,9 @@ $(document).ready(function() {
         // February 5
         '&ldquo;Dreams are necessary to life.&rdquo; <br /> &mdash;Anais Nin',
         // February 6
-        '&ldquo;What sculpture is to a block of marble, education is to the soul.&rdquo; <br /> &mdash;Joseph Addison'
+        '&ldquo;What sculpture is to a block of marble, education is to the soul.&rdquo; <br /> &mdash;Joseph Addison',
+        // February 7
+        '&ldquo;I am still learning.&rdquo; <br /> &mdash;Michelangelo'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -41,7 +43,9 @@ $(document).ready(function() {
         // February 5
         '&ldquo;My little dog &ndash; a heartbeat at my feet.&rdquo; <br /> &mdash;Edith Wharton',
         // February 6
-        '&ldquo;Love in its essence is spiritual fire.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
+        '&ldquo;Love in its essence is spiritual fire.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
+        // February 7
+        '&ldquo;Woe to the man whose heart has not learned while young to hope, to love &ndash; and to put its trust in life.&rdquo; <br /> &mdash;Joseph Conrad'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -67,7 +71,9 @@ $(document).ready(function() {
         // February 5
         '&ldquo;Culture is the arts elevated to a set of beliefs.&rdquo; <br /> &mdash;Thomas Wolfe',
         // February 6
-        '&ldquo;An artist cannot fail; it is a success to be one.&rdquo; <br /> &mdash;Charles Horton Cooley'
+        '&ldquo;An artist cannot fail; it is a success to be one.&rdquo; <br /> &mdash;Charles Horton Cooley',
+        // February 7
+        '&ldquo;The excellency of every art is its intensity, capable of making all disagreeable evaporate.&rdquo; <br /> &mdash;John Keats'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
