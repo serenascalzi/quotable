@@ -19,7 +19,9 @@ $(document).ready(function() {
         // February 7
         '&ldquo;I am still learning.&rdquo; <br /> &mdash;Michelangelo',
         // February 8
-        '&ldquo;Curiosity will conquer fear even more than bravery will.&rdquo; <br /> &mdash;James Stephens'
+        '&ldquo;Curiosity will conquer fear even more than bravery will.&rdquo; <br /> &mdash;James Stephens',
+        // February 9
+        '&ldquo;Words are but the signs of ideas.&rdquo; <br /> &mdash;Samuel Johnson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // February 7
         '&ldquo;Woe to the man whose heart has not learned while young to hope, to love &ndash; and to put its trust in life.&rdquo; <br /> &mdash;Joseph Conrad',
         // February 8
-        '&ldquo;Only do what your heart tells you.&rdquo; <br /> &mdash;Princess Diana'
+        '&ldquo;Only do what your heart tells you.&rdquo; <br /> &mdash;Princess Diana',
+        // February 9
+        '&ldquo;True love is quiescent, except in the nascent moments of true humility.&rdquo; <br /> &mdash;Bryant H. McGill'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // February 7
         '&ldquo;The excellency of every art is its intensity, capable of making all disagreeable evaporate.&rdquo; <br /> &mdash;John Keats',
         // February 8
-        '&ldquo;Just as the bird sings or the butterfly soars, because it is his natural characteristic, so the artist works.&rdquo; <br /> &mdash;Alma Gluck'
+        '&ldquo;Just as the bird sings or the butterfly soars, because it is his natural characteristic, so the artist works.&rdquo; <br /> &mdash;Alma Gluck',
+        // February 9
+        '&ldquo;An empty canvas is a living wonder... far lovelier than certain pictures.&rdquo; <br /> &mdash;Wassily Kandinsky'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
