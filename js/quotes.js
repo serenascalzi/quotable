@@ -17,7 +17,9 @@ $(document).ready(function() {
         // February 6
         '&ldquo;What sculpture is to a block of marble, education is to the soul.&rdquo; <br /> &mdash;Joseph Addison',
         // February 7
-        '&ldquo;I am still learning.&rdquo; <br /> &mdash;Michelangelo'
+        '&ldquo;I am still learning.&rdquo; <br /> &mdash;Michelangelo',
+        // February 8
+        '&ldquo;Curiosity will conquer fear even more than bravery will.&rdquo; <br /> &mdash;James Stephens'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // February 6
         '&ldquo;Love in its essence is spiritual fire.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
         // February 7
-        '&ldquo;Woe to the man whose heart has not learned while young to hope, to love &ndash; and to put its trust in life.&rdquo; <br /> &mdash;Joseph Conrad'
+        '&ldquo;Woe to the man whose heart has not learned while young to hope, to love &ndash; and to put its trust in life.&rdquo; <br /> &mdash;Joseph Conrad',
+        // February 8
+        '&ldquo;Only do what your heart tells you.&rdquo; <br /> &mdash;Princess Diana'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // February 6
         '&ldquo;An artist cannot fail; it is a success to be one.&rdquo; <br /> &mdash;Charles Horton Cooley',
         // February 7
-        '&ldquo;The excellency of every art is its intensity, capable of making all disagreeable evaporate.&rdquo; <br /> &mdash;John Keats'
+        '&ldquo;The excellency of every art is its intensity, capable of making all disagreeable evaporate.&rdquo; <br /> &mdash;John Keats',
+        // February 8
+        '&ldquo;Just as the bird sings or the butterfly soars, because it is his natural characteristic, so the artist works.&rdquo; <br /> &mdash;Alma Gluck'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
