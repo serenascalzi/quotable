@@ -23,7 +23,9 @@ $(document).ready(function() {
         // February 9
         '&ldquo;Words are but the signs of ideas.&rdquo; <br /> &mdash;Samuel Johnson',
         // February 10
-        '&ldquo;Be faithful to that which exists within yourself.&rdquo; <br /> &mdash;Andre Gide'
+        '&ldquo;Be faithful to that which exists within yourself.&rdquo; <br /> &mdash;Andre Gide',
+        // February 11
+        '&ldquo;Man is so made that when anything fires his soul, impossibilities vanish.&rdquo; <br /> &mdash;Jean de La Fontaine'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -57,7 +59,9 @@ $(document).ready(function() {
         // February 9
         '&ldquo;True love is quiescent, except in the nascent moments of true humility.&rdquo; <br /> &mdash;Bryant H. McGill',
         // February 10
-        '&ldquo;Love is metaphysical gravity.&rdquo; <br /> &mdash;R. Buckminster Fuller'
+        '&ldquo;Love is metaphysical gravity.&rdquo; <br /> &mdash;R. Buckminster Fuller',
+        // February 11
+        '&ldquo;Love is always being given where it is not required.&rdquo; <br /> &mdash;E. M. Forster'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -91,7 +95,9 @@ $(document).ready(function() {
         // February 9
         '&ldquo;An empty canvas is a living wonder... far lovelier than certain pictures.&rdquo; <br /> &mdash;Wassily Kandinsky',
         // February 10
-        '&ldquo;What is art but a way of seeing?&rdquo; <br /> &mdash;Saul Bellow'
+        '&ldquo;What is art but a way of seeing?&rdquo; <br /> &mdash;Saul Bellow',
+        // February 11
+        '&ldquo;Art consists of limitation. The most beautiful part of every picture is the frame.&rdquo; <br /> &mdash;Gilbert K. Chesterton'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
