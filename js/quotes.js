@@ -25,7 +25,9 @@ $(document).ready(function() {
         // February 10
         '&ldquo;Be faithful to that which exists within yourself.&rdquo; <br /> &mdash;Andre Gide',
         // February 11
-        '&ldquo;Man is so made that when anything fires his soul, impossibilities vanish.&rdquo; <br /> &mdash;Jean de La Fontaine'
+        '&ldquo;Man is so made that when anything fires his soul, impossibilities vanish.&rdquo; <br /> &mdash;Jean de La Fontaine',
+        // February 12
+        '&ldquo;Just as a candle cannot burn without fire, men cannot live without a spiritual life.&rdquo; <br /> &mdash;Buddha'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // February 10
         '&ldquo;Love is metaphysical gravity.&rdquo; <br /> &mdash;R. Buckminster Fuller',
         // February 11
-        '&ldquo;Love is always being given where it is not required.&rdquo; <br /> &mdash;E. M. Forster'
+        '&ldquo;Love is always being given where it is not required.&rdquo; <br /> &mdash;E. M. Forster',
+        // February 12
+        '&ldquo;Love shall be our token; love be yours and love be mine.&rdquo; <br /> &mdash;Christina Rossetti'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // February 10
         '&ldquo;What is art but a way of seeing?&rdquo; <br /> &mdash;Saul Bellow',
         // February 11
-        '&ldquo;Art consists of limitation. The most beautiful part of every picture is the frame.&rdquo; <br /> &mdash;Gilbert K. Chesterton'
+        '&ldquo;Art consists of limitation. The most beautiful part of every picture is the frame.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
+        // February 12
+        '&ldquo;Things are beautiful if you love them.&rdquo; <br /> &mdash;Jean Anouilh'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
