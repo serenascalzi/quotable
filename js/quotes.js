@@ -27,7 +27,9 @@ $(document).ready(function() {
         // February 11
         '&ldquo;Man is so made that when anything fires his soul, impossibilities vanish.&rdquo; <br /> &mdash;Jean de La Fontaine',
         // February 12
-        '&ldquo;Just as a candle cannot burn without fire, men cannot live without a spiritual life.&rdquo; <br /> &mdash;Buddha'
+        '&ldquo;Just as a candle cannot burn without fire, men cannot live without a spiritual life.&rdquo; <br /> &mdash;Buddha',
+        // February 13
+        '&ldquo;The only way to discover the limits of the possible is to go beyond them into the impossible.&rdquo; <br /> &mdash;Arthur C. Clarke'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // February 11
         '&ldquo;Love is always being given where it is not required.&rdquo; <br /> &mdash;E. M. Forster',
         // February 12
-        '&ldquo;Love shall be our token; love be yours and love be mine.&rdquo; <br /> &mdash;Christina Rossetti'
+        '&ldquo;Love shall be our token; love be yours and love be mine.&rdquo; <br /> &mdash;Christina Rossetti',
+        // February 13
+        '&ldquo;To love one that is great, is almost to be great one&rsquo;s self.&rdquo; <br /> &mdash;Samuel Johnson'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // February 11
         '&ldquo;Art consists of limitation. The most beautiful part of every picture is the frame.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
         // February 12
-        '&ldquo;Things are beautiful if you love them.&rdquo; <br /> &mdash;Jean Anouilh'
+        '&ldquo;Things are beautiful if you love them.&rdquo; <br /> &mdash;Jean Anouilh',
+        // February 13
+        '&ldquo;It&rsquo;s a moment that I&rsquo;m after, a fleeting moment, but not a frozen moment.&rdquo; <br /> &mdash;Andrew Wyeth'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
