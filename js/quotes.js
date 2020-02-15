@@ -29,7 +29,9 @@ $(document).ready(function() {
         // February 12
         '&ldquo;Just as a candle cannot burn without fire, men cannot live without a spiritual life.&rdquo; <br /> &mdash;Buddha',
         // February 13
-        '&ldquo;The only way to discover the limits of the possible is to go beyond them into the impossible.&rdquo; <br /> &mdash;Arthur C. Clarke'
+        '&ldquo;The only way to discover the limits of the possible is to go beyond them into the impossible.&rdquo; <br /> &mdash;Arthur C. Clarke',
+        // February 14
+        '&ldquo;Love the giver more than the gift.&rdquo; <br /> &mdash;Brigham Young'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // February 12
         '&ldquo;Love shall be our token; love be yours and love be mine.&rdquo; <br /> &mdash;Christina Rossetti',
         // February 13
-        '&ldquo;To love one that is great, is almost to be great one&rsquo;s self.&rdquo; <br /> &mdash;Samuel Johnson'
+        '&ldquo;To love one that is great, is almost to be great one&rsquo;s self.&rdquo; <br /> &mdash;Samuel Johnson',
+        // February 14
+        '&ldquo;Whatever our souls are made of, his and mine are the same.&rdquo; <br /> &mdash;Emily Bronte'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // February 12
         '&ldquo;Things are beautiful if you love them.&rdquo; <br /> &mdash;Jean Anouilh',
         // February 13
-        '&ldquo;It&rsquo;s a moment that I&rsquo;m after, a fleeting moment, but not a frozen moment.&rdquo; <br /> &mdash;Andrew Wyeth'
+        '&ldquo;It&rsquo;s a moment that I&rsquo;m after, a fleeting moment, but not a frozen moment.&rdquo; <br /> &mdash;Andrew Wyeth',
+        // February 14
+        '&ldquo;Only through art can we emerge from ourselves and know what another person sees.&rdquo; <br /> &mdash;Marcel Proust'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
