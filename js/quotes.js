@@ -33,7 +33,9 @@ $(document).ready(function() {
         // February 14
         '&ldquo;Love the giver more than the gift.&rdquo; <br /> &mdash;Brigham Young',
         // February 15
-        '&ldquo;Friendship is Love without his wings!&rdquo; <br /> &mdash;Lord Byron'
+        '&ldquo;Friendship is Love without his wings!&rdquo; <br /> &mdash;Lord Byron',
+        // February 16
+        '&ldquo;It&rsquo;s always too early to quit.&rdquo; <br /> &mdash;Norman Vincent Peale'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // February 14
         '&ldquo;Whatever our souls are made of, his and mine are the same.&rdquo; <br /> &mdash;Emily Bronte',
         // February 15
-        '&ldquo;The love that lasts longest is the love that is never returned.&rdquo; <br /> &mdash;W. Somerset Maugham'
+        '&ldquo;The love that lasts longest is the love that is never returned.&rdquo; <br /> &mdash;W. Somerset Maugham',
+        // February 16
+        '&ldquo;I am in you and you in me, mutual in divine love.&rdquo; <br /> &mdash;William Blake'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // February 14
         '&ldquo;Only through art can we emerge from ourselves and know what another person sees.&rdquo; <br /> &mdash;Marcel Proust',
         // February 15
-        '&ldquo;You begin with the possibilities of the material.&rdquo; <br /> &mdash;Robert Rauschenberg'
+        '&ldquo;You begin with the possibilities of the material.&rdquo; <br /> &mdash;Robert Rauschenberg',
+        // February 16
+        '&ldquo;The artist must bow to the monster of his own imagination.&rdquo; <br /> &mdash;Richard Wright'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
