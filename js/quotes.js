@@ -35,7 +35,9 @@ $(document).ready(function() {
         // February 15
         '&ldquo;Friendship is Love without his wings!&rdquo; <br /> &mdash;Lord Byron',
         // February 16
-        '&ldquo;It&rsquo;s always too early to quit.&rdquo; <br /> &mdash;Norman Vincent Peale'
+        '&ldquo;It&rsquo;s always too early to quit.&rdquo; <br /> &mdash;Norman Vincent Peale',
+        // February 17
+        '&ldquo;A man is but the product of his thoughts what he thinks, he becomes.&rdquo; <br /> &mdash;Mahatma Gandhi'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -81,7 +83,9 @@ $(document).ready(function() {
         // February 15
         '&ldquo;The love that lasts longest is the love that is never returned.&rdquo; <br /> &mdash;W. Somerset Maugham',
         // February 16
-        '&ldquo;I am in you and you in me, mutual in divine love.&rdquo; <br /> &mdash;William Blake'
+        '&ldquo;I am in you and you in me, mutual in divine love.&rdquo; <br /> &mdash;William Blake',
+        // February 17
+        '&ldquo;Because of a great love, one is courageous.&rdquo; <br /> &mdash;Lao Tzu'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -127,7 +131,9 @@ $(document).ready(function() {
         // February 15
         '&ldquo;You begin with the possibilities of the material.&rdquo; <br /> &mdash;Robert Rauschenberg',
         // February 16
-        '&ldquo;The artist must bow to the monster of his own imagination.&rdquo; <br /> &mdash;Richard Wright'
+        '&ldquo;The artist must bow to the monster of his own imagination.&rdquo; <br /> &mdash;Richard Wright',
+        // February 17
+        '&ldquo;A photograph is usually looked at &ndash; seldom looked into.&rdquo; <br /> &mdash;Ansel Adams'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
