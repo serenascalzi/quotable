@@ -37,7 +37,9 @@ $(document).ready(function() {
         // February 16
         '&ldquo;It&rsquo;s always too early to quit.&rdquo; <br /> &mdash;Norman Vincent Peale',
         // February 17
-        '&ldquo;A man is but the product of his thoughts what he thinks, he becomes.&rdquo; <br /> &mdash;Mahatma Gandhi'
+        '&ldquo;A man is but the product of his thoughts what he thinks, he becomes.&rdquo; <br /> &mdash;Mahatma Gandhi',
+        // February 18
+        '&ldquo;There are many ways of going forward, but only one way of standing still.&rdquo; <br /> &mdash;Franklin D. Roosevelt'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // February 16
         '&ldquo;I am in you and you in me, mutual in divine love.&rdquo; <br /> &mdash;William Blake',
         // February 17
-        '&ldquo;Because of a great love, one is courageous.&rdquo; <br /> &mdash;Lao Tzu'
+        '&ldquo;Because of a great love, one is courageous.&rdquo; <br /> &mdash;Lao Tzu',
+        // February 18
+        '&ldquo;To fail to love is not to exist at all.&rdquo; <br /> &mdash;Mark Van Doren'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // February 16
         '&ldquo;The artist must bow to the monster of his own imagination.&rdquo; <br /> &mdash;Richard Wright',
         // February 17
-        '&ldquo;A photograph is usually looked at &ndash; seldom looked into.&rdquo; <br /> &mdash;Ansel Adams'
+        '&ldquo;A photograph is usually looked at &ndash; seldom looked into.&rdquo; <br /> &mdash;Ansel Adams',
+        // February 18
+        '&ldquo;Art is the unceasing effort to compete with the beauty of flowers &ndash; and never succeeding.&rdquo; <br /> &mdash;Gian Carlo Menotti'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
