@@ -39,7 +39,9 @@ $(document).ready(function() {
         // February 17
         '&ldquo;A man is but the product of his thoughts what he thinks, he becomes.&rdquo; <br /> &mdash;Mahatma Gandhi',
         // February 18
-        '&ldquo;There are many ways of going forward, but only one way of standing still.&rdquo; <br /> &mdash;Franklin D. Roosevelt'
+        '&ldquo;There are many ways of going forward, but only one way of standing still.&rdquo; <br /> &mdash;Franklin D. Roosevelt',
+        // February 19
+        '&ldquo;Little minds are tamed and subdued by misfortune; but great minds rise above them.&rdquo; <br /> &mdash;Washington Irving'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -89,7 +91,9 @@ $(document).ready(function() {
         // February 17
         '&ldquo;Because of a great love, one is courageous.&rdquo; <br /> &mdash;Lao Tzu',
         // February 18
-        '&ldquo;To fail to love is not to exist at all.&rdquo; <br /> &mdash;Mark Van Doren'
+        '&ldquo;To fail to love is not to exist at all.&rdquo; <br /> &mdash;Mark Van Doren',
+        // February 19
+        '&ldquo;So the lover must struggle for words.&rdquo; <br /> &mdash;T. S. Eliot'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -139,7 +143,9 @@ $(document).ready(function() {
         // February 17
         '&ldquo;A photograph is usually looked at &ndash; seldom looked into.&rdquo; <br /> &mdash;Ansel Adams',
         // February 18
-        '&ldquo;Art is the unceasing effort to compete with the beauty of flowers &ndash; and never succeeding.&rdquo; <br /> &mdash;Gian Carlo Menotti'
+        '&ldquo;Art is the unceasing effort to compete with the beauty of flowers &ndash; and never succeeding.&rdquo; <br /> &mdash;Gian Carlo Menotti',
+        // February 19
+        '&ldquo;I am an artist... I am here to live out loud.&rdquo; <br /> &mdash;Emile Zola'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
