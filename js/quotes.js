@@ -41,7 +41,9 @@ $(document).ready(function() {
         // February 18
         '&ldquo;There are many ways of going forward, but only one way of standing still.&rdquo; <br /> &mdash;Franklin D. Roosevelt',
         // February 19
-        '&ldquo;Little minds are tamed and subdued by misfortune; but great minds rise above them.&rdquo; <br /> &mdash;Washington Irving'
+        '&ldquo;Little minds are tamed and subdued by misfortune; but great minds rise above them.&rdquo; <br /> &mdash;Washington Irving',
+        // February 20
+        '&ldquo;I didn&rsquo;t think; I experimented.&rdquo; <br /> &mdash;Anthony Burgess'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // February 18
         '&ldquo;To fail to love is not to exist at all.&rdquo; <br /> &mdash;Mark Van Doren',
         // February 19
-        '&ldquo;So the lover must struggle for words.&rdquo; <br /> &mdash;T. S. Eliot'
+        '&ldquo;So the lover must struggle for words.&rdquo; <br /> &mdash;T. S. Eliot',
+        // February 20
+        '&ldquo;Love is a sacred reserve of energy; it is like the blood of spiritual evolution.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // February 18
         '&ldquo;Art is the unceasing effort to compete with the beauty of flowers &ndash; and never succeeding.&rdquo; <br /> &mdash;Gian Carlo Menotti',
         // February 19
-        '&ldquo;I am an artist... I am here to live out loud.&rdquo; <br /> &mdash;Emile Zola'
+        '&ldquo;I am an artist... I am here to live out loud.&rdquo; <br /> &mdash;Emile Zola',
+        // February 20
+        '&ldquo;Impressionism; it is the birth of Light in painting.&rdquo; <br /> &mdash;Robert Delaunay'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
