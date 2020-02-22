@@ -43,7 +43,9 @@ $(document).ready(function() {
         // February 19
         '&ldquo;Little minds are tamed and subdued by misfortune; but great minds rise above them.&rdquo; <br /> &mdash;Washington Irving',
         // February 20
-        '&ldquo;I didn&rsquo;t think; I experimented.&rdquo; <br /> &mdash;Anthony Burgess'
+        '&ldquo;I didn&rsquo;t think; I experimented.&rdquo; <br /> &mdash;Anthony Burgess',
+        // February 21
+        '&ldquo;Ideas shape the course of history.&rdquo; <br /> &mdash;John Maynard Keynes'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -97,7 +99,9 @@ $(document).ready(function() {
         // February 19
         '&ldquo;So the lover must struggle for words.&rdquo; <br /> &mdash;T. S. Eliot',
         // February 20
-        '&ldquo;Love is a sacred reserve of energy; it is like the blood of spiritual evolution.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin'
+        '&ldquo;Love is a sacred reserve of energy; it is like the blood of spiritual evolution.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin',
+        // February 21
+        '&ldquo;First love is only a little foolishness and a lot of curiosity.&rdquo; <br /> &mdash;George Bernard Shaw'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -151,7 +155,9 @@ $(document).ready(function() {
         // February 19
         '&ldquo;I am an artist... I am here to live out loud.&rdquo; <br /> &mdash;Emile Zola',
         // February 20
-        '&ldquo;Impressionism; it is the birth of Light in painting.&rdquo; <br /> &mdash;Robert Delaunay'
+        '&ldquo;Impressionism; it is the birth of Light in painting.&rdquo; <br /> &mdash;Robert Delaunay',
+        // February 21
+        '&ldquo;Paint the essential character of things.&rdquo; <br /> &mdash;Camille Pissarro'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
