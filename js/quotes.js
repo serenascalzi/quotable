@@ -45,7 +45,9 @@ $(document).ready(function() {
         // February 20
         '&ldquo;I didn&rsquo;t think; I experimented.&rdquo; <br /> &mdash;Anthony Burgess',
         // February 21
-        '&ldquo;Ideas shape the course of history.&rdquo; <br /> &mdash;John Maynard Keynes'
+        '&ldquo;Ideas shape the course of history.&rdquo; <br /> &mdash;John Maynard Keynes',
+        // February 22
+        '&ldquo;Reason is God&rsquo;s crowning gift to man.&rdquo; <br /> &mdash;Sophocles'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -101,7 +103,9 @@ $(document).ready(function() {
         // February 20
         '&ldquo;Love is a sacred reserve of energy; it is like the blood of spiritual evolution.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin',
         // February 21
-        '&ldquo;First love is only a little foolishness and a lot of curiosity.&rdquo; <br /> &mdash;George Bernard Shaw'
+        '&ldquo;First love is only a little foolishness and a lot of curiosity.&rdquo; <br /> &mdash;George Bernard Shaw',
+        // February 22
+        '&ldquo;Love takes up where knowledge leaves off.&rdquo; <br /> &mdash;Thomas Aquinas'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -157,7 +161,9 @@ $(document).ready(function() {
         // February 20
         '&ldquo;Impressionism; it is the birth of Light in painting.&rdquo; <br /> &mdash;Robert Delaunay',
         // February 21
-        '&ldquo;Paint the essential character of things.&rdquo; <br /> &mdash;Camille Pissarro'
+        '&ldquo;Paint the essential character of things.&rdquo; <br /> &mdash;Camille Pissarro',
+        // February 22
+        '&ldquo;When I draw something, the brain and the hands work together.&rdquo; <br /> &mdash;Tadao Ando'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
