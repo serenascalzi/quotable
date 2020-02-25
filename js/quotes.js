@@ -51,7 +51,9 @@ $(document).ready(function() {
         // February 23
         '&ldquo;The world of reality has its limits; the world of imagination is boundless.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
         // February 24
-        '&ldquo;It is the fight alone that pleases us, not the victory.&rdquo; <br /> &mdash;Blaise Pascal'
+        '&ldquo;It is the fight alone that pleases us, not the victory.&rdquo; <br /> &mdash;Blaise Pascal',
+        // February 25
+        '&ldquo;They can conquer who believe they can.&rdquo; <br /> &mdash;Virgil'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // February 23
         '&ldquo;A kiss is a rosy dot over the &lsquo;i&rsquo; of loving.&rdquo; <br /> &mdash;Cyrano de Bergerac',
         // February 24
-        '&ldquo;The sound of a kiss is not so loud as that of a cannon, but its echo lasts a great deal longer.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.'
+        '&ldquo;The sound of a kiss is not so loud as that of a cannon, but its echo lasts a great deal longer.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
+        // February 25
+        '&ldquo;One forgives to the degree that one loves.&rdquo; <br /> &mdash;Francois de La Rochefoucauld'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // February 23
         '&ldquo;I have no fear of making changes, destroying the image, etc., because the painting has a life of its own.&rdquo; <br /> &mdash;Jackson Pollock',
         // February 24
-        '&ldquo;I will preach with my brush.&rdquo; <br /> &mdash;Henry Ossawa Tanner'
+        '&ldquo;I will preach with my brush.&rdquo; <br /> &mdash;Henry Ossawa Tanner',
+        // February 25
+        '&ldquo;I put my heart and my soul into my work, and have lost my mind in the process.&rdquo; <br /> &mdash;Vincent Van Gogh'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
