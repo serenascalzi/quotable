@@ -55,7 +55,9 @@ $(document).ready(function() {
         // February 25
         '&ldquo;They can conquer who believe they can.&rdquo; <br /> &mdash;Virgil',
         // February 26
-        '&ldquo;A cloudy day is no match for a sunny disposition.&rdquo; <br /> &mdash;William Arthur Ward'
+        '&ldquo;A cloudy day is no match for a sunny disposition.&rdquo; <br /> &mdash;William Arthur Ward',
+        // February 27
+        '&ldquo;Time passes irrevocably.&rdquo; <br /> &mdash;Virgil'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // February 25
         '&ldquo;One forgives to the degree that one loves.&rdquo; <br /> &mdash;Francois de La Rochefoucauld',
         // February 26
-        '&ldquo;Love possesses not nor will it be possessed, for love is sufficient unto love.&rdquo; <br /> &mdash;Khalil Gibran'
+        '&ldquo;Love possesses not nor will it be possessed, for love is sufficient unto love.&rdquo; <br /> &mdash;Khalil Gibran',
+        // February 27
+        '&ldquo;I think you have to pay for love with bitter tears.&rdquo; <br /> &mdash;Edith Piaf'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // February 25
         '&ldquo;I put my heart and my soul into my work, and have lost my mind in the process.&rdquo; <br /> &mdash;Vincent Van Gogh',
         // February 26
-        '&ldquo;With color one obtains an energy that seems to stem from witchcraft.&rdquo; <br /> &mdash;Henri Matisse'
+        '&ldquo;With color one obtains an energy that seems to stem from witchcraft.&rdquo; <br /> &mdash;Henri Matisse',
+        // February 27
+        '&ldquo;I paint as if I were Rothschild.&rdquo; <br /> &mdash;Paul Cezanne'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
