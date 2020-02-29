@@ -57,7 +57,9 @@ $(document).ready(function() {
         // February 26
         '&ldquo;A cloudy day is no match for a sunny disposition.&rdquo; <br /> &mdash;William Arthur Ward',
         // February 27
-        '&ldquo;Time passes irrevocably.&rdquo; <br /> &mdash;Virgil'
+        '&ldquo;Time passes irrevocably.&rdquo; <br /> &mdash;Virgil',
+        // February 28
+        '&ldquo;You can never plan the future by the past.&rdquo; <br /> &mdash;Edmund Burke'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // February 26
         '&ldquo;Love possesses not nor will it be possessed, for love is sufficient unto love.&rdquo; <br /> &mdash;Khalil Gibran',
         // February 27
-        '&ldquo;I think you have to pay for love with bitter tears.&rdquo; <br /> &mdash;Edith Piaf'
+        '&ldquo;I think you have to pay for love with bitter tears.&rdquo; <br /> &mdash;Edith Piaf',
+        // February 28
+        '&ldquo;Try as you will, you cannot annihilate that eternal relic of the human heart, love.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // February 26
         '&ldquo;With color one obtains an energy that seems to stem from witchcraft.&rdquo; <br /> &mdash;Henri Matisse',
         // February 27
-        '&ldquo;I paint as if I were Rothschild.&rdquo; <br /> &mdash;Paul Cezanne'
+        '&ldquo;I paint as if I were Rothschild.&rdquo; <br /> &mdash;Paul Cezanne',
+        // February 28
+        '&ldquo;Painting is a source of endless pleasure, but also of great anguish.&rdquo; <br /> &mdash;Balthus'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
