@@ -59,7 +59,9 @@ $(document).ready(function() {
         // February 27
         '&ldquo;Time passes irrevocably.&rdquo; <br /> &mdash;Virgil',
         // February 28
-        '&ldquo;You can never plan the future by the past.&rdquo; <br /> &mdash;Edmund Burke'
+        '&ldquo;You can never plan the future by the past.&rdquo; <br /> &mdash;Edmund Burke',
+        // February 29
+        '&ldquo;You grow up the day you have the first real laugh at yourself.&rdquo; <br /> &mdash;Ethel Barrymore'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // February 27
         '&ldquo;I think you have to pay for love with bitter tears.&rdquo; <br /> &mdash;Edith Piaf',
         // February 28
-        '&ldquo;Try as you will, you cannot annihilate that eternal relic of the human heart, love.&rdquo; <br /> &mdash;Victor Hugo'
+        '&ldquo;Try as you will, you cannot annihilate that eternal relic of the human heart, love.&rdquo; <br /> &mdash;Victor Hugo',
+        // February 29
+        '&ldquo;Love is the flower you&rsquo;ve got to let grow.&rdquo; <br /> &mdash;John Lennon'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // February 27
         '&ldquo;I paint as if I were Rothschild.&rdquo; <br /> &mdash;Paul Cezanne',
         // February 28
-        '&ldquo;Painting is a source of endless pleasure, but also of great anguish.&rdquo; <br /> &mdash;Balthus'
+        '&ldquo;Painting is a source of endless pleasure, but also of great anguish.&rdquo; <br /> &mdash;Balthus',
+        // February 29
+        '&ldquo;Don&rsquo;t pay any attention to what they write about you. Just measure it in inches.&rdquo; <br /> &mdash;Andy Warhol'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
