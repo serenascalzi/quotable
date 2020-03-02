@@ -5,7 +5,9 @@ $(document).ready(function() {
 	// Random Varied Quote
 	let variedArray = [
         // March 1
-        '&ldquo;Everything&rsquo;s got a moral, if only you can find it.&rdquo; <br /> &mdash;Lewis Carroll'
+        '&ldquo;Everything&rsquo;s got a moral, if only you can find it.&rdquo; <br /> &mdash;Lewis Carroll',
+        // March 2
+        '&ldquo;The whole secret of life is to be interested in one thing profoundly and in a thousand things well.&rdquo; <br /> &mdash;Horace Walpole'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -21,7 +23,9 @@ $(document).ready(function() {
     // Random Love Quote
     let loveArray = [
         // March 1
-        '&ldquo;People who throw kisses are hopelessly lazy.&rdquo; <br /> &mdash;Bob Hope'
+        '&ldquo;People who throw kisses are hopelessly lazy.&rdquo; <br /> &mdash;Bob Hope',
+        // March 2
+        '&ldquo;Who, being loved, is poor?&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -37,7 +41,9 @@ $(document).ready(function() {
     // Random Art Quote
     let artArray = [
         // March 1
-        '&ldquo;Every picture shows a spot with which the artist has fallen in love.&rdquo; <br /> &mdash;Alfred Sisley'
+        '&ldquo;Every picture shows a spot with which the artist has fallen in love.&rdquo; <br /> &mdash;Alfred Sisley',
+        // March 2
+        '&ldquo;An empty canvas is full.&rdquo; <br /> &mdash;Robert Rauschenberg'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
