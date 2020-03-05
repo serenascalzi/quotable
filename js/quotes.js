@@ -9,7 +9,9 @@ $(document).ready(function() {
         // March 2
         '&ldquo;The whole secret of life is to be interested in one thing profoundly and in a thousand things well.&rdquo; <br /> &mdash;Horace Walpole',
         // March 3
-        '&ldquo;Everything has been figured out, expect how to live.&rdquo; <br /> &mdash;Jean-Paul Sartre'
+        '&ldquo;Everything has been figured out, expect how to live.&rdquo; <br /> &mdash;Jean-Paul Sartre',
+        // March 4
+        '&ldquo;The more refined and subtle our minds, the more vulnerable they are.&rdquo; <br /> &mdash;Paul Tournier'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -29,7 +31,9 @@ $(document).ready(function() {
         // March 2
         '&ldquo;Who, being loved, is poor?&rdquo; <br /> &mdash;Oscar Wilde',
         // March 3
-        '&ldquo;We waste time looking for the perfect lover, instead of creating the perfect love.&rdquo; <br /> &mdash;Tom Robbins'
+        '&ldquo;We waste time looking for the perfect lover, instead of creating the perfect love.&rdquo; <br /> &mdash;Tom Robbins',
+        // March 4
+        '&ldquo;It is not a lack of love, but a lack of friendship that makes unhappy marriages.&rdquo; <br /> &mdash;Friedrich Nietzsche'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -49,7 +53,9 @@ $(document).ready(function() {
         // March 2
         '&ldquo;An empty canvas is full.&rdquo; <br /> &mdash;Robert Rauschenberg',
         // March 3
-        '&ldquo;Rationalism is the enemy of art, though necessary as a basis for architecture.&rdquo; <br /> &mdash;Arthur Erickson'
+        '&ldquo;Rationalism is the enemy of art, though necessary as a basis for architecture.&rdquo; <br /> &mdash;Arthur Erickson',
+        // March 4
+        '&ldquo;A great artist can paint a great picture on a small canvas.&rdquo; <br /> &mdash;Charles Dudley Warner'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
