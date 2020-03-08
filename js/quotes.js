@@ -15,7 +15,9 @@ $(document).ready(function() {
         // March 5
         '&ldquo;When you doubt, abstain.&rdquo; <br /> &mdash;Ambrose Bierce',
         // March 6
-        '&ldquo;The art of writing is the art of discovering what you believe.&rdquo; <br /> &mdash;Gustave Flaubert'
+        '&ldquo;The art of writing is the art of discovering what you believe.&rdquo; <br /> &mdash;Gustave Flaubert',
+        // March 7
+        '&ldquo;Prosperity tries the fortunate, adversity the great.&rdquo; <br /> &mdash;Rose Kennedy'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -41,7 +43,9 @@ $(document).ready(function() {
         // March 5
         '&ldquo;The love we give away is the only love we keep.&rdquo; <br /> &mdash;Elbert Hubbard',
         // March 6
-        '&ldquo;Hatred does not cease by hatred, but only by love; this is the eternal rule.&rdquo; <br /> &mdash;Buddha'
+        '&ldquo;Hatred does not cease by hatred, but only by love; this is the eternal rule.&rdquo; <br /> &mdash;Buddha',
+        // March 7
+        '&ldquo;Love can do much, but duty more.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -67,7 +71,9 @@ $(document).ready(function() {
         // March 5
         '&ldquo;Photograph: a picture painted by the sun without instruction in art.&rdquo; <br /> &mdash;Ambrose Bierce',
         // March 6
-        '&ldquo;A man paints with his brains and not with his hands.&rdquo; <br /> &mdash;Michelangelo'
+        '&ldquo;A man paints with his brains and not with his hands.&rdquo; <br /> &mdash;Michelangelo',
+        // March 7
+        '&ldquo;Filmmaking can be a fine art.&rdquo; <br /> &mdash;Terri Windling'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
