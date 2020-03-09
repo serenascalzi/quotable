@@ -19,7 +19,9 @@ $(document).ready(function() {
         // March 7
         '&ldquo;Prosperity tries the fortunate, adversity the great.&rdquo; <br /> &mdash;Rose Kennedy',
         // March 8
-        '&ldquo;What is called genius is the abundance of life and health.&rdquo; <br /> &mdash;Henry David Thoreau'
+        '&ldquo;What is called genius is the abundance of life and health.&rdquo; <br /> &mdash;Henry David Thoreau',
+        // March 9
+        '&ldquo;A good laugh is sunshine in the house.&rdquo; <br /> &mdash;William Makepeace Thackeray'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // March 7
         '&ldquo;Love can do much, but duty more.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         // March 8
-        '&ldquo;The more I think about it, the more I realize there is nothing more artistic than to love others.&rdquo; <br /> &mdash;Vincent Van Gogh'
+        '&ldquo;The more I think about it, the more I realize there is nothing more artistic than to love others.&rdquo; <br /> &mdash;Vincent Van Gogh',
+        // March 9
+        '&ldquo;The sea hath fish for every man.&rdquo; <br /> &mdash;William Camden'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // March 7
         '&ldquo;Filmmaking can be a fine art.&rdquo; <br /> &mdash;Terri Windling',
         // March 8
-        '&ldquo;The philistine provides the best definition of art. Anything that makes him rage is first class.&rdquo; <br /> &mdash;Louis Dudek'
+        '&ldquo;The philistine provides the best definition of art. Anything that makes him rage is first class.&rdquo; <br /> &mdash;Louis Dudek',
+        // March 9
+        '&ldquo;Creativity takes courage.&rdquo; <br /> &mdash;Henri Matisse'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
