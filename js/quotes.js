@@ -21,7 +21,9 @@ $(document).ready(function() {
         // March 8
         '&ldquo;What is called genius is the abundance of life and health.&rdquo; <br /> &mdash;Henry David Thoreau',
         // March 9
-        '&ldquo;A good laugh is sunshine in the house.&rdquo; <br /> &mdash;William Makepeace Thackeray'
+        '&ldquo;A good laugh is sunshine in the house.&rdquo; <br /> &mdash;William Makepeace Thackeray',
+        // March 10
+        '&ldquo;Never in the field of human conflict was so much owed by so many to so few.&rdquo; <br /> &mdash;Winston Churchill'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // March 8
         '&ldquo;The more I think about it, the more I realize there is nothing more artistic than to love others.&rdquo; <br /> &mdash;Vincent Van Gogh',
         // March 9
-        '&ldquo;The sea hath fish for every man.&rdquo; <br /> &mdash;William Camden'
+        '&ldquo;The sea hath fish for every man.&rdquo; <br /> &mdash;William Camden',
+        // March 10
+        '&ldquo;Do you have to have a reason for loving?&rdquo; <br /> &mdash;Brigitte Bardot'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // March 8
         '&ldquo;The philistine provides the best definition of art. Anything that makes him rage is first class.&rdquo; <br /> &mdash;Louis Dudek',
         // March 9
-        '&ldquo;Creativity takes courage.&rdquo; <br /> &mdash;Henri Matisse'
+        '&ldquo;Creativity takes courage.&rdquo; <br /> &mdash;Henri Matisse',
+        // March 10
+        '&ldquo;Minimalism wasn&rsquo;t a real idea &ndash; it ended before it started.&rdquo; <br /> &mdash;Sol LeWitt'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
