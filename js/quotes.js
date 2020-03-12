@@ -23,7 +23,9 @@ $(document).ready(function() {
         // March 9
         '&ldquo;A good laugh is sunshine in the house.&rdquo; <br /> &mdash;William Makepeace Thackeray',
         // March 10
-        '&ldquo;Never in the field of human conflict was so much owed by so many to so few.&rdquo; <br /> &mdash;Winston Churchill'
+        '&ldquo;Never in the field of human conflict was so much owed by so many to so few.&rdquo; <br /> &mdash;Winston Churchill',
+        // March 11
+        '&ldquo;At times I think and at times I am.&rdquo; <br /> &mdash;Paul Valery'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -57,7 +59,9 @@ $(document).ready(function() {
         // March 9
         '&ldquo;The sea hath fish for every man.&rdquo; <br /> &mdash;William Camden',
         // March 10
-        '&ldquo;Do you have to have a reason for loving?&rdquo; <br /> &mdash;Brigitte Bardot'
+        '&ldquo;Do you have to have a reason for loving?&rdquo; <br /> &mdash;Brigitte Bardot',
+        // March 11
+        '&ldquo;Love is a friendship set to music.&rdquo; <br /> &mdash;Joseph Campbell'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -91,7 +95,9 @@ $(document).ready(function() {
         // March 9
         '&ldquo;Creativity takes courage.&rdquo; <br /> &mdash;Henri Matisse',
         // March 10
-        '&ldquo;Minimalism wasn&rsquo;t a real idea &ndash; it ended before it started.&rdquo; <br /> &mdash;Sol LeWitt'
+        '&ldquo;Minimalism wasn&rsquo;t a real idea &ndash; it ended before it started.&rdquo; <br /> &mdash;Sol LeWitt',
+        // March 11
+        '&ldquo;Art is the final cunning of the human soul which would rather do anything than face the gods.&rdquo; <br /> &mdash;Iris Murdoch'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
