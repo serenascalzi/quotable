@@ -29,7 +29,9 @@ $(document).ready(function() {
         // March 12
         '&ldquo;Courage is the ladder on which all the other virtues mount.&rdquo; <br /> &mdash;Clare Boothe Luce',
         // March 13
-        '&ldquo;To live is to think.&rdquo; <br /> &mdash;Marcus Tullius Cicero'
+        '&ldquo;To live is to think.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
+        // March 14
+        '&ldquo;Every burden is a blessing.&rdquo; <br /> &mdash;Walt Kelly'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // March 12
         '&ldquo;A so-called happy marriage corresponds to love as a correct poem to an improvised song.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
         // March 13
-        '&ldquo;Be brave, young lovers, and follow your star.&rdquo; <br /> &mdash;Oscar Hammerstein II'
+        '&ldquo;Be brave, young lovers, and follow your star.&rdquo; <br /> &mdash;Oscar Hammerstein II',
+        // March 14
+        '&ldquo;The world is not comprehensible, but it is embraceable: through the embracing of one of its beings.&rdquo; <br /> &mdash;Martin Buber'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // March 12
         '&ldquo;To curb the machine and limit art to handicraft is a denial of opportunity.&rdquo; <br /> &mdash;Lewis Mumford',
         // March 13
-        '&ldquo;What I didn&rsquo;t know was I was deeply attracted to the big space.&rdquo; <br /> &mdash;David Hockney'
+        '&ldquo;What I didn&rsquo;t know was I was deeply attracted to the big space.&rdquo; <br /> &mdash;David Hockney',
+        // March 14
+        '&ldquo;Life beats down and crushes the soul and art reminds you that you have one.&rdquo; <br /> &mdash;Stella Adler'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
