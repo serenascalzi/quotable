@@ -27,7 +27,9 @@ $(document).ready(function() {
         // March 11
         '&ldquo;At times I think and at times I am.&rdquo; <br /> &mdash;Paul Valery',
         // March 12
-        '&ldquo;Courage is the ladder on which all the other virtues mount.&rdquo; <br /> &mdash;Clare Boothe Luce'
+        '&ldquo;Courage is the ladder on which all the other virtues mount.&rdquo; <br /> &mdash;Clare Boothe Luce',
+        // March 13
+        '&ldquo;To live is to think.&rdquo; <br /> &mdash;Marcus Tullius Cicero'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // March 11
         '&ldquo;Love is a friendship set to music.&rdquo; <br /> &mdash;Joseph Campbell',
         // March 12
-        '&ldquo;A so-called happy marriage corresponds to love as a correct poem to an improvised song.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel'
+        '&ldquo;A so-called happy marriage corresponds to love as a correct poem to an improvised song.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
+        // March 13
+        '&ldquo;Be brave, young lovers, and follow your star.&rdquo; <br /> &mdash;Oscar Hammerstein II'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // March 11
         '&ldquo;Art is the final cunning of the human soul which would rather do anything than face the gods.&rdquo; <br /> &mdash;Iris Murdoch',
         // March 12
-        '&ldquo;To curb the machine and limit art to handicraft is a denial of opportunity.&rdquo; <br /> &mdash;Lewis Mumford'
+        '&ldquo;To curb the machine and limit art to handicraft is a denial of opportunity.&rdquo; <br /> &mdash;Lewis Mumford',
+        // March 13
+        '&ldquo;What I didn&rsquo;t know was I was deeply attracted to the big space.&rdquo; <br /> &mdash;David Hockney'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
