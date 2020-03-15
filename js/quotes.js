@@ -31,7 +31,9 @@ $(document).ready(function() {
         // March 13
         '&ldquo;To live is to think.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
         // March 14
-        '&ldquo;Every burden is a blessing.&rdquo; <br /> &mdash;Walt Kelly'
+        '&ldquo;Every burden is a blessing.&rdquo; <br /> &mdash;Walt Kelly',
+        // March 15
+        '&ldquo;The secret of happiness is something to do.&rdquo; <br /> &mdash;John Burroughs'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // March 13
         '&ldquo;Be brave, young lovers, and follow your star.&rdquo; <br /> &mdash;Oscar Hammerstein II',
         // March 14
-        '&ldquo;The world is not comprehensible, but it is embraceable: through the embracing of one of its beings.&rdquo; <br /> &mdash;Martin Buber'
+        '&ldquo;The world is not comprehensible, but it is embraceable: through the embracing of one of its beings.&rdquo; <br /> &mdash;Martin Buber',
+        // March 15
+        '&ldquo;We all become great explorers during our first few days in a new city, or a new love affair.&rdquo; <br /> &mdash;Mignon McLaughlin'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // March 13
         '&ldquo;What I didn&rsquo;t know was I was deeply attracted to the big space.&rdquo; <br /> &mdash;David Hockney',
         // March 14
-        '&ldquo;Life beats down and crushes the soul and art reminds you that you have one.&rdquo; <br /> &mdash;Stella Adler'
+        '&ldquo;Life beats down and crushes the soul and art reminds you that you have one.&rdquo; <br /> &mdash;Stella Adler',
+        // March 15
+        '&ldquo;I don&rsquo;t believe in art. I believe in artists.&rdquo; <br /> &mdash;Marcel Duchamp'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
