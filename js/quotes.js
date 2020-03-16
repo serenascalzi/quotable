@@ -33,7 +33,9 @@ $(document).ready(function() {
         // March 14
         '&ldquo;Every burden is a blessing.&rdquo; <br /> &mdash;Walt Kelly',
         // March 15
-        '&ldquo;The secret of happiness is something to do.&rdquo; <br /> &mdash;John Burroughs'
+        '&ldquo;The secret of happiness is something to do.&rdquo; <br /> &mdash;John Burroughs',
+        // March 16
+        '&ldquo;The true art of memory is the art of attention.&rdquo; <br /> &mdash;Samuel Johnson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // March 14
         '&ldquo;The world is not comprehensible, but it is embraceable: through the embracing of one of its beings.&rdquo; <br /> &mdash;Martin Buber',
         // March 15
-        '&ldquo;We all become great explorers during our first few days in a new city, or a new love affair.&rdquo; <br /> &mdash;Mignon McLaughlin'
+        '&ldquo;We all become great explorers during our first few days in a new city, or a new love affair.&rdquo; <br /> &mdash;Mignon McLaughlin',
+        // March 16
+        '&ldquo;He who loves with purity considers not the gift of the lover, but the love of the giver.&rdquo; <br /> &mdash;Thomas a Kempis'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // March 14
         '&ldquo;Life beats down and crushes the soul and art reminds you that you have one.&rdquo; <br /> &mdash;Stella Adler',
         // March 15
-        '&ldquo;I don&rsquo;t believe in art. I believe in artists.&rdquo; <br /> &mdash;Marcel Duchamp'
+        '&ldquo;I don&rsquo;t believe in art. I believe in artists.&rdquo; <br /> &mdash;Marcel Duchamp',
+        // March 16
+        '&ldquo;No great art has even been made without the artist having known danger.&rdquo; <br /> &mdash;Rainer Maria Rilke'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
