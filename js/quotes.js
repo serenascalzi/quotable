@@ -37,7 +37,9 @@ $(document).ready(function() {
         // March 16
         '&ldquo;The true art of memory is the art of attention.&rdquo; <br /> &mdash;Samuel Johnson',
         // March 17
-        '&ldquo;Think where man&rsquo;s glory most begins and ends, and say my glory was I had such friends.&rdquo; <br /> &mdash;William Butler Yeats'
+        '&ldquo;Think where man&rsquo;s glory most begins and ends, and say my glory was I had such friends.&rdquo; <br /> &mdash;William Butler Yeats',
+        // March 18
+        '&ldquo;Peace and justice are two sides of the same coin.&rdquo; <br /> &mdash;Dwight D. Eisenhower'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // March 16
         '&ldquo;He who loves with purity considers not the gift of the lover, but the love of the giver.&rdquo; <br /> &mdash;Thomas a Kempis',
         // March 17
-        '&ldquo;Love is never defeated, and I could add, the history of Ireland proves it.&rdquo; <br /> &mdash;Pope John Paul II'
+        '&ldquo;Love is never defeated, and I could add, the history of Ireland proves it.&rdquo; <br /> &mdash;Pope John Paul II',
+        // March 18
+        '&ldquo;One is loved because one is loved. No reason is needed for loving.&rdquo; <br /> &mdash;Paulo Coelho'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // March 16
         '&ldquo;No great art has even been made without the artist having known danger.&rdquo; <br /> &mdash;Rainer Maria Rilke',
         // March 17
-        '&ldquo;No heirloom of humankind captures the past as do art and language.&rdquo; <br /> &mdash;Theodore Bikel'
+        '&ldquo;No heirloom of humankind captures the past as do art and language.&rdquo; <br /> &mdash;Theodore Bikel',
+        // March 18
+        '&ldquo;To paint is a possessing rather than a picturing.&rdquo; <br /> &mdash;Philip Guston'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
