@@ -39,7 +39,9 @@ $(document).ready(function() {
         // March 17
         '&ldquo;Think where man&rsquo;s glory most begins and ends, and say my glory was I had such friends.&rdquo; <br /> &mdash;William Butler Yeats',
         // March 18
-        '&ldquo;Peace and justice are two sides of the same coin.&rdquo; <br /> &mdash;Dwight D. Eisenhower'
+        '&ldquo;Peace and justice are two sides of the same coin.&rdquo; <br /> &mdash;Dwight D. Eisenhower',
+        // March 19
+        '&ldquo;Plodding wins the race.&rdquo; <br /> &mdash;Aesop'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -89,7 +91,9 @@ $(document).ready(function() {
         // March 17
         '&ldquo;Love is never defeated, and I could add, the history of Ireland proves it.&rdquo; <br /> &mdash;Pope John Paul II',
         // March 18
-        '&ldquo;One is loved because one is loved. No reason is needed for loving.&rdquo; <br /> &mdash;Paulo Coelho'
+        '&ldquo;One is loved because one is loved. No reason is needed for loving.&rdquo; <br /> &mdash;Paulo Coelho',
+        // March 19
+        '&ldquo;Love is all, it gives all, and it takes all.&rdquo; <br /> &mdash;Soren Kierkegaard'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -139,7 +143,9 @@ $(document).ready(function() {
         // March 17
         '&ldquo;No heirloom of humankind captures the past as do art and language.&rdquo; <br /> &mdash;Theodore Bikel',
         // March 18
-        '&ldquo;To paint is a possessing rather than a picturing.&rdquo; <br /> &mdash;Philip Guston'
+        '&ldquo;To paint is a possessing rather than a picturing.&rdquo; <br /> &mdash;Philip Guston',
+        // March 19
+        '&ldquo;Painting is the passage from the chaos of the emotions to the order of the possible.&rdquo; <br /> &mdash;Balthus'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
