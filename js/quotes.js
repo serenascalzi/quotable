@@ -45,7 +45,9 @@ $(document).ready(function() {
         // March 20
         '&ldquo;To hold a pen is to be at war.&rdquo; <br /> &mdash;Voltaire',
         // March 21
-        '&ldquo;Pennies do not come from heaven. They have to be earned here on earth.&rdquo; <br /> &mdash;Margaret Thatcher'
+        '&ldquo;Pennies do not come from heaven. They have to be earned here on earth.&rdquo; <br /> &mdash;Margaret Thatcher',
+        // March 22
+        '&ldquo;In fair weather prepare for foul.&rdquo; <br /> &mdash;Thomas Fuller'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -101,7 +103,9 @@ $(document).ready(function() {
         // March 20
         '&ldquo;The pleasures of love are always in proportion to our fears.&rdquo; <br /> &mdash;Stendhal',
         // March 21
-        '&ldquo;Any time not spent on love is wasted.&rdquo; <br /> &mdash;Torquato Tasso'
+        '&ldquo;Any time not spent on love is wasted.&rdquo; <br /> &mdash;Torquato Tasso',
+        // March 22
+        '&ldquo;To love for the sake of being loved is human, but to love for the sake of loving is angelic.&rdquo; <br /> &mdash;Alphonse de Lamartine'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -157,7 +161,9 @@ $(document).ready(function() {
         // March 20
         '&ldquo;There is nothing new in art except talent.&rdquo; <br /> &mdash;Anton Chekhov',
         // March 21
-        '&ldquo;There is a role and function for beauty in our time.&rdquo; <br /> &mdash;Tadao Ando'
+        '&ldquo;There is a role and function for beauty in our time.&rdquo; <br /> &mdash;Tadao Ando',
+        // March 22
+        '&ldquo;Rules and models destroy genius and art.&rdquo; <br /> &mdash;William Hazlitt'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
