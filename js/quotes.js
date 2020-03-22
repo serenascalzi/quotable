@@ -43,7 +43,9 @@ $(document).ready(function() {
         // March 19
         '&ldquo;Plodding wins the race.&rdquo; <br /> &mdash;Aesop',
         // March 20
-        '&ldquo;To hold a pen is to be at war.&rdquo; <br /> &mdash;Voltaire'
+        '&ldquo;To hold a pen is to be at war.&rdquo; <br /> &mdash;Voltaire',
+        // March 21
+        '&ldquo;Pennies do not come from heaven. They have to be earned here on earth.&rdquo; <br /> &mdash;Margaret Thatcher'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -97,7 +99,9 @@ $(document).ready(function() {
         // March 19
         '&ldquo;Love is all, it gives all, and it takes all.&rdquo; <br /> &mdash;Soren Kierkegaard',
         // March 20
-        '&ldquo;The pleasures of love are always in proportion to our fears.&rdquo; <br /> &mdash;Stendhal'
+        '&ldquo;The pleasures of love are always in proportion to our fears.&rdquo; <br /> &mdash;Stendhal',
+        // March 21
+        '&ldquo;Any time not spent on love is wasted.&rdquo; <br /> &mdash;Torquato Tasso'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -151,7 +155,9 @@ $(document).ready(function() {
         // March 19
         '&ldquo;Painting is the passage from the chaos of the emotions to the order of the possible.&rdquo; <br /> &mdash;Balthus',
         // March 20
-        '&ldquo;There is nothing new in art except talent.&rdquo; <br /> &mdash;Anton Chekhov'
+        '&ldquo;There is nothing new in art except talent.&rdquo; <br /> &mdash;Anton Chekhov',
+        // March 21
+        '&ldquo;There is a role and function for beauty in our time.&rdquo; <br /> &mdash;Tadao Ando'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
