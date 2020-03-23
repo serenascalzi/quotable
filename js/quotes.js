@@ -47,7 +47,9 @@ $(document).ready(function() {
         // March 21
         '&ldquo;Pennies do not come from heaven. They have to be earned here on earth.&rdquo; <br /> &mdash;Margaret Thatcher',
         // March 22
-        '&ldquo;In fair weather prepare for foul.&rdquo; <br /> &mdash;Thomas Fuller'
+        '&ldquo;In fair weather prepare for foul.&rdquo; <br /> &mdash;Thomas Fuller',
+        // March 23
+        '&ldquo;The man who is swimming against the stream knows the strength of it.&rdquo; <br /> &mdash;Woodrow Wilson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // March 21
         '&ldquo;Any time not spent on love is wasted.&rdquo; <br /> &mdash;Torquato Tasso',
         // March 22
-        '&ldquo;To love for the sake of being loved is human, but to love for the sake of loving is angelic.&rdquo; <br /> &mdash;Alphonse de Lamartine'
+        '&ldquo;To love for the sake of being loved is human, but to love for the sake of loving is angelic.&rdquo; <br /> &mdash;Alphonse de Lamartine',
+        // March 23
+        '&ldquo;Passion is momentary; love is enduring.&rdquo; <br /> &mdash;John Wooden'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // March 21
         '&ldquo;There is a role and function for beauty in our time.&rdquo; <br /> &mdash;Tadao Ando',
         // March 22
-        '&ldquo;Rules and models destroy genius and art.&rdquo; <br /> &mdash;William Hazlitt'
+        '&ldquo;Rules and models destroy genius and art.&rdquo; <br /> &mdash;William Hazlitt',
+        // March 23
+        '&ldquo;A drawing is simply a line going for a walk.&rdquo; <br /> &mdash;Paul Klee'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
