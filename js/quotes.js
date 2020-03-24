@@ -49,7 +49,9 @@ $(document).ready(function() {
         // March 22
         '&ldquo;In fair weather prepare for foul.&rdquo; <br /> &mdash;Thomas Fuller',
         // March 23
-        '&ldquo;The man who is swimming against the stream knows the strength of it.&rdquo; <br /> &mdash;Woodrow Wilson'
+        '&ldquo;The man who is swimming against the stream knows the strength of it.&rdquo; <br /> &mdash;Woodrow Wilson',
+        // March 24
+        '&ldquo;There is nothing like a dream to create the future.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // March 22
         '&ldquo;To love for the sake of being loved is human, but to love for the sake of loving is angelic.&rdquo; <br /> &mdash;Alphonse de Lamartine',
         // March 23
-        '&ldquo;Passion is momentary; love is enduring.&rdquo; <br /> &mdash;John Wooden'
+        '&ldquo;Passion is momentary; love is enduring.&rdquo; <br /> &mdash;John Wooden',
+        // March 24
+        '&ldquo;You reclaim your power by loving what you were once taught to hate.&rdquo; <br /> &mdash;Bryant H. McGill'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // March 22
         '&ldquo;Rules and models destroy genius and art.&rdquo; <br /> &mdash;William Hazlitt',
         // March 23
-        '&ldquo;A drawing is simply a line going for a walk.&rdquo; <br /> &mdash;Paul Klee'
+        '&ldquo;A drawing is simply a line going for a walk.&rdquo; <br /> &mdash;Paul Klee',
+        // March 24
+        '&ldquo;I hope to live all my life for my art, without abandoning my principles one iota.&rdquo; <br /> &mdash;Gustave Courbet'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
