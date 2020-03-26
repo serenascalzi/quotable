@@ -53,7 +53,9 @@ $(document).ready(function() {
         // March 24
         '&ldquo;There is nothing like a dream to create the future.&rdquo; <br /> &mdash;Victor Hugo',
         // March 25
-        '&ldquo;Never forget the three powerful resources you always have available to you: love, prayer, and forgiveness.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.'
+        '&ldquo;Never forget the three powerful resources you always have available to you: love, prayer, and forgiveness.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.',
+        // March 26
+        '&ldquo;Silence is the mother of truth.&rdquo; <br /> &mdash;Benjamin Disraeli'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // March 24
         '&ldquo;You reclaim your power by loving what you were once taught to hate.&rdquo; <br /> &mdash;Bryant H. McGill',
         // March 25
-        '&ldquo;A heart is not judged by how much you love, but by how much you are loved by others.&rdquo; <br /> &mdash;Frank Morgan'
+        '&ldquo;A heart is not judged by how much you love, but by how much you are loved by others.&rdquo; <br /> &mdash;Frank Morgan',
+        // March 26
+        '&ldquo;Give a little love to a child, and you get a great deal back.&rdquo; <br /> &mdash;John Ruskin'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // March 24
         '&ldquo;I hope to live all my life for my art, without abandoning my principles one iota.&rdquo; <br /> &mdash;Gustave Courbet',
         // March 25
-        '&ldquo;Photography is a major force in explaining man to man.&rdquo; <br /> &mdash;Edward Steichen'
+        '&ldquo;Photography is a major force in explaining man to man.&rdquo; <br /> &mdash;Edward Steichen',
+        // March 26
+        '&ldquo;I never paint dreams or nightmares. I paint my own reality.&rdquo; <br /> &mdash;Frida Kahlo'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
