@@ -51,7 +51,9 @@ $(document).ready(function() {
         // March 23
         '&ldquo;The man who is swimming against the stream knows the strength of it.&rdquo; <br /> &mdash;Woodrow Wilson',
         // March 24
-        '&ldquo;There is nothing like a dream to create the future.&rdquo; <br /> &mdash;Victor Hugo'
+        '&ldquo;There is nothing like a dream to create the future.&rdquo; <br /> &mdash;Victor Hugo',
+        // March 25
+        '&ldquo;Never forget the three powerful resources you always have available to you: love, prayer, and forgiveness.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // March 23
         '&ldquo;Passion is momentary; love is enduring.&rdquo; <br /> &mdash;John Wooden',
         // March 24
-        '&ldquo;You reclaim your power by loving what you were once taught to hate.&rdquo; <br /> &mdash;Bryant H. McGill'
+        '&ldquo;You reclaim your power by loving what you were once taught to hate.&rdquo; <br /> &mdash;Bryant H. McGill',
+        // March 25
+        '&ldquo;A heart is not judged by how much you love, but by how much you are loved by others.&rdquo; <br /> &mdash;Frank Morgan'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // March 23
         '&ldquo;A drawing is simply a line going for a walk.&rdquo; <br /> &mdash;Paul Klee',
         // March 24
-        '&ldquo;I hope to live all my life for my art, without abandoning my principles one iota.&rdquo; <br /> &mdash;Gustave Courbet'
+        '&ldquo;I hope to live all my life for my art, without abandoning my principles one iota.&rdquo; <br /> &mdash;Gustave Courbet',
+        // March 25
+        '&ldquo;Photography is a major force in explaining man to man.&rdquo; <br /> &mdash;Edward Steichen'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
