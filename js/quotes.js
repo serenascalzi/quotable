@@ -55,7 +55,9 @@ $(document).ready(function() {
         // March 25
         '&ldquo;Never forget the three powerful resources you always have available to you: love, prayer, and forgiveness.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.',
         // March 26
-        '&ldquo;Silence is the mother of truth.&rdquo; <br /> &mdash;Benjamin Disraeli'
+        '&ldquo;Silence is the mother of truth.&rdquo; <br /> &mdash;Benjamin Disraeli',
+        // March 27
+        '&ldquo;The best way to keep your friends is not to give them away.&rdquo; <br /> &mdash;Wilson Mizner'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // March 25
         '&ldquo;A heart is not judged by how much you love, but by how much you are loved by others.&rdquo; <br /> &mdash;Frank Morgan',
         // March 26
-        '&ldquo;Give a little love to a child, and you get a great deal back.&rdquo; <br /> &mdash;John Ruskin'
+        '&ldquo;Give a little love to a child, and you get a great deal back.&rdquo; <br /> &mdash;John Ruskin',
+        // March 27
+        '&ldquo;We must seek the loving-kindness of God in all the breadth and open-air of common life.&rdquo; <br /> &mdash;George A. Smith'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // March 25
         '&ldquo;Photography is a major force in explaining man to man.&rdquo; <br /> &mdash;Edward Steichen',
         // March 26
-        '&ldquo;I never paint dreams or nightmares. I paint my own reality.&rdquo; <br /> &mdash;Frida Kahlo'
+        '&ldquo;I never paint dreams or nightmares. I paint my own reality.&rdquo; <br /> &mdash;Frida Kahlo',
+        // March 27
+        '&ldquo;Painting from nature is not copying the object; it is realizing one&rsquo;s sensations.&rdquo; <br /> &mdash;Paul Cezanne'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
