@@ -57,7 +57,9 @@ $(document).ready(function() {
         // March 26
         '&ldquo;Silence is the mother of truth.&rdquo; <br /> &mdash;Benjamin Disraeli',
         // March 27
-        '&ldquo;The best way to keep your friends is not to give them away.&rdquo; <br /> &mdash;Wilson Mizner'
+        '&ldquo;The best way to keep your friends is not to give them away.&rdquo; <br /> &mdash;Wilson Mizner',
+        // March 28
+        '&ldquo;Everything that is beautiful and noble is the product of reason and calculation.&rdquo; <br /> &mdash;Charles Baudelaire'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // March 26
         '&ldquo;Give a little love to a child, and you get a great deal back.&rdquo; <br /> &mdash;John Ruskin',
         // March 27
-        '&ldquo;We must seek the loving-kindness of God in all the breadth and open-air of common life.&rdquo; <br /> &mdash;George A. Smith'
+        '&ldquo;We must seek the loving-kindness of God in all the breadth and open-air of common life.&rdquo; <br /> &mdash;George A. Smith',
+        // March 28
+        '&ldquo;Never let a fool kiss you, or a kiss fool you.&rdquo; <br /> &mdash;Joey Adams'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // March 26
         '&ldquo;I never paint dreams or nightmares. I paint my own reality.&rdquo; <br /> &mdash;Frida Kahlo',
         // March 27
-        '&ldquo;Painting from nature is not copying the object; it is realizing one&rsquo;s sensations.&rdquo; <br /> &mdash;Paul Cezanne'
+        '&ldquo;Painting from nature is not copying the object; it is realizing one&rsquo;s sensations.&rdquo; <br /> &mdash;Paul Cezanne',
+        // March 28
+        '&ldquo;Art must take reality by surprise.&rdquo; <br /> &mdash;Francoise Sagan'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
