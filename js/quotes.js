@@ -59,7 +59,9 @@ $(document).ready(function() {
         // March 27
         '&ldquo;The best way to keep your friends is not to give them away.&rdquo; <br /> &mdash;Wilson Mizner',
         // March 28
-        '&ldquo;Everything that is beautiful and noble is the product of reason and calculation.&rdquo; <br /> &mdash;Charles Baudelaire'
+        '&ldquo;Everything that is beautiful and noble is the product of reason and calculation.&rdquo; <br /> &mdash;Charles Baudelaire',
+        // March 29
+        '&ldquo;The more things change, the more they are the same.&rdquo; <br /> &mdash;Alphonse Karr'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // March 27
         '&ldquo;We must seek the loving-kindness of God in all the breadth and open-air of common life.&rdquo; <br /> &mdash;George A. Smith',
         // March 28
-        '&ldquo;Never let a fool kiss you, or a kiss fool you.&rdquo; <br /> &mdash;Joey Adams'
+        '&ldquo;Never let a fool kiss you, or a kiss fool you.&rdquo; <br /> &mdash;Joey Adams',
+        // March 29
+        '&ldquo;Love is the power to see similarity in the dissimilar.&rdquo; <br /> &mdash;Theodor W. Adorno'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // March 27
         '&ldquo;Painting from nature is not copying the object; it is realizing one&rsquo;s sensations.&rdquo; <br /> &mdash;Paul Cezanne',
         // March 28
-        '&ldquo;Art must take reality by surprise.&rdquo; <br /> &mdash;Francoise Sagan'
+        '&ldquo;Art must take reality by surprise.&rdquo; <br /> &mdash;Francoise Sagan',
+        // March 29
+        '&ldquo;Artistic temperament is the disease that afflicts amateurs.&rdquo; <br /> &mdash;Gilbert K. Chesterton'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
