@@ -61,7 +61,9 @@ $(document).ready(function() {
         // March 28
         '&ldquo;Everything that is beautiful and noble is the product of reason and calculation.&rdquo; <br /> &mdash;Charles Baudelaire',
         // March 29
-        '&ldquo;The more things change, the more they are the same.&rdquo; <br /> &mdash;Alphonse Karr'
+        '&ldquo;The more things change, the more they are the same.&rdquo; <br /> &mdash;Alphonse Karr',
+        // March 30
+        '&ldquo;Words are, of course, the most powerful drug used by mankind.&rdquo; <br /> &mdash;Rudyard Kipling'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // March 28
         '&ldquo;Never let a fool kiss you, or a kiss fool you.&rdquo; <br /> &mdash;Joey Adams',
         // March 29
-        '&ldquo;Love is the power to see similarity in the dissimilar.&rdquo; <br /> &mdash;Theodor W. Adorno'
+        '&ldquo;Love is the power to see similarity in the dissimilar.&rdquo; <br /> &mdash;Theodor W. Adorno',
+        // March 30
+        '&ldquo;Love is more pleasant than marriage for the same reason that novels are more amusing than history.&rdquo; <br /> &mdash;Nicolas Chamfort'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // March 28
         '&ldquo;Art must take reality by surprise.&rdquo; <br /> &mdash;Francoise Sagan',
         // March 29
-        '&ldquo;Artistic temperament is the disease that afflicts amateurs.&rdquo; <br /> &mdash;Gilbert K. Chesterton'
+        '&ldquo;Artistic temperament is the disease that afflicts amateurs.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
+        // March 30
+        '&ldquo;The artist vocation is to send light into the human heart.&rdquo; <br /> &mdash;George Sand'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
