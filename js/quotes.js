@@ -4,7 +4,7 @@ $(document).ready(function() {
 
 	// Random Varied Quote
 	let variedArray = [
-        // March 1
+        // April 1
         '&ldquo;Varied Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
@@ -20,7 +20,7 @@ $(document).ready(function() {
 
     // Random Love Quote
     let loveArray = [
-        // March 1
+        // April 1
         '&ldquo;Love Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
@@ -36,7 +36,7 @@ $(document).ready(function() {
 
     // Random Art Quote
     let artArray = [
-        // March 1
+        // April 1
         '&ldquo;Art Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
