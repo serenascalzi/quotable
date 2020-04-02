@@ -5,7 +5,7 @@ $(document).ready(function() {
 	// Random Varied Quote
 	let variedArray = [
         // April 1
-        '&ldquo;Varied Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;Here cometh April again, and as far as I can see the world hath more fools in it than ever.&rdquo; <br /> &mdash;Charles Lamb'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -21,7 +21,7 @@ $(document).ready(function() {
     // Random Love Quote
     let loveArray = [
         // April 1
-        '&ldquo;Love Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;It is best to love wisely, no doubt; but to love foolishly is better than not to be able to love at all.&rdquo; <br /> &mdash;William Makepeace Thackeray'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -37,7 +37,7 @@ $(document).ready(function() {
     // Random Art Quote
     let artArray = [
         // April 1
-        '&ldquo;Art Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;The people who make art their business are mostly imposters.&rdquo; <br /> &mdash;Pablo Picasso'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
