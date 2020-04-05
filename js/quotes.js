@@ -11,7 +11,9 @@ $(document).ready(function() {
         // April 3
         '&ldquo;The wisdom of the wise and the experience of the ages are perpetuated by quotations.&rdquo; <br /> &mdash;Benjamin Disraeli',
         // March 4
-        '&ldquo;A pure hand needs no glove to cover it.&rdquo; <br /> &mdash;Nathaniel Hawthorne'
+        '&ldquo;A pure hand needs no glove to cover it.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
+        // March 5
+        '&ldquo;They always say time changes things, but you actually have to change them yourself.&rdquo; <br /> &mdash;Andy Warhol'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -33,7 +35,9 @@ $(document).ready(function() {
         // April 3
         '&ldquo;We always love those who admire us, but we do not always love those whom we admire.&rdquo; <br /> &mdash;Francois de La Rochefoucauld',
         // March 4
-        '&ldquo;Heaven grant us patience with a man in love.&rdquo; <br /> &mdash;Rudyard Kipling'
+        '&ldquo;Heaven grant us patience with a man in love.&rdquo; <br /> &mdash;Rudyard Kipling',
+        // March 5
+        '&ldquo;There is room in the smallest cottage for a happy loving pair.&rdquo; <br /> &mdash;Friedrich Schiller'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -55,7 +59,9 @@ $(document).ready(function() {
         // April 3
         '&ldquo;Irresponsibility is part of the pleasure of all art; it is the part the schools cannot recognize.&rdquo; <br /> &mdash;James Joyce',
         // March 4
-        '&ldquo;Wherever art appears, life disappears.&rdquo; <br /> &mdash;Robert Motherwell'
+        '&ldquo;Wherever art appears, life disappears.&rdquo; <br /> &mdash;Robert Motherwell',
+        // March 5
+        '&ldquo;Art is one thing that can go on mattering once it has stopped hurting.&rdquo; <br /> &mdash;Elizabeth Bowen'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
