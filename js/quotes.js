@@ -15,7 +15,9 @@ $(document).ready(function() {
         // March 5
         '&ldquo;They always say time changes things, but you actually have to change them yourself.&rdquo; <br /> &mdash;Andy Warhol',
         // March 6
-        '&ldquo;The most effective way to do it, is to do it.&rdquo; <br /> &mdash;Amelia Earhart'
+        '&ldquo;The most effective way to do it, is to do it.&rdquo; <br /> &mdash;Amelia Earhart',
+        // March 7
+        '&ldquo;If you can&rsquo;t feed a hundred people, then feed just one.&rdquo; <br /> &mdash;Mother Teresa'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -41,7 +43,9 @@ $(document).ready(function() {
         // March 5
         '&ldquo;There is room in the smallest cottage for a happy loving pair.&rdquo; <br /> &mdash;Friedrich Schiller',
         // March 6
-        '&ldquo;Nobody has ever measured, not even poets, how much the heart can hold.&rdquo; <br /> &mdash;Zelda Fitzgerald'
+        '&ldquo;Nobody has ever measured, not even poets, how much the heart can hold.&rdquo; <br /> &mdash;Zelda Fitzgerald',
+        // March 7
+        '&ldquo;Nothing we do, however virtuous, can be accomplished alone; therefore we are saved by love.&rdquo; <br /> &mdash;Reinhold Niebuhr'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -67,7 +71,9 @@ $(document).ready(function() {
         // March 5
         '&ldquo;Art is one thing that can go on mattering once it has stopped hurting.&rdquo; <br /> &mdash;Elizabeth Bowen',
         // March 6
-        '&ldquo;The basis of art is truth, both in matter and in mode.&rdquo; <br /> &mdash;Flannery O&rsquo;Connor'
+        '&ldquo;The basis of art is truth, both in matter and in mode.&rdquo; <br /> &mdash;Flannery O&rsquo;Connor',
+        // March 7
+        '&ldquo;A great artist is a great man in a great child.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
