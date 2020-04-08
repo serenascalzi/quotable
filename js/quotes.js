@@ -17,7 +17,9 @@ $(document).ready(function() {
         // March 6
         '&ldquo;The most effective way to do it, is to do it.&rdquo; <br /> &mdash;Amelia Earhart',
         // March 7
-        '&ldquo;If you can&rsquo;t feed a hundred people, then feed just one.&rdquo; <br /> &mdash;Mother Teresa'
+        '&ldquo;If you can&rsquo;t feed a hundred people, then feed just one.&rdquo; <br /> &mdash;Mother Teresa',
+        // March 8
+        '&ldquo;The present time has one advantage over every other &ndash; it is our own.&rdquo; <br /> &mdash;Charles Caleb Colton'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // March 6
         '&ldquo;Nobody has ever measured, not even poets, how much the heart can hold.&rdquo; <br /> &mdash;Zelda Fitzgerald',
         // March 7
-        '&ldquo;Nothing we do, however virtuous, can be accomplished alone; therefore we are saved by love.&rdquo; <br /> &mdash;Reinhold Niebuhr'
+        '&ldquo;Nothing we do, however virtuous, can be accomplished alone; therefore we are saved by love.&rdquo; <br /> &mdash;Reinhold Niebuhr',
+        // March 8
+        '&ldquo;Don&rsquo;t threaten me with love, baby. Let&rsquo;s just go walking in the rain.&rdquo; <br /> &mdash;Billie Holiday'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // March 6
         '&ldquo;The basis of art is truth, both in matter and in mode.&rdquo; <br /> &mdash;Flannery O&rsquo;Connor',
         // March 7
-        '&ldquo;A great artist is a great man in a great child.&rdquo; <br /> &mdash;Victor Hugo'
+        '&ldquo;A great artist is a great man in a great child.&rdquo; <br /> &mdash;Victor Hugo',
+        // March 8
+        '&ldquo;Art is not living. It is the use of living.&rdquo; <br /> &mdash;Audre Lorde'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
