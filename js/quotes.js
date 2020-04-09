@@ -19,7 +19,9 @@ $(document).ready(function() {
         // March 7
         '&ldquo;If you can&rsquo;t feed a hundred people, then feed just one.&rdquo; <br /> &mdash;Mother Teresa',
         // March 8
-        '&ldquo;The present time has one advantage over every other &ndash; it is our own.&rdquo; <br /> &mdash;Charles Caleb Colton'
+        '&ldquo;The present time has one advantage over every other &ndash; it is our own.&rdquo; <br /> &mdash;Charles Caleb Colton',
+        // March 9
+        '&ldquo;Life is but thought.&rdquo; <br /> &mdash;Sara Teasdale'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // March 7
         '&ldquo;Nothing we do, however virtuous, can be accomplished alone; therefore we are saved by love.&rdquo; <br /> &mdash;Reinhold Niebuhr',
         // March 8
-        '&ldquo;Don&rsquo;t threaten me with love, baby. Let&rsquo;s just go walking in the rain.&rdquo; <br /> &mdash;Billie Holiday'
+        '&ldquo;Don&rsquo;t threaten me with love, baby. Let&rsquo;s just go walking in the rain.&rdquo; <br /> &mdash;Billie Holiday',
+        // March 9
+        '&ldquo;We are afraid to care too much, for fear that the other person does not care at all.&rdquo; <br /> &mdash;Eleanor Roosevelt'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // March 7
         '&ldquo;A great artist is a great man in a great child.&rdquo; <br /> &mdash;Victor Hugo',
         // March 8
-        '&ldquo;Art is not living. It is the use of living.&rdquo; <br /> &mdash;Audre Lorde'
+        '&ldquo;Art is not living. It is the use of living.&rdquo; <br /> &mdash;Audre Lorde',
+        // March 9
+        '&ldquo;Great art picks up where nature ends.&rdquo; <br /> &mdash;Marc Chagall'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
