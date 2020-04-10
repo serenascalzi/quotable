@@ -21,7 +21,9 @@ $(document).ready(function() {
         // March 8
         '&ldquo;The present time has one advantage over every other &ndash; it is our own.&rdquo; <br /> &mdash;Charles Caleb Colton',
         // March 9
-        '&ldquo;Life is but thought.&rdquo; <br /> &mdash;Sara Teasdale'
+        '&ldquo;Life is but thought.&rdquo; <br /> &mdash;Sara Teasdale',
+        // March 10
+        '&ldquo;Every charitable act is a stepping stone toward heaven.&rdquo; <br /> &mdash;Henry Ward Beecher'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // March 8
         '&ldquo;Don&rsquo;t threaten me with love, baby. Let&rsquo;s just go walking in the rain.&rdquo; <br /> &mdash;Billie Holiday',
         // March 9
-        '&ldquo;We are afraid to care too much, for fear that the other person does not care at all.&rdquo; <br /> &mdash;Eleanor Roosevelt'
+        '&ldquo;We are afraid to care too much, for fear that the other person does not care at all.&rdquo; <br /> &mdash;Eleanor Roosevelt',
+        // March 10
+        '&ldquo;A man is already halfway in love with any woman who listens to him.&rdquo; <br /> &mdash;Brendan Behan'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // March 8
         '&ldquo;Art is not living. It is the use of living.&rdquo; <br /> &mdash;Audre Lorde',
         // March 9
-        '&ldquo;Great art picks up where nature ends.&rdquo; <br /> &mdash;Marc Chagall'
+        '&ldquo;Great art picks up where nature ends.&rdquo; <br /> &mdash;Marc Chagall',
+        // March 10
+        '&ldquo;I don&rsquo;t paint things. I only paint the difference between things.&rdquo; <br /> &mdash;Henri Matisse'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
