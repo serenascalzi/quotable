@@ -10,20 +10,22 @@ $(document).ready(function() {
         '&ldquo;Worry never robs tomorrow of its sorrow, it only saps today of its joy.&rdquo; <br /> &mdash;Leo Buscaglia',
         // April 3
         '&ldquo;The wisdom of the wise and the experience of the ages are perpetuated by quotations.&rdquo; <br /> &mdash;Benjamin Disraeli',
-        // March 4
+        // April 4
         '&ldquo;A pure hand needs no glove to cover it.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
-        // March 5
+        // April 5
         '&ldquo;They always say time changes things, but you actually have to change them yourself.&rdquo; <br /> &mdash;Andy Warhol',
-        // March 6
+        // April 6
         '&ldquo;The most effective way to do it, is to do it.&rdquo; <br /> &mdash;Amelia Earhart',
-        // March 7
+        // April 7
         '&ldquo;If you can&rsquo;t feed a hundred people, then feed just one.&rdquo; <br /> &mdash;Mother Teresa',
-        // March 8
+        // April 8
         '&ldquo;The present time has one advantage over every other &ndash; it is our own.&rdquo; <br /> &mdash;Charles Caleb Colton',
-        // March 9
+        // April 9
         '&ldquo;Life is but thought.&rdquo; <br /> &mdash;Sara Teasdale',
-        // March 10
-        '&ldquo;Every charitable act is a stepping stone toward heaven.&rdquo; <br /> &mdash;Henry Ward Beecher'
+        // April 10
+        '&ldquo;Every charitable act is a stepping stone toward heaven.&rdquo; <br /> &mdash;Henry Ward Beecher',
+        // April 11
+        '&ldquo;Progress lies not in enhancing what is, but in advancing toward what will be.&rdquo; <br /> &mdash;Khalil Gibran'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -44,20 +46,22 @@ $(document).ready(function() {
         '&ldquo;This love is silent.&rdquo; <br /> &mdash;T. S. Eliot',
         // April 3
         '&ldquo;We always love those who admire us, but we do not always love those whom we admire.&rdquo; <br /> &mdash;Francois de La Rochefoucauld',
-        // March 4
+        // April 4
         '&ldquo;Heaven grant us patience with a man in love.&rdquo; <br /> &mdash;Rudyard Kipling',
-        // March 5
+        // April 5
         '&ldquo;There is room in the smallest cottage for a happy loving pair.&rdquo; <br /> &mdash;Friedrich Schiller',
-        // March 6
+        // April 6
         '&ldquo;Nobody has ever measured, not even poets, how much the heart can hold.&rdquo; <br /> &mdash;Zelda Fitzgerald',
-        // March 7
+        // April 7
         '&ldquo;Nothing we do, however virtuous, can be accomplished alone; therefore we are saved by love.&rdquo; <br /> &mdash;Reinhold Niebuhr',
-        // March 8
+        // April 8
         '&ldquo;Don&rsquo;t threaten me with love, baby. Let&rsquo;s just go walking in the rain.&rdquo; <br /> &mdash;Billie Holiday',
-        // March 9
+        // April 9
         '&ldquo;We are afraid to care too much, for fear that the other person does not care at all.&rdquo; <br /> &mdash;Eleanor Roosevelt',
-        // March 10
-        '&ldquo;A man is already halfway in love with any woman who listens to him.&rdquo; <br /> &mdash;Brendan Behan'
+        // April 10
+        '&ldquo;A man is already halfway in love with any woman who listens to him.&rdquo; <br /> &mdash;Brendan Behan',
+        // April 11
+        '&ldquo;Love sought is good, but given unsought, is better.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -78,20 +82,22 @@ $(document).ready(function() {
         '&ldquo;That&rsquo;s the motivation of an artist &ndash; to seek attention of some kind.&rdquo; <br /> &mdash;James Taylor',
         // April 3
         '&ldquo;Irresponsibility is part of the pleasure of all art; it is the part the schools cannot recognize.&rdquo; <br /> &mdash;James Joyce',
-        // March 4
+        // April 4
         '&ldquo;Wherever art appears, life disappears.&rdquo; <br /> &mdash;Robert Motherwell',
-        // March 5
+        // April 5
         '&ldquo;Art is one thing that can go on mattering once it has stopped hurting.&rdquo; <br /> &mdash;Elizabeth Bowen',
-        // March 6
+        // April 6
         '&ldquo;The basis of art is truth, both in matter and in mode.&rdquo; <br /> &mdash;Flannery O&rsquo;Connor',
-        // March 7
+        // April 7
         '&ldquo;A great artist is a great man in a great child.&rdquo; <br /> &mdash;Victor Hugo',
-        // March 8
+        // April 8
         '&ldquo;Art is not living. It is the use of living.&rdquo; <br /> &mdash;Audre Lorde',
-        // March 9
+        // April 9
         '&ldquo;Great art picks up where nature ends.&rdquo; <br /> &mdash;Marc Chagall',
-        // March 10
-        '&ldquo;I don&rsquo;t paint things. I only paint the difference between things.&rdquo; <br /> &mdash;Henri Matisse'
+        // April 10
+        '&ldquo;I don&rsquo;t paint things. I only paint the difference between things.&rdquo; <br /> &mdash;Henri Matisse',
+        // April 11
+        '&ldquo;My hand is the extension of the thinking process &ndash; the creative process.&rdquo; <br /> &mdash;Tadao Ando'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
