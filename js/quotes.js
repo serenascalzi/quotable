@@ -27,7 +27,9 @@ $(document).ready(function() {
         // April 11
         '&ldquo;Progress lies not in enhancing what is, but in advancing toward what will be.&rdquo; <br /> &mdash;Khalil Gibran',
         // April 12
-        '&ldquo;We are no longer happy so soon as we wish to be happier.&rdquo; <br /> &mdash;Walter Savage Landor'
+        '&ldquo;We are no longer happy so soon as we wish to be happier.&rdquo; <br /> &mdash;Walter Savage Landor',
+        // April 13
+        '&ldquo;All the art of living lies in a fine mingling of letting go and holding on.&rdquo; <br /> &mdash;Havelock Ellis'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // April 11
         '&ldquo;Love sought is good, but given unsought, is better.&rdquo; <br /> &mdash;William Shakespeare',
         // April 12
-        '&ldquo;The mouth obeys poorly when the heart murmurs.&rdquo; <br /> &mdash;Voltaire'
+        '&ldquo;The mouth obeys poorly when the heart murmurs.&rdquo; <br /> &mdash;Voltaire',
+        // April 13
+        '&ldquo;Love thou the rose, yet leave it on its stem.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // April 11
         '&ldquo;My hand is the extension of the thinking process &ndash; the creative process.&rdquo; <br /> &mdash;Tadao Ando',
         // April 12
-        '&ldquo;Every portrait that is painted with feeling is a portrait of the artist, not of the sitter.&rdquo; <br /> &mdash;Oscar Wilde'
+        '&ldquo;Every portrait that is painted with feeling is a portrait of the artist, not of the sitter.&rdquo; <br /> &mdash;Oscar Wilde',
+        // April 13
+        '&ldquo;Life is short, the art long.&rdquo; <br /> &mdash;Hippocrates'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
