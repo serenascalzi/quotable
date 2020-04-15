@@ -31,7 +31,9 @@ $(document).ready(function() {
         // April 13
         '&ldquo;All the art of living lies in a fine mingling of letting go and holding on.&rdquo; <br /> &mdash;Havelock Ellis',
         // April 14
-        '&ldquo;The boisterous sea of liberty is never without a wave.&rdquo; <br /> &mdash;Thomas Jefferson'
+        '&ldquo;The boisterous sea of liberty is never without a wave.&rdquo; <br /> &mdash;Thomas Jefferson',
+        // April 15
+        '&ldquo;We have a system that increasingly taxes work and subsidizes nonwork.&rdquo; <br /> &mdash;Milton Friedman'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // April 13
         '&ldquo;Love thou the rose, yet leave it on its stem.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton',
         // April 14
-        '&ldquo;The greatest pleasure of life is love.&rdquo; <br /> &mdash;Euripides'
+        '&ldquo;The greatest pleasure of life is love.&rdquo; <br /> &mdash;Euripides',
+        // April 15
+        '&ldquo;A true lover always feels in debt to the one he loves.&rdquo; <br /> &mdash;Ralph W. Sockman'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // April 13
         '&ldquo;Life is short, the art long.&rdquo; <br /> &mdash;Hippocrates',
         // April 14
-        '&ldquo;If a building becomes architecture, then it is art.&rdquo; <br /> &mdash;Arne Jacobsen'
+        '&ldquo;If a building becomes architecture, then it is art.&rdquo; <br /> &mdash;Arne Jacobsen',
+        // April 15
+        '&ldquo;The first money I ever earned was for drawing stone tools.&rdquo; <br /> &mdash;Mary Leakey'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
