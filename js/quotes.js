@@ -29,7 +29,9 @@ $(document).ready(function() {
         // April 12
         '&ldquo;We are no longer happy so soon as we wish to be happier.&rdquo; <br /> &mdash;Walter Savage Landor',
         // April 13
-        '&ldquo;All the art of living lies in a fine mingling of letting go and holding on.&rdquo; <br /> &mdash;Havelock Ellis'
+        '&ldquo;All the art of living lies in a fine mingling of letting go and holding on.&rdquo; <br /> &mdash;Havelock Ellis',
+        // April 14
+        '&ldquo;The boisterous sea of liberty is never without a wave.&rdquo; <br /> &mdash;Thomas Jefferson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // April 12
         '&ldquo;The mouth obeys poorly when the heart murmurs.&rdquo; <br /> &mdash;Voltaire',
         // April 13
-        '&ldquo;Love thou the rose, yet leave it on its stem.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton'
+        '&ldquo;Love thou the rose, yet leave it on its stem.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton',
+        // April 14
+        '&ldquo;The greatest pleasure of life is love.&rdquo; <br /> &mdash;Euripides'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // April 12
         '&ldquo;Every portrait that is painted with feeling is a portrait of the artist, not of the sitter.&rdquo; <br /> &mdash;Oscar Wilde',
         // April 13
-        '&ldquo;Life is short, the art long.&rdquo; <br /> &mdash;Hippocrates'
+        '&ldquo;Life is short, the art long.&rdquo; <br /> &mdash;Hippocrates',
+        // April 14
+        '&ldquo;If a building becomes architecture, then it is art.&rdquo; <br /> &mdash;Arne Jacobsen'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
