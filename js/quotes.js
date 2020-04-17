@@ -33,7 +33,9 @@ $(document).ready(function() {
         // April 14
         '&ldquo;The boisterous sea of liberty is never without a wave.&rdquo; <br /> &mdash;Thomas Jefferson',
         // April 15
-        '&ldquo;We have a system that increasingly taxes work and subsidizes nonwork.&rdquo; <br /> &mdash;Milton Friedman'
+        '&ldquo;We have a system that increasingly taxes work and subsidizes nonwork.&rdquo; <br /> &mdash;Milton Friedman',
+        // April 16
+        '&ldquo;Never retreat. Never explain. Get it done and let them howl.&rdquo; <br /> &mdash;Benjamin Jowett'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // April 14
         '&ldquo;The greatest pleasure of life is love.&rdquo; <br /> &mdash;Euripides',
         // April 15
-        '&ldquo;A true lover always feels in debt to the one he loves.&rdquo; <br /> &mdash;Ralph W. Sockman'
+        '&ldquo;A true lover always feels in debt to the one he loves.&rdquo; <br /> &mdash;Ralph W. Sockman',
+        // April 16
+        '&ldquo;Come live in my heart, and pay no rent.&rdquo; <br /> &mdash;Samuel Lover'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // April 14
         '&ldquo;If a building becomes architecture, then it is art.&rdquo; <br /> &mdash;Arne Jacobsen',
         // April 15
-        '&ldquo;The first money I ever earned was for drawing stone tools.&rdquo; <br /> &mdash;Mary Leakey'
+        '&ldquo;The first money I ever earned was for drawing stone tools.&rdquo; <br /> &mdash;Mary Leakey',
+        // April 16
+        '&ldquo;The man who never in his mind and thoughts travel&rsquo;d to heaven is no artist.&rdquo; <br /> &mdash;William Blake'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
