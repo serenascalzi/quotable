@@ -37,7 +37,9 @@ $(document).ready(function() {
         // April 16
         '&ldquo;Never retreat. Never explain. Get it done and let them howl.&rdquo; <br /> &mdash;Benjamin Jowett',
         // April 17
-        '&ldquo;The mystery of government is not how Washington works but how to make it stop.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke'
+        '&ldquo;The mystery of government is not how Washington works but how to make it stop.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
+        // April 18
+        '&ldquo;A penny saved is a penny earned.&rdquo; <br /> &mdash;Benjamin Franklin'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // April 16
         '&ldquo;Come live in my heart, and pay no rent.&rdquo; <br /> &mdash;Samuel Lover',
         // April 17
-        '&ldquo;What the world really needs is more love and less paper work.&rdquo; <br /> &mdash;Pearl Bailey'
+        '&ldquo;What the world really needs is more love and less paper work.&rdquo; <br /> &mdash;Pearl Bailey',
+        // April 18
+        '&ldquo;The best proof of love is trust.&rdquo; <br /> &mdash;Joyce Brothers'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // April 16
         '&ldquo;The man who never in his mind and thoughts travel&rsquo;d to heaven is no artist.&rdquo; <br /> &mdash;William Blake',
         // April 17
-        '&ldquo;A work of art is a world in itself reflecting senses and emotions of the artist&rsquo;s world.&rdquo; <br /> &mdash;Hans Hofmann'
+        '&ldquo;A work of art is a world in itself reflecting senses and emotions of the artist&rsquo;s world.&rdquo; <br /> &mdash;Hans Hofmann',
+        // April 18
+        '&ldquo;Many excellent cooks are spoilt by going into the arts.&rdquo; <br /> &mdash;Paul Gauguin'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
