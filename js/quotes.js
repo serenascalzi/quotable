@@ -35,7 +35,9 @@ $(document).ready(function() {
         // April 15
         '&ldquo;We have a system that increasingly taxes work and subsidizes nonwork.&rdquo; <br /> &mdash;Milton Friedman',
         // April 16
-        '&ldquo;Never retreat. Never explain. Get it done and let them howl.&rdquo; <br /> &mdash;Benjamin Jowett'
+        '&ldquo;Never retreat. Never explain. Get it done and let them howl.&rdquo; <br /> &mdash;Benjamin Jowett',
+        // April 17
+        '&ldquo;The mystery of government is not how Washington works but how to make it stop.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -81,7 +83,9 @@ $(document).ready(function() {
         // April 15
         '&ldquo;A true lover always feels in debt to the one he loves.&rdquo; <br /> &mdash;Ralph W. Sockman',
         // April 16
-        '&ldquo;Come live in my heart, and pay no rent.&rdquo; <br /> &mdash;Samuel Lover'
+        '&ldquo;Come live in my heart, and pay no rent.&rdquo; <br /> &mdash;Samuel Lover',
+        // April 17
+        '&ldquo;What the world really needs is more love and less paper work.&rdquo; <br /> &mdash;Pearl Bailey'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -127,7 +131,9 @@ $(document).ready(function() {
         // April 15
         '&ldquo;The first money I ever earned was for drawing stone tools.&rdquo; <br /> &mdash;Mary Leakey',
         // April 16
-        '&ldquo;The man who never in his mind and thoughts travel&rsquo;d to heaven is no artist.&rdquo; <br /> &mdash;William Blake'
+        '&ldquo;The man who never in his mind and thoughts travel&rsquo;d to heaven is no artist.&rdquo; <br /> &mdash;William Blake',
+        // April 17
+        '&ldquo;A work of art is a world in itself reflecting senses and emotions of the artist&rsquo;s world.&rdquo; <br /> &mdash;Hans Hofmann'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
