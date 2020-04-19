@@ -39,7 +39,9 @@ $(document).ready(function() {
         // April 17
         '&ldquo;The mystery of government is not how Washington works but how to make it stop.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
         // April 18
-        '&ldquo;A penny saved is a penny earned.&rdquo; <br /> &mdash;Benjamin Franklin'
+        '&ldquo;A penny saved is a penny earned.&rdquo; <br /> &mdash;Benjamin Franklin',
+        // April 19
+        '&ldquo;Experience is simply the name we give our mistakes.&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -89,7 +91,9 @@ $(document).ready(function() {
         // April 17
         '&ldquo;What the world really needs is more love and less paper work.&rdquo; <br /> &mdash;Pearl Bailey',
         // April 18
-        '&ldquo;The best proof of love is trust.&rdquo; <br /> &mdash;Joyce Brothers'
+        '&ldquo;The best proof of love is trust.&rdquo; <br /> &mdash;Joyce Brothers',
+        // April 19
+        '&ldquo;When love is not madness, it is not love.&rdquo; <br /> &mdash;Pedro Calderon de la Barca'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -139,7 +143,9 @@ $(document).ready(function() {
         // April 17
         '&ldquo;A work of art is a world in itself reflecting senses and emotions of the artist&rsquo;s world.&rdquo; <br /> &mdash;Hans Hofmann',
         // April 18
-        '&ldquo;Many excellent cooks are spoilt by going into the arts.&rdquo; <br /> &mdash;Paul Gauguin'
+        '&ldquo;Many excellent cooks are spoilt by going into the arts.&rdquo; <br /> &mdash;Paul Gauguin',
+        // April 19
+        '&ldquo;The essence of all art is to have pleasure in giving pleasure.&rdquo; <br /> &mdash;Dale Carnegie'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
