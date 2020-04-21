@@ -43,7 +43,9 @@ $(document).ready(function() {
         // April 19
         '&ldquo;Experience is simply the name we give our mistakes.&rdquo; <br /> &mdash;Oscar Wilde',
         // April 20
-        '&ldquo;It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.&rdquo; <br /> &mdash;Robert H. Goddard'
+        '&ldquo;It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.&rdquo; <br /> &mdash;Robert H. Goddard',
+        // April 21
+        '&ldquo;Easter is meant to be a symbol of hope, renewal, and new life.&rdquo; <br /> &mdash;Janine di Giovanni'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -97,7 +99,9 @@ $(document).ready(function() {
         // April 19
         '&ldquo;When love is not madness, it is not love.&rdquo; <br /> &mdash;Pedro Calderon de la Barca',
         // April 20
-        '&ldquo;A baby is born with a need to be loved &ndash; and never outgrows it.&rdquo; <br /> &mdash;Frank A. Clark'
+        '&ldquo;A baby is born with a need to be loved &ndash; and never outgrows it.&rdquo; <br /> &mdash;Frank A. Clark',
+        // April 21
+        '&ldquo;I really do believe that God is love, one of deep affection and grace and forgiveness and inspiration.&rdquo; <br /> &mdash;William P. Young'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -151,7 +155,9 @@ $(document).ready(function() {
         // April 19
         '&ldquo;The essence of all art is to have pleasure in giving pleasure.&rdquo; <br /> &mdash;Dale Carnegie',
         // April 20
-        '&ldquo;To send light into the darkness of men&rsquo;s hearts &ndash; such is the duty of the artist.&rdquo; <br /> &mdash;Robert Schumann'
+        '&ldquo;To send light into the darkness of men&rsquo;s hearts &ndash; such is the duty of the artist.&rdquo; <br /> &mdash;Robert Schumann',
+        // April 21
+        '&ldquo;Be brave enough to live life creatively. The creative place where no one else has ever been.&rdquo; <br /> &mdash;Alan Alda'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
