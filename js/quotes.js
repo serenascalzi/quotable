@@ -45,7 +45,9 @@ $(document).ready(function() {
         // April 20
         '&ldquo;It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.&rdquo; <br /> &mdash;Robert H. Goddard',
         // April 21
-        '&ldquo;Easter is meant to be a symbol of hope, renewal, and new life.&rdquo; <br /> &mdash;Janine di Giovanni'
+        '&ldquo;Easter is meant to be a symbol of hope, renewal, and new life.&rdquo; <br /> &mdash;Janine di Giovanni',
+        // April 22
+        '&ldquo;This is the most joyful day that ever I saw in my pilgrimage on earth.&rdquo; <br /> &mdash;Donald Cargill'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -101,7 +103,9 @@ $(document).ready(function() {
         // April 20
         '&ldquo;A baby is born with a need to be loved &ndash; and never outgrows it.&rdquo; <br /> &mdash;Frank A. Clark',
         // April 21
-        '&ldquo;I really do believe that God is love, one of deep affection and grace and forgiveness and inspiration.&rdquo; <br /> &mdash;William P. Young'
+        '&ldquo;I really do believe that God is love, one of deep affection and grace and forgiveness and inspiration.&rdquo; <br /> &mdash;William P. Young',
+        // April 22
+        '&ldquo;Absence sharpens love, presence strengthens it.&rdquo; <br /> &mdash;Thomas Fuller'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -157,7 +161,9 @@ $(document).ready(function() {
         // April 20
         '&ldquo;To send light into the darkness of men&rsquo;s hearts &ndash; such is the duty of the artist.&rdquo; <br /> &mdash;Robert Schumann',
         // April 21
-        '&ldquo;Be brave enough to live life creatively. The creative place where no one else has ever been.&rdquo; <br /> &mdash;Alan Alda'
+        '&ldquo;Be brave enough to live life creatively. The creative place where no one else has ever been.&rdquo; <br /> &mdash;Alan Alda',
+        // April 22
+        '&ldquo;I believe only in art and failure.&rdquo; <br /> &mdash;Jane Rule'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
