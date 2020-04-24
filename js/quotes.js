@@ -47,7 +47,9 @@ $(document).ready(function() {
         // April 21
         '&ldquo;Easter is meant to be a symbol of hope, renewal, and new life.&rdquo; <br /> &mdash;Janine di Giovanni',
         // April 22
-        '&ldquo;This is the most joyful day that ever I saw in my pilgrimage on earth.&rdquo; <br /> &mdash;Donald Cargill'
+        '&ldquo;This is the most joyful day that ever I saw in my pilgrimage on earth.&rdquo; <br /> &mdash;Donald Cargill',
+        // April 23
+        '&ldquo;It is better to know some of the questions than all of the answers.&rdquo; <br /> &mdash;James Thurber'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // April 21
         '&ldquo;I really do believe that God is love, one of deep affection and grace and forgiveness and inspiration.&rdquo; <br /> &mdash;William P. Young',
         // April 22
-        '&ldquo;Absence sharpens love, presence strengthens it.&rdquo; <br /> &mdash;Thomas Fuller'
+        '&ldquo;Absence sharpens love, presence strengthens it.&rdquo; <br /> &mdash;Thomas Fuller',
+        // April 23
+        '&ldquo;Politics is such a torment that I advise everyone I love not to mix with it.&rdquo; <br /> &mdash;Thomas Jefferson'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // April 21
         '&ldquo;Be brave enough to live life creatively. The creative place where no one else has ever been.&rdquo; <br /> &mdash;Alan Alda',
         // April 22
-        '&ldquo;I believe only in art and failure.&rdquo; <br /> &mdash;Jane Rule'
+        '&ldquo;I believe only in art and failure.&rdquo; <br /> &mdash;Jane Rule',
+        // April 23
+        '&ldquo;There is only one valuable thing in art: the thing you cannot explain.&rdquo; <br /> &mdash;Georges Braque'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
