@@ -49,7 +49,9 @@ $(document).ready(function() {
         // April 22
         '&ldquo;This is the most joyful day that ever I saw in my pilgrimage on earth.&rdquo; <br /> &mdash;Donald Cargill',
         // April 23
-        '&ldquo;It is better to know some of the questions than all of the answers.&rdquo; <br /> &mdash;James Thurber'
+        '&ldquo;It is better to know some of the questions than all of the answers.&rdquo; <br /> &mdash;James Thurber',
+        // April 24
+        '&ldquo;Sweet mercy is nobility&rsquo;s true badge.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // April 22
         '&ldquo;Absence sharpens love, presence strengthens it.&rdquo; <br /> &mdash;Thomas Fuller',
         // April 23
-        '&ldquo;Politics is such a torment that I advise everyone I love not to mix with it.&rdquo; <br /> &mdash;Thomas Jefferson'
+        '&ldquo;Politics is such a torment that I advise everyone I love not to mix with it.&rdquo; <br /> &mdash;Thomas Jefferson',
+        // April 24
+        '&ldquo;There is a wisdom of the head, and a wisdom of the heart.&rdquo; <br /> &mdash;Charles Dickens'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // April 22
         '&ldquo;I believe only in art and failure.&rdquo; <br /> &mdash;Jane Rule',
         // April 23
-        '&ldquo;There is only one valuable thing in art: the thing you cannot explain.&rdquo; <br /> &mdash;Georges Braque'
+        '&ldquo;There is only one valuable thing in art: the thing you cannot explain.&rdquo; <br /> &mdash;Georges Braque',
+        // April 24
+        '&ldquo;Art ought never to be considered except in its relations with its ideal beauty.&rdquo; <br /> &mdash;Alfred de Vigny'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
