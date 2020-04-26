@@ -51,7 +51,9 @@ $(document).ready(function() {
         // April 23
         '&ldquo;It is better to know some of the questions than all of the answers.&rdquo; <br /> &mdash;James Thurber',
         // April 24
-        '&ldquo;Sweet mercy is nobility&rsquo;s true badge.&rdquo; <br /> &mdash;William Shakespeare'
+        '&ldquo;Sweet mercy is nobility&rsquo;s true badge.&rdquo; <br /> &mdash;William Shakespeare',
+        // April 25
+        '&ldquo;Honest disagreement is often a good sign of progress.&rdquo; <br /> &mdash;Mahatma Gandhi'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // April 23
         '&ldquo;Politics is such a torment that I advise everyone I love not to mix with it.&rdquo; <br /> &mdash;Thomas Jefferson',
         // April 24
-        '&ldquo;There is a wisdom of the head, and a wisdom of the heart.&rdquo; <br /> &mdash;Charles Dickens'
+        '&ldquo;There is a wisdom of the head, and a wisdom of the heart.&rdquo; <br /> &mdash;Charles Dickens',
+        // April 25
+        '&ldquo;Love, like a chicken salad or restaurant hash, must be taken with blind faith or it loses its flavor.&rdquo; <br /> &mdash;Helen Rowland'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // April 23
         '&ldquo;There is only one valuable thing in art: the thing you cannot explain.&rdquo; <br /> &mdash;Georges Braque',
         // April 24
-        '&ldquo;Art ought never to be considered except in its relations with its ideal beauty.&rdquo; <br /> &mdash;Alfred de Vigny'
+        '&ldquo;Art ought never to be considered except in its relations with its ideal beauty.&rdquo; <br /> &mdash;Alfred de Vigny',
+        // April 25
+        '&ldquo;Art resides in the quality of doing, process is not magic.&rdquo; <br /> &mdash;Charles Eames'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
