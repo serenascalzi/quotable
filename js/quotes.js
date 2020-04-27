@@ -55,7 +55,9 @@ $(document).ready(function() {
         // April 25
         '&ldquo;Honest disagreement is often a good sign of progress.&rdquo; <br /> &mdash;Mahatma Gandhi',
         // April 26
-        '&ldquo;He has achieved success who has worked well, laughed often, and loved much.&rdquo; <br /> &mdash;Elbert Hubbard'
+        '&ldquo;He has achieved success who has worked well, laughed often, and loved much.&rdquo; <br /> &mdash;Elbert Hubbard',
+        // April 27
+        '&ldquo;Perfection itself is imperfection.&rdquo; <br /> &mdash;Vladimir Horowitz'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // April 25
         '&ldquo;Love, like a chicken salad or restaurant hash, must be taken with blind faith or it loses its flavor.&rdquo; <br /> &mdash;Helen Rowland',
         // April 26
-        '&ldquo;Love is a gross exaggeration of the difference between one person and everybody else.&rdquo; <br /> &mdash;George Bernard Shaw'
+        '&ldquo;Love is a gross exaggeration of the difference between one person and everybody else.&rdquo; <br /> &mdash;George Bernard Shaw',
+        // April 27
+        '&ldquo;I argue thee that love is life. And life hath immortality.&rdquo; <br /> &mdash;Emily Dickinson'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // April 25
         '&ldquo;Art resides in the quality of doing, process is not magic.&rdquo; <br /> &mdash;Charles Eames',
         // April 26
-        '&ldquo;Art does not reproduce what we see; rather, it makes us see.&rdquo; <br /> &mdash;Paul Klee'
+        '&ldquo;Art does not reproduce what we see; rather, it makes us see.&rdquo; <br /> &mdash;Paul Klee',
+        // April 27
+        '&ldquo;It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.&rdquo; <br /> &mdash;Voltaire'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
