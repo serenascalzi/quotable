@@ -53,7 +53,9 @@ $(document).ready(function() {
         // April 24
         '&ldquo;Sweet mercy is nobility&rsquo;s true badge.&rdquo; <br /> &mdash;William Shakespeare',
         // April 25
-        '&ldquo;Honest disagreement is often a good sign of progress.&rdquo; <br /> &mdash;Mahatma Gandhi'
+        '&ldquo;Honest disagreement is often a good sign of progress.&rdquo; <br /> &mdash;Mahatma Gandhi',
+        // April 26
+        '&ldquo;He has achieved success who has worked well, laughed often, and loved much.&rdquo; <br /> &mdash;Elbert Hubbard'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // April 24
         '&ldquo;There is a wisdom of the head, and a wisdom of the heart.&rdquo; <br /> &mdash;Charles Dickens',
         // April 25
-        '&ldquo;Love, like a chicken salad or restaurant hash, must be taken with blind faith or it loses its flavor.&rdquo; <br /> &mdash;Helen Rowland'
+        '&ldquo;Love, like a chicken salad or restaurant hash, must be taken with blind faith or it loses its flavor.&rdquo; <br /> &mdash;Helen Rowland',
+        // April 26
+        '&ldquo;Love is a gross exaggeration of the difference between one person and everybody else.&rdquo; <br /> &mdash;George Bernard Shaw'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // April 24
         '&ldquo;Art ought never to be considered except in its relations with its ideal beauty.&rdquo; <br /> &mdash;Alfred de Vigny',
         // April 25
-        '&ldquo;Art resides in the quality of doing, process is not magic.&rdquo; <br /> &mdash;Charles Eames'
+        '&ldquo;Art resides in the quality of doing, process is not magic.&rdquo; <br /> &mdash;Charles Eames',
+        // April 26
+        '&ldquo;Art does not reproduce what we see; rather, it makes us see.&rdquo; <br /> &mdash;Paul Klee'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
