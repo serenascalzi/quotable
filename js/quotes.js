@@ -57,7 +57,9 @@ $(document).ready(function() {
         // April 26
         '&ldquo;He has achieved success who has worked well, laughed often, and loved much.&rdquo; <br /> &mdash;Elbert Hubbard',
         // April 27
-        '&ldquo;Perfection itself is imperfection.&rdquo; <br /> &mdash;Vladimir Horowitz'
+        '&ldquo;Perfection itself is imperfection.&rdquo; <br /> &mdash;Vladimir Horowitz',
+        // April 28
+        '&ldquo;How little do they see what really is, who frame their hasty judgment upon that which seems.&rdquo; <br /> &mdash;Daniel Webster'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // April 26
         '&ldquo;Love is a gross exaggeration of the difference between one person and everybody else.&rdquo; <br /> &mdash;George Bernard Shaw',
         // April 27
-        '&ldquo;I argue thee that love is life. And life hath immortality.&rdquo; <br /> &mdash;Emily Dickinson'
+        '&ldquo;I argue thee that love is life. And life hath immortality.&rdquo; <br /> &mdash;Emily Dickinson',
+        // April 28
+        '&ldquo;When we are in love we seem to ourselves quite different from what we were before.&rdquo; <br /> &mdash;Blaise Pascal'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // April 26
         '&ldquo;Art does not reproduce what we see; rather, it makes us see.&rdquo; <br /> &mdash;Paul Klee',
         // April 27
-        '&ldquo;It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.&rdquo; <br /> &mdash;Voltaire'
+        '&ldquo;It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.&rdquo; <br /> &mdash;Voltaire',
+        // April 28
+        '&ldquo;Painting is by nature a luminous language.&rdquo; <br /> &mdash;Robert Delaunay'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
