@@ -59,7 +59,9 @@ $(document).ready(function() {
         // April 27
         '&ldquo;Perfection itself is imperfection.&rdquo; <br /> &mdash;Vladimir Horowitz',
         // April 28
-        '&ldquo;How little do they see what really is, who frame their hasty judgment upon that which seems.&rdquo; <br /> &mdash;Daniel Webster'
+        '&ldquo;How little do they see what really is, who frame their hasty judgment upon that which seems.&rdquo; <br /> &mdash;Daniel Webster',
+        // April 29
+        '&ldquo;I imagine that yes is the only living thing.&rdquo; <br /> &mdash;e. e. cummings'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // April 27
         '&ldquo;I argue thee that love is life. And life hath immortality.&rdquo; <br /> &mdash;Emily Dickinson',
         // April 28
-        '&ldquo;When we are in love we seem to ourselves quite different from what we were before.&rdquo; <br /> &mdash;Blaise Pascal'
+        '&ldquo;When we are in love we seem to ourselves quite different from what we were before.&rdquo; <br /> &mdash;Blaise Pascal',
+        // April 29
+        '&ldquo;Love is the beauty of the soul.&rdquo; <br /> &mdash;Saint Augustine'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // April 27
         '&ldquo;It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.&rdquo; <br /> &mdash;Voltaire',
         // April 28
-        '&ldquo;Painting is by nature a luminous language.&rdquo; <br /> &mdash;Robert Delaunay'
+        '&ldquo;Painting is by nature a luminous language.&rdquo; <br /> &mdash;Robert Delaunay',
+        // April 29
+        '&ldquo;Art is the objectification of feeling.&rdquo; <br /> &mdash;Herman Melville'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
