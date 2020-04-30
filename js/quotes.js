@@ -61,7 +61,9 @@ $(document).ready(function() {
         // April 28
         '&ldquo;How little do they see what really is, who frame their hasty judgment upon that which seems.&rdquo; <br /> &mdash;Daniel Webster',
         // April 29
-        '&ldquo;I imagine that yes is the only living thing.&rdquo; <br /> &mdash;e. e. cummings'
+        '&ldquo;I imagine that yes is the only living thing.&rdquo; <br /> &mdash;e. e. cummings',
+        // April 30
+        '&ldquo;People seldom refuse help, if one offers it in the right way.&rdquo; <br /> &mdash;A. C. Benson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // April 28
         '&ldquo;When we are in love we seem to ourselves quite different from what we were before.&rdquo; <br /> &mdash;Blaise Pascal',
         // April 29
-        '&ldquo;Love is the beauty of the soul.&rdquo; <br /> &mdash;Saint Augustine'
+        '&ldquo;Love is the beauty of the soul.&rdquo; <br /> &mdash;Saint Augustine',
+        // April 30
+        '&ldquo;Faith is love taking the form of aspiration.&rdquo; <br /> &mdash;William Ellery Channing'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // April 28
         '&ldquo;Painting is by nature a luminous language.&rdquo; <br /> &mdash;Robert Delaunay',
         // April 29
-        '&ldquo;Art is the objectification of feeling.&rdquo; <br /> &mdash;Herman Melville'
+        '&ldquo;Art is the objectification of feeling.&rdquo; <br /> &mdash;Herman Melville',
+        // April 30
+        '&ldquo;The precision of naming takes away from the uniqueness of seeing.&rdquo; <br /> &mdash;Pierre Bonnard'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
