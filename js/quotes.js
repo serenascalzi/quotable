@@ -5,7 +5,7 @@ $(document).ready(function() {
 	// Random Varied Quote
 	let variedArray = [
         // May 1
-        '&ldquo;Varied Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;Forgiveness is a funny thing. It warms the heart and cools the sting.&rdquo; <br /> &mdash;William Arthur Ward'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -21,7 +21,7 @@ $(document).ready(function() {
     // Random Love Quote
     let loveArray = [
         // May 1
-        '&ldquo;Love Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;Morning without you is a dwindled dawn.&rdquo; <br /> &mdash;Emily Dickinson'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -37,7 +37,7 @@ $(document).ready(function() {
     // Random Art Quote
     let artArray = [
         // May 1
-        '&ldquo;Art Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;Art is a marriage of the conscious and the unconscious.&rdquo; <br /> &mdash;Jean Cocteau'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
