@@ -9,7 +9,9 @@ $(document).ready(function() {
         // May 2
         '&ldquo;I hear, I know. I see, I remember. I do, I understand.&rdquo; <br /> &mdash;Confucius',
         // May 3
-        '&ldquo;When I pray, coincidences happen, and when I don&rsquo;t, they don&rsquo;t.&rdquo; <br /> &mdash;William Temple'
+        '&ldquo;When I pray, coincidences happen, and when I don&rsquo;t, they don&rsquo;t.&rdquo; <br /> &mdash;William Temple',
+        // May 4
+        '&ldquo;More law, less justice.&rdquo; <br /> &mdash;Marcus Tullius Cicero'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -29,7 +31,9 @@ $(document).ready(function() {
         // May 2
         '&ldquo;Life without love is like a tree without blossoms or fruit.&rdquo; <br /> &mdash;Khalil Gibran',
         // May 3
-        '&ldquo;Joy is prayer; joy is strength: joy is love; joy is a net of love by which you can catch souls.&rdquo; <br /> &mdash;Mother Teresa'
+        '&ldquo;Joy is prayer; joy is strength: joy is love; joy is a net of love by which you can catch souls.&rdquo; <br /> &mdash;Mother Teresa',
+        // May 4
+        '&ldquo;Follow love and it will flee, flee love and it will follow thee.&rdquo; <br /> &mdash;John Gay'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -49,7 +53,9 @@ $(document).ready(function() {
         // May 2
         '&ldquo;Art is either plagiarism or revolution.&rdquo; <br /> &mdash;Paul Gauguin',
         // May 3
-        '&ldquo;Art is nature speeded up and God slowed down.&rdquo; <br /> &mdash;Malcolm de Chazal'
+        '&ldquo;Art is nature speeded up and God slowed down.&rdquo; <br /> &mdash;Malcolm de Chazal',
+        // May 4
+        '&ldquo;When that shutter clicks, anything else that can be done afterward is not worth consideration.&rdquo; <br /> &mdash;Edward Steichen'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
