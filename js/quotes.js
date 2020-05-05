@@ -11,7 +11,9 @@ $(document).ready(function() {
         // May 3
         '&ldquo;When I pray, coincidences happen, and when I don&rsquo;t, they don&rsquo;t.&rdquo; <br /> &mdash;William Temple',
         // May 4
-        '&ldquo;More law, less justice.&rdquo; <br /> &mdash;Marcus Tullius Cicero'
+        '&ldquo;More law, less justice.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
+        // May 5
+        '&ldquo;Even death is not to be feared by one who has lived wisely.&rdquo; <br /> &mdash;Buddha'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -33,7 +35,9 @@ $(document).ready(function() {
         // May 3
         '&ldquo;Joy is prayer; joy is strength: joy is love; joy is a net of love by which you can catch souls.&rdquo; <br /> &mdash;Mother Teresa',
         // May 4
-        '&ldquo;Follow love and it will flee, flee love and it will follow thee.&rdquo; <br /> &mdash;John Gay'
+        '&ldquo;Follow love and it will flee, flee love and it will follow thee.&rdquo; <br /> &mdash;John Gay',
+        // May 5
+        '&ldquo;Each time you love, love as deeply as if it were forever.&rdquo; <br /> &mdash;Audre Lorde'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -55,7 +59,9 @@ $(document).ready(function() {
         // May 3
         '&ldquo;Art is nature speeded up and God slowed down.&rdquo; <br /> &mdash;Malcolm de Chazal',
         // May 4
-        '&ldquo;When that shutter clicks, anything else that can be done afterward is not worth consideration.&rdquo; <br /> &mdash;Edward Steichen'
+        '&ldquo;When that shutter clicks, anything else that can be done afterward is not worth consideration.&rdquo; <br /> &mdash;Edward Steichen',
+        // May 5
+        '&ldquo;Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse.&rdquo; <br /> &mdash;Winston Churchill'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
