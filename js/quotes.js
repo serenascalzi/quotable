@@ -15,7 +15,9 @@ $(document).ready(function() {
         // May 5
         '&ldquo;Even death is not to be feared by one who has lived wisely.&rdquo; <br /> &mdash;Buddha',
         // May 6
-        '&ldquo;It would not be possible to praise nurses too highly.&rdquo; <br /> &mdash;Stephen Ambrose'
+        '&ldquo;It would not be possible to praise nurses too highly.&rdquo; <br /> &mdash;Stephen Ambrose',
+        // May 7
+        '&ldquo;The Soul is the voice of the body&rsquo;s interests.&rdquo; <br /> &mdash;George Santayana'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -41,7 +43,9 @@ $(document).ready(function() {
         // May 5
         '&ldquo;Each time you love, love as deeply as if it were forever.&rdquo; <br /> &mdash;Audre Lorde',
         // May 6
-        '&ldquo;Care is a state in which something does matter; it is the source of human tenderness.&rdquo; <br /> &mdash;Rollo May'
+        '&ldquo;Care is a state in which something does matter; it is the source of human tenderness.&rdquo; <br /> &mdash;Rollo May',
+        // May 7
+        '&ldquo;Love consists in this, that two solitudes protect and touch and greet each other.&rdquo; <br /> &mdash;Rainer Maria Rilke'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -67,7 +71,9 @@ $(document).ready(function() {
         // May 5
         '&ldquo;Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse.&rdquo; <br /> &mdash;Winston Churchill',
         // May 6
-        '&ldquo;Draw your pleasure, paint your pleasure, and express your pleasure strongly.&rdquo; <br /> &mdash;Pierre Bonnard'
+        '&ldquo;Draw your pleasure, paint your pleasure, and express your pleasure strongly.&rdquo; <br /> &mdash;Pierre Bonnard',
+        // May 7
+        '&ldquo;Imagination is the eye of the soul.&rdquo; <br /> &mdash;Joseph Joubert'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
