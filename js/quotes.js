@@ -13,7 +13,9 @@ $(document).ready(function() {
         // May 4
         '&ldquo;More law, less justice.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
         // May 5
-        '&ldquo;Even death is not to be feared by one who has lived wisely.&rdquo; <br /> &mdash;Buddha'
+        '&ldquo;Even death is not to be feared by one who has lived wisely.&rdquo; <br /> &mdash;Buddha',
+        // May 6
+        '&ldquo;It would not be possible to praise nurses too highly.&rdquo; <br /> &mdash;Stephen Ambrose'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -37,7 +39,9 @@ $(document).ready(function() {
         // May 4
         '&ldquo;Follow love and it will flee, flee love and it will follow thee.&rdquo; <br /> &mdash;John Gay',
         // May 5
-        '&ldquo;Each time you love, love as deeply as if it were forever.&rdquo; <br /> &mdash;Audre Lorde'
+        '&ldquo;Each time you love, love as deeply as if it were forever.&rdquo; <br /> &mdash;Audre Lorde',
+        // May 6
+        '&ldquo;Care is a state in which something does matter; it is the source of human tenderness.&rdquo; <br /> &mdash;Rollo May'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -61,7 +65,9 @@ $(document).ready(function() {
         // May 4
         '&ldquo;When that shutter clicks, anything else that can be done afterward is not worth consideration.&rdquo; <br /> &mdash;Edward Steichen',
         // May 5
-        '&ldquo;Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse.&rdquo; <br /> &mdash;Winston Churchill'
+        '&ldquo;Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse.&rdquo; <br /> &mdash;Winston Churchill',
+        // May 6
+        '&ldquo;Draw your pleasure, paint your pleasure, and express your pleasure strongly.&rdquo; <br /> &mdash;Pierre Bonnard'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
