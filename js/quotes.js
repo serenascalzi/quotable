@@ -17,7 +17,9 @@ $(document).ready(function() {
         // May 6
         '&ldquo;It would not be possible to praise nurses too highly.&rdquo; <br /> &mdash;Stephen Ambrose',
         // May 7
-        '&ldquo;The Soul is the voice of the body&rsquo;s interests.&rdquo; <br /> &mdash;George Santayana'
+        '&ldquo;The Soul is the voice of the body&rsquo;s interests.&rdquo; <br /> &mdash;George Santayana',
+        // May 8
+        '&ldquo;All great achievements require time.&rdquo; <br /> &mdash;Maya Angelou'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // May 6
         '&ldquo;Care is a state in which something does matter; it is the source of human tenderness.&rdquo; <br /> &mdash;Rollo May',
         // May 7
-        '&ldquo;Love consists in this, that two solitudes protect and touch and greet each other.&rdquo; <br /> &mdash;Rainer Maria Rilke'
+        '&ldquo;Love consists in this, that two solitudes protect and touch and greet each other.&rdquo; <br /> &mdash;Rainer Maria Rilke',
+        // May 8
+        '&ldquo;Love is friendship set on fire.&rdquo; <br /> &mdash;Jeremy Taylor'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // May 6
         '&ldquo;Draw your pleasure, paint your pleasure, and express your pleasure strongly.&rdquo; <br /> &mdash;Pierre Bonnard',
         // May 7
-        '&ldquo;Imagination is the eye of the soul.&rdquo; <br /> &mdash;Joseph Joubert'
+        '&ldquo;Imagination is the eye of the soul.&rdquo; <br /> &mdash;Joseph Joubert',
+        // May 8
+        '&ldquo;Art is parasitic on life, just as criticism is parasitic on art.&rdquo; <br /> &mdash;Harry S. Truman'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
