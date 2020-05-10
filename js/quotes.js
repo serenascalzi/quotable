@@ -19,7 +19,9 @@ $(document).ready(function() {
         // May 7
         '&ldquo;The Soul is the voice of the body&rsquo;s interests.&rdquo; <br /> &mdash;George Santayana',
         // May 8
-        '&ldquo;All great achievements require time.&rdquo; <br /> &mdash;Maya Angelou'
+        '&ldquo;All great achievements require time.&rdquo; <br /> &mdash;Maya Angelou',
+        // May 9
+        '&ldquo;Glory is fleeting, but obscurity is forever.&rdquo; <br /> &mdash;Napoleon Bonaparte'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // May 7
         '&ldquo;Love consists in this, that two solitudes protect and touch and greet each other.&rdquo; <br /> &mdash;Rainer Maria Rilke',
         // May 8
-        '&ldquo;Love is friendship set on fire.&rdquo; <br /> &mdash;Jeremy Taylor'
+        '&ldquo;Love is friendship set on fire.&rdquo; <br /> &mdash;Jeremy Taylor',
+        // May 9
+        '&ldquo;Your words are my food, your breath my wine. You are everything to me.&rdquo; <br /> &mdash;Sarah Bernhardt'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // May 7
         '&ldquo;Imagination is the eye of the soul.&rdquo; <br /> &mdash;Joseph Joubert',
         // May 8
-        '&ldquo;Art is parasitic on life, just as criticism is parasitic on art.&rdquo; <br /> &mdash;Harry S. Truman'
+        '&ldquo;Art is parasitic on life, just as criticism is parasitic on art.&rdquo; <br /> &mdash;Harry S. Truman',
+        // May 9
+        '&ldquo;Great art is never produced for its own sake. It is too difficult to be worth the effort.&rdquo; <br /> &mdash;Robert Quillen'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
