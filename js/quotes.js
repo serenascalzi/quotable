@@ -23,7 +23,9 @@ $(document).ready(function() {
         // May 9
         '&ldquo;Glory is fleeting, but obscurity is forever.&rdquo; <br /> &mdash;Napoleon Bonaparte',
         // May 10
-        '&ldquo;The love of a mother is the veil of a softer light between the heart and the heavenly Father.&rdquo; <br /> &mdash;Samuel Taylor Coleridge'
+        '&ldquo;The love of a mother is the veil of a softer light between the heart and the heavenly Father.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
+        // May 11
+        '&ldquo;Necessity dispenseth with decorum.&rdquo; <br /> &mdash;Thomas Carlyle'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -57,7 +59,9 @@ $(document).ready(function() {
         // May 9
         '&ldquo;Your words are my food, your breath my wine. You are everything to me.&rdquo; <br /> &mdash;Sarah Bernhardt',
         // May 10
-        '&ldquo;There is a woman at the beginning of all great things.&rdquo; <br /> &mdash;Alphonse de Lamartine'
+        '&ldquo;There is a woman at the beginning of all great things.&rdquo; <br /> &mdash;Alphonse de Lamartine',
+        // May 11
+        '&ldquo;Love begins by taking care of the closest ones &ndash; the ones at home.&rdquo; <br /> &mdash;Mother Teresa'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -91,7 +95,9 @@ $(document).ready(function() {
         // May 9
         '&ldquo;Great art is never produced for its own sake. It is too difficult to be worth the effort.&rdquo; <br /> &mdash;Robert Quillen',
         // May 10
-        '&ldquo;I owe much to mother. She had an expert&rsquo;s understanding, but also approached art emotionally.&rdquo; <br /> &mdash;David Rockefeller'
+        '&ldquo;I owe much to mother. She had an expert&rsquo;s understanding, but also approached art emotionally.&rdquo; <br /> &mdash;David Rockefeller',
+        // May 11
+        '&ldquo;To create one&rsquo;s world in any of the arts takes courage.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
