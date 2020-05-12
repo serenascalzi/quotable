@@ -25,7 +25,9 @@ $(document).ready(function() {
         // May 10
         '&ldquo;The love of a mother is the veil of a softer light between the heart and the heavenly Father.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
         // May 11
-        '&ldquo;Necessity dispenseth with decorum.&rdquo; <br /> &mdash;Thomas Carlyle'
+        '&ldquo;Necessity dispenseth with decorum.&rdquo; <br /> &mdash;Thomas Carlyle',
+        // May 12
+        '&ldquo;He who angers you conquers you.&rdquo; <br /> &mdash;Elizabeth Kenny'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // May 10
         '&ldquo;There is a woman at the beginning of all great things.&rdquo; <br /> &mdash;Alphonse de Lamartine',
         // May 11
-        '&ldquo;Love begins by taking care of the closest ones &ndash; the ones at home.&rdquo; <br /> &mdash;Mother Teresa'
+        '&ldquo;Love begins by taking care of the closest ones &ndash; the ones at home.&rdquo; <br /> &mdash;Mother Teresa',
+        // May 12
+        '&ldquo;Jealousy contains more of self-love than of love.&rdquo; <br /> &mdash;Francois de La Rochefoucauld'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // May 10
         '&ldquo;I owe much to mother. She had an expert&rsquo;s understanding, but also approached art emotionally.&rdquo; <br /> &mdash;David Rockefeller',
         // May 11
-        '&ldquo;To create one&rsquo;s world in any of the arts takes courage.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe'
+        '&ldquo;To create one&rsquo;s world in any of the arts takes courage.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe',
+        // May 12
+        '&ldquo;I like to pretend that my art has nothing to do with me.&rdquo; <br /> &mdash;Roy Lichtenstein'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
