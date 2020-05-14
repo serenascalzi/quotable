@@ -27,7 +27,9 @@ $(document).ready(function() {
         // May 11
         '&ldquo;Necessity dispenseth with decorum.&rdquo; <br /> &mdash;Thomas Carlyle',
         // May 12
-        '&ldquo;He who angers you conquers you.&rdquo; <br /> &mdash;Elizabeth Kenny'
+        '&ldquo;He who angers you conquers you.&rdquo; <br /> &mdash;Elizabeth Kenny',
+        // May 13
+        '&ldquo;Everything popular is wrong.&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // May 11
         '&ldquo;Love begins by taking care of the closest ones &ndash; the ones at home.&rdquo; <br /> &mdash;Mother Teresa',
         // May 12
-        '&ldquo;Jealousy contains more of self-love than of love.&rdquo; <br /> &mdash;Francois de La Rochefoucauld'
+        '&ldquo;Jealousy contains more of self-love than of love.&rdquo; <br /> &mdash;Francois de La Rochefoucauld',
+        // May 13
+        '&ldquo;The most important thing a father can do for his children is to love their mother.&rdquo; <br /> &mdash;Theodore Hesburgh'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // May 11
         '&ldquo;To create one&rsquo;s world in any of the arts takes courage.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe',
         // May 12
-        '&ldquo;I like to pretend that my art has nothing to do with me.&rdquo; <br /> &mdash;Roy Lichtenstein'
+        '&ldquo;I like to pretend that my art has nothing to do with me.&rdquo; <br /> &mdash;Roy Lichtenstein',
+        // May 13
+        '&ldquo;The temple of art is built in words.&rdquo; <br /> &mdash;Josiah Gilbert Holland'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
