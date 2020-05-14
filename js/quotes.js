@@ -29,7 +29,9 @@ $(document).ready(function() {
         // May 12
         '&ldquo;He who angers you conquers you.&rdquo; <br /> &mdash;Elizabeth Kenny',
         // May 13
-        '&ldquo;Everything popular is wrong.&rdquo; <br /> &mdash;Oscar Wilde'
+        '&ldquo;Everything popular is wrong.&rdquo; <br /> &mdash;Oscar Wilde',
+        // May 14
+        '&ldquo;Real happiness is cheap enough, yet how dearly we pay for its counterfeit.&rdquo; <br /> &mdash;Hosea Ballou'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // May 12
         '&ldquo;Jealousy contains more of self-love than of love.&rdquo; <br /> &mdash;Francois de La Rochefoucauld',
         // May 13
-        '&ldquo;The most important thing a father can do for his children is to love their mother.&rdquo; <br /> &mdash;Theodore Hesburgh'
+        '&ldquo;The most important thing a father can do for his children is to love their mother.&rdquo; <br /> &mdash;Theodore Hesburgh',
+        // May 14
+        '&ldquo;It is impossible to repent of love. The sin of love does not exist.&rdquo; <br /> &mdash;Muriel Spark'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // May 12
         '&ldquo;I like to pretend that my art has nothing to do with me.&rdquo; <br /> &mdash;Roy Lichtenstein',
         // May 13
-        '&ldquo;The temple of art is built in words.&rdquo; <br /> &mdash;Josiah Gilbert Holland'
+        '&ldquo;The temple of art is built in words.&rdquo; <br /> &mdash;Josiah Gilbert Holland',
+        // May 14
+        '&ldquo;If we could but paint with the hand what we see with the eye.&rdquo; <br /> &mdash;Honore de Balzac'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
