@@ -31,7 +31,9 @@ $(document).ready(function() {
         // May 13
         '&ldquo;Everything popular is wrong.&rdquo; <br /> &mdash;Oscar Wilde',
         // May 14
-        '&ldquo;Real happiness is cheap enough, yet how dearly we pay for its counterfeit.&rdquo; <br /> &mdash;Hosea Ballou'
+        '&ldquo;Real happiness is cheap enough, yet how dearly we pay for its counterfeit.&rdquo; <br /> &mdash;Hosea Ballou',
+        // May 15
+        '&ldquo;It is not the mountain we conquer but ourselves.&rdquo; <br /> &mdash;Edmund Hillary'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // May 13
         '&ldquo;The most important thing a father can do for his children is to love their mother.&rdquo; <br /> &mdash;Theodore Hesburgh',
         // May 14
-        '&ldquo;It is impossible to repent of love. The sin of love does not exist.&rdquo; <br /> &mdash;Muriel Spark'
+        '&ldquo;It is impossible to repent of love. The sin of love does not exist.&rdquo; <br /> &mdash;Muriel Spark',
+        // May 15
+        '&ldquo;There is only one real deprivation&hellip; and that is not to be able to give one&rsquo;s gifts to those one loves most.&rdquo; <br /> &mdash;May Sarton'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // May 13
         '&ldquo;The temple of art is built in words.&rdquo; <br /> &mdash;Josiah Gilbert Holland',
         // May 14
-        '&ldquo;If we could but paint with the hand what we see with the eye.&rdquo; <br /> &mdash;Honore de Balzac'
+        '&ldquo;If we could but paint with the hand what we see with the eye.&rdquo; <br /> &mdash;Honore de Balzac',
+        // May 15
+        '&ldquo;Architecture is the art of how to waste space.&rdquo; <br /> &mdash;Philip Johnson'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
