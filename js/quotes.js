@@ -33,7 +33,9 @@ $(document).ready(function() {
         // May 14
         '&ldquo;Real happiness is cheap enough, yet how dearly we pay for its counterfeit.&rdquo; <br /> &mdash;Hosea Ballou',
         // May 15
-        '&ldquo;It is not the mountain we conquer but ourselves.&rdquo; <br /> &mdash;Edmund Hillary'
+        '&ldquo;It is not the mountain we conquer but ourselves.&rdquo; <br /> &mdash;Edmund Hillary',
+        // May 16
+        '&ldquo;Words are often seen hunting for an idea, but ideas are never seen hunting for words.&rdquo; <br /> &mdash;Josh Billings'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // May 14
         '&ldquo;It is impossible to repent of love. The sin of love does not exist.&rdquo; <br /> &mdash;Muriel Spark',
         // May 15
-        '&ldquo;There is only one real deprivation&hellip; and that is not to be able to give one&rsquo;s gifts to those one loves most.&rdquo; <br /> &mdash;May Sarton'
+        '&ldquo;There is only one real deprivation&hellip; and that is not to be able to give one&rsquo;s gifts to those one loves most.&rdquo; <br /> &mdash;May Sarton',
+        // May 16
+        '&ldquo;Love is an energy which exists of itself. It is its own value.&rdquo; <br /> &mdash;Thornton Wilder'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // May 14
         '&ldquo;If we could but paint with the hand what we see with the eye.&rdquo; <br /> &mdash;Honore de Balzac',
         // May 15
-        '&ldquo;Architecture is the art of how to waste space.&rdquo; <br /> &mdash;Philip Johnson'
+        '&ldquo;Architecture is the art of how to waste space.&rdquo; <br /> &mdash;Philip Johnson',
+        // May 16
+        '&ldquo;Anything simple always interests me.&rdquo; <br /> &mdash;David Hockney'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
