@@ -37,7 +37,9 @@ $(document).ready(function() {
         // May 16
         '&ldquo;Words are often seen hunting for an idea, but ideas are never seen hunting for words.&rdquo; <br /> &mdash;Josh Billings',
         // May 17
-        '&ldquo;Trouble shared is trouble halved.&rdquo; <br /> &mdash;Lee Iacocca'
+        '&ldquo;Trouble shared is trouble halved.&rdquo; <br /> &mdash;Lee Iacocca',
+        // May 18
+        '&ldquo;If you can&rsquo;t stand the heat, get out of the kitchen.&rdquo; <br /> &mdash;Harry S. Truman'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // May 16
         '&ldquo;Love is an energy which exists of itself. It is its own value.&rdquo; <br /> &mdash;Thornton Wilder',
         // May 17
-        '&ldquo;Love and dignity cannot share the same abode.&rdquo; <br /> &mdash;Ovid'
+        '&ldquo;Love and dignity cannot share the same abode.&rdquo; <br /> &mdash;Ovid',
+        // May 18
+        '&ldquo;Now a soft kiss &ndash; Aye, by that kiss, I vow an endless bliss.&rdquo; <br /> &mdash;John Keats'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // May 16
         '&ldquo;Anything simple always interests me.&rdquo; <br /> &mdash;David Hockney',
         // May 17
-        '&ldquo;Painting and writing are solitary arts.&rdquo; <br /> &mdash;Conrad Hall'
+        '&ldquo;Painting and writing are solitary arts.&rdquo; <br /> &mdash;Conrad Hall',
+        // May 18
+        '&ldquo;Art is not a study of positive reality, it is the seeking for ideal truth.&rdquo; <br /> &mdash;John Ruskin'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
