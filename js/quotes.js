@@ -41,7 +41,9 @@ $(document).ready(function() {
         // May 18
         '&ldquo;If you can&rsquo;t stand the heat, get out of the kitchen.&rdquo; <br /> &mdash;Harry S. Truman',
         // May 19
-        '&ldquo;Nothing makes one feel so strong as a call for help.&rdquo; <br /> &mdash;Pope Paul VI'
+        '&ldquo;Nothing makes one feel so strong as a call for help.&rdquo; <br /> &mdash;Pope Paul VI',
+        // May 20
+        '&ldquo;Fear is the mother of foresight.&rdquo; <br /> &mdash;Thomas Hardy'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // May 18
         '&ldquo;Now a soft kiss &ndash; Aye, by that kiss, I vow an endless bliss.&rdquo; <br /> &mdash;John Keats',
         // May 19
-        '&ldquo;Hell, madam, is to love no longer.&rdquo; <br /> &mdash;Georges Bernanos'
+        '&ldquo;Hell, madam, is to love no longer.&rdquo; <br /> &mdash;Georges Bernanos',
+        // May 20
+        '&ldquo;It is impossible to love and to be wise.&rdquo; <br /> &mdash;Francis Bacon'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // May 18
         '&ldquo;Art is not a study of positive reality, it is the seeking for ideal truth.&rdquo; <br /> &mdash;John Ruskin',
         // May 19
-        '&ldquo;Impressionism is the newspaper of the soul.&rdquo; <br /> &mdash;Henri Matisse'
+        '&ldquo;Impressionism is the newspaper of the soul.&rdquo; <br /> &mdash;Henri Matisse',
+        // May 20
+        '&ldquo;What I wanted to do was to paint sunlight on the side of a house.&rdquo; <br /> &mdash;Edward Hopper'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
