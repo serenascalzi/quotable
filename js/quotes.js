@@ -45,7 +45,9 @@ $(document).ready(function() {
         // May 20
         '&ldquo;Fear is the mother of foresight.&rdquo; <br /> &mdash;Thomas Hardy',
         // May 21
-        '&ldquo;We are all gifted. That is our inheritance.&rdquo; <br /> &mdash;Ethel Waters'
+        '&ldquo;We are all gifted. That is our inheritance.&rdquo; <br /> &mdash;Ethel Waters',
+        // May 22
+        '&ldquo;It&rsquo;s easy to make a buck. It&rsquo;s a lot tougher to make a difference.&rdquo; <br /> &mdash;Tom Brokaw'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -101,7 +103,9 @@ $(document).ready(function() {
         // May 20
         '&ldquo;It is impossible to love and to be wise.&rdquo; <br /> &mdash;Francis Bacon',
         // May 21
-        '&ldquo;Love is the outreach of self toward completion.&rdquo; <br /> &mdash;Ralph W. Sockman'
+        '&ldquo;Love is the outreach of self toward completion.&rdquo; <br /> &mdash;Ralph W. Sockman',
+        // May 22
+        '&ldquo;What is love? It is the morning and the evening star.&rdquo; <br /> &mdash;Sinclair Lewis'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -157,7 +161,9 @@ $(document).ready(function() {
         // May 20
         '&ldquo;What I wanted to do was to paint sunlight on the side of a house.&rdquo; <br /> &mdash;Edward Hopper',
         // May 21
-        '&ldquo;Art is like a border of flowers along the course of civilization.&rdquo; <br /> &mdash;Lincoln Steffens'
+        '&ldquo;Art is like a border of flowers along the course of civilization.&rdquo; <br /> &mdash;Lincoln Steffens',
+        // May 22
+        '&ldquo;Art is the symbol of the two noblest human efforts: to construct and to refrain from destruction.&rdquo; <br /> &mdash;Evelyn Waugh'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
