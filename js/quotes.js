@@ -47,7 +47,9 @@ $(document).ready(function() {
         // May 21
         '&ldquo;We are all gifted. That is our inheritance.&rdquo; <br /> &mdash;Ethel Waters',
         // May 22
-        '&ldquo;It&rsquo;s easy to make a buck. It&rsquo;s a lot tougher to make a difference.&rdquo; <br /> &mdash;Tom Brokaw'
+        '&ldquo;It&rsquo;s easy to make a buck. It&rsquo;s a lot tougher to make a difference.&rdquo; <br /> &mdash;Tom Brokaw',
+        // May 23
+        '&ldquo;Time is but the stream I go a-fishing in.&rdquo; <br /> &mdash;Henry David Thoreau'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // May 21
         '&ldquo;Love is the outreach of self toward completion.&rdquo; <br /> &mdash;Ralph W. Sockman',
         // May 22
-        '&ldquo;What is love? It is the morning and the evening star.&rdquo; <br /> &mdash;Sinclair Lewis'
+        '&ldquo;What is love? It is the morning and the evening star.&rdquo; <br /> &mdash;Sinclair Lewis',
+        // May 23
+        '&ldquo;The fate of love is that it always seems too little or too much.&rdquo; <br /> &mdash;Amelia Barr'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // May 21
         '&ldquo;Art is like a border of flowers along the course of civilization.&rdquo; <br /> &mdash;Lincoln Steffens',
         // May 22
-        '&ldquo;Art is the symbol of the two noblest human efforts: to construct and to refrain from destruction.&rdquo; <br /> &mdash;Evelyn Waugh'
+        '&ldquo;Art is the symbol of the two noblest human efforts: to construct and to refrain from destruction.&rdquo; <br /> &mdash;Evelyn Waugh',
+        // May 23
+        '&ldquo;The counterfeit and counterpart of Nature is reproduced in art.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
