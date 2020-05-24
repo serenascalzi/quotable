@@ -49,7 +49,9 @@ $(document).ready(function() {
         // May 22
         '&ldquo;It&rsquo;s easy to make a buck. It&rsquo;s a lot tougher to make a difference.&rdquo; <br /> &mdash;Tom Brokaw',
         // May 23
-        '&ldquo;Time is but the stream I go a-fishing in.&rdquo; <br /> &mdash;Henry David Thoreau'
+        '&ldquo;Time is but the stream I go a-fishing in.&rdquo; <br /> &mdash;Henry David Thoreau',
+        // May 24
+        '&ldquo;Either move or be moved.&rdquo; <br /> &mdash;Ezra Pound'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // May 22
         '&ldquo;What is love? It is the morning and the evening star.&rdquo; <br /> &mdash;Sinclair Lewis',
         // May 23
-        '&ldquo;The fate of love is that it always seems too little or too much.&rdquo; <br /> &mdash;Amelia Barr'
+        '&ldquo;The fate of love is that it always seems too little or too much.&rdquo; <br /> &mdash;Amelia Barr',
+        // May 24
+        '&ldquo;The love of our private friends is the only preparatory exercise for the love of all men.&rdquo; <br /> &mdash;John Henry Newman'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // May 22
         '&ldquo;Art is the symbol of the two noblest human efforts: to construct and to refrain from destruction.&rdquo; <br /> &mdash;Evelyn Waugh',
         // May 23
-        '&ldquo;The counterfeit and counterpart of Nature is reproduced in art.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow'
+        '&ldquo;The counterfeit and counterpart of Nature is reproduced in art.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
+        // May 24
+        '&ldquo;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&rdquo; <br /> &mdash;Henry Ward Beecher'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
