@@ -53,7 +53,9 @@ $(document).ready(function() {
         // May 24
         '&ldquo;Either move or be moved.&rdquo; <br /> &mdash;Ezra Pound',
         // May 25
-        '&ldquo;You must be the change you wish to see in the world.&rdquo; <br /> &mdash;Mahatma Gandhi'
+        '&ldquo;You must be the change you wish to see in the world.&rdquo; <br /> &mdash;Mahatma Gandhi',
+        // May 26
+        '&ldquo;Courage is fear holding on a minute longer.&rdquo; <br /> &mdash;George S. Patton'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // May 24
         '&ldquo;The love of our private friends is the only preparatory exercise for the love of all men.&rdquo; <br /> &mdash;John Henry Newman',
         // May 25
-        '&ldquo;Say what you will, &rsquo;tis better to be left than never to have been loved.&rdquo; <br /> &mdash;William Congreve'
+        '&ldquo;Say what you will, &rsquo;tis better to be left than never to have been loved.&rdquo; <br /> &mdash;William Congreve',
+        // May 26
+        '&ldquo;When love is at its best, one loves so much that he cannot forget.&rdquo; <br /> &mdash;Helen Hunt Jackson'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // May 24
         '&ldquo;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&rdquo; <br /> &mdash;Henry Ward Beecher',
         // May 25
-        '&ldquo;The defining function of the artist is to cherish consciousness.&rdquo; <br /> &mdash;Max Eastman'
+        '&ldquo;The defining function of the artist is to cherish consciousness.&rdquo; <br /> &mdash;Max Eastman',
+        // May 26
+        '&ldquo;Painting, n.: The art of protecting flat surfaces from the weather, and exposing them to the critic.&rdquo; <br /> &mdash;Ambrose Bierce'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
