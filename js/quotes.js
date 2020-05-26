@@ -51,7 +51,9 @@ $(document).ready(function() {
         // May 23
         '&ldquo;Time is but the stream I go a-fishing in.&rdquo; <br /> &mdash;Henry David Thoreau',
         // May 24
-        '&ldquo;Either move or be moved.&rdquo; <br /> &mdash;Ezra Pound'
+        '&ldquo;Either move or be moved.&rdquo; <br /> &mdash;Ezra Pound',
+        // May 25
+        '&ldquo;You must be the change you wish to see in the world.&rdquo; <br /> &mdash;Mahatma Gandhi'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // May 23
         '&ldquo;The fate of love is that it always seems too little or too much.&rdquo; <br /> &mdash;Amelia Barr',
         // May 24
-        '&ldquo;The love of our private friends is the only preparatory exercise for the love of all men.&rdquo; <br /> &mdash;John Henry Newman'
+        '&ldquo;The love of our private friends is the only preparatory exercise for the love of all men.&rdquo; <br /> &mdash;John Henry Newman',
+        // May 25
+        '&ldquo;Say what you will, &rsquo;tis better to be left than never to have been loved.&rdquo; <br /> &mdash;William Congreve'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // May 23
         '&ldquo;The counterfeit and counterpart of Nature is reproduced in art.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
         // May 24
-        '&ldquo;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&rdquo; <br /> &mdash;Henry Ward Beecher'
+        '&ldquo;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&rdquo; <br /> &mdash;Henry Ward Beecher',
+        // May 25
+        '&ldquo;The defining function of the artist is to cherish consciousness.&rdquo; <br /> &mdash;Max Eastman'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
