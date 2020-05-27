@@ -55,7 +55,9 @@ $(document).ready(function() {
         // May 25
         '&ldquo;You must be the change you wish to see in the world.&rdquo; <br /> &mdash;Mahatma Gandhi',
         // May 26
-        '&ldquo;Courage is fear holding on a minute longer.&rdquo; <br /> &mdash;George S. Patton'
+        '&ldquo;Courage is fear holding on a minute longer.&rdquo; <br /> &mdash;George S. Patton',
+        // May 27
+        '&ldquo;A friend may well be reckoned the masterpiece of nature.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // May 25
         '&ldquo;Say what you will, &rsquo;tis better to be left than never to have been loved.&rdquo; <br /> &mdash;William Congreve',
         // May 26
-        '&ldquo;When love is at its best, one loves so much that he cannot forget.&rdquo; <br /> &mdash;Helen Hunt Jackson'
+        '&ldquo;When love is at its best, one loves so much that he cannot forget.&rdquo; <br /> &mdash;Helen Hunt Jackson',
+        // May 27
+        '&ldquo;One does not fall in love; one grows into love, and love grows in him.&rdquo; <br /> &mdash;Karl A. Menninger'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // May 25
         '&ldquo;The defining function of the artist is to cherish consciousness.&rdquo; <br /> &mdash;Max Eastman',
         // May 26
-        '&ldquo;Painting, n.: The art of protecting flat surfaces from the weather, and exposing them to the critic.&rdquo; <br /> &mdash;Ambrose Bierce'
+        '&ldquo;Painting, n.: The art of protecting flat surfaces from the weather, and exposing them to the critic.&rdquo; <br /> &mdash;Ambrose Bierce',
+        // May 27
+        '&ldquo;Time and memory are true artists; they remould reality nearer to the heart&rsquo;s desire.&rdquo; <br /> &mdash;John Dewey'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
