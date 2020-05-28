@@ -57,7 +57,9 @@ $(document).ready(function() {
         // May 26
         '&ldquo;Courage is fear holding on a minute longer.&rdquo; <br /> &mdash;George S. Patton',
         // May 27
-        '&ldquo;A friend may well be reckoned the masterpiece of nature.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;A friend may well be reckoned the masterpiece of nature.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        // May 28
+        '&ldquo;As America celebrates Memorial Day, we pay tribute to those who have given their lives in our nation&rsquo;s wars.&rdquo; <br /> &mdash;John M. McHugh'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // May 26
         '&ldquo;When love is at its best, one loves so much that he cannot forget.&rdquo; <br /> &mdash;Helen Hunt Jackson',
         // May 27
-        '&ldquo;One does not fall in love; one grows into love, and love grows in him.&rdquo; <br /> &mdash;Karl A. Menninger'
+        '&ldquo;One does not fall in love; one grows into love, and love grows in him.&rdquo; <br /> &mdash;Karl A. Menninger',
+        // May 28
+        '&ldquo;It is love, not reason, that is stronger than death.&rdquo; <br /> &mdash;Thomas Mann'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // May 26
         '&ldquo;Painting, n.: The art of protecting flat surfaces from the weather, and exposing them to the critic.&rdquo; <br /> &mdash;Ambrose Bierce',
         // May 27
-        '&ldquo;Time and memory are true artists; they remould reality nearer to the heart&rsquo;s desire.&rdquo; <br /> &mdash;John Dewey'
+        '&ldquo;Time and memory are true artists; they remould reality nearer to the heart&rsquo;s desire.&rdquo; <br /> &mdash;John Dewey',
+        // May 28
+        '&ldquo;I paint with shapes.&rdquo; <br /> &mdash;Alexander Calder'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
