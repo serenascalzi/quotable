@@ -59,7 +59,9 @@ $(document).ready(function() {
         // May 27
         '&ldquo;A friend may well be reckoned the masterpiece of nature.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         // May 28
-        '&ldquo;As America celebrates Memorial Day, we pay tribute to those who have given their lives in our nation&rsquo;s wars.&rdquo; <br /> &mdash;John M. McHugh'
+        '&ldquo;As America celebrates Memorial Day, we pay tribute to those who have given their lives in our nation&rsquo;s wars.&rdquo; <br /> &mdash;John M. McHugh',
+        // May 29
+        '&ldquo;It is an ironic habit of human beings to run faster when we have lost our way.&rdquo; <br /> &mdash;Rollo May'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // May 27
         '&ldquo;One does not fall in love; one grows into love, and love grows in him.&rdquo; <br /> &mdash;Karl A. Menninger',
         // May 28
-        '&ldquo;It is love, not reason, that is stronger than death.&rdquo; <br /> &mdash;Thomas Mann'
+        '&ldquo;It is love, not reason, that is stronger than death.&rdquo; <br /> &mdash;Thomas Mann',
+        // May 29
+        '&ldquo;If you don&rsquo;t love me, it does not matter, anyway I can love for both of us.&rdquo; <br /> &mdash;Stendhal'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // May 27
         '&ldquo;Time and memory are true artists; they remould reality nearer to the heart&rsquo;s desire.&rdquo; <br /> &mdash;John Dewey',
         // May 28
-        '&ldquo;I paint with shapes.&rdquo; <br /> &mdash;Alexander Calder'
+        '&ldquo;I paint with shapes.&rdquo; <br /> &mdash;Alexander Calder',
+        // May 29
+        '&ldquo;Art is anything you can get away with.&rdquo; <br /> &mdash;Marshall McLuhan'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
