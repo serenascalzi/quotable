@@ -61,7 +61,9 @@ $(document).ready(function() {
         // May 28
         '&ldquo;As America celebrates Memorial Day, we pay tribute to those who have given their lives in our nation&rsquo;s wars.&rdquo; <br /> &mdash;John M. McHugh',
         // May 29
-        '&ldquo;It is an ironic habit of human beings to run faster when we have lost our way.&rdquo; <br /> &mdash;Rollo May'
+        '&ldquo;It is an ironic habit of human beings to run faster when we have lost our way.&rdquo; <br /> &mdash;Rollo May',
+        // May 30
+        '&ldquo;Hope is independent of the apparatus of logic.&rdquo; <br /> &mdash;Norman Cousins'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // May 28
         '&ldquo;It is love, not reason, that is stronger than death.&rdquo; <br /> &mdash;Thomas Mann',
         // May 29
-        '&ldquo;If you don&rsquo;t love me, it does not matter, anyway I can love for both of us.&rdquo; <br /> &mdash;Stendhal'
+        '&ldquo;If you don&rsquo;t love me, it does not matter, anyway I can love for both of us.&rdquo; <br /> &mdash;Stendhal',
+        // May 30
+        '&ldquo;A pair of powerful spectacles has sometimes sufficed to cure a person in love.&rdquo; <br /> &mdash;Friedrich Nietzsche'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // May 28
         '&ldquo;I paint with shapes.&rdquo; <br /> &mdash;Alexander Calder',
         // May 29
-        '&ldquo;Art is anything you can get away with.&rdquo; <br /> &mdash;Marshall McLuhan'
+        '&ldquo;Art is anything you can get away with.&rdquo; <br /> &mdash;Marshall McLuhan',
+        // May 30
+        '&ldquo;Not everybody trusts paintings but people believe photographs.&rdquo; <br /> &mdash;Ansel Adams'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
