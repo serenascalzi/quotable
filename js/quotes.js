@@ -63,7 +63,9 @@ $(document).ready(function() {
         // May 29
         '&ldquo;It is an ironic habit of human beings to run faster when we have lost our way.&rdquo; <br /> &mdash;Rollo May',
         // May 30
-        '&ldquo;Hope is independent of the apparatus of logic.&rdquo; <br /> &mdash;Norman Cousins'
+        '&ldquo;Hope is independent of the apparatus of logic.&rdquo; <br /> &mdash;Norman Cousins',
+        // May 31
+        '&ldquo;The most satisfying thing in life is to have been able to give a large part of one&rsquo;s self to others.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -137,7 +139,9 @@ $(document).ready(function() {
         // May 29
         '&ldquo;If you don&rsquo;t love me, it does not matter, anyway I can love for both of us.&rdquo; <br /> &mdash;Stendhal',
         // May 30
-        '&ldquo;A pair of powerful spectacles has sometimes sufficed to cure a person in love.&rdquo; <br /> &mdash;Friedrich Nietzsche'
+        '&ldquo;A pair of powerful spectacles has sometimes sufficed to cure a person in love.&rdquo; <br /> &mdash;Friedrich Nietzsche',
+        // May 31
+        '&ldquo;Love alone could waken love.&rdquo; <br /> &mdash;Pearl S. Buck'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -211,7 +215,9 @@ $(document).ready(function() {
         // May 29
         '&ldquo;Art is anything you can get away with.&rdquo; <br /> &mdash;Marshall McLuhan',
         // May 30
-        '&ldquo;Not everybody trusts paintings but people believe photographs.&rdquo; <br /> &mdash;Ansel Adams'
+        '&ldquo;Not everybody trusts paintings but people believe photographs.&rdquo; <br /> &mdash;Ansel Adams',
+        // May 31
+        '&ldquo;The perfection of art is to conceal art.&rdquo; <br /> &mdash;Quintilian'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
