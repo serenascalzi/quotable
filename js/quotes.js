@@ -13,7 +13,9 @@ $(document).ready(function() {
         // June 4
         '&ldquo;Because things are the way they are, things will not stay the way they are.&rdquo; <br /> &mdash;Bertolt Brecht',
         // June 5
-        '&ldquo;Our happiness depends on wisdom all the way.&rdquo; <br /> &mdash;Sophocles'
+        '&ldquo;Our happiness depends on wisdom all the way.&rdquo; <br /> &mdash;Sophocles',
+        // June 6
+        '&ldquo;Life appears to me too short to be spent in nursing animosity, or registering wrongs.&rdquo; <br /> &mdash;Charlotte Bronte'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -37,7 +39,9 @@ $(document).ready(function() {
         // June 4
         '&ldquo;Give me love and work &ndash; these two only.&rdquo; <br /> &mdash;William Morris',
         // June 5
-        '&ldquo;To have felt too much is to end in feeling nothing.&rdquo; <br /> &mdash;Dorothy Thompson'
+        '&ldquo;To have felt too much is to end in feeling nothing.&rdquo; <br /> &mdash;Dorothy Thompson',
+        // June 6
+        '&ldquo;Love and desire are the spirit&rsquo;s wings to great deeds.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -61,7 +65,9 @@ $(document).ready(function() {
         // June 4
         '&ldquo;Art is the desire of a man to express himself, to record the reactions of his personality to the world he lives in.&rdquo; <br /> &mdash;Amy Lowell',
         // June 5
-        '&ldquo;An artist is a dreamer consenting to dream of the actual world.&rdquo; <br /> &mdash;George Santayana'
+        '&ldquo;An artist is a dreamer consenting to dream of the actual world.&rdquo; <br /> &mdash;George Santayana',
+        // June 6
+        '&ldquo;There are always two people in every picture: the photographer and the viewer.&rdquo; <br /> &mdash;Ansel Adams'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
