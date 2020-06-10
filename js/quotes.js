@@ -21,7 +21,9 @@ $(document).ready(function() {
         // June 8
         '&ldquo;The backbone of surprise is fusing speed with secrecy.&rdquo; <br /> &mdash;Carl von Clausewitz',
         // June 9
-        '&ldquo;Life is a long lesson in humility.&rdquo; <br /> &mdash;James M. Barrie'
+        '&ldquo;Life is a long lesson in humility.&rdquo; <br /> &mdash;James M. Barrie',
+        // June 10
+        '&ldquo;Never deprive someone of hope; it might be all they have.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // June 8
         '&ldquo;Love is a fruit in season at all times, and within reach of every hand.&rdquo; <br /> &mdash;Mother Teresa',
         // June 9
-        '&ldquo;I don&rsquo;t know that love changes. People change. Circumstances change.&rdquo; <br /> &mdash;Nicholas Sparks'
+        '&ldquo;I don&rsquo;t know that love changes. People change. Circumstances change.&rdquo; <br /> &mdash;Nicholas Sparks',
+        // June 10
+        '&ldquo;Love can be unselfish, in the sense of being benevolent and generous, without being selfless.&rdquo; <br /> &mdash;Mortimer Adler'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // June 8
         '&ldquo;Art is not a handicraft, it is the transmission of feeling the artist has experienced.&rdquo; <br /> &mdash;Leo Tolstoy',
         // June 9
-        '&ldquo;A guilty conscience needs to confess. A work of art is a confession.&rdquo; <br /> &mdash;Albert Camus'
+        '&ldquo;A guilty conscience needs to confess. A work of art is a confession.&rdquo; <br /> &mdash;Albert Camus',
+        // June 10
+        '&ldquo;Art is the signature of civilizations.&rdquo; <br /> &mdash;Beverly Sills'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
