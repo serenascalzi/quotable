@@ -25,7 +25,9 @@ $(document).ready(function() {
         // June 10
         '&ldquo;Never deprive someone of hope; it might be all they have.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.',
         // June 11
-        '&ldquo;A true friend never gets in your way unless you happen to be going down.&rdquo; <br /> &mdash;Arnold H. Glasow'
+        '&ldquo;A true friend never gets in your way unless you happen to be going down.&rdquo; <br /> &mdash;Arnold H. Glasow',
+        // June 12
+        '&ldquo;Each day is the scholar of yesterday.&rdquo; <br /> &mdash;Publilius Syrus'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // June 10
         '&ldquo;Love can be unselfish, in the sense of being benevolent and generous, without being selfless.&rdquo; <br /> &mdash;Mortimer Adler',
         // June 11
-        '&ldquo;But I will never stop helping and loving people the way Jesus said to.&rdquo; <br /> &mdash;Michael Jackson'
+        '&ldquo;But I will never stop helping and loving people the way Jesus said to.&rdquo; <br /> &mdash;Michael Jackson',
+        // June 12
+        '&ldquo;Imagination is at the root of much that passes for love.&rdquo; <br /> &mdash;Gilbert Parker'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // June 10
         '&ldquo;Art is the signature of civilizations.&rdquo; <br /> &mdash;Beverly Sills',
         // June 11
-        '&ldquo;The highest art is always the most religious, and the greatest artist is always a devout person.&rdquo; <br /> &mdash;Abraham Lincoln'
+        '&ldquo;The highest art is always the most religious, and the greatest artist is always a devout person.&rdquo; <br /> &mdash;Abraham Lincoln',
+        // June 12
+        '&ldquo;An artist must be a reactionary. He has to stand out against the tenor of the age and not go flopping along.&rdquo; <br /> &mdash;Andre Maurois'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
