@@ -27,7 +27,9 @@ $(document).ready(function() {
         // June 11
         '&ldquo;A true friend never gets in your way unless you happen to be going down.&rdquo; <br /> &mdash;Arnold H. Glasow',
         // June 12
-        '&ldquo;Each day is the scholar of yesterday.&rdquo; <br /> &mdash;Publilius Syrus'
+        '&ldquo;Each day is the scholar of yesterday.&rdquo; <br /> &mdash;Publilius Syrus',
+        // June 13
+        '&ldquo;The hardest arithmetic to master is that which enables us to count our blessings.&rdquo; <br /> &mdash;Eric Hoffer'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // June 11
         '&ldquo;But I will never stop helping and loving people the way Jesus said to.&rdquo; <br /> &mdash;Michael Jackson',
         // June 12
-        '&ldquo;Imagination is at the root of much that passes for love.&rdquo; <br /> &mdash;Gilbert Parker'
+        '&ldquo;Imagination is at the root of much that passes for love.&rdquo; <br /> &mdash;Gilbert Parker',
+        // June 13
+        '&ldquo;Love is the poetry of the senses.&rdquo; <br /> &mdash;Honore de Balzac'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // June 11
         '&ldquo;The highest art is always the most religious, and the greatest artist is always a devout person.&rdquo; <br /> &mdash;Abraham Lincoln',
         // June 12
-        '&ldquo;An artist must be a reactionary. He has to stand out against the tenor of the age and not go flopping along.&rdquo; <br /> &mdash;Andre Maurois'
+        '&ldquo;An artist must be a reactionary. He has to stand out against the tenor of the age and not go flopping along.&rdquo; <br /> &mdash;Andre Maurois',
+        // June 13
+        '&ldquo;Art is the most intense mode of individualism that the world has known.&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
