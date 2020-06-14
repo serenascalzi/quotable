@@ -29,7 +29,9 @@ $(document).ready(function() {
         // June 12
         '&ldquo;Each day is the scholar of yesterday.&rdquo; <br /> &mdash;Publilius Syrus',
         // June 13
-        '&ldquo;The hardest arithmetic to master is that which enables us to count our blessings.&rdquo; <br /> &mdash;Eric Hoffer'
+        '&ldquo;The hardest arithmetic to master is that which enables us to count our blessings.&rdquo; <br /> &mdash;Eric Hoffer',
+        // June 14
+        '&ldquo;Genius ain&rsquo;t anything more than elegant common sense.&rdquo; <br /> &mdash;Josh Billings'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // June 12
         '&ldquo;Imagination is at the root of much that passes for love.&rdquo; <br /> &mdash;Gilbert Parker',
         // June 13
-        '&ldquo;Love is the poetry of the senses.&rdquo; <br /> &mdash;Honore de Balzac'
+        '&ldquo;Love is the poetry of the senses.&rdquo; <br /> &mdash;Honore de Balzac',
+        // June 14
+        '&ldquo;Choose your love, Love your choice.&rdquo; <br /> &mdash;Thomas S. Monson'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // June 12
         '&ldquo;An artist must be a reactionary. He has to stand out against the tenor of the age and not go flopping along.&rdquo; <br /> &mdash;Andre Maurois',
         // June 13
-        '&ldquo;Art is the most intense mode of individualism that the world has known.&rdquo; <br /> &mdash;Oscar Wilde'
+        '&ldquo;Art is the most intense mode of individualism that the world has known.&rdquo; <br /> &mdash;Oscar Wilde',
+        // June 14
+        '&ldquo;Space is the breath of art.&rdquo; <br /> &mdash;Frank Lloyd Wright'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
