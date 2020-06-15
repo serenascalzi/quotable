@@ -31,7 +31,9 @@ $(document).ready(function() {
         // June 13
         '&ldquo;The hardest arithmetic to master is that which enables us to count our blessings.&rdquo; <br /> &mdash;Eric Hoffer',
         // June 14
-        '&ldquo;Genius ain&rsquo;t anything more than elegant common sense.&rdquo; <br /> &mdash;Josh Billings'
+        '&ldquo;Genius ain&rsquo;t anything more than elegant common sense.&rdquo; <br /> &mdash;Josh Billings',
+        // June 15
+        '&ldquo;It is during our darkest moments that we must focus to see the light.&rdquo; <br /> &mdash;Aristotle'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // June 13
         '&ldquo;Love is the poetry of the senses.&rdquo; <br /> &mdash;Honore de Balzac',
         // June 14
-        '&ldquo;Choose your love, Love your choice.&rdquo; <br /> &mdash;Thomas S. Monson'
+        '&ldquo;Choose your love, Love your choice.&rdquo; <br /> &mdash;Thomas S. Monson',
+        // June 15
+        '&ldquo;I think my mom put it best. She said, &lsquo;Little girls soften their daddy&rsquo;s hearts.&rsquo;&rdquo; <br /> &mdash;Paul Walker'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // June 13
         '&ldquo;Art is the most intense mode of individualism that the world has known.&rdquo; <br /> &mdash;Oscar Wilde',
         // June 14
-        '&ldquo;Space is the breath of art.&rdquo; <br /> &mdash;Frank Lloyd Wright'
+        '&ldquo;Space is the breath of art.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+        // June 15
+        '&ldquo;The man who has no imagination has no wings.&rdquo; <br /> &mdash;Muhammad Ali'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
