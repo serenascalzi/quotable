@@ -33,7 +33,9 @@ $(document).ready(function() {
         // June 14
         '&ldquo;Genius ain&rsquo;t anything more than elegant common sense.&rdquo; <br /> &mdash;Josh Billings',
         // June 15
-        '&ldquo;It is during our darkest moments that we must focus to see the light.&rdquo; <br /> &mdash;Aristotle'
+        '&ldquo;It is during our darkest moments that we must focus to see the light.&rdquo; <br /> &mdash;Aristotle',
+        // June 16
+        '&ldquo;I&rsquo;m a father; that&rsquo;s what matters most. Nothing matters more.&rdquo; <br /> &mdash;Gordon Brown'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // June 14
         '&ldquo;Choose your love, Love your choice.&rdquo; <br /> &mdash;Thomas S. Monson',
         // June 15
-        '&ldquo;I think my mom put it best. She said, &lsquo;Little girls soften their daddy&rsquo;s hearts.&rsquo;&rdquo; <br /> &mdash;Paul Walker'
+        '&ldquo;I think my mom put it best. She said, &lsquo;Little girls soften their daddy&rsquo;s hearts.&rsquo;&rdquo; <br /> &mdash;Paul Walker',
+        // June 16
+        '&ldquo;We looked up to our father. He still is much greater than us.&rdquo; <br /> &mdash;Wynton Marsalis'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // June 14
         '&ldquo;Space is the breath of art.&rdquo; <br /> &mdash;Frank Lloyd Wright',
         // June 15
-        '&ldquo;The man who has no imagination has no wings.&rdquo; <br /> &mdash;Muhammad Ali'
+        '&ldquo;The man who has no imagination has no wings.&rdquo; <br /> &mdash;Muhammad Ali',
+        // June 16
+        '&ldquo;Art hurts. Art urges voyages &ndash; and it is easier to stay at home.&rdquo; <br /> &mdash;Gwendolyn Brooks'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
