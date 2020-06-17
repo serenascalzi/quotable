@@ -35,7 +35,9 @@ $(document).ready(function() {
         // June 15
         '&ldquo;It is during our darkest moments that we must focus to see the light.&rdquo; <br /> &mdash;Aristotle',
         // June 16
-        '&ldquo;I&rsquo;m a father; that&rsquo;s what matters most. Nothing matters more.&rdquo; <br /> &mdash;Gordon Brown'
+        '&ldquo;I&rsquo;m a father; that&rsquo;s what matters most. Nothing matters more.&rdquo; <br /> &mdash;Gordon Brown',
+        // June 17
+        '&ldquo;Man &ndash; a being in search of meaning.&rdquo; <br /> &mdash;Plato'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -81,7 +83,9 @@ $(document).ready(function() {
         // June 15
         '&ldquo;I think my mom put it best. She said, &lsquo;Little girls soften their daddy&rsquo;s hearts.&rsquo;&rdquo; <br /> &mdash;Paul Walker',
         // June 16
-        '&ldquo;We looked up to our father. He still is much greater than us.&rdquo; <br /> &mdash;Wynton Marsalis'
+        '&ldquo;We looked up to our father. He still is much greater than us.&rdquo; <br /> &mdash;Wynton Marsalis',
+        // June 17
+        '&ldquo;Son, brother, father, lover, friend. There is room in the heart for all the affections, as there is room in heaven for all the stars.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -127,7 +131,9 @@ $(document).ready(function() {
         // June 15
         '&ldquo;The man who has no imagination has no wings.&rdquo; <br /> &mdash;Muhammad Ali',
         // June 16
-        '&ldquo;Art hurts. Art urges voyages &ndash; and it is easier to stay at home.&rdquo; <br /> &mdash;Gwendolyn Brooks'
+        '&ldquo;Art hurts. Art urges voyages &ndash; and it is easier to stay at home.&rdquo; <br /> &mdash;Gwendolyn Brooks',
+        // June 17
+        '&ldquo;Illusion is the first of all pleasures.&rdquo; <br /> &mdash;Voltaire'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
