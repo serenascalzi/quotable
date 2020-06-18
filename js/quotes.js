@@ -37,7 +37,9 @@ $(document).ready(function() {
         // June 16
         '&ldquo;I&rsquo;m a father; that&rsquo;s what matters most. Nothing matters more.&rdquo; <br /> &mdash;Gordon Brown',
         // June 17
-        '&ldquo;Man &ndash; a being in search of meaning.&rdquo; <br /> &mdash;Plato'
+        '&ldquo;Man &ndash; a being in search of meaning.&rdquo; <br /> &mdash;Plato',
+        // June 18
+        '&ldquo;It is a wise father that knows his own child.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // June 16
         '&ldquo;We looked up to our father. He still is much greater than us.&rdquo; <br /> &mdash;Wynton Marsalis',
         // June 17
-        '&ldquo;Son, brother, father, lover, friend. There is room in the heart for all the affections, as there is room in heaven for all the stars.&rdquo; <br /> &mdash;Victor Hugo'
+        '&ldquo;Son, brother, father, lover, friend. There is room in the heart for all the affections, as there is room in heaven for all the stars.&rdquo; <br /> &mdash;Victor Hugo',
+        // June 18
+        '&ldquo;Love and compassion are necessities, not luxuries. Without them humanity cannot survive.&rdquo; <br /> &mdash;Dalai Lama'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // June 16
         '&ldquo;Art hurts. Art urges voyages &ndash; and it is easier to stay at home.&rdquo; <br /> &mdash;Gwendolyn Brooks',
         // June 17
-        '&ldquo;Illusion is the first of all pleasures.&rdquo; <br /> &mdash;Voltaire'
+        '&ldquo;Illusion is the first of all pleasures.&rdquo; <br /> &mdash;Voltaire',
+        // June 18
+        '&ldquo;Art is making something out of nothing and selling it.&rdquo; <br /> &mdash;Frank Zappa'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
