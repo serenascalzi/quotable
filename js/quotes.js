@@ -41,7 +41,9 @@ $(document).ready(function() {
         // June 18
         '&ldquo;It is a wise father that knows his own child.&rdquo; <br /> &mdash;William Shakespeare',
         // June 19
-        '&ldquo;A person will sometimes devote all his life to the development of one part of his body &ndash; the wishbone.&rdquo; <br /> &mdash;Robert Frost'
+        '&ldquo;A person will sometimes devote all his life to the development of one part of his body &ndash; the wishbone.&rdquo; <br /> &mdash;Robert Frost',
+        // June 20
+        '&ldquo;Cheerfulness is the best promoter of health and is as friendly to the mind as to the body.&rdquo; <br /> &mdash;Joseph Addison'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // June 18
         '&ldquo;Love and compassion are necessities, not luxuries. Without them humanity cannot survive.&rdquo; <br /> &mdash;Dalai Lama',
         // June 19
-        '&ldquo;That man is a success who has lived well, laughed often and loved much.&rdquo; <br /> &mdash;Robert Louis Stevenson'
+        '&ldquo;That man is a success who has lived well, laughed often and loved much.&rdquo; <br /> &mdash;Robert Louis Stevenson',
+        // June 20
+        '&ldquo;Life is like an onion. You peel it off one layer at a time, and sometimes you weep.&rdquo; <br /> &mdash;Carl Sandburg'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // June 18
         '&ldquo;Art is making something out of nothing and selling it.&rdquo; <br /> &mdash;Frank Zappa',
         // June 19
-        '&ldquo;Interpretation is the revenge of the intellectual upon art.&rdquo; <br /> &mdash;Susan Sontag'
+        '&ldquo;Interpretation is the revenge of the intellectual upon art.&rdquo; <br /> &mdash;Susan Sontag',
+        // June 20
+        '&ldquo;To find a form that accommodates the mess, that is the task of the artist now.&rdquo; <br /> &mdash;Samuel Beckett'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
