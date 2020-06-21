@@ -43,7 +43,9 @@ $(document).ready(function() {
         // June 19
         '&ldquo;A person will sometimes devote all his life to the development of one part of his body &ndash; the wishbone.&rdquo; <br /> &mdash;Robert Frost',
         // June 20
-        '&ldquo;Cheerfulness is the best promoter of health and is as friendly to the mind as to the body.&rdquo; <br /> &mdash;Joseph Addison'
+        '&ldquo;Cheerfulness is the best promoter of health and is as friendly to the mind as to the body.&rdquo; <br /> &mdash;Joseph Addison',
+        // June 21
+        '&ldquo;A man is what he thinks about all day long.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -97,7 +99,9 @@ $(document).ready(function() {
         // June 19
         '&ldquo;That man is a success who has lived well, laughed often and loved much.&rdquo; <br /> &mdash;Robert Louis Stevenson',
         // June 20
-        '&ldquo;Life is like an onion. You peel it off one layer at a time, and sometimes you weep.&rdquo; <br /> &mdash;Carl Sandburg'
+        '&ldquo;Life is like an onion. You peel it off one layer at a time, and sometimes you weep.&rdquo; <br /> &mdash;Carl Sandburg',
+        // June 21
+        '&ldquo;Being in love is the only transcendent experience.&rdquo; <br /> &mdash;Armistead Maupin'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -151,7 +155,9 @@ $(document).ready(function() {
         // June 19
         '&ldquo;Interpretation is the revenge of the intellectual upon art.&rdquo; <br /> &mdash;Susan Sontag',
         // June 20
-        '&ldquo;To find a form that accommodates the mess, that is the task of the artist now.&rdquo; <br /> &mdash;Samuel Beckett'
+        '&ldquo;To find a form that accommodates the mess, that is the task of the artist now.&rdquo; <br /> &mdash;Samuel Beckett',
+        // June 21
+        '&ldquo;A picture is a poem without words.&rdquo; <br /> &mdash;Horace'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
