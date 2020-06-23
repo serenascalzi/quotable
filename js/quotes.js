@@ -45,7 +45,9 @@ $(document).ready(function() {
         // June 20
         '&ldquo;Cheerfulness is the best promoter of health and is as friendly to the mind as to the body.&rdquo; <br /> &mdash;Joseph Addison',
         // June 21
-        '&ldquo;A man is what he thinks about all day long.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;A man is what he thinks about all day long.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        // June 22
+        '&ldquo;Every man has his own destiny: the only imperative is to follow it, to accept it, no matter where it leads him.&rdquo; <br /> &mdash;Henry Miller'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -101,7 +103,9 @@ $(document).ready(function() {
         // June 20
         '&ldquo;Life is like an onion. You peel it off one layer at a time, and sometimes you weep.&rdquo; <br /> &mdash;Carl Sandburg',
         // June 21
-        '&ldquo;Being in love is the only transcendent experience.&rdquo; <br /> &mdash;Armistead Maupin'
+        '&ldquo;Being in love is the only transcendent experience.&rdquo; <br /> &mdash;Armistead Maupin',
+        // June 22
+        '&ldquo;What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.&rdquo; <br /> &mdash;Helen Keller'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -157,7 +161,9 @@ $(document).ready(function() {
         // June 20
         '&ldquo;To find a form that accommodates the mess, that is the task of the artist now.&rdquo; <br /> &mdash;Samuel Beckett',
         // June 21
-        '&ldquo;A picture is a poem without words.&rdquo; <br /> &mdash;Horace'
+        '&ldquo;A picture is a poem without words.&rdquo; <br /> &mdash;Horace',
+        // June 22
+        '&ldquo;Art! Who comprehends her? With whom can one consult concerning this great goddess?&rdquo; <br /> &mdash;Ludwig van Beethoven'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
