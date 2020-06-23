@@ -47,7 +47,9 @@ $(document).ready(function() {
         // June 21
         '&ldquo;A man is what he thinks about all day long.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         // June 22
-        '&ldquo;Every man has his own destiny: the only imperative is to follow it, to accept it, no matter where it leads him.&rdquo; <br /> &mdash;Henry Miller'
+        '&ldquo;Every man has his own destiny: the only imperative is to follow it, to accept it, no matter where it leads him.&rdquo; <br /> &mdash;Henry Miller',
+        // June 23
+        '&ldquo;That which does not kill us makes us stronger.&rdquo; <br /> &mdash;Friedrich Nietzsche'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // June 21
         '&ldquo;Being in love is the only transcendent experience.&rdquo; <br /> &mdash;Armistead Maupin',
         // June 22
-        '&ldquo;What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.&rdquo; <br /> &mdash;Helen Keller'
+        '&ldquo;What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.&rdquo; <br /> &mdash;Helen Keller',
+        // June 23
+        '&ldquo;In love, the one who runs away is the winner.&rdquo; <br /> &mdash;Henri Matisse'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // June 21
         '&ldquo;A picture is a poem without words.&rdquo; <br /> &mdash;Horace',
         // June 22
-        '&ldquo;Art! Who comprehends her? With whom can one consult concerning this great goddess?&rdquo; <br /> &mdash;Ludwig van Beethoven'
+        '&ldquo;Art! Who comprehends her? With whom can one consult concerning this great goddess?&rdquo; <br /> &mdash;Ludwig van Beethoven',
+        // June 23
+        '&ldquo;Great artists have no country.&rdquo; <br /> &mdash;Alfred de Musset'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
