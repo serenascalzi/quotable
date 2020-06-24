@@ -49,7 +49,9 @@ $(document).ready(function() {
         // June 22
         '&ldquo;Every man has his own destiny: the only imperative is to follow it, to accept it, no matter where it leads him.&rdquo; <br /> &mdash;Henry Miller',
         // June 23
-        '&ldquo;That which does not kill us makes us stronger.&rdquo; <br /> &mdash;Friedrich Nietzsche'
+        '&ldquo;That which does not kill us makes us stronger.&rdquo; <br /> &mdash;Friedrich Nietzsche',
+        // June 24
+        '&ldquo;Many of life&rsquo;s failures are people who did not realize how close they were to success when they gave up.&rdquo; <br /> &mdash;Thomas A. Edison'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // June 22
         '&ldquo;What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.&rdquo; <br /> &mdash;Helen Keller',
         // June 23
-        '&ldquo;In love, the one who runs away is the winner.&rdquo; <br /> &mdash;Henri Matisse'
+        '&ldquo;In love, the one who runs away is the winner.&rdquo; <br /> &mdash;Henri Matisse',
+        // June 24
+        '&ldquo;Love looks through a telescope; envy, through a microscope.&rdquo; <br /> &mdash;Josh Billings'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // June 22
         '&ldquo;Art! Who comprehends her? With whom can one consult concerning this great goddess?&rdquo; <br /> &mdash;Ludwig van Beethoven',
         // June 23
-        '&ldquo;Great artists have no country.&rdquo; <br /> &mdash;Alfred de Musset'
+        '&ldquo;Great artists have no country.&rdquo; <br /> &mdash;Alfred de Musset',
+        // June 24
+        '&ldquo;Art is pattern informed by sensibility.&rdquo; <br /> &mdash;Herbert Read'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
