@@ -51,7 +51,9 @@ $(document).ready(function() {
         // June 23
         '&ldquo;That which does not kill us makes us stronger.&rdquo; <br /> &mdash;Friedrich Nietzsche',
         // June 24
-        '&ldquo;Many of life&rsquo;s failures are people who did not realize how close they were to success when they gave up.&rdquo; <br /> &mdash;Thomas A. Edison'
+        '&ldquo;Many of life&rsquo;s failures are people who did not realize how close they were to success when they gave up.&rdquo; <br /> &mdash;Thomas A. Edison',
+        // June 25
+        '&ldquo;To affect the quality of the day, that is the highest of arts.&rdquo; <br /> &mdash;Henry David Thoreau'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // June 23
         '&ldquo;In love, the one who runs away is the winner.&rdquo; <br /> &mdash;Henri Matisse',
         // June 24
-        '&ldquo;Love looks through a telescope; envy, through a microscope.&rdquo; <br /> &mdash;Josh Billings'
+        '&ldquo;Love looks through a telescope; envy, through a microscope.&rdquo; <br /> &mdash;Josh Billings',
+        // June 25
+        '&ldquo;Love is the attempt to form a friendship inspired by beauty.&rdquo; <br /> &mdash;Marcus Tullius Cicero'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // June 23
         '&ldquo;Great artists have no country.&rdquo; <br /> &mdash;Alfred de Musset',
         // June 24
-        '&ldquo;Art is pattern informed by sensibility.&rdquo; <br /> &mdash;Herbert Read'
+        '&ldquo;Art is pattern informed by sensibility.&rdquo; <br /> &mdash;Herbert Read',
+        // June 25
+        '&ldquo;A room hung with pictures is a room hung with thoughts.&rdquo; <br /> &mdash;Joshua Reynolds'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
