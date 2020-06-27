@@ -55,7 +55,9 @@ $(document).ready(function() {
         // June 25
         '&ldquo;To affect the quality of the day, that is the highest of arts.&rdquo; <br /> &mdash;Henry David Thoreau',
         // June 26
-        '&ldquo;Work is much more fun than fun.&rdquo; <br /> &mdash;Noel Coward'
+        '&ldquo;Work is much more fun than fun.&rdquo; <br /> &mdash;Noel Coward',
+        // June 27
+        '&ldquo;Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.&rdquo; <br /> &mdash;Rebecca West'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // June 25
         '&ldquo;Love is the attempt to form a friendship inspired by beauty.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
         // June 26
-        '&ldquo;Friendship is certainly the finest balm for the pangs of disappointed love.&rdquo; <br /> &mdash;Jane Austen'
+        '&ldquo;Friendship is certainly the finest balm for the pangs of disappointed love.&rdquo; <br /> &mdash;Jane Austen',
+        // June 27
+        '&ldquo;Romance is tempestuous. Love is calm.&rdquo; <br /> &mdash;Mason Cooley'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // June 25
         '&ldquo;A room hung with pictures is a room hung with thoughts.&rdquo; <br /> &mdash;Joshua Reynolds',
         // June 26
-        '&ldquo;I rarely draw what I see. I draw what I feel in my body.&rdquo; <br /> &mdash;Barbara Hepworth'
+        '&ldquo;I rarely draw what I see. I draw what I feel in my body.&rdquo; <br /> &mdash;Barbara Hepworth',
+        // June 27
+        '&ldquo;Be careful that you do not write or paint anything that is not your own, that you don&rsquo;t know in your own soul.&rdquo; <br /> &mdash;Emily Carr'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
