@@ -53,7 +53,9 @@ $(document).ready(function() {
         // June 24
         '&ldquo;Many of life&rsquo;s failures are people who did not realize how close they were to success when they gave up.&rdquo; <br /> &mdash;Thomas A. Edison',
         // June 25
-        '&ldquo;To affect the quality of the day, that is the highest of arts.&rdquo; <br /> &mdash;Henry David Thoreau'
+        '&ldquo;To affect the quality of the day, that is the highest of arts.&rdquo; <br /> &mdash;Henry David Thoreau',
+        // June 26
+        '&ldquo;Work is much more fun than fun.&rdquo; <br /> &mdash;Noel Coward'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // June 24
         '&ldquo;Love looks through a telescope; envy, through a microscope.&rdquo; <br /> &mdash;Josh Billings',
         // June 25
-        '&ldquo;Love is the attempt to form a friendship inspired by beauty.&rdquo; <br /> &mdash;Marcus Tullius Cicero'
+        '&ldquo;Love is the attempt to form a friendship inspired by beauty.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
+        // June 26
+        '&ldquo;Friendship is certainly the finest balm for the pangs of disappointed love.&rdquo; <br /> &mdash;Jane Austen'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // June 24
         '&ldquo;Art is pattern informed by sensibility.&rdquo; <br /> &mdash;Herbert Read',
         // June 25
-        '&ldquo;A room hung with pictures is a room hung with thoughts.&rdquo; <br /> &mdash;Joshua Reynolds'
+        '&ldquo;A room hung with pictures is a room hung with thoughts.&rdquo; <br /> &mdash;Joshua Reynolds',
+        // June 26
+        '&ldquo;I rarely draw what I see. I draw what I feel in my body.&rdquo; <br /> &mdash;Barbara Hepworth'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
