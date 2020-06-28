@@ -57,7 +57,9 @@ $(document).ready(function() {
         // June 26
         '&ldquo;Work is much more fun than fun.&rdquo; <br /> &mdash;Noel Coward',
         // June 27
-        '&ldquo;Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.&rdquo; <br /> &mdash;Rebecca West'
+        '&ldquo;Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.&rdquo; <br /> &mdash;Rebecca West',
+        // June 28
+        '&ldquo;Our knowledge is a little island in a great ocean of nonknowledge.&rdquo; <br /> &mdash;Isaac Bashevis Singer'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // June 26
         '&ldquo;Friendship is certainly the finest balm for the pangs of disappointed love.&rdquo; <br /> &mdash;Jane Austen',
         // June 27
-        '&ldquo;Romance is tempestuous. Love is calm.&rdquo; <br /> &mdash;Mason Cooley'
+        '&ldquo;Romance is tempestuous. Love is calm.&rdquo; <br /> &mdash;Mason Cooley',
+        // June 28
+        '&ldquo;It is very easy to love alone.&rdquo; <br /> &mdash;Gertrude Stein'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // June 26
         '&ldquo;I rarely draw what I see. I draw what I feel in my body.&rdquo; <br /> &mdash;Barbara Hepworth',
         // June 27
-        '&ldquo;Be careful that you do not write or paint anything that is not your own, that you don&rsquo;t know in your own soul.&rdquo; <br /> &mdash;Emily Carr'
+        '&ldquo;Be careful that you do not write or paint anything that is not your own, that you don&rsquo;t know in your own soul.&rdquo; <br /> &mdash;Emily Carr',
+        // June 28
+        '&ldquo;You cannot possibly invent painting all by yourself.&rdquo; <br /> &mdash;Pierre Bonnard'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
