@@ -59,7 +59,9 @@ $(document).ready(function() {
         // June 27
         '&ldquo;Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.&rdquo; <br /> &mdash;Rebecca West',
         // June 28
-        '&ldquo;Our knowledge is a little island in a great ocean of nonknowledge.&rdquo; <br /> &mdash;Isaac Bashevis Singer'
+        '&ldquo;Our knowledge is a little island in a great ocean of nonknowledge.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
+        // June 29
+        '&ldquo;Doubt is the father of invention.&rdquo; <br /> &mdash;Ambrose Bierce'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // June 27
         '&ldquo;Romance is tempestuous. Love is calm.&rdquo; <br /> &mdash;Mason Cooley',
         // June 28
-        '&ldquo;It is very easy to love alone.&rdquo; <br /> &mdash;Gertrude Stein'
+        '&ldquo;It is very easy to love alone.&rdquo; <br /> &mdash;Gertrude Stein',
+        // June 29
+        '&ldquo;All love is vanquished by a succeeding love.&rdquo; <br /> &mdash;Ovid'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // June 27
         '&ldquo;Be careful that you do not write or paint anything that is not your own, that you don&rsquo;t know in your own soul.&rdquo; <br /> &mdash;Emily Carr',
         // June 28
-        '&ldquo;You cannot possibly invent painting all by yourself.&rdquo; <br /> &mdash;Pierre Bonnard'
+        '&ldquo;You cannot possibly invent painting all by yourself.&rdquo; <br /> &mdash;Pierre Bonnard',
+        // June 29
+        '&ldquo;The expression of beauty is in direct ratio to the power of conception the artist has acquired.&rdquo; <br /> &mdash;Gustave Courbet'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
