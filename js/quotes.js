@@ -61,7 +61,9 @@ $(document).ready(function() {
         // June 28
         '&ldquo;Our knowledge is a little island in a great ocean of nonknowledge.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
         // June 29
-        '&ldquo;Doubt is the father of invention.&rdquo; <br /> &mdash;Ambrose Bierce'
+        '&ldquo;Doubt is the father of invention.&rdquo; <br /> &mdash;Ambrose Bierce',
+        // June 30
+        '&ldquo;There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.&rdquo; <br /> &mdash;Robert Quillen'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // June 28
         '&ldquo;It is very easy to love alone.&rdquo; <br /> &mdash;Gertrude Stein',
         // June 29
-        '&ldquo;All love is vanquished by a succeeding love.&rdquo; <br /> &mdash;Ovid'
+        '&ldquo;All love is vanquished by a succeeding love.&rdquo; <br /> &mdash;Ovid',
+        // June 30
+        '&ldquo;Great thoughts come from the heart.&rdquo; <br /> &mdash;Luc de Clapiers'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // June 28
         '&ldquo;You cannot possibly invent painting all by yourself.&rdquo; <br /> &mdash;Pierre Bonnard',
         // June 29
-        '&ldquo;The expression of beauty is in direct ratio to the power of conception the artist has acquired.&rdquo; <br /> &mdash;Gustave Courbet'
+        '&ldquo;The expression of beauty is in direct ratio to the power of conception the artist has acquired.&rdquo; <br /> &mdash;Gustave Courbet',
+        // June 30
+        '&ldquo;The worse my drawings were, the more beautiful did the originals appear.&rdquo; <br /> &mdash;John James Audubon'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
