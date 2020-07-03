@@ -7,7 +7,9 @@ $(document).ready(function() {
         // July 1
         '&ldquo;Words are but pictures of our thoughts.&rdquo; <br /> &mdash;John Dryden',
         // July 2
-        '&ldquo;The very essence of instinct is that it&rsquo;s followed independently of reason.&rdquo; <br /> &mdash;Charles Darwin'
+        '&ldquo;The very essence of instinct is that it&rsquo;s followed independently of reason.&rdquo; <br /> &mdash;Charles Darwin',
+        // July 3
+        '&ldquo;Freedom means the opportunity to be what we never thought we would be.&rdquo; <br /> &mdash;Daniel J. Boorstin'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -25,7 +27,9 @@ $(document).ready(function() {
         // July 1
         '&ldquo;If it were not for hopes, the heart would break.&rdquo; <br /> &mdash;Thomas Fuller',
         // July 2
-        '&ldquo;They do not love that do not show their love.&rdquo; <br /> &mdash;William Shakespeare'
+        '&ldquo;They do not love that do not show their love.&rdquo; <br /> &mdash;William Shakespeare',
+        // July 3
+        '&ldquo;To love abundantly is to live abundantly, and to love forever is to live forever.&rdquo; <br /> &mdash;Henry Drummond'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -43,7 +47,9 @@ $(document).ready(function() {
         // July 1
         '&ldquo;I choose a block of marble and chop off whatever I don&rsquo;t need.&rdquo; <br /> &mdash;Auguste Rodin',
         // July 2
-        '&ldquo;A work of art that contains theories is like an object on which the price tag has been left.&rdquo; <br /> &mdash;Alexander Pope'
+        '&ldquo;A work of art that contains theories is like an object on which the price tag has been left.&rdquo; <br /> &mdash;Alexander Pope',
+        // July 3
+        '&ldquo;To draw you must close your eyes and sing.&rdquo; <br /> &mdash;Pablo Picasso'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
