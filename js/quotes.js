@@ -13,7 +13,9 @@ $(document).ready(function() {
         // July 4
         '&ldquo;What then is freedom? The power to live as one wishes.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
         // July 5
-        '&ldquo;We must build dikes of courage to hold back the flood of fear.&rdquo; <br /> &mdash;Martin Luther King, Jr.'
+        '&ldquo;We must build dikes of courage to hold back the flood of fear.&rdquo; <br /> &mdash;Martin Luther King, Jr.',
+        // July 6
+        '&ldquo;The return we reap from generous actions is not always evident.&rdquo; <br /> &mdash;Francesco Guicciardini'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -37,7 +39,9 @@ $(document).ready(function() {
         // July 4
         '&ldquo;He who loves, flies, runs, and rejoices; he is free and nothing holds him back.&rdquo; <br /> &mdash;Henri Matisse',
         // July 5
-        '&ldquo;Love does not dominate; it cultivates.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
+        '&ldquo;Love does not dominate; it cultivates.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        // July 6
+        '&ldquo;If you find someone you love in your life, then hang on to that love.&rdquo; <br /> &mdash;Princess Diana'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -61,7 +65,9 @@ $(document).ready(function() {
         // July 4
         '&ldquo;The work of art is a scream of freedom.&rdquo; <br /> &mdash;Christo',
         // July 5
-        '&ldquo;Art teaches nothing, except the significance of life.&rdquo; <br /> &mdash;Michael Korda'
+        '&ldquo;Art teaches nothing, except the significance of life.&rdquo; <br /> &mdash;Michael Korda',
+        // July 6
+        '&ldquo;The principle of art is to pause, not bypass.&rdquo; <br /> &mdash;Jerzy Kosinski'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
