@@ -17,7 +17,9 @@ $(document).ready(function() {
         // July 6
         '&ldquo;The return we reap from generous actions is not always evident.&rdquo; <br /> &mdash;Francesco Guicciardini',
         // July 7
-        '&ldquo;When one burns one&rsquo;s bridges, what a very nice fire it makes.&rdquo; <br /> &mdash;Dylan Thomas'
+        '&ldquo;When one burns one&rsquo;s bridges, what a very nice fire it makes.&rdquo; <br /> &mdash;Dylan Thomas',
+        // July 8
+        '&ldquo;Imagination and fiction make up more than three quarters of our real life.&rdquo; <br /> &mdash;Simone Weil'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // July 6
         '&ldquo;If you find someone you love in your life, then hang on to that love.&rdquo; <br /> &mdash;Princess Diana',
         // July 7
-        '&ldquo;In love there are two things &ndash; bodies and words.&rdquo; <br /> &mdash;Joyce Carol Oates'
+        '&ldquo;In love there are two things &ndash; bodies and words.&rdquo; <br /> &mdash;Joyce Carol Oates',
+        // July 8
+        '&ldquo;The heart that has truly loved never forgets, But as truly loves on to the close.&rdquo; <br /> &mdash;Thomas Moore'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // July 6
         '&ldquo;The principle of art is to pause, not bypass.&rdquo; <br /> &mdash;Jerzy Kosinski',
         // July 7
-        '&ldquo;Artists themselves are not confined, but their output is.&rdquo; <br /> &mdash;Robert Smithson'
+        '&ldquo;Artists themselves are not confined, but their output is.&rdquo; <br /> &mdash;Robert Smithson',
+        // July 8
+        '&ldquo;To change your phrase somewhat, I know that I like an art where disparate elements form an entity.&rdquo; <br /> &mdash;James Schuyler'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
