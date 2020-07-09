@@ -19,7 +19,9 @@ $(document).ready(function() {
         // July 7
         '&ldquo;When one burns one&rsquo;s bridges, what a very nice fire it makes.&rdquo; <br /> &mdash;Dylan Thomas',
         // July 8
-        '&ldquo;Imagination and fiction make up more than three quarters of our real life.&rdquo; <br /> &mdash;Simone Weil'
+        '&ldquo;Imagination and fiction make up more than three quarters of our real life.&rdquo; <br /> &mdash;Simone Weil',
+        // July 9
+        '&ldquo;My father always used to say that when you die, if you&rsquo;ve got five real friends, then you&rsquo;ve had a great life.&rdquo; <br /> &mdash;Lee Iacocca'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // July 7
         '&ldquo;In love there are two things &ndash; bodies and words.&rdquo; <br /> &mdash;Joyce Carol Oates',
         // July 8
-        '&ldquo;The heart that has truly loved never forgets, But as truly loves on to the close.&rdquo; <br /> &mdash;Thomas Moore'
+        '&ldquo;The heart that has truly loved never forgets, But as truly loves on to the close.&rdquo; <br /> &mdash;Thomas Moore',
+        // July 9
+        '&ldquo;Love without conversation is impossible.&rdquo; <br /> &mdash;Mortimer Adler'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // July 7
         '&ldquo;Artists themselves are not confined, but their output is.&rdquo; <br /> &mdash;Robert Smithson',
         // July 8
-        '&ldquo;To change your phrase somewhat, I know that I like an art where disparate elements form an entity.&rdquo; <br /> &mdash;James Schuyler'
+        '&ldquo;To change your phrase somewhat, I know that I like an art where disparate elements form an entity.&rdquo; <br /> &mdash;James Schuyler',
+        // July 9
+        '&ldquo;Many artists and scholars have pointed out that ultimately art depends on human nature.&rdquo; <br /> &mdash;Steven Pinker'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
