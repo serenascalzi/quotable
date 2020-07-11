@@ -23,7 +23,9 @@ $(document).ready(function() {
         // July 9
         '&ldquo;My father always used to say that when you die, if you&rsquo;ve got five real friends, then you&rsquo;ve had a great life.&rdquo; <br /> &mdash;Lee Iacocca',
         // July 10
-        '&ldquo;Adventure is worthwhile.&rdquo; <br /> &mdash;Aesop'
+        '&ldquo;Adventure is worthwhile.&rdquo; <br /> &mdash;Aesop',
+        // July 11
+        '&ldquo;The pen is the tongue of the mind.&rdquo; <br /> &mdash;Horace'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -57,7 +59,9 @@ $(document).ready(function() {
         // July 9
         '&ldquo;Love without conversation is impossible.&rdquo; <br /> &mdash;Mortimer Adler',
         // July 10
-        '&ldquo;Love comes unseen; we only see it go.&rdquo; <br /> &mdash;Henry Austin Dobson'
+        '&ldquo;Love comes unseen; we only see it go.&rdquo; <br /> &mdash;Henry Austin Dobson',
+        // July 11
+        '&ldquo;In matters of the heart, nothing is true except the improbable.&rdquo; <br /> &mdash;Madame de Stael'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -91,7 +95,9 @@ $(document).ready(function() {
         // July 9
         '&ldquo;Many artists and scholars have pointed out that ultimately art depends on human nature.&rdquo; <br /> &mdash;Steven Pinker',
         // July 10
-        '&ldquo;What marks the artist is his power to shape the material of pain we all have.&rdquo; <br /> &mdash;Lionel Trilling'
+        '&ldquo;What marks the artist is his power to shape the material of pain we all have.&rdquo; <br /> &mdash;Lionel Trilling',
+        // July 11
+        '&ldquo;Art, in itself, is an attempt to bring order out of chaos.&rdquo; <br /> &mdash;Stephen Sondheim'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
