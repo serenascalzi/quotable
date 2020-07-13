@@ -25,7 +25,9 @@ $(document).ready(function() {
         // July 10
         '&ldquo;Adventure is worthwhile.&rdquo; <br /> &mdash;Aesop',
         // July 11
-        '&ldquo;The pen is the tongue of the mind.&rdquo; <br /> &mdash;Horace'
+        '&ldquo;The pen is the tongue of the mind.&rdquo; <br /> &mdash;Horace',
+        // July 12
+        '&ldquo;We have, I fear, confused power with greatness.&rdquo; <br /> &mdash;Stewart Udall'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // July 10
         '&ldquo;Love comes unseen; we only see it go.&rdquo; <br /> &mdash;Henry Austin Dobson',
         // July 11
-        '&ldquo;In matters of the heart, nothing is true except the improbable.&rdquo; <br /> &mdash;Madame de Stael'
+        '&ldquo;In matters of the heart, nothing is true except the improbable.&rdquo; <br /> &mdash;Madame de Stael',
+        // July 12
+        '&ldquo;To be able to say how much love, is love but little.&rdquo; <br /> &mdash;Petrarch'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // July 10
         '&ldquo;What marks the artist is his power to shape the material of pain we all have.&rdquo; <br /> &mdash;Lionel Trilling',
         // July 11
-        '&ldquo;Art, in itself, is an attempt to bring order out of chaos.&rdquo; <br /> &mdash;Stephen Sondheim'
+        '&ldquo;Art, in itself, is an attempt to bring order out of chaos.&rdquo; <br /> &mdash;Stephen Sondheim',
+        // July 12
+        '&ldquo;Art never seems to make me peaceful or pure.&rdquo; <br /> &mdash;Willem de Kooning'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
