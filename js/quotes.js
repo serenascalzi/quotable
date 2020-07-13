@@ -27,7 +27,9 @@ $(document).ready(function() {
         // July 11
         '&ldquo;The pen is the tongue of the mind.&rdquo; <br /> &mdash;Horace',
         // July 12
-        '&ldquo;We have, I fear, confused power with greatness.&rdquo; <br /> &mdash;Stewart Udall'
+        '&ldquo;We have, I fear, confused power with greatness.&rdquo; <br /> &mdash;Stewart Udall',
+        // July 13
+        '&ldquo;There are many men of principle in both parties in America, but there is no party of principle.&rdquo; <br /> &mdash;Alexis de Tocqueville'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // July 11
         '&ldquo;In matters of the heart, nothing is true except the improbable.&rdquo; <br /> &mdash;Madame de Stael',
         // July 12
-        '&ldquo;To be able to say how much love, is love but little.&rdquo; <br /> &mdash;Petrarch'
+        '&ldquo;To be able to say how much love, is love but little.&rdquo; <br /> &mdash;Petrarch',
+        // July 13
+        '&ldquo;Happiness grows at our own firesides, and is not to be picked in strangers&rsquo; gardens.&rdquo; <br /> &mdash;Douglas William Jerrold'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // July 11
         '&ldquo;Art, in itself, is an attempt to bring order out of chaos.&rdquo; <br /> &mdash;Stephen Sondheim',
         // July 12
-        '&ldquo;Art never seems to make me peaceful or pure.&rdquo; <br /> &mdash;Willem de Kooning'
+        '&ldquo;Art never seems to make me peaceful or pure.&rdquo; <br /> &mdash;Willem de Kooning',
+        // July 13
+        '&ldquo;Every art expression is rooted fundamentally in the personality and temperament of the artist.&rdquo; <br /> &mdash;Hans Hofmann'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
