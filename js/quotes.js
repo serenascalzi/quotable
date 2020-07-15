@@ -29,7 +29,9 @@ $(document).ready(function() {
         // July 12
         '&ldquo;We have, I fear, confused power with greatness.&rdquo; <br /> &mdash;Stewart Udall',
         // July 13
-        '&ldquo;There are many men of principle in both parties in America, but there is no party of principle.&rdquo; <br /> &mdash;Alexis de Tocqueville'
+        '&ldquo;There are many men of principle in both parties in America, but there is no party of principle.&rdquo; <br /> &mdash;Alexis de Tocqueville',
+        // July 14
+        '&ldquo;People are trapped in history and history is trapped in them.&rdquo; <br /> &mdash;James Baldwin'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // July 12
         '&ldquo;To be able to say how much love, is love but little.&rdquo; <br /> &mdash;Petrarch',
         // July 13
-        '&ldquo;Happiness grows at our own firesides, and is not to be picked in strangers&rsquo; gardens.&rdquo; <br /> &mdash;Douglas William Jerrold'
+        '&ldquo;Happiness grows at our own firesides, and is not to be picked in strangers&rsquo; gardens.&rdquo; <br /> &mdash;Douglas William Jerrold',
+        // July 14
+        '&ldquo;He is not a lover who does not love forever.&rdquo; <br /> &mdash;Euripides'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // July 12
         '&ldquo;Art never seems to make me peaceful or pure.&rdquo; <br /> &mdash;Willem de Kooning',
         // July 13
-        '&ldquo;Every art expression is rooted fundamentally in the personality and temperament of the artist.&rdquo; <br /> &mdash;Hans Hofmann'
+        '&ldquo;Every art expression is rooted fundamentally in the personality and temperament of the artist.&rdquo; <br /> &mdash;Hans Hofmann',
+        // July 14
+        '&ldquo;I start a picture and I finish it.&rdquo; <br /> &mdash;Jean-Michel Basquiat'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
