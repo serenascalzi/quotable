@@ -31,7 +31,9 @@ $(document).ready(function() {
         // July 13
         '&ldquo;There are many men of principle in both parties in America, but there is no party of principle.&rdquo; <br /> &mdash;Alexis de Tocqueville',
         // July 14
-        '&ldquo;People are trapped in history and history is trapped in them.&rdquo; <br /> &mdash;James Baldwin'
+        '&ldquo;People are trapped in history and history is trapped in them.&rdquo; <br /> &mdash;James Baldwin',
+        // July 15
+        '&ldquo;He who is brave is free.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // July 13
         '&ldquo;Happiness grows at our own firesides, and is not to be picked in strangers&rsquo; gardens.&rdquo; <br /> &mdash;Douglas William Jerrold',
         // July 14
-        '&ldquo;He is not a lover who does not love forever.&rdquo; <br /> &mdash;Euripides'
+        '&ldquo;He is not a lover who does not love forever.&rdquo; <br /> &mdash;Euripides',
+        // July 15
+        '&ldquo;To love another person is to see the face of God.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // July 13
         '&ldquo;Every art expression is rooted fundamentally in the personality and temperament of the artist.&rdquo; <br /> &mdash;Hans Hofmann',
         // July 14
-        '&ldquo;I start a picture and I finish it.&rdquo; <br /> &mdash;Jean-Michel Basquiat'
+        '&ldquo;I start a picture and I finish it.&rdquo; <br /> &mdash;Jean-Michel Basquiat',
+        // July 15
+        '&ldquo;When artists make art, they shouldn&rsquo;t question whether it is permissible to do one thing or another.&rdquo; <br /> &mdash;Sol LeWitt'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
