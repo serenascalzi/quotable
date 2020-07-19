@@ -37,7 +37,9 @@ $(document).ready(function() {
         // July 16
         '&ldquo;Hold yourself responsible for a higher standard than anybody expects of you. Never excuse yourself.&rdquo; <br /> &mdash;Henry Ward Beecher',
         // July 17
-        '&ldquo;Patience is the companion of wisdom.&rdquo; <br /> &mdash;Saint Augustine'
+        '&ldquo;Patience is the companion of wisdom.&rdquo; <br /> &mdash;Saint Augustine',
+        // July 18
+        '&ldquo;Metaphors have a way of holding the most truth in the least space.&rdquo; <br /> &mdash;Orson Scott Card'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // July 16
         '&ldquo;We are never so defensless against suffering as when we love.&rdquo; <br /> &mdash;Sigmund Freud',
         // July 17
-        '&ldquo;If this be not love, it is madness, and then it is pardonable.&rdquo; <br /> &mdash;William Congreve'
+        '&ldquo;If this be not love, it is madness, and then it is pardonable.&rdquo; <br /> &mdash;William Congreve',
+        // July 18
+        '&ldquo;Love has no errors, for all errors are the want for love.&rdquo; <br /> &mdash;William Law'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // July 16
         '&ldquo;The most seductive thing about art is the personality of the artist himself.&rdquo; <br /> &mdash;Paul Cezanne',
         // July 17
-        '&ldquo;An artist&rsquo;s career always begins tomorrow.&rdquo; <br /> &mdash;James Whistler'
+        '&ldquo;An artist&rsquo;s career always begins tomorrow.&rdquo; <br /> &mdash;James Whistler',
+        // July 18
+        '&ldquo;I do not literally paint that table, but the emotion it produces upon me.&rdquo; <br /> &mdash;Henri Matisse'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
