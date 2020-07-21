@@ -41,7 +41,9 @@ $(document).ready(function() {
         // July 18
         '&ldquo;Metaphors have a way of holding the most truth in the least space.&rdquo; <br /> &mdash;Orson Scott Card',
         // July 19
-        '&ldquo;When in doubt, don&rsquo;t.&rdquo; <br /> &mdash;Benjamin Franklin'
+        '&ldquo;When in doubt, don&rsquo;t.&rdquo; <br /> &mdash;Benjamin Franklin',
+        // July 20
+        '&ldquo;We all have ability. The difference is how we use it.&rdquo; <br /> &mdash;Charlotte Whitton'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // July 18
         '&ldquo;Love has no errors, for all errors are the want for love.&rdquo; <br /> &mdash;William Law',
         // July 19
-        '&ldquo;Don&rsquo;t brood. Get on with living and loving. You don&rsquo;t have forever.&rdquo; <br /> &mdash;Leo Buscaglia'
+        '&ldquo;Don&rsquo;t brood. Get on with living and loving. You don&rsquo;t have forever.&rdquo; <br /> &mdash;Leo Buscaglia',
+        // July 20
+        '&ldquo;There is always something left to love. And if you ain&rsquo;t learned that, you ain&rsquo;t learned nothing.&rdquo; <br /> &mdash;Lorraine Hansberry'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // July 18
         '&ldquo;I do not literally paint that table, but the emotion it produces upon me.&rdquo; <br /> &mdash;Henri Matisse',
         // July 19
-        '&ldquo;The business of art is to reveal the relation between man and his environment.&rdquo; <br /> &mdash;D. H. Lawrence'
+        '&ldquo;The business of art is to reveal the relation between man and his environment.&rdquo; <br /> &mdash;D. H. Lawrence',
+        // July 20
+        '&ldquo;I am not strong on perfection.&rdquo; <br /> &mdash;Jasper Johns'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
