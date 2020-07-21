@@ -43,7 +43,9 @@ $(document).ready(function() {
         // July 19
         '&ldquo;When in doubt, don&rsquo;t.&rdquo; <br /> &mdash;Benjamin Franklin',
         // July 20
-        '&ldquo;We all have ability. The difference is how we use it.&rdquo; <br /> &mdash;Charlotte Whitton'
+        '&ldquo;We all have ability. The difference is how we use it.&rdquo; <br /> &mdash;Charlotte Whitton',
+        // July 21
+        '&ldquo;The more sand that has escaped from the hourglass of our life, the clearer we should see through it.&rdquo; <br /> &mdash;Jean Paul'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -97,7 +99,9 @@ $(document).ready(function() {
         // July 19
         '&ldquo;Don&rsquo;t brood. Get on with living and loving. You don&rsquo;t have forever.&rdquo; <br /> &mdash;Leo Buscaglia',
         // July 20
-        '&ldquo;There is always something left to love. And if you ain&rsquo;t learned that, you ain&rsquo;t learned nothing.&rdquo; <br /> &mdash;Lorraine Hansberry'
+        '&ldquo;There is always something left to love. And if you ain&rsquo;t learned that, you ain&rsquo;t learned nothing.&rdquo; <br /> &mdash;Lorraine Hansberry',
+        // July 21
+        '&ldquo;The hunger for love is much more difficult to remove than the hunger for bread.&rdquo; <br /> &mdash;Mother Teresa'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -151,7 +155,9 @@ $(document).ready(function() {
         // July 19
         '&ldquo;The business of art is to reveal the relation between man and his environment.&rdquo; <br /> &mdash;D. H. Lawrence',
         // July 20
-        '&ldquo;I am not strong on perfection.&rdquo; <br /> &mdash;Jasper Johns'
+        '&ldquo;I am not strong on perfection.&rdquo; <br /> &mdash;Jasper Johns',
+        // July 21
+        '&ldquo;One must always draw, draw with the eyes, when one cannot draw with a pencil.&rdquo; <br /> &mdash;Balthus'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
