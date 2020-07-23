@@ -47,7 +47,9 @@ $(document).ready(function() {
         // July 21
         '&ldquo;The more sand that has escaped from the hourglass of our life, the clearer we should see through it.&rdquo; <br /> &mdash;Jean Paul',
         // July 22
-        '&ldquo;The buried talent is the sunken rock on which most lives strike and founder.&rdquo; <br /> &mdash;Frederick William Faber'
+        '&ldquo;The buried talent is the sunken rock on which most lives strike and founder.&rdquo; <br /> &mdash;Frederick William Faber',
+        // July 23
+        '&ldquo;Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact.&rdquo; <br /> &mdash;George Eliot'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // July 21
         '&ldquo;The hunger for love is much more difficult to remove than the hunger for bread.&rdquo; <br /> &mdash;Mother Teresa',
         // July 22
-        '&ldquo;Nobody loves a woman because she is handsome or ugly, stupid or intelligent. We love because we love.&rdquo; <br /> &mdash;Honore de Balzac'
+        '&ldquo;Nobody loves a woman because she is handsome or ugly, stupid or intelligent. We love because we love.&rdquo; <br /> &mdash;Honore de Balzac',
+        // July 23
+        '&ldquo;There is no love that is not an echo.&rdquo; <br /> &mdash;Theodor W. Adorno'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // July 21
         '&ldquo;One must always draw, draw with the eyes, when one cannot draw with a pencil.&rdquo; <br /> &mdash;Balthus',
         // July 22
-        '&ldquo;A mere copier of nature can never produce anything great.&rdquo; <br /> &mdash;Joshua Reynolds'
+        '&ldquo;A mere copier of nature can never produce anything great.&rdquo; <br /> &mdash;Joshua Reynolds',
+        // July 23
+        '&ldquo;In reality art is always for everyone and for no one.&rdquo; <br /> &mdash;Eugenio Montale'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
