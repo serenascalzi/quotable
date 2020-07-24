@@ -49,7 +49,9 @@ $(document).ready(function() {
         // July 22
         '&ldquo;The buried talent is the sunken rock on which most lives strike and founder.&rdquo; <br /> &mdash;Frederick William Faber',
         // July 23
-        '&ldquo;Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact.&rdquo; <br /> &mdash;George Eliot'
+        '&ldquo;Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact.&rdquo; <br /> &mdash;George Eliot',
+        // July 24
+        '&ldquo;You have succeeded in life when all you really want is only what you really need.&rdquo; <br /> &mdash;Vernon Howard'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // July 22
         '&ldquo;Nobody loves a woman because she is handsome or ugly, stupid or intelligent. We love because we love.&rdquo; <br /> &mdash;Honore de Balzac',
         // July 23
-        '&ldquo;There is no love that is not an echo.&rdquo; <br /> &mdash;Theodor W. Adorno'
+        '&ldquo;There is no love that is not an echo.&rdquo; <br /> &mdash;Theodor W. Adorno',
+        // July 24
+        '&ldquo;The eyes those silent tongues of love.&rdquo; <br /> &mdash;Miguel de Cervantes'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // July 22
         '&ldquo;A mere copier of nature can never produce anything great.&rdquo; <br /> &mdash;Joshua Reynolds',
         // July 23
-        '&ldquo;In reality art is always for everyone and for no one.&rdquo; <br /> &mdash;Eugenio Montale'
+        '&ldquo;In reality art is always for everyone and for no one.&rdquo; <br /> &mdash;Eugenio Montale',
+        // July 24
+        '&ldquo;Art cannot be modern. Art is primordially eternal.&rdquo; <br /> &mdash;Egon Schiele'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
