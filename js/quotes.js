@@ -51,7 +51,9 @@ $(document).ready(function() {
         // July 23
         '&ldquo;Blessed is the man, who having nothing to say, abstains from giving wordy evidence of the fact.&rdquo; <br /> &mdash;George Eliot',
         // July 24
-        '&ldquo;You have succeeded in life when all you really want is only what you really need.&rdquo; <br /> &mdash;Vernon Howard'
+        '&ldquo;You have succeeded in life when all you really want is only what you really need.&rdquo; <br /> &mdash;Vernon Howard',
+        // July 25
+        '&ldquo;Hope is but the dream of those who wake.&rdquo; <br /> &mdash;Matthew Prior'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // July 23
         '&ldquo;There is no love that is not an echo.&rdquo; <br /> &mdash;Theodor W. Adorno',
         // July 24
-        '&ldquo;The eyes those silent tongues of love.&rdquo; <br /> &mdash;Miguel de Cervantes'
+        '&ldquo;The eyes those silent tongues of love.&rdquo; <br /> &mdash;Miguel de Cervantes',
+        // July 25
+        '&ldquo;Love is moral even without legal marriage, but marriage is immoral without love.&rdquo; <br /> &mdash;Ellen Key'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // July 23
         '&ldquo;In reality art is always for everyone and for no one.&rdquo; <br /> &mdash;Eugenio Montale',
         // July 24
-        '&ldquo;Art cannot be modern. Art is primordially eternal.&rdquo; <br /> &mdash;Egon Schiele'
+        '&ldquo;Art cannot be modern. Art is primordially eternal.&rdquo; <br /> &mdash;Egon Schiele',
+        // July 25
+        '&ldquo;Entertainment and art are not isolated.&rdquo; <br /> &mdash;Martin Kippenberger'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
