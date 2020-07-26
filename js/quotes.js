@@ -53,7 +53,9 @@ $(document).ready(function() {
         // July 24
         '&ldquo;You have succeeded in life when all you really want is only what you really need.&rdquo; <br /> &mdash;Vernon Howard',
         // July 25
-        '&ldquo;Hope is but the dream of those who wake.&rdquo; <br /> &mdash;Matthew Prior'
+        '&ldquo;Hope is but the dream of those who wake.&rdquo; <br /> &mdash;Matthew Prior',
+        // July 26
+        '&ldquo;I never think of the future &ndash; it comes soon enough.&rdquo; <br /> &mdash;Albert Einstein'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // July 24
         '&ldquo;The eyes those silent tongues of love.&rdquo; <br /> &mdash;Miguel de Cervantes',
         // July 25
-        '&ldquo;Love is moral even without legal marriage, but marriage is immoral without love.&rdquo; <br /> &mdash;Ellen Key'
+        '&ldquo;Love is moral even without legal marriage, but marriage is immoral without love.&rdquo; <br /> &mdash;Ellen Key',
+        // July 26
+        '&ldquo;Ultimately love is everything.&rdquo; <br /> &mdash;M. Scott Peck'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // July 24
         '&ldquo;Art cannot be modern. Art is primordially eternal.&rdquo; <br /> &mdash;Egon Schiele',
         // July 25
-        '&ldquo;Entertainment and art are not isolated.&rdquo; <br /> &mdash;Martin Kippenberger'
+        '&ldquo;Entertainment and art are not isolated.&rdquo; <br /> &mdash;Martin Kippenberger',
+        // July 26
+        '&ldquo;I don&rsquo;t like to sell my finest pieces.&rdquo; <br /> &mdash;Beatrice Wood'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
