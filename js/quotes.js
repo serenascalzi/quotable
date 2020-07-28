@@ -55,7 +55,9 @@ $(document).ready(function() {
         // July 25
         '&ldquo;Hope is but the dream of those who wake.&rdquo; <br /> &mdash;Matthew Prior',
         // July 26
-        '&ldquo;I never think of the future &ndash; it comes soon enough.&rdquo; <br /> &mdash;Albert Einstein'
+        '&ldquo;I never think of the future &ndash; it comes soon enough.&rdquo; <br /> &mdash;Albert Einstein',
+        // July 27
+        '&ldquo;Laziness may appear attractive, but work gives satisfaction.&rdquo; <br /> &mdash;Anne Frank'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // July 25
         '&ldquo;Love is moral even without legal marriage, but marriage is immoral without love.&rdquo; <br /> &mdash;Ellen Key',
         // July 26
-        '&ldquo;Ultimately love is everything.&rdquo; <br /> &mdash;M. Scott Peck'
+        '&ldquo;Ultimately love is everything.&rdquo; <br /> &mdash;M. Scott Peck',
+        // July 27
+        '&ldquo;Loving once and only once is possible &ndash; anything is possible.&rdquo; <br /> &mdash;Nicholas Sparks'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // July 25
         '&ldquo;Entertainment and art are not isolated.&rdquo; <br /> &mdash;Martin Kippenberger',
         // July 26
-        '&ldquo;I don&rsquo;t like to sell my finest pieces.&rdquo; <br /> &mdash;Beatrice Wood'
+        '&ldquo;I don&rsquo;t like to sell my finest pieces.&rdquo; <br /> &mdash;Beatrice Wood',
+        // July 27
+        '&ldquo;Every song is like a painting.&rdquo; <br /> &mdash;Dick Dale'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
