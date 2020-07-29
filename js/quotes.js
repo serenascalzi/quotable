@@ -59,7 +59,9 @@ $(document).ready(function() {
         // July 27
         '&ldquo;Laziness may appear attractive, but work gives satisfaction.&rdquo; <br /> &mdash;Anne Frank',
         // July 28
-        '&ldquo;With the past, I have nothing to do; nor with the future. I live now.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;With the past, I have nothing to do; nor with the future. I live now.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        // July 29
+        '&ldquo;This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.&rdquo; <br /> &mdash;Hannah Arendt'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // July 27
         '&ldquo;Loving once and only once is possible &ndash; anything is possible.&rdquo; <br /> &mdash;Nicholas Sparks',
         // July 28
-        '&ldquo;People protect what they love.&rdquo; <br /> &mdash;Jacques Yves Cousteau'
+        '&ldquo;People protect what they love.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
+        // July 29
+        '&ldquo;Love is a tyrant sparing none.&rdquo; <br /> &mdash;Pierre Corneille'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // July 27
         '&ldquo;Every song is like a painting.&rdquo; <br /> &mdash;Dick Dale',
         // July 28
-        '&ldquo;Art is too serious to be taken seriously.&rdquo; <br /> &mdash;Ad Reinhardt'
+        '&ldquo;Art is too serious to be taken seriously.&rdquo; <br /> &mdash;Ad Reinhardt',
+        // July 29
+        '&ldquo;Every great inspiration is but an experiment &ndash; though every experiment we know, is not a great inspiration.&rdquo; <br /> &mdash;Charles Ives'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
