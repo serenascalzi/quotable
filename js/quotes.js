@@ -61,7 +61,9 @@ $(document).ready(function() {
         // July 28
         '&ldquo;With the past, I have nothing to do; nor with the future. I live now.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         // July 29
-        '&ldquo;This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.&rdquo; <br /> &mdash;Hannah Arendt'
+        '&ldquo;This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.&rdquo; <br /> &mdash;Hannah Arendt',
+        // July 30
+        '&ldquo;You will never win if you never begin.&rdquo; <br /> &mdash;Helen Rowland'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // July 28
         '&ldquo;People protect what they love.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
         // July 29
-        '&ldquo;Love is a tyrant sparing none.&rdquo; <br /> &mdash;Pierre Corneille'
+        '&ldquo;Love is a tyrant sparing none.&rdquo; <br /> &mdash;Pierre Corneille',
+        // July 30
+        '&ldquo;Absences are a good influence in love and keep it bright and delicate.&rdquo; <br /> &mdash;Robert Louis Stevenson'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // July 28
         '&ldquo;Art is too serious to be taken seriously.&rdquo; <br /> &mdash;Ad Reinhardt',
         // July 29
-        '&ldquo;Every great inspiration is but an experiment &ndash; though every experiment we know, is not a great inspiration.&rdquo; <br /> &mdash;Charles Ives'
+        '&ldquo;Every great inspiration is but an experiment &ndash; though every experiment we know, is not a great inspiration.&rdquo; <br /> &mdash;Charles Ives',
+        // July 30
+        '&ldquo;Painting is self-discovery. Every good artist paints what he is.&rdquo; <br /> &mdash;Jackson Pollock'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
