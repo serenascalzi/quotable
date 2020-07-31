@@ -63,7 +63,9 @@ $(document).ready(function() {
         // July 29
         '&ldquo;This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.&rdquo; <br /> &mdash;Hannah Arendt',
         // July 30
-        '&ldquo;You will never win if you never begin.&rdquo; <br /> &mdash;Helen Rowland'
+        '&ldquo;You will never win if you never begin.&rdquo; <br /> &mdash;Helen Rowland',
+        // July 31
+        '&ldquo;Of all duties, prayer certainly is the sweetest and most easy.&rdquo; <br /> &mdash;Laurence Sterne'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -137,7 +139,9 @@ $(document).ready(function() {
         // July 29
         '&ldquo;Love is a tyrant sparing none.&rdquo; <br /> &mdash;Pierre Corneille',
         // July 30
-        '&ldquo;Absences are a good influence in love and keep it bright and delicate.&rdquo; <br /> &mdash;Robert Louis Stevenson'
+        '&ldquo;Absences are a good influence in love and keep it bright and delicate.&rdquo; <br /> &mdash;Robert Louis Stevenson',
+        // July 31
+        '&ldquo;I feel that there is nothing more truly artistic than to love people.&rdquo; <br /> &mdash;Vincent Van Gogh'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -211,7 +215,9 @@ $(document).ready(function() {
         // July 29
         '&ldquo;Every great inspiration is but an experiment &ndash; though every experiment we know, is not a great inspiration.&rdquo; <br /> &mdash;Charles Ives',
         // July 30
-        '&ldquo;Painting is self-discovery. Every good artist paints what he is.&rdquo; <br /> &mdash;Jackson Pollock'
+        '&ldquo;Painting is self-discovery. Every good artist paints what he is.&rdquo; <br /> &mdash;Jackson Pollock',
+        // July 31
+        '&ldquo;A portrait is a painting with something wrong with the mouth.&rdquo; <br /> &mdash;John Singer Sargent'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
