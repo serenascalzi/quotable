@@ -5,7 +5,7 @@ $(document).ready(function() {
 	// Random Varied Quote
 	let variedArray = [
         // August 1
-        '&ldquo;Varied Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;All human wisdom is summed up in two words; wait and hope.&rdquo; <br /> &mdash;Alexandre Dumas'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -21,7 +21,7 @@ $(document).ready(function() {
     // Random Love Quote
     let loveArray = [
         // August 1
-        '&ldquo;Love Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;The heart forgets its sorrow and ache.&rdquo; <br /> &mdash;James Russell Lowell'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -37,7 +37,7 @@ $(document).ready(function() {
     // Random Art Quote
     let artArray = [
         // August 1
-        '&ldquo;Art Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;All art is autobiographical. The pearl is the oyster&rsquo;s autobiography.&rdquo; <br /> &mdash;Federico Fellini'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
