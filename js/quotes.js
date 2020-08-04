@@ -6,8 +6,10 @@ $(document).ready(function() {
 	let variedArray = [
         // August 1
         '&ldquo;All human wisdom is summed up in two words; wait and hope.&rdquo; <br /> &mdash;Alexandre Dumas',
-        // July 2
-        '&ldquo;If you count all your assets you always show a profit.&rdquo; <br /> &mdash;Wilson Mizner'
+        // August 2
+        '&ldquo;If you count all your assets you always show a profit.&rdquo; <br /> &mdash;Wilson Mizner',
+        // August 3
+        '&ldquo;I have no methods; all I do is accept people as they are.&rdquo; <br /> &mdash;Joan Rivers'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -24,8 +26,10 @@ $(document).ready(function() {
     let loveArray = [
         // August 1
         '&ldquo;The heart forgets its sorrow and ache.&rdquo; <br /> &mdash;James Russell Lowell',
-        // July 2
-        '&ldquo;The words of kindness are more healing to a drooping heart than balm or honey.&rdquo; <br /> &mdash;Sarah Fielding'
+        // August 2
+        '&ldquo;The words of kindness are more healing to a drooping heart than balm or honey.&rdquo; <br /> &mdash;Sarah Fielding',
+        // August 3
+        '&ldquo;Marriages, like careers, need constant nurturing&hellip; the secret of having it all is loving it all.&rdquo; <br /> &mdash;Joyce Brothers'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -42,8 +46,10 @@ $(document).ready(function() {
     let artArray = [
         // August 1
         '&ldquo;All art is autobiographical. The pearl is the oyster&rsquo;s autobiography.&rdquo; <br /> &mdash;Federico Fellini',
-        // July 2
-        '&ldquo;Our individual lives cannot, generally, be works of art unless the social order is also.&rdquo; <br /> &mdash;Charles Horton Cooley'
+        // August 2
+        '&ldquo;Our individual lives cannot, generally, be works of art unless the social order is also.&rdquo; <br /> &mdash;Charles Horton Cooley',
+        // August 3
+        '&ldquo;Form follows function.&rdquo; <br /> &mdash;Louis Sullivan'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
