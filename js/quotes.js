@@ -9,7 +9,9 @@ $(document).ready(function() {
         // August 2
         '&ldquo;If you count all your assets you always show a profit.&rdquo; <br /> &mdash;Wilson Mizner',
         // August 3
-        '&ldquo;I have no methods; all I do is accept people as they are.&rdquo; <br /> &mdash;Joan Rivers'
+        '&ldquo;I have no methods; all I do is accept people as they are.&rdquo; <br /> &mdash;Joan Rivers',
+        // August 4
+        '&ldquo;I am prepared for the worst, but hope for the best.&rdquo; <br /> &mdash;Benjamin Disraeli'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -29,7 +31,9 @@ $(document).ready(function() {
         // August 2
         '&ldquo;The words of kindness are more healing to a drooping heart than balm or honey.&rdquo; <br /> &mdash;Sarah Fielding',
         // August 3
-        '&ldquo;Marriages, like careers, need constant nurturing&hellip; the secret of having it all is loving it all.&rdquo; <br /> &mdash;Joyce Brothers'
+        '&ldquo;Marriages, like careers, need constant nurturing&hellip; the secret of having it all is loving it all.&rdquo; <br /> &mdash;Joyce Brothers',
+        // August 4
+        '&ldquo;It is better to have loved and lost than never to have lost at all.&rdquo; <br /> &mdash;Samuel Butler'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -49,7 +53,9 @@ $(document).ready(function() {
         // August 2
         '&ldquo;Our individual lives cannot, generally, be works of art unless the social order is also.&rdquo; <br /> &mdash;Charles Horton Cooley',
         // August 3
-        '&ldquo;Form follows function.&rdquo; <br /> &mdash;Louis Sullivan'
+        '&ldquo;Form follows function.&rdquo; <br /> &mdash;Louis Sullivan',
+        // August 4
+        '&ldquo;To make us feel small in the right way is a function of art; men can only make us feel small in the wrong way.&rdquo; <br /> &mdash;E. M. Forster'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
