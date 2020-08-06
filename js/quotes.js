@@ -13,7 +13,9 @@ $(document).ready(function() {
         // August 4
         '&ldquo;I am prepared for the worst, but hope for the best.&rdquo; <br /> &mdash;Benjamin Disraeli',
         // August 5
-        '&ldquo;Dreams will get you nowhere, a good kick in the pants will take you a long way.&rdquo; <br /> &mdash;Baltasar Gracian'
+        '&ldquo;Dreams will get you nowhere, a good kick in the pants will take you a long way.&rdquo; <br /> &mdash;Baltasar Gracian',
+        // August 6
+        '&ldquo;To advise is not to compel.&rdquo; <br /> &mdash;Anton Chekhov'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -37,7 +39,9 @@ $(document).ready(function() {
         // August 4
         '&ldquo;It is better to have loved and lost than never to have lost at all.&rdquo; <br /> &mdash;Samuel Butler',
         // August 5
-        '&ldquo;Blessed are the hearts that can bend; they shall never be broken.&rdquo; <br /> &mdash;Albert Camus'
+        '&ldquo;Blessed are the hearts that can bend; they shall never be broken.&rdquo; <br /> &mdash;Albert Camus',
+        // August 6
+        '&ldquo;There is no limit to the power of loving.&rdquo; <br /> &mdash;John Morton'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -61,7 +65,9 @@ $(document).ready(function() {
         // August 4
         '&ldquo;To make us feel small in the right way is a function of art; men can only make us feel small in the wrong way.&rdquo; <br /> &mdash;E. M. Forster',
         // August 5
-        '&ldquo;A great artist is always before his time or behind it.&rdquo; <br /> &mdash;George Edward Moore'
+        '&ldquo;A great artist is always before his time or behind it.&rdquo; <br /> &mdash;George Edward Moore',
+        // August 6
+        '&ldquo;There is nothing worse than a sharp image of a fuzzy concept.&rdquo; <br /> &mdash;Ansel Adams'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
