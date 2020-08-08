@@ -17,7 +17,9 @@ $(document).ready(function() {
         // August 6
         '&ldquo;To advise is not to compel.&rdquo; <br /> &mdash;Anton Chekhov',
         // August 7
-        '&ldquo;Never find fault with the absent.&rdquo; <br /> &mdash;Alexander Pope'
+        '&ldquo;Never find fault with the absent.&rdquo; <br /> &mdash;Alexander Pope',
+        // August 8
+        '&ldquo;All wealth is the product of labor.&rdquo; <br /> &mdash;John Locke'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // August 6
         '&ldquo;There is no limit to the power of loving.&rdquo; <br /> &mdash;John Morton',
         // August 7
-        '&ldquo;We love even when our love is not requited.&rdquo; <br /> &mdash;Mortimer Adler'
+        '&ldquo;We love even when our love is not requited.&rdquo; <br /> &mdash;Mortimer Adler',
+        // August 8
+        '&ldquo;Love is not only something you feel, it is something you do.&rdquo; <br /> &mdash;David Wilkerson'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // August 6
         '&ldquo;There is nothing worse than a sharp image of a fuzzy concept.&rdquo; <br /> &mdash;Ansel Adams',
         // August 7
-        '&ldquo;The photograph itself doesn&rsquo;t interest me. I want only to capture a minute part of reality.&rdquo; <br /> &mdash;Henri Cartier-Bresson'
+        '&ldquo;The photograph itself doesn&rsquo;t interest me. I want only to capture a minute part of reality.&rdquo; <br /> &mdash;Henri Cartier-Bresson',
+        // August 8
+        '&ldquo;Simplicity is the ultimate sophistication.&rdquo; <br /> &mdash;Jeff Rich'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
