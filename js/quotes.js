@@ -21,7 +21,9 @@ $(document).ready(function() {
         // August 8
         '&ldquo;All wealth is the product of labor.&rdquo; <br /> &mdash;John Locke',
         // August 9
-        '&ldquo;Walk while ye have the light, lest darkness come upon you.&rdquo; <br /> &mdash;John Ruskin'
+        '&ldquo;Walk while ye have the light, lest darkness come upon you.&rdquo; <br /> &mdash;John Ruskin',
+        // August 10
+        '&ldquo;Success &ndash; keeping your mind awake and your desire asleep.&rdquo; <br /> &mdash;Walter Scott'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // August 8
         '&ldquo;Love is not only something you feel, it is something you do.&rdquo; <br /> &mdash;David Wilkerson',
         // August 9
-        '&ldquo;Death and love are the two wings that bear the good man to heaven.&rdquo; <br /> &mdash;Michelangelo'
+        '&ldquo;Death and love are the two wings that bear the good man to heaven.&rdquo; <br /> &mdash;Michelangelo',
+        // August 10
+        '&ldquo;Love is suffering. One side always loves more.&rdquo; <br /> &mdash;Catherine Deneuve'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // August 8
         '&ldquo;Simplicity is the ultimate sophistication.&rdquo; <br /> &mdash;Jeff Rich',
         // August 9
-        '&ldquo;A good artist should be isolated. If he isn&rsquo;t isolated, something is wrong.&rdquo; <br /> &mdash;Orson Welles'
+        '&ldquo;A good artist should be isolated. If he isn&rsquo;t isolated, something is wrong.&rdquo; <br /> &mdash;Orson Welles',
+        // August 10
+        '&ldquo;Painting is a nail to which I fasten my ideas.&rdquo; <br /> &mdash;Georges Braque'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
