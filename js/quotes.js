@@ -23,7 +23,9 @@ $(document).ready(function() {
         // August 9
         '&ldquo;Walk while ye have the light, lest darkness come upon you.&rdquo; <br /> &mdash;John Ruskin',
         // August 10
-        '&ldquo;Success &ndash; keeping your mind awake and your desire asleep.&rdquo; <br /> &mdash;Walter Scott'
+        '&ldquo;Success &ndash; keeping your mind awake and your desire asleep.&rdquo; <br /> &mdash;Walter Scott',
+        // August 11
+        '&ldquo;Without labor nothing prospers.&rdquo; <br /> &mdash;Sophocles'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -57,7 +59,9 @@ $(document).ready(function() {
         // August 9
         '&ldquo;Death and love are the two wings that bear the good man to heaven.&rdquo; <br /> &mdash;Michelangelo',
         // August 10
-        '&ldquo;Love is suffering. One side always loves more.&rdquo; <br /> &mdash;Catherine Deneuve'
+        '&ldquo;Love is suffering. One side always loves more.&rdquo; <br /> &mdash;Catherine Deneuve',
+        // August 11
+        '&ldquo;He wants you all to Himself to put His loving, divine arms around you.&rdquo; <br /> &mdash;Charles Stanley'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -91,7 +95,9 @@ $(document).ready(function() {
         // August 9
         '&ldquo;A good artist should be isolated. If he isn&rsquo;t isolated, something is wrong.&rdquo; <br /> &mdash;Orson Welles',
         // August 10
-        '&ldquo;Painting is a nail to which I fasten my ideas.&rdquo; <br /> &mdash;Georges Braque'
+        '&ldquo;Painting is a nail to which I fasten my ideas.&rdquo; <br /> &mdash;Georges Braque',
+        // August 11
+        '&ldquo;Drawing is the honesty of the art. There is no possibility of cheating. It is either good or bad.&rdquo; <br /> &mdash;Salvador Dali'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
