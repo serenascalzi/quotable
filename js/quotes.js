@@ -25,7 +25,9 @@ $(document).ready(function() {
         // August 10
         '&ldquo;Success &ndash; keeping your mind awake and your desire asleep.&rdquo; <br /> &mdash;Walter Scott',
         // August 11
-        '&ldquo;Without labor nothing prospers.&rdquo; <br /> &mdash;Sophocles'
+        '&ldquo;Without labor nothing prospers.&rdquo; <br /> &mdash;Sophocles',
+        // August 12
+        '&ldquo;Only the educated are free.&rdquo; <br /> &mdash;Epictetus'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // August 10
         '&ldquo;Love is suffering. One side always loves more.&rdquo; <br /> &mdash;Catherine Deneuve',
         // August 11
-        '&ldquo;He wants you all to Himself to put His loving, divine arms around you.&rdquo; <br /> &mdash;Charles Stanley'
+        '&ldquo;He wants you all to Himself to put His loving, divine arms around you.&rdquo; <br /> &mdash;Charles Stanley',
+        // August 12
+        '&ldquo;Love never dies of starvation, but often of indigestion.&rdquo; <br /> &mdash;Ninon de L&rsquo;Enclos'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // August 10
         '&ldquo;Painting is a nail to which I fasten my ideas.&rdquo; <br /> &mdash;Georges Braque',
         // August 11
-        '&ldquo;Drawing is the honesty of the art. There is no possibility of cheating. It is either good or bad.&rdquo; <br /> &mdash;Salvador Dali'
+        '&ldquo;Drawing is the honesty of the art. There is no possibility of cheating. It is either good or bad.&rdquo; <br /> &mdash;Salvador Dali',
+        // August 12
+        '&ldquo;That&rsquo;s why people listen to music or look at paintings. To get in touch with that wholeness.&rdquo; <br /> &mdash;Corita Kent'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
