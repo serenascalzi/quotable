@@ -27,7 +27,9 @@ $(document).ready(function() {
         // August 11
         '&ldquo;Without labor nothing prospers.&rdquo; <br /> &mdash;Sophocles',
         // August 12
-        '&ldquo;Only the educated are free.&rdquo; <br /> &mdash;Epictetus'
+        '&ldquo;Only the educated are free.&rdquo; <br /> &mdash;Epictetus',
+        // August 13
+        '&ldquo;Liberty, when it begins to take root, is a plant of rapid growth.&rdquo; <br /> &mdash;George Washington'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // August 11
         '&ldquo;He wants you all to Himself to put His loving, divine arms around you.&rdquo; <br /> &mdash;Charles Stanley',
         // August 12
-        '&ldquo;Love never dies of starvation, but often of indigestion.&rdquo; <br /> &mdash;Ninon de L&rsquo;Enclos'
+        '&ldquo;Love never dies of starvation, but often of indigestion.&rdquo; <br /> &mdash;Ninon de L&rsquo;Enclos',
+        // August 13
+        '&ldquo;An ideal wife is any woman who has an ideal husband.&rdquo; <br /> &mdash;Booth Tarkington'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // August 11
         '&ldquo;Drawing is the honesty of the art. There is no possibility of cheating. It is either good or bad.&rdquo; <br /> &mdash;Salvador Dali',
         // August 12
-        '&ldquo;That&rsquo;s why people listen to music or look at paintings. To get in touch with that wholeness.&rdquo; <br /> &mdash;Corita Kent'
+        '&ldquo;That&rsquo;s why people listen to music or look at paintings. To get in touch with that wholeness.&rdquo; <br /> &mdash;Corita Kent',
+        // August 13
+        '&ldquo;The cultured man is an artist, an artist in humanity.&rdquo; <br /> &mdash;Ashley Montagu'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
