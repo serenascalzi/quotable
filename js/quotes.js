@@ -29,7 +29,9 @@ $(document).ready(function() {
         // August 12
         '&ldquo;Only the educated are free.&rdquo; <br /> &mdash;Epictetus',
         // August 13
-        '&ldquo;Liberty, when it begins to take root, is a plant of rapid growth.&rdquo; <br /> &mdash;George Washington'
+        '&ldquo;Liberty, when it begins to take root, is a plant of rapid growth.&rdquo; <br /> &mdash;George Washington',
+        // August 14
+        '&ldquo;The greatest remedy for anger is delay.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // August 12
         '&ldquo;Love never dies of starvation, but often of indigestion.&rdquo; <br /> &mdash;Ninon de L&rsquo;Enclos',
         // August 13
-        '&ldquo;An ideal wife is any woman who has an ideal husband.&rdquo; <br /> &mdash;Booth Tarkington'
+        '&ldquo;An ideal wife is any woman who has an ideal husband.&rdquo; <br /> &mdash;Booth Tarkington',
+        // August 14
+        '&ldquo;We may give without loving, but we cannot love without giving.&rdquo; <br /> &mdash;Bernard Meltzer'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // August 12
         '&ldquo;That&rsquo;s why people listen to music or look at paintings. To get in touch with that wholeness.&rdquo; <br /> &mdash;Corita Kent',
         // August 13
-        '&ldquo;The cultured man is an artist, an artist in humanity.&rdquo; <br /> &mdash;Ashley Montagu'
+        '&ldquo;The cultured man is an artist, an artist in humanity.&rdquo; <br /> &mdash;Ashley Montagu',
+        // August 14
+        '&ldquo;Art is man&rsquo;s expression of his joy in labor.&rdquo; <br /> &mdash;Henry Kissinger'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
