@@ -31,7 +31,9 @@ $(document).ready(function() {
         // August 13
         '&ldquo;Liberty, when it begins to take root, is a plant of rapid growth.&rdquo; <br /> &mdash;George Washington',
         // August 14
-        '&ldquo;The greatest remedy for anger is delay.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
+        '&ldquo;The greatest remedy for anger is delay.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
+        // August 15
+        '&ldquo;Ambition is but avarice on stilts, and masked.&rdquo; <br /> &mdash;Walter Savage Landor'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // August 13
         '&ldquo;An ideal wife is any woman who has an ideal husband.&rdquo; <br /> &mdash;Booth Tarkington',
         // August 14
-        '&ldquo;We may give without loving, but we cannot love without giving.&rdquo; <br /> &mdash;Bernard Meltzer'
+        '&ldquo;We may give without loving, but we cannot love without giving.&rdquo; <br /> &mdash;Bernard Meltzer',
+        // August 15
+        '&ldquo;Love means to love that which is unlovable; or it is no virtue at all.&rdquo; <br /> &mdash;Gilbert K. Chesterton'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // August 13
         '&ldquo;The cultured man is an artist, an artist in humanity.&rdquo; <br /> &mdash;Ashley Montagu',
         // August 14
-        '&ldquo;Art is man&rsquo;s expression of his joy in labor.&rdquo; <br /> &mdash;Henry Kissinger'
+        '&ldquo;Art is man&rsquo;s expression of his joy in labor.&rdquo; <br /> &mdash;Henry Kissinger',
+        // August 15
+        '&ldquo;Art distills sensations and embodies it with enhanced meaning.&rdquo; <br /> &mdash;Miguel de Unamuno'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
