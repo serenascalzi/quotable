@@ -33,7 +33,9 @@ $(document).ready(function() {
         // August 14
         '&ldquo;The greatest remedy for anger is delay.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
         // August 15
-        '&ldquo;Ambition is but avarice on stilts, and masked.&rdquo; <br /> &mdash;Walter Savage Landor'
+        '&ldquo;Ambition is but avarice on stilts, and masked.&rdquo; <br /> &mdash;Walter Savage Landor',
+        // August 16
+        '&ldquo;If fear is cultivated it will become stronger, if faith is cultivated it will achieve mastery.&rdquo; <br /> &mdash;John Paul Jones'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // August 14
         '&ldquo;We may give without loving, but we cannot love without giving.&rdquo; <br /> &mdash;Bernard Meltzer',
         // August 15
-        '&ldquo;Love means to love that which is unlovable; or it is no virtue at all.&rdquo; <br /> &mdash;Gilbert K. Chesterton'
+        '&ldquo;Love means to love that which is unlovable; or it is no virtue at all.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
+        // August 16
+        '&ldquo;One is very crazy when in love.&rdquo; <br /> &mdash;Sigmund Freud'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // August 14
         '&ldquo;Art is man&rsquo;s expression of his joy in labor.&rdquo; <br /> &mdash;Henry Kissinger',
         // August 15
-        '&ldquo;Art distills sensations and embodies it with enhanced meaning.&rdquo; <br /> &mdash;Miguel de Unamuno'
+        '&ldquo;Art distills sensations and embodies it with enhanced meaning.&rdquo; <br /> &mdash;Miguel de Unamuno',
+        // August 16
+        '&ldquo;Religion and art spring from the same root and are close kin. Economics and art are strangers.&rdquo; <br /> &mdash;Nathaniel Hawthorne'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
