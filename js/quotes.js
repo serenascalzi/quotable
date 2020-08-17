@@ -35,7 +35,9 @@ $(document).ready(function() {
         // August 15
         '&ldquo;Ambition is but avarice on stilts, and masked.&rdquo; <br /> &mdash;Walter Savage Landor',
         // August 16
-        '&ldquo;If fear is cultivated it will become stronger, if faith is cultivated it will achieve mastery.&rdquo; <br /> &mdash;John Paul Jones'
+        '&ldquo;If fear is cultivated it will become stronger, if faith is cultivated it will achieve mastery.&rdquo; <br /> &mdash;John Paul Jones',
+        // August 17
+        '&ldquo;Hitch your wagon to a star.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -81,7 +83,9 @@ $(document).ready(function() {
         // August 15
         '&ldquo;Love means to love that which is unlovable; or it is no virtue at all.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
         // August 16
-        '&ldquo;One is very crazy when in love.&rdquo; <br /> &mdash;Sigmund Freud'
+        '&ldquo;One is very crazy when in love.&rdquo; <br /> &mdash;Sigmund Freud',
+        // August 17
+        '&ldquo;Love is a great beautifier.&rdquo; <br /> &mdash;Louisa May Alcott'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -127,7 +131,9 @@ $(document).ready(function() {
         // August 15
         '&ldquo;Art distills sensations and embodies it with enhanced meaning.&rdquo; <br /> &mdash;Miguel de Unamuno',
         // August 16
-        '&ldquo;Religion and art spring from the same root and are close kin. Economics and art are strangers.&rdquo; <br /> &mdash;Nathaniel Hawthorne'
+        '&ldquo;Religion and art spring from the same root and are close kin. Economics and art are strangers.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
+        // August 17
+        '&ldquo;Treat a work of art like a prince. Let it speak to you first.&rdquo; <br /> &mdash;Arthur Schopenhauer'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
