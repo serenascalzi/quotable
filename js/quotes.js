@@ -37,7 +37,9 @@ $(document).ready(function() {
         // August 16
         '&ldquo;If fear is cultivated it will become stronger, if faith is cultivated it will achieve mastery.&rdquo; <br /> &mdash;John Paul Jones',
         // August 17
-        '&ldquo;Hitch your wagon to a star.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;Hitch your wagon to a star.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        // August 18
+        '&ldquo;Honor is not the exclusive property of any political party.&rdquo; <br /> &mdash;Herbert Hoover'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // August 16
         '&ldquo;One is very crazy when in love.&rdquo; <br /> &mdash;Sigmund Freud',
         // August 17
-        '&ldquo;Love is a great beautifier.&rdquo; <br /> &mdash;Louisa May Alcott'
+        '&ldquo;Love is a great beautifier.&rdquo; <br /> &mdash;Louisa May Alcott',
+        // August 18
+        '&ldquo;The crime of loving is forgetting.&rdquo; <br /> &mdash;Maurice Chevalier'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // August 16
         '&ldquo;Religion and art spring from the same root and are close kin. Economics and art are strangers.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
         // August 17
-        '&ldquo;Treat a work of art like a prince. Let it speak to you first.&rdquo; <br /> &mdash;Arthur Schopenhauer'
+        '&ldquo;Treat a work of art like a prince. Let it speak to you first.&rdquo; <br /> &mdash;Arthur Schopenhauer',
+        // August 18
+        '&ldquo;I never called my work an &lsquo;art&rsquo;. It&rsquo;s part of show business, the business of building entertainment.&rdquo; <br /> &mdash;Walt Disney'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
