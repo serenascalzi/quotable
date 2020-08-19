@@ -39,7 +39,9 @@ $(document).ready(function() {
         // August 17
         '&ldquo;Hitch your wagon to a star.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         // August 18
-        '&ldquo;Honor is not the exclusive property of any political party.&rdquo; <br /> &mdash;Herbert Hoover'
+        '&ldquo;Honor is not the exclusive property of any political party.&rdquo; <br /> &mdash;Herbert Hoover',
+        // August 19
+        '&ldquo;Free speech carries with it some freedom to listen.&rdquo; <br /> &mdash;Warren E. Burger'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -89,7 +91,9 @@ $(document).ready(function() {
         // August 17
         '&ldquo;Love is a great beautifier.&rdquo; <br /> &mdash;Louisa May Alcott',
         // August 18
-        '&ldquo;The crime of loving is forgetting.&rdquo; <br /> &mdash;Maurice Chevalier'
+        '&ldquo;The crime of loving is forgetting.&rdquo; <br /> &mdash;Maurice Chevalier',
+        // August 19
+        '&ldquo;All that I am, or hope to be, I owe to my angel mother.&rdquo; <br /> &mdash;Abraham Lincoln'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -139,7 +143,9 @@ $(document).ready(function() {
         // August 17
         '&ldquo;Treat a work of art like a prince. Let it speak to you first.&rdquo; <br /> &mdash;Arthur Schopenhauer',
         // August 18
-        '&ldquo;I never called my work an &lsquo;art&rsquo;. It&rsquo;s part of show business, the business of building entertainment.&rdquo; <br /> &mdash;Walt Disney'
+        '&ldquo;I never called my work an &lsquo;art&rsquo;. It&rsquo;s part of show business, the business of building entertainment.&rdquo; <br /> &mdash;Walt Disney',
+        // August 19
+        '&ldquo;Every good painter paints what he is.&rdquo; <br /> &mdash;Jackson Pollock'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
