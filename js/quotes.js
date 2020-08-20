@@ -41,7 +41,9 @@ $(document).ready(function() {
         // August 18
         '&ldquo;Honor is not the exclusive property of any political party.&rdquo; <br /> &mdash;Herbert Hoover',
         // August 19
-        '&ldquo;Free speech carries with it some freedom to listen.&rdquo; <br /> &mdash;Warren E. Burger'
+        '&ldquo;Free speech carries with it some freedom to listen.&rdquo; <br /> &mdash;Warren E. Burger',
+        // August 20
+        '&ldquo;Life is far too important a thing ever to talk seriously about.&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // August 18
         '&ldquo;The crime of loving is forgetting.&rdquo; <br /> &mdash;Maurice Chevalier',
         // August 19
-        '&ldquo;All that I am, or hope to be, I owe to my angel mother.&rdquo; <br /> &mdash;Abraham Lincoln'
+        '&ldquo;All that I am, or hope to be, I owe to my angel mother.&rdquo; <br /> &mdash;Abraham Lincoln',
+        // August 20
+        '&ldquo;It is difficult to know at what moment love begins; it is less difficult to know that it has begun.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // August 18
         '&ldquo;I never called my work an &lsquo;art&rsquo;. It&rsquo;s part of show business, the business of building entertainment.&rdquo; <br /> &mdash;Walt Disney',
         // August 19
-        '&ldquo;Every good painter paints what he is.&rdquo; <br /> &mdash;Jackson Pollock'
+        '&ldquo;Every good painter paints what he is.&rdquo; <br /> &mdash;Jackson Pollock',
+        // August 20
+        '&ldquo;I shut my eyes in order to see.&rdquo; <br /> &mdash;Paul Gauguin'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
