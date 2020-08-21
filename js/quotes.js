@@ -43,7 +43,9 @@ $(document).ready(function() {
         // August 19
         '&ldquo;Free speech carries with it some freedom to listen.&rdquo; <br /> &mdash;Warren E. Burger',
         // August 20
-        '&ldquo;Life is far too important a thing ever to talk seriously about.&rdquo; <br /> &mdash;Oscar Wilde'
+        '&ldquo;Life is far too important a thing ever to talk seriously about.&rdquo; <br /> &mdash;Oscar Wilde',
+        // August 21
+        '&ldquo;I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.&rdquo; <br /> &mdash;Albert Einstein'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -97,7 +99,9 @@ $(document).ready(function() {
         // August 19
         '&ldquo;All that I am, or hope to be, I owe to my angel mother.&rdquo; <br /> &mdash;Abraham Lincoln',
         // August 20
-        '&ldquo;It is difficult to know at what moment love begins; it is less difficult to know that it has begun.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow'
+        '&ldquo;It is difficult to know at what moment love begins; it is less difficult to know that it has begun.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
+        // August 21
+        '&ldquo;Paradise was made for tender hearts; hell, for loveless hearts.&rdquo; <br /> &mdash;Voltaire'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -151,7 +155,9 @@ $(document).ready(function() {
         // August 19
         '&ldquo;Every good painter paints what he is.&rdquo; <br /> &mdash;Jackson Pollock',
         // August 20
-        '&ldquo;I shut my eyes in order to see.&rdquo; <br /> &mdash;Paul Gauguin'
+        '&ldquo;I shut my eyes in order to see.&rdquo; <br /> &mdash;Paul Gauguin',
+        // August 21
+        '&ldquo;The mediator of the inexpressible is the work of art.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
