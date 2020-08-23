@@ -47,7 +47,9 @@ $(document).ready(function() {
         // August 21
         '&ldquo;I think and think for months and years. Ninety-nine times, the conclusion is false. The hundredth time I am right.&rdquo; <br /> &mdash;Albert Einstein',
         // August 22
-        '&ldquo;Knowledge comes, but wisdom lingers.&rdquo; <br /> &mdash;Alfred Lord Tennyson'
+        '&ldquo;Knowledge comes, but wisdom lingers.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
+        // August 23
+        '&ldquo;I always entertain great hopes.&rdquo; <br /> &mdash;Robert Frost'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // August 21
         '&ldquo;Paradise was made for tender hearts; hell, for loveless hearts.&rdquo; <br /> &mdash;Voltaire',
         // August 22
-        '&ldquo;Choose a wife rather by your ear than your eye.&rdquo; <br /> &mdash;Thomas Fuller'
+        '&ldquo;Choose a wife rather by your ear than your eye.&rdquo; <br /> &mdash;Thomas Fuller',
+        // August 23
+        '&ldquo;Love demands infinitely less than friendship.&rdquo; <br /> &mdash;George Jean Nathan'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // August 21
         '&ldquo;The mediator of the inexpressible is the work of art.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         // August 22
-        '&ldquo;Man lives by imagination.&rdquo; <br /> &mdash;Havelock Ellis'
+        '&ldquo;Man lives by imagination.&rdquo; <br /> &mdash;Havelock Ellis',
+        // August 23
+        '&ldquo;The best artists know what to leave out.&rdquo; <br /> &mdash;Charles de Lint'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
