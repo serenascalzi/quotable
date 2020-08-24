@@ -49,7 +49,9 @@ $(document).ready(function() {
         // August 22
         '&ldquo;Knowledge comes, but wisdom lingers.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
         // August 23
-        '&ldquo;I always entertain great hopes.&rdquo; <br /> &mdash;Robert Frost'
+        '&ldquo;I always entertain great hopes.&rdquo; <br /> &mdash;Robert Frost',
+        // August 24
+        '&ldquo;Lend yourself to others, but give yourself to yourself.&rdquo; <br /> &mdash;Michel de Montaigne'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // August 22
         '&ldquo;Choose a wife rather by your ear than your eye.&rdquo; <br /> &mdash;Thomas Fuller',
         // August 23
-        '&ldquo;Love demands infinitely less than friendship.&rdquo; <br /> &mdash;George Jean Nathan'
+        '&ldquo;Love demands infinitely less than friendship.&rdquo; <br /> &mdash;George Jean Nathan',
+        // August 24
+        '&ldquo;It is sad not to love, but it is much sadder not to be able to love.&rdquo; <br /> &mdash;Miguel de Unamuno'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // August 22
         '&ldquo;Man lives by imagination.&rdquo; <br /> &mdash;Havelock Ellis',
         // August 23
-        '&ldquo;The best artists know what to leave out.&rdquo; <br /> &mdash;Charles de Lint'
+        '&ldquo;The best artists know what to leave out.&rdquo; <br /> &mdash;Charles de Lint',
+        // August 24
+        '&ldquo;So vast is art, so narrow human wit.&rdquo; <br /> &mdash;Alexander Pope'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
