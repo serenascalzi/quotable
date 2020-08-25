@@ -51,7 +51,9 @@ $(document).ready(function() {
         // August 23
         '&ldquo;I always entertain great hopes.&rdquo; <br /> &mdash;Robert Frost',
         // August 24
-        '&ldquo;Lend yourself to others, but give yourself to yourself.&rdquo; <br /> &mdash;Michel de Montaigne'
+        '&ldquo;Lend yourself to others, but give yourself to yourself.&rdquo; <br /> &mdash;Michel de Montaigne',
+        // August 25
+        '&ldquo;Let us be grateful to the mirror for revealing to us our appearance only.&rdquo; <br /> &mdash;Samuel Butler'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // August 23
         '&ldquo;Love demands infinitely less than friendship.&rdquo; <br /> &mdash;George Jean Nathan',
         // August 24
-        '&ldquo;It is sad not to love, but it is much sadder not to be able to love.&rdquo; <br /> &mdash;Miguel de Unamuno'
+        '&ldquo;It is sad not to love, but it is much sadder not to be able to love.&rdquo; <br /> &mdash;Miguel de Unamuno',
+        // August 25
+        '&ldquo;I&rsquo;ve had an exciting time; I married for love and got a little money along with it.&rdquo; <br /> &mdash;Rose Kennedy'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // August 23
         '&ldquo;The best artists know what to leave out.&rdquo; <br /> &mdash;Charles de Lint',
         // August 24
-        '&ldquo;So vast is art, so narrow human wit.&rdquo; <br /> &mdash;Alexander Pope'
+        '&ldquo;So vast is art, so narrow human wit.&rdquo; <br /> &mdash;Alexander Pope',
+        // August 25
+        '&ldquo;Art is not what you see, but what you make others see.&rdquo; <br /> &mdash;Edgar Degas'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
