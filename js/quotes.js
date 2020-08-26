@@ -53,7 +53,9 @@ $(document).ready(function() {
         // August 24
         '&ldquo;Lend yourself to others, but give yourself to yourself.&rdquo; <br /> &mdash;Michel de Montaigne',
         // August 25
-        '&ldquo;Let us be grateful to the mirror for revealing to us our appearance only.&rdquo; <br /> &mdash;Samuel Butler'
+        '&ldquo;Let us be grateful to the mirror for revealing to us our appearance only.&rdquo; <br /> &mdash;Samuel Butler',
+        // August 26
+        '&ldquo;Hope is such a bait, it covers any hook.&rdquo; <br /> &mdash;Oliver Goldsmith'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // August 24
         '&ldquo;It is sad not to love, but it is much sadder not to be able to love.&rdquo; <br /> &mdash;Miguel de Unamuno',
         // August 25
-        '&ldquo;I&rsquo;ve had an exciting time; I married for love and got a little money along with it.&rdquo; <br /> &mdash;Rose Kennedy'
+        '&ldquo;I&rsquo;ve had an exciting time; I married for love and got a little money along with it.&rdquo; <br /> &mdash;Rose Kennedy',
+        // August 26
+        '&ldquo;The heart of another is a dark forest, always, no matter how close it has been to one&rsquo;s own.&rdquo; <br /> &mdash;Willa Cather'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // August 24
         '&ldquo;So vast is art, so narrow human wit.&rdquo; <br /> &mdash;Alexander Pope',
         // August 25
-        '&ldquo;Art is not what you see, but what you make others see.&rdquo; <br /> &mdash;Edgar Degas'
+        '&ldquo;Art is not what you see, but what you make others see.&rdquo; <br /> &mdash;Edgar Degas',
+        // August 26
+        '&ldquo;The vitality of a new movement in Art must be gauged by the fury it arouses.&rdquo; <br /> &mdash;Logan Pearsall Smith'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
