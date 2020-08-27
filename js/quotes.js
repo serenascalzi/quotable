@@ -55,7 +55,9 @@ $(document).ready(function() {
         // August 25
         '&ldquo;Let us be grateful to the mirror for revealing to us our appearance only.&rdquo; <br /> &mdash;Samuel Butler',
         // August 26
-        '&ldquo;Hope is such a bait, it covers any hook.&rdquo; <br /> &mdash;Oliver Goldsmith'
+        '&ldquo;Hope is such a bait, it covers any hook.&rdquo; <br /> &mdash;Oliver Goldsmith',
+        // August 27
+        '&ldquo;Freedom is not enough.&rdquo; <br /> &mdash;Lyndon B. Johnson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // August 25
         '&ldquo;I&rsquo;ve had an exciting time; I married for love and got a little money along with it.&rdquo; <br /> &mdash;Rose Kennedy',
         // August 26
-        '&ldquo;The heart of another is a dark forest, always, no matter how close it has been to one&rsquo;s own.&rdquo; <br /> &mdash;Willa Cather'
+        '&ldquo;The heart of another is a dark forest, always, no matter how close it has been to one&rsquo;s own.&rdquo; <br /> &mdash;Willa Cather',
+        // August 27
+        '&ldquo;The first time you marry for love, the second for money, and the third for companionship.&rdquo; <br /> &mdash;Jackie Kennedy'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // August 25
         '&ldquo;Art is not what you see, but what you make others see.&rdquo; <br /> &mdash;Edgar Degas',
         // August 26
-        '&ldquo;The vitality of a new movement in Art must be gauged by the fury it arouses.&rdquo; <br /> &mdash;Logan Pearsall Smith'
+        '&ldquo;The vitality of a new movement in Art must be gauged by the fury it arouses.&rdquo; <br /> &mdash;Logan Pearsall Smith',
+        // August 27
+        '&ldquo;The waking mind is the least serviceable in the arts.&rdquo; <br /> &mdash;Henry Miller'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
