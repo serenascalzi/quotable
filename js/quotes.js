@@ -57,7 +57,9 @@ $(document).ready(function() {
         // August 26
         '&ldquo;Hope is such a bait, it covers any hook.&rdquo; <br /> &mdash;Oliver Goldsmith',
         // August 27
-        '&ldquo;Freedom is not enough.&rdquo; <br /> &mdash;Lyndon B. Johnson'
+        '&ldquo;Freedom is not enough.&rdquo; <br /> &mdash;Lyndon B. Johnson',
+        // August 28
+        '&ldquo;The aim of education is the knowledge, not of facts, but of values.&rdquo; <br /> &mdash;William Inge'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // August 26
         '&ldquo;The heart of another is a dark forest, always, no matter how close it has been to one&rsquo;s own.&rdquo; <br /> &mdash;Willa Cather',
         // August 27
-        '&ldquo;The first time you marry for love, the second for money, and the third for companionship.&rdquo; <br /> &mdash;Jackie Kennedy'
+        '&ldquo;The first time you marry for love, the second for money, and the third for companionship.&rdquo; <br /> &mdash;Jackie Kennedy',
+        // August 28
+        '&ldquo;Words may be false and full of art; Sighs are the natural language of the heart.&rdquo; <br /> &mdash;Thomas Shadwell'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // August 26
         '&ldquo;The vitality of a new movement in Art must be gauged by the fury it arouses.&rdquo; <br /> &mdash;Logan Pearsall Smith',
         // August 27
-        '&ldquo;The waking mind is the least serviceable in the arts.&rdquo; <br /> &mdash;Henry Miller'
+        '&ldquo;The waking mind is the least serviceable in the arts.&rdquo; <br /> &mdash;Henry Miller',
+        // August 28
+        '&ldquo;Only an artist can interpret the meaning of life.&rdquo; <br /> &mdash;Novalis'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
