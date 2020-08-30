@@ -61,7 +61,9 @@ $(document).ready(function() {
         // August 28
         '&ldquo;The aim of education is the knowledge, not of facts, but of values.&rdquo; <br /> &mdash;William Inge',
         // August 29
-        '&ldquo;A great deal of intelligence can be invested in ignorance when the need for illusion is deep.&rdquo; <br /> &mdash;Saul Bellow'
+        '&ldquo;A great deal of intelligence can be invested in ignorance when the need for illusion is deep.&rdquo; <br /> &mdash;Saul Bellow',
+        // August 30
+        '&ldquo;It is not so much our friends&rsquo; help that helps us, as the confidence of their help.&rdquo; <br /> &mdash;Epicurus'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // August 28
         '&ldquo;Words may be false and full of art; Sighs are the natural language of the heart.&rdquo; <br /> &mdash;Thomas Shadwell',
         // August 29
-        '&ldquo;To love rightly is to love what is orderly and beautiful in an educated and disciplined way.&rdquo; <br /> &mdash;Plato'
+        '&ldquo;To love rightly is to love what is orderly and beautiful in an educated and disciplined way.&rdquo; <br /> &mdash;Plato',
+        // August 30
+        '&ldquo;It is easier to love humanity as a whole than to love one&rsquo;s neighbor.&rdquo; <br /> &mdash;Eric Hoffer'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // August 28
         '&ldquo;Only an artist can interpret the meaning of life.&rdquo; <br /> &mdash;Novalis',
         // August 29
-        '&ldquo;We have art in order not to die of the truth.&rdquo; <br /> &mdash;Friedrich Nietzsche'
+        '&ldquo;We have art in order not to die of the truth.&rdquo; <br /> &mdash;Friedrich Nietzsche',
+        // August 30
+        '&ldquo;Sculpture is the best comment that a painter can make on painting.&rdquo; <br /> &mdash;Pablo Picasso'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
