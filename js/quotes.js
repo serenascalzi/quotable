@@ -59,7 +59,9 @@ $(document).ready(function() {
         // August 27
         '&ldquo;Freedom is not enough.&rdquo; <br /> &mdash;Lyndon B. Johnson',
         // August 28
-        '&ldquo;The aim of education is the knowledge, not of facts, but of values.&rdquo; <br /> &mdash;William Inge'
+        '&ldquo;The aim of education is the knowledge, not of facts, but of values.&rdquo; <br /> &mdash;William Inge',
+        // August 29
+        '&ldquo;A great deal of intelligence can be invested in ignorance when the need for illusion is deep.&rdquo; <br /> &mdash;Saul Bellow'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // August 27
         '&ldquo;The first time you marry for love, the second for money, and the third for companionship.&rdquo; <br /> &mdash;Jackie Kennedy',
         // August 28
-        '&ldquo;Words may be false and full of art; Sighs are the natural language of the heart.&rdquo; <br /> &mdash;Thomas Shadwell'
+        '&ldquo;Words may be false and full of art; Sighs are the natural language of the heart.&rdquo; <br /> &mdash;Thomas Shadwell',
+        // August 29
+        '&ldquo;To love rightly is to love what is orderly and beautiful in an educated and disciplined way.&rdquo; <br /> &mdash;Plato'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // August 27
         '&ldquo;The waking mind is the least serviceable in the arts.&rdquo; <br /> &mdash;Henry Miller',
         // August 28
-        '&ldquo;Only an artist can interpret the meaning of life.&rdquo; <br /> &mdash;Novalis'
+        '&ldquo;Only an artist can interpret the meaning of life.&rdquo; <br /> &mdash;Novalis',
+        // August 29
+        '&ldquo;We have art in order not to die of the truth.&rdquo; <br /> &mdash;Friedrich Nietzsche'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
