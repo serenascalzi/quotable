@@ -63,7 +63,9 @@ $(document).ready(function() {
         // August 29
         '&ldquo;A great deal of intelligence can be invested in ignorance when the need for illusion is deep.&rdquo; <br /> &mdash;Saul Bellow',
         // August 30
-        '&ldquo;It is not so much our friends&rsquo; help that helps us, as the confidence of their help.&rdquo; <br /> &mdash;Epicurus'
+        '&ldquo;It is not so much our friends&rsquo; help that helps us, as the confidence of their help.&rdquo; <br /> &mdash;Epicurus',
+        // August 31
+        '&ldquo;Experience is one thing you can&rsquo;t get for nothing.&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -137,7 +139,9 @@ $(document).ready(function() {
         // August 29
         '&ldquo;To love rightly is to love what is orderly and beautiful in an educated and disciplined way.&rdquo; <br /> &mdash;Plato',
         // August 30
-        '&ldquo;It is easier to love humanity as a whole than to love one&rsquo;s neighbor.&rdquo; <br /> &mdash;Eric Hoffer'
+        '&ldquo;It is easier to love humanity as a whole than to love one&rsquo;s neighbor.&rdquo; <br /> &mdash;Eric Hoffer',
+        // August 31
+        '&ldquo;The love of liberty is the love of others; the love of power is the love of ourselves.&rdquo; <br /> &mdash;William Hazlitt'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -211,7 +215,9 @@ $(document).ready(function() {
         // August 29
         '&ldquo;We have art in order not to die of the truth.&rdquo; <br /> &mdash;Friedrich Nietzsche',
         // August 30
-        '&ldquo;Sculpture is the best comment that a painter can make on painting.&rdquo; <br /> &mdash;Pablo Picasso'
+        '&ldquo;Sculpture is the best comment that a painter can make on painting.&rdquo; <br /> &mdash;Pablo Picasso',
+        // August 31
+        '&ldquo;Art has to move you and design does not, unless it&rsquo;s a good design for a bus.&rdquo; <br /> &mdash;David Hockney'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
