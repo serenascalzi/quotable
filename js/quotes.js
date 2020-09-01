@@ -5,7 +5,7 @@ $(document).ready(function() {
 	// Random Varied Quote
 	let variedArray = [
         // September 1
-        '&ldquo;Varied Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;Only the wisest and stupidest of men never change.&rdquo; <br /> &mdash;Confucius'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -21,7 +21,7 @@ $(document).ready(function() {
     // Random Love Quote
     let loveArray = [
         // September 1
-        '&ldquo;Love Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;All love shifts and changes. I don&rsquo;t know if you can be wholeheartedly in love all the time.&rdquo; <br /> &mdash;Julie Andrews'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -37,7 +37,7 @@ $(document).ready(function() {
     // Random Art Quote
     let artArray = [
         // September 1
-        '&ldquo;Art Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;A good photograph is knowing where to stand.&rdquo; <br /> &mdash;Ansel Adams'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
