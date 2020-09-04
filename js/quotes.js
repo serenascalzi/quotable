@@ -9,7 +9,9 @@ $(document).ready(function() {
         // September 2
         '&ldquo;Between saying and doing, many a pair of shoes is worn out.&rdquo; <br /> &mdash;Iris Murdoch',
         // September 3
-        '&ldquo;Leap, and the net will appear.&rdquo; <br /> &mdash;John Burroughs'
+        '&ldquo;Leap, and the net will appear.&rdquo; <br /> &mdash;John Burroughs',
+        // September 4
+        '&ldquo;I just invent, then wait until man comes around to needing what I&rsquo;ve invented.&rdquo; <br /> &mdash;R. Buckminster Fuller'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -29,7 +31,9 @@ $(document).ready(function() {
         // September 2
         '&ldquo;I think it is all a matter of love: the more you love a memory, the stronger and stranger it is.&rdquo; <br /> &mdash;Vladimir Nabokov',
         // September 3
-        '&ldquo;Love is like an hourglass, with the heart filling up as the brain empties.&rdquo; <br /> &mdash;Jules Renard'
+        '&ldquo;Love is like an hourglass, with the heart filling up as the brain empties.&rdquo; <br /> &mdash;Jules Renard',
+        // September 4
+        '&ldquo;Ultimately, we wish the joy of perfect union with the person we love.&rdquo; <br /> &mdash;Mortimer Adler'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -49,7 +53,9 @@ $(document).ready(function() {
         // September 2
         '&ldquo;Never buy four C-plus paintings when you can buy one A.&rdquo; <br /> &mdash;Walter Annenberg',
         // September 3
-        '&ldquo;Pictures must not be too picturesque.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;Pictures must not be too picturesque.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        // September 4
+        '&ldquo;Art is the proper task of life.&rdquo; <br /> &mdash;Friedrich Nietzsche'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
