@@ -15,7 +15,9 @@ $(document).ready(function() {
         // September 5
         '&ldquo;What happens is not as important as how you react to what happens.&rdquo; <br /> &mdash;Ellen Glasgow',
         // September 6
-        '&ldquo;The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.&rdquo; <br /> &mdash;Henry Miller'
+        '&ldquo;The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.&rdquo; <br /> &mdash;Henry Miller',
+        // September 7
+        '&ldquo;The end of labor is to gain leisure.&rdquo; <br /> &mdash;Aristotle'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -41,7 +43,9 @@ $(document).ready(function() {
         // September 5
         '&ldquo;To good and true love fear is forever affixed.&rdquo; <br /> &mdash;Francois Rabelais',
         // September 6
-        '&ldquo;It is not love that should be depicted as blind, but self-love.&rdquo; <br /> &mdash;Voltaire'
+        '&ldquo;It is not love that should be depicted as blind, but self-love.&rdquo; <br /> &mdash;Voltaire',
+        // September 7
+        '&ldquo;A family can develop only with a loving woman as its center.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -67,7 +71,9 @@ $(document).ready(function() {
         // September 5
         '&ldquo;Less is more.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe',
         // September 6
-        '&ldquo;A film is a petrified fountain of thought.&rdquo; <br /> &mdash;Jean Cocteau'
+        '&ldquo;A film is a petrified fountain of thought.&rdquo; <br /> &mdash;Jean Cocteau',
+        // September 7
+        '&ldquo;My imagination can picture no fairer happiness than to continue living for art.&rdquo; <br /> &mdash;Clara Schumann'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
