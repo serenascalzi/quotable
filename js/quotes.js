@@ -13,7 +13,9 @@ $(document).ready(function() {
         // September 4
         '&ldquo;I just invent, then wait until man comes around to needing what I&rsquo;ve invented.&rdquo; <br /> &mdash;R. Buckminster Fuller',
         // September 5
-        '&ldquo;What happens is not as important as how you react to what happens.&rdquo; <br /> &mdash;Ellen Glasgow'
+        '&ldquo;What happens is not as important as how you react to what happens.&rdquo; <br /> &mdash;Ellen Glasgow',
+        // September 6
+        '&ldquo;The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.&rdquo; <br /> &mdash;Henry Miller'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -37,7 +39,9 @@ $(document).ready(function() {
         // September 4
         '&ldquo;Ultimately, we wish the joy of perfect union with the person we love.&rdquo; <br /> &mdash;Mortimer Adler',
         // September 5
-        '&ldquo;To good and true love fear is forever affixed.&rdquo; <br /> &mdash;Francois Rabelais'
+        '&ldquo;To good and true love fear is forever affixed.&rdquo; <br /> &mdash;Francois Rabelais',
+        // September 6
+        '&ldquo;It is not love that should be depicted as blind, but self-love.&rdquo; <br /> &mdash;Voltaire'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -61,7 +65,9 @@ $(document).ready(function() {
         // September 4
         '&ldquo;Art is the proper task of life.&rdquo; <br /> &mdash;Friedrich Nietzsche',
         // September 5
-        '&ldquo;Less is more.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe'
+        '&ldquo;Less is more.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe',
+        // September 6
+        '&ldquo;A film is a petrified fountain of thought.&rdquo; <br /> &mdash;Jean Cocteau'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
