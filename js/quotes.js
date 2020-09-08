@@ -17,7 +17,9 @@ $(document).ready(function() {
         // September 6
         '&ldquo;The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.&rdquo; <br /> &mdash;Henry Miller',
         // September 7
-        '&ldquo;The end of labor is to gain leisure.&rdquo; <br /> &mdash;Aristotle'
+        '&ldquo;The end of labor is to gain leisure.&rdquo; <br /> &mdash;Aristotle',
+        // September 8
+        '&ldquo;I&rsquo;ve never known any trouble than an hour&rsquo;s reading didn&rsquo;t assuage.&rdquo; <br /> &mdash;Arthur Schopenhauer'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // September 6
         '&ldquo;It is not love that should be depicted as blind, but self-love.&rdquo; <br /> &mdash;Voltaire',
         // September 7
-        '&ldquo;A family can develop only with a loving woman as its center.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel'
+        '&ldquo;A family can develop only with a loving woman as its center.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
+        // September 8
+        '&ldquo;Lovers who love truly do not write down their happiness.&rdquo; <br /> &mdash;Anatole France'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // September 6
         '&ldquo;A film is a petrified fountain of thought.&rdquo; <br /> &mdash;Jean Cocteau',
         // September 7
-        '&ldquo;My imagination can picture no fairer happiness than to continue living for art.&rdquo; <br /> &mdash;Clara Schumann'
+        '&ldquo;My imagination can picture no fairer happiness than to continue living for art.&rdquo; <br /> &mdash;Clara Schumann',
+        // September 8
+        '&ldquo;Color is my day-long obsession, joy and torment.&rdquo; <br /> &mdash;Claude Monet'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
