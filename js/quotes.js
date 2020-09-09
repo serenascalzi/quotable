@@ -19,7 +19,9 @@ $(document).ready(function() {
         // September 7
         '&ldquo;The end of labor is to gain leisure.&rdquo; <br /> &mdash;Aristotle',
         // September 8
-        '&ldquo;I&rsquo;ve never known any trouble than an hour&rsquo;s reading didn&rsquo;t assuage.&rdquo; <br /> &mdash;Arthur Schopenhauer'
+        '&ldquo;I&rsquo;ve never known any trouble than an hour&rsquo;s reading didn&rsquo;t assuage.&rdquo; <br /> &mdash;Arthur Schopenhauer',
+        // September 9
+        '&ldquo;Obstacles are things a person sees when he takes his eyes off his goal.&rdquo; <br /> &mdash;E. Joseph Cossman'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // September 7
         '&ldquo;A family can develop only with a loving woman as its center.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
         // September 8
-        '&ldquo;Lovers who love truly do not write down their happiness.&rdquo; <br /> &mdash;Anatole France'
+        '&ldquo;Lovers who love truly do not write down their happiness.&rdquo; <br /> &mdash;Anatole France',
+        // September 9
+        '&ldquo;Life is best when you are in love.&rdquo; <br /> &mdash;Michael Moriarty'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // September 7
         '&ldquo;My imagination can picture no fairer happiness than to continue living for art.&rdquo; <br /> &mdash;Clara Schumann',
         // September 8
-        '&ldquo;Color is my day-long obsession, joy and torment.&rdquo; <br /> &mdash;Claude Monet'
+        '&ldquo;Color is my day-long obsession, joy and torment.&rdquo; <br /> &mdash;Claude Monet',
+        // September 9
+        '&ldquo;Of all lies, art is the least untrue.&rdquo; <br /> &mdash;Gustave Flaubert'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
