@@ -21,7 +21,9 @@ $(document).ready(function() {
         // September 8
         '&ldquo;I&rsquo;ve never known any trouble than an hour&rsquo;s reading didn&rsquo;t assuage.&rdquo; <br /> &mdash;Arthur Schopenhauer',
         // September 9
-        '&ldquo;Obstacles are things a person sees when he takes his eyes off his goal.&rdquo; <br /> &mdash;E. Joseph Cossman'
+        '&ldquo;Obstacles are things a person sees when he takes his eyes off his goal.&rdquo; <br /> &mdash;E. Joseph Cossman',
+        // September 10
+        '&ldquo;One fails forward toward success.&rdquo; <br /> &mdash;Charles Kettering'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // September 8
         '&ldquo;Lovers who love truly do not write down their happiness.&rdquo; <br /> &mdash;Anatole France',
         // September 9
-        '&ldquo;Life is best when you are in love.&rdquo; <br /> &mdash;Michael Moriarty'
+        '&ldquo;Life is best when you are in love.&rdquo; <br /> &mdash;Michael Moriarty',
+        // September 10
+        '&ldquo;A very small degree of hope is sufficient to cause the birth of love.&rdquo; <br /> &mdash;Stendhal'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // September 8
         '&ldquo;Color is my day-long obsession, joy and torment.&rdquo; <br /> &mdash;Claude Monet',
         // September 9
-        '&ldquo;Of all lies, art is the least untrue.&rdquo; <br /> &mdash;Gustave Flaubert'
+        '&ldquo;Of all lies, art is the least untrue.&rdquo; <br /> &mdash;Gustave Flaubert',
+        // September 10
+        '&ldquo;To make pictures big is to make them more powerful.&rdquo; <br /> &mdash;Robert Mapplethorpe'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
