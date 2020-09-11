@@ -23,7 +23,9 @@ $(document).ready(function() {
         // September 9
         '&ldquo;Obstacles are things a person sees when he takes his eyes off his goal.&rdquo; <br /> &mdash;E. Joseph Cossman',
         // September 10
-        '&ldquo;One fails forward toward success.&rdquo; <br /> &mdash;Charles Kettering'
+        '&ldquo;One fails forward toward success.&rdquo; <br /> &mdash;Charles Kettering',
+        // September 11
+        '&ldquo;One cannot and must not try to erase the past merely because it does not fit the present.&rdquo; <br /> &mdash;Golda Meir'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -57,7 +59,9 @@ $(document).ready(function() {
         // September 9
         '&ldquo;Life is best when you are in love.&rdquo; <br /> &mdash;Michael Moriarty',
         // September 10
-        '&ldquo;A very small degree of hope is sufficient to cause the birth of love.&rdquo; <br /> &mdash;Stendhal'
+        '&ldquo;A very small degree of hope is sufficient to cause the birth of love.&rdquo; <br /> &mdash;Stendhal',
+        // September 11
+        '&ldquo;Love&rsquo;s greatest gift is its ability to make everything it touches sacred.&rdquo; <br /> &mdash;Barbara De Angelis'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -91,7 +95,9 @@ $(document).ready(function() {
         // September 9
         '&ldquo;Of all lies, art is the least untrue.&rdquo; <br /> &mdash;Gustave Flaubert',
         // September 10
-        '&ldquo;To make pictures big is to make them more powerful.&rdquo; <br /> &mdash;Robert Mapplethorpe'
+        '&ldquo;To make pictures big is to make them more powerful.&rdquo; <br /> &mdash;Robert Mapplethorpe',
+        // September 11
+        '&ldquo;Life imitates art far more than art imitates Life.&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
