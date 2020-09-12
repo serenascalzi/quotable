@@ -25,7 +25,9 @@ $(document).ready(function() {
         // September 10
         '&ldquo;One fails forward toward success.&rdquo; <br /> &mdash;Charles Kettering',
         // September 11
-        '&ldquo;One cannot and must not try to erase the past merely because it does not fit the present.&rdquo; <br /> &mdash;Golda Meir'
+        '&ldquo;One cannot and must not try to erase the past merely because it does not fit the present.&rdquo; <br /> &mdash;Golda Meir',
+        // September 12
+        '&ldquo;Living in dreams of yesterday, we find ourselves still dreaming of impossible future conquests.&rdquo; <br /> &mdash;Charles Lindbergh'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // September 10
         '&ldquo;A very small degree of hope is sufficient to cause the birth of love.&rdquo; <br /> &mdash;Stendhal',
         // September 11
-        '&ldquo;Love&rsquo;s greatest gift is its ability to make everything it touches sacred.&rdquo; <br /> &mdash;Barbara De Angelis'
+        '&ldquo;Love&rsquo;s greatest gift is its ability to make everything it touches sacred.&rdquo; <br /> &mdash;Barbara De Angelis',
+        // September 12
+        '&ldquo;A successful marriage is an edifice that must be rebuilt every day.&rdquo; <br /> &mdash;Andre Maurois'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // September 10
         '&ldquo;To make pictures big is to make them more powerful.&rdquo; <br /> &mdash;Robert Mapplethorpe',
         // September 11
-        '&ldquo;Life imitates art far more than art imitates Life.&rdquo; <br /> &mdash;Oscar Wilde'
+        '&ldquo;Life imitates art far more than art imitates Life.&rdquo; <br /> &mdash;Oscar Wilde',
+        // September 12
+        '&ldquo;Good painting is the kind that looks like sculpture.&rdquo; <br /> &mdash;Michelangelo'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
