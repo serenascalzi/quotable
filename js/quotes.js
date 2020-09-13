@@ -27,7 +27,9 @@ $(document).ready(function() {
         // September 11
         '&ldquo;One cannot and must not try to erase the past merely because it does not fit the present.&rdquo; <br /> &mdash;Golda Meir',
         // September 12
-        '&ldquo;Living in dreams of yesterday, we find ourselves still dreaming of impossible future conquests.&rdquo; <br /> &mdash;Charles Lindbergh'
+        '&ldquo;Living in dreams of yesterday, we find ourselves still dreaming of impossible future conquests.&rdquo; <br /> &mdash;Charles Lindbergh',
+        // September 13
+        '&ldquo;Big words seldom accompany good deeds.&rdquo; <br /> &mdash;Charlotte Whitton'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // September 11
         '&ldquo;Love&rsquo;s greatest gift is its ability to make everything it touches sacred.&rdquo; <br /> &mdash;Barbara De Angelis',
         // September 12
-        '&ldquo;A successful marriage is an edifice that must be rebuilt every day.&rdquo; <br /> &mdash;Andre Maurois'
+        '&ldquo;A successful marriage is an edifice that must be rebuilt every day.&rdquo; <br /> &mdash;Andre Maurois',
+        // September 13
+        '&ldquo;Love is my religion &ndash; I could die for it.&rdquo; <br /> &mdash;John Keats'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // September 11
         '&ldquo;Life imitates art far more than art imitates Life.&rdquo; <br /> &mdash;Oscar Wilde',
         // September 12
-        '&ldquo;Good painting is the kind that looks like sculpture.&rdquo; <br /> &mdash;Michelangelo'
+        '&ldquo;Good painting is the kind that looks like sculpture.&rdquo; <br /> &mdash;Michelangelo',
+        // September 13
+        '&ldquo;I refuse to confide and don&rsquo;t like it when people write about art.&rdquo; <br /> &mdash;Balthus'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
