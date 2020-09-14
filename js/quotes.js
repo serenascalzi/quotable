@@ -29,7 +29,9 @@ $(document).ready(function() {
         // September 12
         '&ldquo;Living in dreams of yesterday, we find ourselves still dreaming of impossible future conquests.&rdquo; <br /> &mdash;Charles Lindbergh',
         // September 13
-        '&ldquo;Big words seldom accompany good deeds.&rdquo; <br /> &mdash;Charlotte Whitton'
+        '&ldquo;Big words seldom accompany good deeds.&rdquo; <br /> &mdash;Charlotte Whitton',
+        // September 14
+        '&ldquo;It is easy to sit up and take notice, What is difficult is getting up and taking action.&rdquo; <br /> &mdash;Honore de Balzac'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // September 12
         '&ldquo;A successful marriage is an edifice that must be rebuilt every day.&rdquo; <br /> &mdash;Andre Maurois',
         // September 13
-        '&ldquo;Love is my religion &ndash; I could die for it.&rdquo; <br /> &mdash;John Keats'
+        '&ldquo;Love is my religion &ndash; I could die for it.&rdquo; <br /> &mdash;John Keats',
+        // September 14
+        '&ldquo;A coward is incapable of exhibiting love; it is the prerogative of the brave.&rdquo; <br /> &mdash;Mahatma Gandhi'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // September 12
         '&ldquo;Good painting is the kind that looks like sculpture.&rdquo; <br /> &mdash;Michelangelo',
         // September 13
-        '&ldquo;I refuse to confide and don&rsquo;t like it when people write about art.&rdquo; <br /> &mdash;Balthus'
+        '&ldquo;I refuse to confide and don&rsquo;t like it when people write about art.&rdquo; <br /> &mdash;Balthus',
+        // September 14
+        '&ldquo;And I have exposed myself to art so that my work has something beyond just the usual potter.&rdquo; <br /> &mdash;Beatrice Wood'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
