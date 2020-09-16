@@ -33,7 +33,9 @@ $(document).ready(function() {
         // September 14
         '&ldquo;It is easy to sit up and take notice, What is difficult is getting up and taking action.&rdquo; <br /> &mdash;Honore de Balzac',
         // September 15
-        '&ldquo;More business is lost every year through neglect than through any other cause.&rdquo; <br /> &mdash;Rose Kennedy'
+        '&ldquo;More business is lost every year through neglect than through any other cause.&rdquo; <br /> &mdash;Rose Kennedy',
+        // September 16
+        '&ldquo;If you are lucky enough to find a way of life you love, you have to find the courage to live it.&rdquo; <br /> &mdash;John Irving'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // September 14
         '&ldquo;A coward is incapable of exhibiting love; it is the prerogative of the brave.&rdquo; <br /> &mdash;Mahatma Gandhi',
         // September 15
-        '&ldquo;O, thou art fairer than the evening air clad in the beauty of a thousand stars.&rdquo; <br /> &mdash;Christopher Marlowe'
+        '&ldquo;O, thou art fairer than the evening air clad in the beauty of a thousand stars.&rdquo; <br /> &mdash;Christopher Marlowe',
+        // September 16
+        '&ldquo;Love prefers twilight to daylight.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // September 14
         '&ldquo;And I have exposed myself to art so that my work has something beyond just the usual potter.&rdquo; <br /> &mdash;Beatrice Wood',
         // September 15
-        '&ldquo;To the artist there is never anything ugly in nature.&rdquo; <br /> &mdash;Auguste Rodin'
+        '&ldquo;To the artist there is never anything ugly in nature.&rdquo; <br /> &mdash;Auguste Rodin',
+        // September 16
+        '&ldquo;Recognizing the need is the primary condition for design.&rdquo; <br /> &mdash;Charles Eames'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
