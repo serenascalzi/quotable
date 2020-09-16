@@ -31,7 +31,9 @@ $(document).ready(function() {
         // September 13
         '&ldquo;Big words seldom accompany good deeds.&rdquo; <br /> &mdash;Charlotte Whitton',
         // September 14
-        '&ldquo;It is easy to sit up and take notice, What is difficult is getting up and taking action.&rdquo; <br /> &mdash;Honore de Balzac'
+        '&ldquo;It is easy to sit up and take notice, What is difficult is getting up and taking action.&rdquo; <br /> &mdash;Honore de Balzac',
+        // September 15
+        '&ldquo;More business is lost every year through neglect than through any other cause.&rdquo; <br /> &mdash;Rose Kennedy'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // September 13
         '&ldquo;Love is my religion &ndash; I could die for it.&rdquo; <br /> &mdash;John Keats',
         // September 14
-        '&ldquo;A coward is incapable of exhibiting love; it is the prerogative of the brave.&rdquo; <br /> &mdash;Mahatma Gandhi'
+        '&ldquo;A coward is incapable of exhibiting love; it is the prerogative of the brave.&rdquo; <br /> &mdash;Mahatma Gandhi',
+        // September 15
+        '&ldquo;O, thou art fairer than the evening air clad in the beauty of a thousand stars.&rdquo; <br /> &mdash;Christopher Marlowe'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // September 13
         '&ldquo;I refuse to confide and don&rsquo;t like it when people write about art.&rdquo; <br /> &mdash;Balthus',
         // September 14
-        '&ldquo;And I have exposed myself to art so that my work has something beyond just the usual potter.&rdquo; <br /> &mdash;Beatrice Wood'
+        '&ldquo;And I have exposed myself to art so that my work has something beyond just the usual potter.&rdquo; <br /> &mdash;Beatrice Wood',
+        // September 15
+        '&ldquo;To the artist there is never anything ugly in nature.&rdquo; <br /> &mdash;Auguste Rodin'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
