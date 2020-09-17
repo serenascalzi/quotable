@@ -35,7 +35,9 @@ $(document).ready(function() {
         // September 15
         '&ldquo;More business is lost every year through neglect than through any other cause.&rdquo; <br /> &mdash;Rose Kennedy',
         // September 16
-        '&ldquo;If you are lucky enough to find a way of life you love, you have to find the courage to live it.&rdquo; <br /> &mdash;John Irving'
+        '&ldquo;If you are lucky enough to find a way of life you love, you have to find the courage to live it.&rdquo; <br /> &mdash;John Irving',
+        // September 17
+        '&ldquo;Sooner or later, those who win are those who think they can.&rdquo; <br /> &mdash;Paul Tournier'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -81,7 +83,9 @@ $(document).ready(function() {
         // September 15
         '&ldquo;O, thou art fairer than the evening air clad in the beauty of a thousand stars.&rdquo; <br /> &mdash;Christopher Marlowe',
         // September 16
-        '&ldquo;Love prefers twilight to daylight.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.'
+        '&ldquo;Love prefers twilight to daylight.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
+        // September 17
+        '&ldquo;The sweetest noise on earth, a woman&rsquo;s tongue; A string which hath no discord.&rdquo; <br /> &mdash;Bryan Procter'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -127,7 +131,9 @@ $(document).ready(function() {
         // September 15
         '&ldquo;To the artist there is never anything ugly in nature.&rdquo; <br /> &mdash;Auguste Rodin',
         // September 16
-        '&ldquo;Recognizing the need is the primary condition for design.&rdquo; <br /> &mdash;Charles Eames'
+        '&ldquo;Recognizing the need is the primary condition for design.&rdquo; <br /> &mdash;Charles Eames',
+        // September 17
+        '&ldquo;In art, the obvious is a sin.&rdquo; <br /> &mdash;Edward Dmytryk'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
