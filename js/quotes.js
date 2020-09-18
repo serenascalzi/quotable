@@ -37,7 +37,9 @@ $(document).ready(function() {
         // September 16
         '&ldquo;If you are lucky enough to find a way of life you love, you have to find the courage to live it.&rdquo; <br /> &mdash;John Irving',
         // September 17
-        '&ldquo;Sooner or later, those who win are those who think they can.&rdquo; <br /> &mdash;Paul Tournier'
+        '&ldquo;Sooner or later, those who win are those who think they can.&rdquo; <br /> &mdash;Paul Tournier',
+        // September 18
+        '&ldquo;If moderation is a fault, then indifference is a crime.&rdquo; <br /> &mdash;Jack Kerouac'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // September 16
         '&ldquo;Love prefers twilight to daylight.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
         // September 17
-        '&ldquo;The sweetest noise on earth, a woman&rsquo;s tongue; A string which hath no discord.&rdquo; <br /> &mdash;Bryan Procter'
+        '&ldquo;The sweetest noise on earth, a woman&rsquo;s tongue; A string which hath no discord.&rdquo; <br /> &mdash;Bryan Procter',
+        // September 18
+        '&ldquo;A poem begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness.&rdquo; <br /> &mdash;Robert Frost'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // September 16
         '&ldquo;Recognizing the need is the primary condition for design.&rdquo; <br /> &mdash;Charles Eames',
         // September 17
-        '&ldquo;In art, the obvious is a sin.&rdquo; <br /> &mdash;Edward Dmytryk'
+        '&ldquo;In art, the obvious is a sin.&rdquo; <br /> &mdash;Edward Dmytryk',
+        // September 18
+        '&ldquo;I dream of painting and then I paint my dream.&rdquo; <br /> &mdash;Vincent Van Gogh'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
