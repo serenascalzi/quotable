@@ -39,7 +39,9 @@ $(document).ready(function() {
         // September 17
         '&ldquo;Sooner or later, those who win are those who think they can.&rdquo; <br /> &mdash;Paul Tournier',
         // September 18
-        '&ldquo;If moderation is a fault, then indifference is a crime.&rdquo; <br /> &mdash;Jack Kerouac'
+        '&ldquo;If moderation is a fault, then indifference is a crime.&rdquo; <br /> &mdash;Jack Kerouac',
+        // September 19
+        '&ldquo;I am a part of everything that I have read.&rdquo; <br /> &mdash;Theodore Roosevelt'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -89,7 +91,9 @@ $(document).ready(function() {
         // September 17
         '&ldquo;The sweetest noise on earth, a woman&rsquo;s tongue; A string which hath no discord.&rdquo; <br /> &mdash;Bryan Procter',
         // September 18
-        '&ldquo;A poem begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness.&rdquo; <br /> &mdash;Robert Frost'
+        '&ldquo;A poem begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness.&rdquo; <br /> &mdash;Robert Frost',
+        // September 19
+        '&ldquo;To a father growing old nothing is dearer than a daughter.&rdquo; <br /> &mdash;Euripides'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -139,7 +143,9 @@ $(document).ready(function() {
         // September 17
         '&ldquo;In art, the obvious is a sin.&rdquo; <br /> &mdash;Edward Dmytryk',
         // September 18
-        '&ldquo;I dream of painting and then I paint my dream.&rdquo; <br /> &mdash;Vincent Van Gogh'
+        '&ldquo;I dream of painting and then I paint my dream.&rdquo; <br /> &mdash;Vincent Van Gogh',
+        // September 19
+        '&ldquo;Light in Nature creates the movement of colors.&rdquo; <br /> &mdash;Robert Delaunay'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
