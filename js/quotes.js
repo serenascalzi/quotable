@@ -41,7 +41,9 @@ $(document).ready(function() {
         // September 18
         '&ldquo;If moderation is a fault, then indifference is a crime.&rdquo; <br /> &mdash;Jack Kerouac',
         // September 19
-        '&ldquo;I am a part of everything that I have read.&rdquo; <br /> &mdash;Theodore Roosevelt'
+        '&ldquo;I am a part of everything that I have read.&rdquo; <br /> &mdash;Theodore Roosevelt',
+        // September 20
+        '&ldquo;To begin, begin.&rdquo; <br /> &mdash;William Wordsworth'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // September 18
         '&ldquo;A poem begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness.&rdquo; <br /> &mdash;Robert Frost',
         // September 19
-        '&ldquo;To a father growing old nothing is dearer than a daughter.&rdquo; <br /> &mdash;Euripides'
+        '&ldquo;To a father growing old nothing is dearer than a daughter.&rdquo; <br /> &mdash;Euripides',
+        // September 20
+        '&ldquo;A woman can be anything the man who loves her would have her be.&rdquo; <br /> &mdash;James M. Barrie'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // September 18
         '&ldquo;I dream of painting and then I paint my dream.&rdquo; <br /> &mdash;Vincent Van Gogh',
         // September 19
-        '&ldquo;Light in Nature creates the movement of colors.&rdquo; <br /> &mdash;Robert Delaunay'
+        '&ldquo;Light in Nature creates the movement of colors.&rdquo; <br /> &mdash;Robert Delaunay',
+        // September 20
+        '&ldquo;One&rsquo;s art goes as far and as deep as one&rsquo;s love goes.&rdquo; <br /> &mdash;Andrew Wyeth'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
