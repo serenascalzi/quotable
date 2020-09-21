@@ -43,7 +43,9 @@ $(document).ready(function() {
         // September 19
         '&ldquo;I am a part of everything that I have read.&rdquo; <br /> &mdash;Theodore Roosevelt',
         // September 20
-        '&ldquo;To begin, begin.&rdquo; <br /> &mdash;William Wordsworth'
+        '&ldquo;To begin, begin.&rdquo; <br /> &mdash;William Wordsworth',
+        // September 21
+        '&ldquo;Applause is a receipt, not a bill.&rdquo; <br /> &mdash;Dale Carnegie'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -97,7 +99,9 @@ $(document).ready(function() {
         // September 19
         '&ldquo;To a father growing old nothing is dearer than a daughter.&rdquo; <br /> &mdash;Euripides',
         // September 20
-        '&ldquo;A woman can be anything the man who loves her would have her be.&rdquo; <br /> &mdash;James M. Barrie'
+        '&ldquo;A woman can be anything the man who loves her would have her be.&rdquo; <br /> &mdash;James M. Barrie',
+        // September 21
+        '&ldquo;We love but once, for once only are we perfectly equipped for loving.&rdquo; <br /> &mdash;Cyril Connolly'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -151,7 +155,9 @@ $(document).ready(function() {
         // September 19
         '&ldquo;Light in Nature creates the movement of colors.&rdquo; <br /> &mdash;Robert Delaunay',
         // September 20
-        '&ldquo;One&rsquo;s art goes as far and as deep as one&rsquo;s love goes.&rdquo; <br /> &mdash;Andrew Wyeth'
+        '&ldquo;One&rsquo;s art goes as far and as deep as one&rsquo;s love goes.&rdquo; <br /> &mdash;Andrew Wyeth',
+        // September 21
+        '&ldquo;A painting that is well composed is half finished.&rdquo; <br /> &mdash;Pierre Bonnard'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
