@@ -45,7 +45,9 @@ $(document).ready(function() {
         // September 20
         '&ldquo;To begin, begin.&rdquo; <br /> &mdash;William Wordsworth',
         // September 21
-        '&ldquo;Applause is a receipt, not a bill.&rdquo; <br /> &mdash;Dale Carnegie'
+        '&ldquo;Applause is a receipt, not a bill.&rdquo; <br /> &mdash;Dale Carnegie',
+        // September 22
+        '&ldquo;Care and diligence bring luck.&rdquo; <br /> &mdash;Thomas Fuller'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -101,7 +103,9 @@ $(document).ready(function() {
         // September 20
         '&ldquo;A woman can be anything the man who loves her would have her be.&rdquo; <br /> &mdash;James M. Barrie',
         // September 21
-        '&ldquo;We love but once, for once only are we perfectly equipped for loving.&rdquo; <br /> &mdash;Cyril Connolly'
+        '&ldquo;We love but once, for once only are we perfectly equipped for loving.&rdquo; <br /> &mdash;Cyril Connolly',
+        // September 22
+        '&ldquo;The man as he converses is the lover; silent, he is the husband.&rdquo; <br /> &mdash;Honore de Balzac'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -157,7 +161,9 @@ $(document).ready(function() {
         // September 20
         '&ldquo;One&rsquo;s art goes as far and as deep as one&rsquo;s love goes.&rdquo; <br /> &mdash;Andrew Wyeth',
         // September 21
-        '&ldquo;A painting that is well composed is half finished.&rdquo; <br /> &mdash;Pierre Bonnard'
+        '&ldquo;A painting that is well composed is half finished.&rdquo; <br /> &mdash;Pierre Bonnard',
+        // September 22
+        '&ldquo;The principles of true art is not to portray, but to evoke.&rdquo; <br /> &mdash;Jerzy Kosinski'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
