@@ -47,7 +47,9 @@ $(document).ready(function() {
         // September 21
         '&ldquo;Applause is a receipt, not a bill.&rdquo; <br /> &mdash;Dale Carnegie',
         // September 22
-        '&ldquo;Care and diligence bring luck.&rdquo; <br /> &mdash;Thomas Fuller'
+        '&ldquo;Care and diligence bring luck.&rdquo; <br /> &mdash;Thomas Fuller',
+        // September 23
+        '&ldquo;The essential conditions of everything you do must be choice, love, passion.&rdquo; <br /> &mdash;Nadia Boulanger'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // September 21
         '&ldquo;We love but once, for once only are we perfectly equipped for loving.&rdquo; <br /> &mdash;Cyril Connolly',
         // September 22
-        '&ldquo;The man as he converses is the lover; silent, he is the husband.&rdquo; <br /> &mdash;Honore de Balzac'
+        '&ldquo;The man as he converses is the lover; silent, he is the husband.&rdquo; <br /> &mdash;Honore de Balzac',
+        // September 23
+        '&ldquo;Happy is the man whom the Muses love: sweet speech flows from his mouth.&rdquo; <br /> &mdash;Hesiod'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // September 21
         '&ldquo;A painting that is well composed is half finished.&rdquo; <br /> &mdash;Pierre Bonnard',
         // September 22
-        '&ldquo;The principles of true art is not to portray, but to evoke.&rdquo; <br /> &mdash;Jerzy Kosinski'
+        '&ldquo;The principles of true art is not to portray, but to evoke.&rdquo; <br /> &mdash;Jerzy Kosinski',
+        // September 23
+        '&ldquo;My love of fine art increased &ndash; the more of it I saw, the more of it I wanted to see.&rdquo; <br /> &mdash;J. Paul Getty'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
