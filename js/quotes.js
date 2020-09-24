@@ -49,7 +49,9 @@ $(document).ready(function() {
         // September 22
         '&ldquo;Care and diligence bring luck.&rdquo; <br /> &mdash;Thomas Fuller',
         // September 23
-        '&ldquo;The essential conditions of everything you do must be choice, love, passion.&rdquo; <br /> &mdash;Nadia Boulanger'
+        '&ldquo;The essential conditions of everything you do must be choice, love, passion.&rdquo; <br /> &mdash;Nadia Boulanger',
+        // September 24
+        '&ldquo;Quick decisions are unsafe decisions.&rdquo; <br /> &mdash;Sophocles'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // September 22
         '&ldquo;The man as he converses is the lover; silent, he is the husband.&rdquo; <br /> &mdash;Honore de Balzac',
         // September 23
-        '&ldquo;Happy is the man whom the Muses love: sweet speech flows from his mouth.&rdquo; <br /> &mdash;Hesiod'
+        '&ldquo;Happy is the man whom the Muses love: sweet speech flows from his mouth.&rdquo; <br /> &mdash;Hesiod',
+        // September 24
+        '&ldquo;But what do we know of the heart nearest to our own? What do we know of our own heart?&rdquo; <br /> &mdash;Amelia Barr'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // September 22
         '&ldquo;The principles of true art is not to portray, but to evoke.&rdquo; <br /> &mdash;Jerzy Kosinski',
         // September 23
-        '&ldquo;My love of fine art increased &ndash; the more of it I saw, the more of it I wanted to see.&rdquo; <br /> &mdash;J. Paul Getty'
+        '&ldquo;My love of fine art increased &ndash; the more of it I saw, the more of it I wanted to see.&rdquo; <br /> &mdash;J. Paul Getty',
+        // September 24
+        '&ldquo;The artist is nothing without the gift, but the gift is nothing without work.&rdquo; <br /> &mdash;Emile Zola'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
