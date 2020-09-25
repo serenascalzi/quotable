@@ -51,7 +51,9 @@ $(document).ready(function() {
         // September 23
         '&ldquo;The essential conditions of everything you do must be choice, love, passion.&rdquo; <br /> &mdash;Nadia Boulanger',
         // September 24
-        '&ldquo;Quick decisions are unsafe decisions.&rdquo; <br /> &mdash;Sophocles'
+        '&ldquo;Quick decisions are unsafe decisions.&rdquo; <br /> &mdash;Sophocles',
+        // September 25
+        '&ldquo;Life is an adventure in forgiveness.&rdquo; <br /> &mdash;Norman Cousins'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // September 23
         '&ldquo;Happy is the man whom the Muses love: sweet speech flows from his mouth.&rdquo; <br /> &mdash;Hesiod',
         // September 24
-        '&ldquo;But what do we know of the heart nearest to our own? What do we know of our own heart?&rdquo; <br /> &mdash;Amelia Barr'
+        '&ldquo;But what do we know of the heart nearest to our own? What do we know of our own heart?&rdquo; <br /> &mdash;Amelia Barr',
+        // September 25
+        '&ldquo;Love in the real world means saying you&rsquo;re sorry 10 times a day.&rdquo; <br /> &mdash;Kathie Lee Gifford'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // September 23
         '&ldquo;My love of fine art increased &ndash; the more of it I saw, the more of it I wanted to see.&rdquo; <br /> &mdash;J. Paul Getty',
         // September 24
-        '&ldquo;The artist is nothing without the gift, but the gift is nothing without work.&rdquo; <br /> &mdash;Emile Zola'
+        '&ldquo;The artist is nothing without the gift, but the gift is nothing without work.&rdquo; <br /> &mdash;Emile Zola',
+        // September 25
+        '&ldquo;If you could say it in words there would be no reason to paint.&rdquo; <br /> &mdash;Edward Hopper'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
