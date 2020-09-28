@@ -55,7 +55,9 @@ $(document).ready(function() {
         // September 25
         '&ldquo;Life is an adventure in forgiveness.&rdquo; <br /> &mdash;Norman Cousins',
         // September 26
-        '&ldquo;Let your mind alone, and see what happens.&rdquo; <br /> &mdash;Virgil Thomson'
+        '&ldquo;Let your mind alone, and see what happens.&rdquo; <br /> &mdash;Virgil Thomson',
+        // September 27
+        '&ldquo;The young man knows the rules, but the old man knows the exceptions.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // September 25
         '&ldquo;Love in the real world means saying you&rsquo;re sorry 10 times a day.&rdquo; <br /> &mdash;Kathie Lee Gifford',
         // September 26
-        '&ldquo;Love is blind.&rdquo; <br /> &mdash;Geoffrey Chaucer'
+        '&ldquo;Love is blind.&rdquo; <br /> &mdash;Geoffrey Chaucer',
+        // September 27
+        '&ldquo;It is an extra dividend when you like the girl you&rsquo;ve fallen in love with.&rdquo; <br /> &mdash;Clark Gable'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // September 25
         '&ldquo;If you could say it in words there would be no reason to paint.&rdquo; <br /> &mdash;Edward Hopper',
         // September 26
-        '&ldquo;I paint self-portraits because I am so often alone, because I am the person I know best.&rdquo; <br /> &mdash;Frida Kahlo'
+        '&ldquo;I paint self-portraits because I am so often alone, because I am the person I know best.&rdquo; <br /> &mdash;Frida Kahlo',
+        // September 27
+        '&ldquo;Art is the right hand of Nature. The latter has only given us being, the former has made us men.&rdquo; <br /> &mdash;Friedrich Schiller'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
