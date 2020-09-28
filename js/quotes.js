@@ -57,7 +57,9 @@ $(document).ready(function() {
         // September 26
         '&ldquo;Let your mind alone, and see what happens.&rdquo; <br /> &mdash;Virgil Thomson',
         // September 27
-        '&ldquo;The young man knows the rules, but the old man knows the exceptions.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.'
+        '&ldquo;The young man knows the rules, but the old man knows the exceptions.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
+        // September 28
+        '&ldquo;I would define, in brief, the poetry of words as the rhythmical creation of Beauty.&rdquo; <br /> &mdash;Edgar Allan Poe'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // September 26
         '&ldquo;Love is blind.&rdquo; <br /> &mdash;Geoffrey Chaucer',
         // September 27
-        '&ldquo;It is an extra dividend when you like the girl you&rsquo;ve fallen in love with.&rdquo; <br /> &mdash;Clark Gable'
+        '&ldquo;It is an extra dividend when you like the girl you&rsquo;ve fallen in love with.&rdquo; <br /> &mdash;Clark Gable',
+        // September 28
+        '&ldquo;The love of heaven makes one heavenly.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // September 26
         '&ldquo;I paint self-portraits because I am so often alone, because I am the person I know best.&rdquo; <br /> &mdash;Frida Kahlo',
         // September 27
-        '&ldquo;Art is the right hand of Nature. The latter has only given us being, the former has made us men.&rdquo; <br /> &mdash;Friedrich Schiller'
+        '&ldquo;Art is the right hand of Nature. The latter has only given us being, the former has made us men.&rdquo; <br /> &mdash;Friedrich Schiller',
+        // September 28
+        '&ldquo;Personality is everything in art and poetry.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
