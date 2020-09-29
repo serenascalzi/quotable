@@ -59,7 +59,9 @@ $(document).ready(function() {
         // September 27
         '&ldquo;The young man knows the rules, but the old man knows the exceptions.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
         // September 28
-        '&ldquo;I would define, in brief, the poetry of words as the rhythmical creation of Beauty.&rdquo; <br /> &mdash;Edgar Allan Poe'
+        '&ldquo;I would define, in brief, the poetry of words as the rhythmical creation of Beauty.&rdquo; <br /> &mdash;Edgar Allan Poe',
+        // September 29
+        '&ldquo;The hardest thing is to take less when you can get more.&rdquo; <br /> &mdash;Kin Hubbard'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // September 27
         '&ldquo;It is an extra dividend when you like the girl you&rsquo;ve fallen in love with.&rdquo; <br /> &mdash;Clark Gable',
         // September 28
-        '&ldquo;The love of heaven makes one heavenly.&rdquo; <br /> &mdash;William Shakespeare'
+        '&ldquo;The love of heaven makes one heavenly.&rdquo; <br /> &mdash;William Shakespeare',
+        // September 29
+        '&ldquo;Knowledge is love and light and vision.&rdquo; <br /> &mdash;Helen Keller'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // September 27
         '&ldquo;Art is the right hand of Nature. The latter has only given us being, the former has made us men.&rdquo; <br /> &mdash;Friedrich Schiller',
         // September 28
-        '&ldquo;Personality is everything in art and poetry.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
+        '&ldquo;Personality is everything in art and poetry.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        // September 29
+        '&ldquo;Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.&rdquo; <br /> &mdash;Pablo Picasso'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
