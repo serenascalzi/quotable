@@ -61,7 +61,9 @@ $(document).ready(function() {
         // September 28
         '&ldquo;I would define, in brief, the poetry of words as the rhythmical creation of Beauty.&rdquo; <br /> &mdash;Edgar Allan Poe',
         // September 29
-        '&ldquo;The hardest thing is to take less when you can get more.&rdquo; <br /> &mdash;Kin Hubbard'
+        '&ldquo;The hardest thing is to take less when you can get more.&rdquo; <br /> &mdash;Kin Hubbard',
+        // September 30
+        '&ldquo;Life without liberty is like a body without spirit.&rdquo; <br /> &mdash;Khalil Gibran'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // September 28
         '&ldquo;The love of heaven makes one heavenly.&rdquo; <br /> &mdash;William Shakespeare',
         // September 29
-        '&ldquo;Knowledge is love and light and vision.&rdquo; <br /> &mdash;Helen Keller'
+        '&ldquo;Knowledge is love and light and vision.&rdquo; <br /> &mdash;Helen Keller',
+        // September 30
+        '&ldquo;Love means not ever having to say you&rsquo;re sorry.&rdquo; <br /> &mdash;Erich Segal'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // September 28
         '&ldquo;Personality is everything in art and poetry.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         // September 29
-        '&ldquo;Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.&rdquo; <br /> &mdash;Pablo Picasso'
+        '&ldquo;Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.&rdquo; <br /> &mdash;Pablo Picasso',
+        // September 30
+        '&ldquo;Art enables us to find ourselves and lose ourselves at the same time.&rdquo; <br /> &mdash;Thomas Merton'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
