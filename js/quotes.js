@@ -5,7 +5,7 @@ $(document).ready(function() {
 	// Random Varied Quote
 	let variedArray = [
         // October 1
-        '&ldquo;Varied Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;Effort only fully releases its reward after a person refuses to quit.&rdquo; <br /> &mdash;Napoleon Hill'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -21,7 +21,7 @@ $(document).ready(function() {
     // Random Love Quote
     let loveArray = [
         // October 1
-        '&ldquo;Love Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;Never a lip is curved with pain that can&rsquo;t be kissed into smiles again.&rdquo; <br /> &mdash;Bret Harte'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -37,7 +37,7 @@ $(document).ready(function() {
     // Random Art Quote
     let artArray = [
         // October 1
-        '&ldquo;Art Quote&rdquo; <br /> &mdash;Attribution'
+        '&ldquo;Without art, the crudeness of reality would make the world unbearable.&rdquo; <br /> &mdash;George Bernard Shaw'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
