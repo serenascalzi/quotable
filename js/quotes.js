@@ -5,7 +5,9 @@ $(document).ready(function() {
 	// Random Varied Quote
 	let variedArray = [
         // October 1
-        '&ldquo;Effort only fully releases its reward after a person refuses to quit.&rdquo; <br /> &mdash;Napoleon Hill'
+        '&ldquo;Effort only fully releases its reward after a person refuses to quit.&rdquo; <br /> &mdash;Napoleon Hill',
+        // October 2
+        '&ldquo;It is not length of life, but depth of life.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -21,7 +23,9 @@ $(document).ready(function() {
     // Random Love Quote
     let loveArray = [
         // October 1
-        '&ldquo;Never a lip is curved with pain that can&rsquo;t be kissed into smiles again.&rdquo; <br /> &mdash;Bret Harte'
+        '&ldquo;Never a lip is curved with pain that can&rsquo;t be kissed into smiles again.&rdquo; <br /> &mdash;Bret Harte',
+        // October 2
+        '&ldquo;Once a woman has forgiven her man, she must not reheat his sins for breakfast.&rdquo; <br /> &mdash;Marlene Dietrich'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -37,7 +41,9 @@ $(document).ready(function() {
     // Random Art Quote
     let artArray = [
         // October 1
-        '&ldquo;Without art, the crudeness of reality would make the world unbearable.&rdquo; <br /> &mdash;George Bernard Shaw'
+        '&ldquo;Without art, the crudeness of reality would make the world unbearable.&rdquo; <br /> &mdash;George Bernard Shaw',
+        // October 2
+        '&ldquo;When I have a camera in my hand, I know no fear.&rdquo; <br /> &mdash;Alfred Eisenstaedt'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
