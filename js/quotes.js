@@ -9,7 +9,9 @@ $(document).ready(function() {
         // October 2
         '&ldquo;It is not length of life, but depth of life.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         // October 3
-        '&ldquo;Personally I&rsquo;m always ready to learn, although I do not always like being taught.&rdquo; <br /> &mdash;Winston Churchill'
+        '&ldquo;Personally I&rsquo;m always ready to learn, although I do not always like being taught.&rdquo; <br /> &mdash;Winston Churchill',
+        // October 4
+        '&ldquo;Fortune befriends the bold.&rdquo; <br /> &mdash;Emily Dickinson'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -29,7 +31,9 @@ $(document).ready(function() {
         // October 2
         '&ldquo;Once a woman has forgiven her man, she must not reheat his sins for breakfast.&rdquo; <br /> &mdash;Marlene Dietrich',
         // October 3
-        '&ldquo;I long for the raised voice, the howl of rage or love.&rdquo; <br /> &mdash;Leslie Fiedler'
+        '&ldquo;I long for the raised voice, the howl of rage or love.&rdquo; <br /> &mdash;Leslie Fiedler',
+        // October 4
+        '&ldquo;Love is the best thing in the world, and the thing that lives the longest.&rdquo; <br /> &mdash;Henry Van Dyke'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -49,7 +53,9 @@ $(document).ready(function() {
         // October 2
         '&ldquo;When I have a camera in my hand, I know no fear.&rdquo; <br /> &mdash;Alfred Eisenstaedt',
         // October 3
-        '&ldquo;Colors, like features, follow the changes of the emotions.&rdquo; <br /> &mdash;Pablo Picasso'
+        '&ldquo;Colors, like features, follow the changes of the emotions.&rdquo; <br /> &mdash;Pablo Picasso',
+        // October 4
+        '&ldquo;The greatness of art is not to find what is common but what is unique.&rdquo; <br /> &mdash;Isaac Bashevis Singer'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
