@@ -11,7 +11,9 @@ $(document).ready(function() {
         // October 3
         '&ldquo;Personally I&rsquo;m always ready to learn, although I do not always like being taught.&rdquo; <br /> &mdash;Winston Churchill',
         // October 4
-        '&ldquo;Fortune befriends the bold.&rdquo; <br /> &mdash;Emily Dickinson'
+        '&ldquo;Fortune befriends the bold.&rdquo; <br /> &mdash;Emily Dickinson',
+        // October 5
+        '&ldquo;I have noticed that nothing I never said ever did me any harm.&rdquo; <br /> &mdash;Calvin Coolidge'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -33,7 +35,9 @@ $(document).ready(function() {
         // October 3
         '&ldquo;I long for the raised voice, the howl of rage or love.&rdquo; <br /> &mdash;Leslie Fiedler',
         // October 4
-        '&ldquo;Love is the best thing in the world, and the thing that lives the longest.&rdquo; <br /> &mdash;Henry Van Dyke'
+        '&ldquo;Love is the best thing in the world, and the thing that lives the longest.&rdquo; <br /> &mdash;Henry Van Dyke',
+        // October 5
+        '&ldquo;Love grows more tremendously full, swift, poignant, as the years multiply.&rdquo; <br /> &mdash;Zane Grey'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -55,7 +59,9 @@ $(document).ready(function() {
         // October 3
         '&ldquo;Colors, like features, follow the changes of the emotions.&rdquo; <br /> &mdash;Pablo Picasso',
         // October 4
-        '&ldquo;The greatness of art is not to find what is common but what is unique.&rdquo; <br /> &mdash;Isaac Bashevis Singer'
+        '&ldquo;The greatness of art is not to find what is common but what is unique.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
+        // October 5
+        '&ldquo;Through a painting we can see the whole world.&rdquo; <br /> &mdash;Hans Hofmann'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
