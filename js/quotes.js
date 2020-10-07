@@ -15,7 +15,9 @@ $(document).ready(function() {
         // October 5
         '&ldquo;I have noticed that nothing I never said ever did me any harm.&rdquo; <br /> &mdash;Calvin Coolidge',
         // October 6
-        '&ldquo;Our deeds determine us, as much as we determine our deeds.&rdquo; <br /> &mdash;George Eliot'
+        '&ldquo;Our deeds determine us, as much as we determine our deeds.&rdquo; <br /> &mdash;George Eliot',
+        // October 7
+        '&ldquo;Are right and wrong convertible terms, dependant upon popular opinion?&rdquo; <br /> &mdash;William Lloyd Garrison'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -41,7 +43,9 @@ $(document).ready(function() {
         // October 5
         '&ldquo;Love grows more tremendously full, swift, poignant, as the years multiply.&rdquo; <br /> &mdash;Zane Grey',
         // October 6
-        '&ldquo;But love&rsquo;s a malady without a cure.&rdquo; <br /> &mdash;John Dryden'
+        '&ldquo;But love&rsquo;s a malady without a cure.&rdquo; <br /> &mdash;John Dryden',
+        // October 7
+        '&ldquo;There is more pleasure in loving than in being beloved.&rdquo; <br /> &mdash;Thomas Fuller'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -67,7 +71,9 @@ $(document).ready(function() {
         // October 5
         '&ldquo;Through a painting we can see the whole world.&rdquo; <br /> &mdash;Hans Hofmann',
         // October 6
-        '&ldquo;One must be a living man and a posthumous artist.&rdquo; <br /> &mdash;Jean Cocteau'
+        '&ldquo;One must be a living man and a posthumous artist.&rdquo; <br /> &mdash;Jean Cocteau',
+        // October 7
+        '&ldquo;All good things which exist are the fruits of originality.&rdquo; <br /> &mdash;John Stuart Mill'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
