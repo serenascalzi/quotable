@@ -17,7 +17,9 @@ $(document).ready(function() {
         // October 6
         '&ldquo;Our deeds determine us, as much as we determine our deeds.&rdquo; <br /> &mdash;George Eliot',
         // October 7
-        '&ldquo;Are right and wrong convertible terms, dependant upon popular opinion?&rdquo; <br /> &mdash;William Lloyd Garrison'
+        '&ldquo;Are right and wrong convertible terms, dependant upon popular opinion?&rdquo; <br /> &mdash;William Lloyd Garrison',
+        // October 8
+        '&ldquo;Zeal will do more than knowledge.&rdquo; <br /> &mdash;William Hazlitt'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // October 6
         '&ldquo;But love&rsquo;s a malady without a cure.&rdquo; <br /> &mdash;John Dryden',
         // October 7
-        '&ldquo;There is more pleasure in loving than in being beloved.&rdquo; <br /> &mdash;Thomas Fuller'
+        '&ldquo;There is more pleasure in loving than in being beloved.&rdquo; <br /> &mdash;Thomas Fuller',
+        // October 8
+        '&ldquo;Bid me to love, and I will give a loving heart to thee.&rdquo; <br /> &mdash;Robert Herrick'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // October 6
         '&ldquo;One must be a living man and a posthumous artist.&rdquo; <br /> &mdash;Jean Cocteau',
         // October 7
-        '&ldquo;All good things which exist are the fruits of originality.&rdquo; <br /> &mdash;John Stuart Mill'
+        '&ldquo;All good things which exist are the fruits of originality.&rdquo; <br /> &mdash;John Stuart Mill',
+        // October 8
+        '&ldquo;I prefer drawing to talking. Drawing is faster, and leaves less room for lies.&rdquo; <br /> &mdash;Le Corbusier'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
