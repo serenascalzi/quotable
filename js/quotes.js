@@ -19,7 +19,9 @@ $(document).ready(function() {
         // October 7
         '&ldquo;Are right and wrong convertible terms, dependant upon popular opinion?&rdquo; <br /> &mdash;William Lloyd Garrison',
         // October 8
-        '&ldquo;Zeal will do more than knowledge.&rdquo; <br /> &mdash;William Hazlitt'
+        '&ldquo;Zeal will do more than knowledge.&rdquo; <br /> &mdash;William Hazlitt',
+        // October 9
+        '&ldquo;I have come to believe that this is a mighty continent which was hitherto unknown.&rdquo; <br /> &mdash;Christopher Columbus'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // October 7
         '&ldquo;There is more pleasure in loving than in being beloved.&rdquo; <br /> &mdash;Thomas Fuller',
         // October 8
-        '&ldquo;Bid me to love, and I will give a loving heart to thee.&rdquo; <br /> &mdash;Robert Herrick'
+        '&ldquo;Bid me to love, and I will give a loving heart to thee.&rdquo; <br /> &mdash;Robert Herrick',
+        // October 9
+        '&ldquo;Love is an act of endless forgiveness, a tender look which becomes a habit.&rdquo; <br /> &mdash;Peter Ustinov'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // October 7
         '&ldquo;All good things which exist are the fruits of originality.&rdquo; <br /> &mdash;John Stuart Mill',
         // October 8
-        '&ldquo;I prefer drawing to talking. Drawing is faster, and leaves less room for lies.&rdquo; <br /> &mdash;Le Corbusier'
+        '&ldquo;I prefer drawing to talking. Drawing is faster, and leaves less room for lies.&rdquo; <br /> &mdash;Le Corbusier',
+        // October 9
+        '&ldquo;Nothing makes me so happy as to observe nature and to paint what I see.&rdquo; <br /> &mdash;Henri Rousseau'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
