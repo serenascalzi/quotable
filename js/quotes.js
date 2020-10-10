@@ -21,7 +21,9 @@ $(document).ready(function() {
         // October 8
         '&ldquo;Zeal will do more than knowledge.&rdquo; <br /> &mdash;William Hazlitt',
         // October 9
-        '&ldquo;I have come to believe that this is a mighty continent which was hitherto unknown.&rdquo; <br /> &mdash;Christopher Columbus'
+        '&ldquo;I have come to believe that this is a mighty continent which was hitherto unknown.&rdquo; <br /> &mdash;Christopher Columbus',
+        // October 10
+        '&ldquo;To give without any reward, or any notice, has a special quality of its own.&rdquo; <br /> &mdash;Anne Morrow Lindbergh'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // October 8
         '&ldquo;Bid me to love, and I will give a loving heart to thee.&rdquo; <br /> &mdash;Robert Herrick',
         // October 9
-        '&ldquo;Love is an act of endless forgiveness, a tender look which becomes a habit.&rdquo; <br /> &mdash;Peter Ustinov'
+        '&ldquo;Love is an act of endless forgiveness, a tender look which becomes a habit.&rdquo; <br /> &mdash;Peter Ustinov',
+        // October 10
+        '&ldquo;A man is given the choice between loving women and understanding them.&rdquo; <br /> &mdash;Ninon de L&rsquo;Enclos'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // October 8
         '&ldquo;I prefer drawing to talking. Drawing is faster, and leaves less room for lies.&rdquo; <br /> &mdash;Le Corbusier',
         // October 9
-        '&ldquo;Nothing makes me so happy as to observe nature and to paint what I see.&rdquo; <br /> &mdash;Henri Rousseau'
+        '&ldquo;Nothing makes me so happy as to observe nature and to paint what I see.&rdquo; <br /> &mdash;Henri Rousseau',
+        // October 10
+        '&ldquo;Art is the most beautiful of all lies.&rdquo; <br /> &mdash;Claude Debussy'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
