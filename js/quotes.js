@@ -23,7 +23,9 @@ $(document).ready(function() {
         // October 9
         '&ldquo;I have come to believe that this is a mighty continent which was hitherto unknown.&rdquo; <br /> &mdash;Christopher Columbus',
         // October 10
-        '&ldquo;To give without any reward, or any notice, has a special quality of its own.&rdquo; <br /> &mdash;Anne Morrow Lindbergh'
+        '&ldquo;To give without any reward, or any notice, has a special quality of its own.&rdquo; <br /> &mdash;Anne Morrow Lindbergh',
+        // October 11
+        '&ldquo;To err is human; to forgive, divine.&rdquo; <br /> &mdash;Alexander Pope'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -57,7 +59,9 @@ $(document).ready(function() {
         // October 9
         '&ldquo;Love is an act of endless forgiveness, a tender look which becomes a habit.&rdquo; <br /> &mdash;Peter Ustinov',
         // October 10
-        '&ldquo;A man is given the choice between loving women and understanding them.&rdquo; <br /> &mdash;Ninon de L&rsquo;Enclos'
+        '&ldquo;A man is given the choice between loving women and understanding them.&rdquo; <br /> &mdash;Ninon de L&rsquo;Enclos',
+        // October 11
+        '&ldquo;To love is to act.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -91,7 +95,9 @@ $(document).ready(function() {
         // October 9
         '&ldquo;Nothing makes me so happy as to observe nature and to paint what I see.&rdquo; <br /> &mdash;Henri Rousseau',
         // October 10
-        '&ldquo;Art is the most beautiful of all lies.&rdquo; <br /> &mdash;Claude Debussy'
+        '&ldquo;Art is the most beautiful of all lies.&rdquo; <br /> &mdash;Claude Debussy',
+        // October 11
+        '&ldquo;Art doesn&rsquo;t transform. It just plain forms.&rdquo; <br /> &mdash;Roy Lichtenstein'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
