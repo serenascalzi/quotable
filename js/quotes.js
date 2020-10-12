@@ -25,7 +25,9 @@ $(document).ready(function() {
         // October 10
         '&ldquo;To give without any reward, or any notice, has a special quality of its own.&rdquo; <br /> &mdash;Anne Morrow Lindbergh',
         // October 11
-        '&ldquo;To err is human; to forgive, divine.&rdquo; <br /> &mdash;Alexander Pope'
+        '&ldquo;To err is human; to forgive, divine.&rdquo; <br /> &mdash;Alexander Pope',
+        // October 12
+        '&ldquo;The finest steel has to go through the hottest fire.&rdquo; <br /> &mdash;Richard M. Nixon'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // October 10
         '&ldquo;A man is given the choice between loving women and understanding them.&rdquo; <br /> &mdash;Ninon de L&rsquo;Enclos',
         // October 11
-        '&ldquo;To love is to act.&rdquo; <br /> &mdash;Victor Hugo'
+        '&ldquo;To love is to act.&rdquo; <br /> &mdash;Victor Hugo',
+        // October 12
+        '&ldquo;When you say you are in love with humanity, you are well satisfied with yourself.&rdquo; <br /> &mdash;Luigi Pirandello'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // October 10
         '&ldquo;Art is the most beautiful of all lies.&rdquo; <br /> &mdash;Claude Debussy',
         // October 11
-        '&ldquo;Art doesn&rsquo;t transform. It just plain forms.&rdquo; <br /> &mdash;Roy Lichtenstein'
+        '&ldquo;Art doesn&rsquo;t transform. It just plain forms.&rdquo; <br /> &mdash;Roy Lichtenstein',
+        // October 12
+        '&ldquo;I don&rsquo;t want life to imitate art. I want life to be art.&rdquo; <br /> &mdash;Ernst Fischer'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
