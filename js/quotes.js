@@ -29,7 +29,9 @@ $(document).ready(function() {
         // October 12
         '&ldquo;The finest steel has to go through the hottest fire.&rdquo; <br /> &mdash;Richard M. Nixon',
         // October 13
-        '&ldquo;Change before you have to.&rdquo; <br /> &mdash;Jack Welch'
+        '&ldquo;Change before you have to.&rdquo; <br /> &mdash;Jack Welch',
+        // October 14
+        '&ldquo;The actions of men are the best interpreters of their thoughts.&rdquo; <br /> &mdash;James Joyce'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // October 12
         '&ldquo;When you say you are in love with humanity, you are well satisfied with yourself.&rdquo; <br /> &mdash;Luigi Pirandello',
         // October 13
-        '&ldquo;Marrying for love may be a bit risky, but it is so honest that God can&rsquo;t help but smile on it.&rdquo; <br /> &mdash;Josh Billings'
+        '&ldquo;Marrying for love may be a bit risky, but it is so honest that God can&rsquo;t help but smile on it.&rdquo; <br /> &mdash;Josh Billings',
+        // October 14
+        '&ldquo;Only the broken-hearted know the truth about love.&rdquo; <br /> &mdash;Mason Cooley'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // October 12
         '&ldquo;I don&rsquo;t want life to imitate art. I want life to be art.&rdquo; <br /> &mdash;Ernst Fischer',
         // October 13
-        '&ldquo;Art is born of humiliation.&rdquo; <br /> &mdash;W. H. Auden'
+        '&ldquo;Art is born of humiliation.&rdquo; <br /> &mdash;W. H. Auden',
+        // October 14
+        '&ldquo;Where the spirit does not work with the hand, there is no art.&rdquo; <br /> &mdash;Leonardo da Vinci'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
