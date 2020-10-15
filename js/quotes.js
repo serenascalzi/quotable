@@ -31,7 +31,9 @@ $(document).ready(function() {
         // October 13
         '&ldquo;Change before you have to.&rdquo; <br /> &mdash;Jack Welch',
         // October 14
-        '&ldquo;The actions of men are the best interpreters of their thoughts.&rdquo; <br /> &mdash;James Joyce'
+        '&ldquo;The actions of men are the best interpreters of their thoughts.&rdquo; <br /> &mdash;James Joyce',
+        // October 15
+        '&ldquo;The absence of alternatives clears the mind marvelously.&rdquo; <br /> &mdash;Henry Kissinger'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // October 13
         '&ldquo;Marrying for love may be a bit risky, but it is so honest that God can&rsquo;t help but smile on it.&rdquo; <br /> &mdash;Josh Billings',
         // October 14
-        '&ldquo;Only the broken-hearted know the truth about love.&rdquo; <br /> &mdash;Mason Cooley'
+        '&ldquo;Only the broken-hearted know the truth about love.&rdquo; <br /> &mdash;Mason Cooley',
+        // October 15
+        '&ldquo;Love is too young to know what conscience is.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // October 13
         '&ldquo;Art is born of humiliation.&rdquo; <br /> &mdash;W. H. Auden',
         // October 14
-        '&ldquo;Where the spirit does not work with the hand, there is no art.&rdquo; <br /> &mdash;Leonardo da Vinci'
+        '&ldquo;Where the spirit does not work with the hand, there is no art.&rdquo; <br /> &mdash;Leonardo da Vinci',
+        // October 15
+        '&ldquo;The enemy of art is the absence of limitations.&rdquo; <br /> &mdash;Orson Welles'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
