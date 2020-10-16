@@ -33,7 +33,9 @@ $(document).ready(function() {
         // October 14
         '&ldquo;The actions of men are the best interpreters of their thoughts.&rdquo; <br /> &mdash;James Joyce',
         // October 15
-        '&ldquo;The absence of alternatives clears the mind marvelously.&rdquo; <br /> &mdash;Henry Kissinger'
+        '&ldquo;The absence of alternatives clears the mind marvelously.&rdquo; <br /> &mdash;Henry Kissinger',
+        // October 16
+        '&ldquo;With renunciation life begins.&rdquo; <br /> &mdash;Amelia Barr'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // October 14
         '&ldquo;Only the broken-hearted know the truth about love.&rdquo; <br /> &mdash;Mason Cooley',
         // October 15
-        '&ldquo;Love is too young to know what conscience is.&rdquo; <br /> &mdash;William Shakespeare'
+        '&ldquo;Love is too young to know what conscience is.&rdquo; <br /> &mdash;William Shakespeare',
+        // October 16
+        '&ldquo;True love cannot be found where it does not exist, nor can it be denied where it does.&rdquo; <br /> &mdash;Torquato Tasso'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // October 14
         '&ldquo;Where the spirit does not work with the hand, there is no art.&rdquo; <br /> &mdash;Leonardo da Vinci',
         // October 15
-        '&ldquo;The enemy of art is the absence of limitations.&rdquo; <br /> &mdash;Orson Welles'
+        '&ldquo;The enemy of art is the absence of limitations.&rdquo; <br /> &mdash;Orson Welles',
+        // October 16
+        '&ldquo;To imagine is everything, to know is nothing at all.&rdquo; <br /> &mdash;Anatole France'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
