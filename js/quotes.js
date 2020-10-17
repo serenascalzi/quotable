@@ -35,7 +35,9 @@ $(document).ready(function() {
         // October 15
         '&ldquo;The absence of alternatives clears the mind marvelously.&rdquo; <br /> &mdash;Henry Kissinger',
         // October 16
-        '&ldquo;With renunciation life begins.&rdquo; <br /> &mdash;Amelia Barr'
+        '&ldquo;With renunciation life begins.&rdquo; <br /> &mdash;Amelia Barr',
+        // October 17
+        '&ldquo;They&rsquo;re only truly great who are truly good.&rdquo; <br /> &mdash;George Chapman'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -81,7 +83,9 @@ $(document).ready(function() {
         // October 15
         '&ldquo;Love is too young to know what conscience is.&rdquo; <br /> &mdash;William Shakespeare',
         // October 16
-        '&ldquo;True love cannot be found where it does not exist, nor can it be denied where it does.&rdquo; <br /> &mdash;Torquato Tasso'
+        '&ldquo;True love cannot be found where it does not exist, nor can it be denied where it does.&rdquo; <br /> &mdash;Torquato Tasso',
+        // October 17
+        '&ldquo;People happy in love have an air of intensity.&rdquo; <br /> &mdash;Stendhal'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -127,7 +131,9 @@ $(document).ready(function() {
         // October 15
         '&ldquo;The enemy of art is the absence of limitations.&rdquo; <br /> &mdash;Orson Welles',
         // October 16
-        '&ldquo;To imagine is everything, to know is nothing at all.&rdquo; <br /> &mdash;Anatole France'
+        '&ldquo;To imagine is everything, to know is nothing at all.&rdquo; <br /> &mdash;Anatole France',
+        // October 17
+        '&ldquo;Insight is the first condition of Art.&rdquo; <br /> &mdash;George Henry Lewes'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
