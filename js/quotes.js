@@ -41,7 +41,9 @@ $(document).ready(function() {
         // October 18
         '&ldquo;To be free is to have achieved your life.&rdquo; <br /> &mdash;Tennessee Williams',
         // October 19
-        '&ldquo;When all else is lost, the future still remains.&rdquo; <br /> &mdash;Christian Nestell Bovee'
+        '&ldquo;When all else is lost, the future still remains.&rdquo; <br /> &mdash;Christian Nestell Bovee',
+        // October 20
+        '&ldquo;Nine-tenths of wisdom is being wise in time.&rdquo; <br /> &mdash;Theodore Roosevelt'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // October 18
         '&ldquo;The gain is not the having of children; it is the discovery of love and how to be loving.&rdquo; <br /> &mdash;Polly Berrien Berends',
         // October 19
-        '&ldquo;If any person wish to be idle, let them fall in love.&rdquo; <br /> &mdash;Ovid'
+        '&ldquo;If any person wish to be idle, let them fall in love.&rdquo; <br /> &mdash;Ovid',
+        // October 20
+        '&ldquo;Who so loves believes the impossible.&rdquo; <br /> &mdash;Elizabeth Barrett Browning'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // October 18
         '&ldquo;Love the art in yourself and not yourself in the art.&rdquo; <br /> &mdash;Constantin Stanislavski',
         // October 19
-        '&ldquo;Art is not a thing; it is a way.&rdquo; <br /> &mdash;Elbert Hubbard'
+        '&ldquo;Art is not a thing; it is a way.&rdquo; <br /> &mdash;Elbert Hubbard',
+        // October 20
+        '&ldquo;Art is the daughter of freedom.&rdquo; <br /> &mdash;Friedrich Schiller'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
