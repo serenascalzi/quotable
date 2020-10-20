@@ -39,7 +39,9 @@ $(document).ready(function() {
         // October 17
         '&ldquo;They&rsquo;re only truly great who are truly good.&rdquo; <br /> &mdash;George Chapman',
         // October 18
-        '&ldquo;To be free is to have achieved your life.&rdquo; <br /> &mdash;Tennessee Williams'
+        '&ldquo;To be free is to have achieved your life.&rdquo; <br /> &mdash;Tennessee Williams',
+        // October 19
+        '&ldquo;When all else is lost, the future still remains.&rdquo; <br /> &mdash;Christian Nestell Bovee'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -89,7 +91,9 @@ $(document).ready(function() {
         // October 17
         '&ldquo;People happy in love have an air of intensity.&rdquo; <br /> &mdash;Stendhal',
         // October 18
-        '&ldquo;The gain is not the having of children; it is the discovery of love and how to be loving.&rdquo; <br /> &mdash;Polly Berrien Berends'
+        '&ldquo;The gain is not the having of children; it is the discovery of love and how to be loving.&rdquo; <br /> &mdash;Polly Berrien Berends',
+        // October 19
+        '&ldquo;If any person wish to be idle, let them fall in love.&rdquo; <br /> &mdash;Ovid'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -139,7 +143,9 @@ $(document).ready(function() {
         // October 17
         '&ldquo;Insight is the first condition of Art.&rdquo; <br /> &mdash;George Henry Lewes',
         // October 18
-        '&ldquo;Love the art in yourself and not yourself in the art.&rdquo; <br /> &mdash;Constantin Stanislavski'
+        '&ldquo;Love the art in yourself and not yourself in the art.&rdquo; <br /> &mdash;Constantin Stanislavski',
+        // October 19
+        '&ldquo;Art is not a thing; it is a way.&rdquo; <br /> &mdash;Elbert Hubbard'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
