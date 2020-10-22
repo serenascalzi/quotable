@@ -45,7 +45,9 @@ $(document).ready(function() {
         // October 20
         '&ldquo;Nine-tenths of wisdom is being wise in time.&rdquo; <br /> &mdash;Theodore Roosevelt',
         // October 21
-        '&ldquo;If the world seems cold to you, kindle fires to warm it.&rdquo; <br /> &mdash;Lucy Larcom'
+        '&ldquo;If the world seems cold to you, kindle fires to warm it.&rdquo; <br /> &mdash;Lucy Larcom',
+        // October 22
+        '&ldquo;Of all human activities, man&rsquo;s listening to God is the supreme act of his reasoning and will.&rdquo; <br /> &mdash;Pope Paul VI'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -101,7 +103,9 @@ $(document).ready(function() {
         // October 20
         '&ldquo;Who so loves believes the impossible.&rdquo; <br /> &mdash;Elizabeth Barrett Browning',
         // October 21
-        '&ldquo;Love has a tide!&rdquo; <br /> &mdash;Helen Hunt Jackson'
+        '&ldquo;Love has a tide!&rdquo; <br /> &mdash;Helen Hunt Jackson',
+        // October 22
+        '&ldquo;Love will find a way through paths where wolves fear to prey.&rdquo; <br /> &mdash;Lord Byron'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -157,7 +161,9 @@ $(document).ready(function() {
         // October 20
         '&ldquo;Art is the daughter of freedom.&rdquo; <br /> &mdash;Friedrich Schiller',
         // October 21
-        '&ldquo;In art, the hand can never execute anything higher than the heart can imagine.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;In art, the hand can never execute anything higher than the heart can imagine.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        // October 22
+        '&ldquo;My eyes were made to erase all that is ugly.&rdquo; <br /> &mdash;Raoul Dufy'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
