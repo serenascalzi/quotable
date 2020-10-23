@@ -47,7 +47,9 @@ $(document).ready(function() {
         // October 21
         '&ldquo;If the world seems cold to you, kindle fires to warm it.&rdquo; <br /> &mdash;Lucy Larcom',
         // October 22
-        '&ldquo;Of all human activities, man&rsquo;s listening to God is the supreme act of his reasoning and will.&rdquo; <br /> &mdash;Pope Paul VI'
+        '&ldquo;Of all human activities, man&rsquo;s listening to God is the supreme act of his reasoning and will.&rdquo; <br /> &mdash;Pope Paul VI',
+        // October 23
+        '&ldquo;All wish to possess knowledge, but few, comparatively speaking, are willing to pay the price.&rdquo; <br /> &mdash;Juvenal'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // October 21
         '&ldquo;Love has a tide!&rdquo; <br /> &mdash;Helen Hunt Jackson',
         // October 22
-        '&ldquo;Love will find a way through paths where wolves fear to prey.&rdquo; <br /> &mdash;Lord Byron'
+        '&ldquo;Love will find a way through paths where wolves fear to prey.&rdquo; <br /> &mdash;Lord Byron',
+        // October 23
+        '&ldquo;Love and fear. Everything the father of a family says must inspire one or the other.&rdquo; <br /> &mdash;Joseph Joubert'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // October 21
         '&ldquo;In art, the hand can never execute anything higher than the heart can imagine.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         // October 22
-        '&ldquo;My eyes were made to erase all that is ugly.&rdquo; <br /> &mdash;Raoul Dufy'
+        '&ldquo;My eyes were made to erase all that is ugly.&rdquo; <br /> &mdash;Raoul Dufy',
+        // October 23
+        '&ldquo;Work on the accent, it will enliven the whole.&rdquo; <br /> &mdash;Pierre Bonnard'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
