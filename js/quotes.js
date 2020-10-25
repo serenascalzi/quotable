@@ -49,7 +49,9 @@ $(document).ready(function() {
         // October 22
         '&ldquo;Of all human activities, man&rsquo;s listening to God is the supreme act of his reasoning and will.&rdquo; <br /> &mdash;Pope Paul VI',
         // October 23
-        '&ldquo;All wish to possess knowledge, but few, comparatively speaking, are willing to pay the price.&rdquo; <br /> &mdash;Juvenal'
+        '&ldquo;All wish to possess knowledge, but few, comparatively speaking, are willing to pay the price.&rdquo; <br /> &mdash;Juvenal',
+        // October 24
+        '&ldquo;The human race has one really effective weapon, and that is laughter.&rdquo; <br /> &mdash;Mark Twain'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // October 22
         '&ldquo;Love will find a way through paths where wolves fear to prey.&rdquo; <br /> &mdash;Lord Byron',
         // October 23
-        '&ldquo;Love and fear. Everything the father of a family says must inspire one or the other.&rdquo; <br /> &mdash;Joseph Joubert'
+        '&ldquo;Love and fear. Everything the father of a family says must inspire one or the other.&rdquo; <br /> &mdash;Joseph Joubert',
+        // October 24
+        '&ldquo;Love is a mutual self-giving which ends in self-recovery.&rdquo; <br /> &mdash;Fulton J. Sheen'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // October 22
         '&ldquo;My eyes were made to erase all that is ugly.&rdquo; <br /> &mdash;Raoul Dufy',
         // October 23
-        '&ldquo;Work on the accent, it will enliven the whole.&rdquo; <br /> &mdash;Pierre Bonnard'
+        '&ldquo;Work on the accent, it will enliven the whole.&rdquo; <br /> &mdash;Pierre Bonnard',
+        // October 24
+        '&ldquo;Painting is easy when you don&rsquo;t know how, but very difficult when you do.&rdquo; <br /> &mdash;Edgar Degas'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
