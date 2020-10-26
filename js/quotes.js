@@ -53,7 +53,9 @@ $(document).ready(function() {
         // October 24
         '&ldquo;The human race has one really effective weapon, and that is laughter.&rdquo; <br /> &mdash;Mark Twain',
         // October 25
-        '&ldquo;The less we deserve good fortune, the more we hope for it.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
+        '&ldquo;The less we deserve good fortune, the more we hope for it.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
+        // October 26
+        '&ldquo;There&rsquo;s a difference between a philosophy and a bumper sticker.&rdquo; <br /> &mdash;Charles M. Schulz'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // October 24
         '&ldquo;Love is a mutual self-giving which ends in self-recovery.&rdquo; <br /> &mdash;Fulton J. Sheen',
         // October 25
-        '&ldquo;Sometimes love is stronger than a man&rsquo;s convictions.&rdquo; <br /> &mdash;Isaac Bashevis Singer'
+        '&ldquo;Sometimes love is stronger than a man&rsquo;s convictions.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
+        // October 26
+        '&ldquo;I never knew how to worship until I knew how to love.&rdquo; <br /> &mdash;Henry Ward Beecher'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // October 24
         '&ldquo;Painting is easy when you don&rsquo;t know how, but very difficult when you do.&rdquo; <br /> &mdash;Edgar Degas',
         // October 25
-        '&ldquo;My painting does not come from the easel.&rdquo; <br /> &mdash;Jackson Pollock'
+        '&ldquo;My painting does not come from the easel.&rdquo; <br /> &mdash;Jackson Pollock',
+        // October 26
+        '&ldquo;Any authentic work of art must start an argument between the artist and his audience.&rdquo; <br /> &mdash;Rebecca West'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
