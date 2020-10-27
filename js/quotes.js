@@ -55,7 +55,9 @@ $(document).ready(function() {
         // October 25
         '&ldquo;The less we deserve good fortune, the more we hope for it.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
         // October 26
-        '&ldquo;There&rsquo;s a difference between a philosophy and a bumper sticker.&rdquo; <br /> &mdash;Charles M. Schulz'
+        '&ldquo;There&rsquo;s a difference between a philosophy and a bumper sticker.&rdquo; <br /> &mdash;Charles M. Schulz',
+        // October 27
+        '&ldquo;Everything in the world may be endured except continual prosperity.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // October 25
         '&ldquo;Sometimes love is stronger than a man&rsquo;s convictions.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
         // October 26
-        '&ldquo;I never knew how to worship until I knew how to love.&rdquo; <br /> &mdash;Henry Ward Beecher'
+        '&ldquo;I never knew how to worship until I knew how to love.&rdquo; <br /> &mdash;Henry Ward Beecher',
+        // October 27
+        '&ldquo;In the game of love, the losers are more celebrated than the winners.&rdquo; <br /> &mdash;Mason Cooley'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // October 25
         '&ldquo;My painting does not come from the easel.&rdquo; <br /> &mdash;Jackson Pollock',
         // October 26
-        '&ldquo;Any authentic work of art must start an argument between the artist and his audience.&rdquo; <br /> &mdash;Rebecca West'
+        '&ldquo;Any authentic work of art must start an argument between the artist and his audience.&rdquo; <br /> &mdash;Rebecca West',
+        // October 27
+        '&ldquo;Vision is the true creative rhythm.&rdquo; <br /> &mdash;Robert Delaunay'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
