@@ -57,7 +57,9 @@ $(document).ready(function() {
         // October 26
         '&ldquo;There&rsquo;s a difference between a philosophy and a bumper sticker.&rdquo; <br /> &mdash;Charles M. Schulz',
         // October 27
-        '&ldquo;Everything in the world may be endured except continual prosperity.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
+        '&ldquo;Everything in the world may be endured except continual prosperity.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        // October 28
+        '&ldquo;Humanity is acquiring all the right technology for all the wrong reasons.&rdquo; <br /> &mdash;R. Buckminster Fuller'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // October 26
         '&ldquo;I never knew how to worship until I knew how to love.&rdquo; <br /> &mdash;Henry Ward Beecher',
         // October 27
-        '&ldquo;In the game of love, the losers are more celebrated than the winners.&rdquo; <br /> &mdash;Mason Cooley'
+        '&ldquo;In the game of love, the losers are more celebrated than the winners.&rdquo; <br /> &mdash;Mason Cooley',
+        // October 28
+        '&ldquo;To live is like to love &ndash; all reason is against it, and all healthy instinct for it.&rdquo; <br /> &mdash;Samuel Butler'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // October 26
         '&ldquo;Any authentic work of art must start an argument between the artist and his audience.&rdquo; <br /> &mdash;Rebecca West',
         // October 27
-        '&ldquo;Vision is the true creative rhythm.&rdquo; <br /> &mdash;Robert Delaunay'
+        '&ldquo;Vision is the true creative rhythm.&rdquo; <br /> &mdash;Robert Delaunay',
+        // October 28
+        '&ldquo;Mournful and yet grand is the destiny of the artist.&rdquo; <br /> &mdash;Franz Liszt'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
