@@ -63,7 +63,9 @@ $(document).ready(function() {
         // October 29
         '&ldquo;I think; therefore I am.&rdquo; <br /> &mdash;Rene Descartes',
         // October 30
-        '&ldquo;A smile is a curve that sets everything straight.&rdquo; <br /> &mdash;Phyllis Diller'
+        '&ldquo;A smile is a curve that sets everything straight.&rdquo; <br /> &mdash;Phyllis Diller',
+        // October 31
+        '&ldquo;Another belief of mine; that everyone else my age is an adult, whereas I am merely in disguise.&rdquo; <br /> &mdash;Margaret Atwood'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -137,7 +139,9 @@ $(document).ready(function() {
         // October 29
         '&ldquo;And the heart that is soonest awake to the flowers is always the first to be touch&rsquo;d by the thorns.&rdquo; <br /> &mdash;Thomas Moore',
         // October 30
-        '&ldquo;Beauty is the lover&rsquo;s gift.&rdquo; <br /> &mdash;William Congreve'
+        '&ldquo;Beauty is the lover&rsquo;s gift.&rdquo; <br /> &mdash;William Congreve',
+        // October 31
+        '&ldquo;Self-love is the source of all our other loves.&rdquo; <br /> &mdash;Pierre Corneille'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -211,7 +215,9 @@ $(document).ready(function() {
         // October 29
         '&ldquo;It is not in life, but in art that self-fulfillment is to be found.&rdquo; <br /> &mdash;Wilson Mizner',
         // October 30
-        '&ldquo;An art book is a museum without walls.&rdquo; <br /> &mdash;Andre Malraux'
+        '&ldquo;An art book is a museum without walls.&rdquo; <br /> &mdash;Andre Malraux',
+        // October 31
+        '&ldquo;The mission of art is to represent nature not to imitate her.&rdquo; <br /> &mdash;William Morris Hunt'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
