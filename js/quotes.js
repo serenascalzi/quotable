@@ -61,7 +61,9 @@ $(document).ready(function() {
         // October 28
         '&ldquo;Humanity is acquiring all the right technology for all the wrong reasons.&rdquo; <br /> &mdash;R. Buckminster Fuller',
         // October 29
-        '&ldquo;I think; therefore I am.&rdquo; <br /> &mdash;Rene Descartes'
+        '&ldquo;I think; therefore I am.&rdquo; <br /> &mdash;Rene Descartes',
+        // October 30
+        '&ldquo;A smile is a curve that sets everything straight.&rdquo; <br /> &mdash;Phyllis Diller'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // October 28
         '&ldquo;To live is like to love &ndash; all reason is against it, and all healthy instinct for it.&rdquo; <br /> &mdash;Samuel Butler',
         // October 29
-        '&ldquo;And the heart that is soonest awake to the flowers is always the first to be touch&rsquo;d by the thorns.&rdquo; <br /> &mdash;Thomas Moore'
+        '&ldquo;And the heart that is soonest awake to the flowers is always the first to be touch&rsquo;d by the thorns.&rdquo; <br /> &mdash;Thomas Moore',
+        // October 30
+        '&ldquo;Beauty is the lover&rsquo;s gift.&rdquo; <br /> &mdash;William Congreve'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // October 28
         '&ldquo;Mournful and yet grand is the destiny of the artist.&rdquo; <br /> &mdash;Franz Liszt',
         // October 29
-        '&ldquo;It is not in life, but in art that self-fulfillment is to be found.&rdquo; <br /> &mdash;Wilson Mizner'
+        '&ldquo;It is not in life, but in art that self-fulfillment is to be found.&rdquo; <br /> &mdash;Wilson Mizner',
+        // October 30
+        '&ldquo;An art book is a museum without walls.&rdquo; <br /> &mdash;Andre Malraux'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
