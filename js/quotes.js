@@ -5,7 +5,9 @@ $(document).ready(function() {
 	// Random Varied Quote
 	let variedArray = [
         // November 1
-        '&ldquo;Silent gratitude isn&rsquo;t much use to anyone.&rdquo; <br /> &mdash;Gertrude Stein'
+        '&ldquo;Silent gratitude isn&rsquo;t much use to anyone.&rdquo; <br /> &mdash;Gertrude Stein',
+        // November 2
+        '&ldquo;The most wasted of all days is one without laughter.&rdquo; <br /> &mdash;e. e. cummings'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -21,7 +23,9 @@ $(document).ready(function() {
     // Random Love Quote
     let loveArray = [
         // November 1
-        '&ldquo;We don&rsquo;t believe in rheumatism and true love until after the first attack.&rdquo; <br /> &mdash;Marie von Ebner-Eschenbach'
+        '&ldquo;We don&rsquo;t believe in rheumatism and true love until after the first attack.&rdquo; <br /> &mdash;Marie von Ebner-Eschenbach',
+        // November 2
+        '&ldquo;If you would be loved, love, and be loveable.&rdquo; <br /> &mdash;Benjamin Franklin'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -37,7 +41,9 @@ $(document).ready(function() {
     // Random Art Quote
     let artArray = [
         // November 1
-        '&ldquo;In the future, everyone will be famous for 15 minutes.&rdquo; <br /> &mdash;Andy Warhol'
+        '&ldquo;In the future, everyone will be famous for 15 minutes.&rdquo; <br /> &mdash;Andy Warhol',
+        // November 2
+        '&ldquo;What art offers is space &ndash; a certain breathing room for the spirit.&rdquo; <br /> &mdash;John Updike'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
