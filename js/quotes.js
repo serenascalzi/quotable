@@ -15,7 +15,9 @@ $(document).ready(function() {
         // November 5
         '&ldquo;You always admire what you really don&rsquo;t understand.&rdquo; <br /> &mdash;Blaise Pascal',
         // November 6
-        '&ldquo;Freedom is nothing but a chance to be better.&rdquo; <br /> &mdash;Albert Camus'
+        '&ldquo;Freedom is nothing but a chance to be better.&rdquo; <br /> &mdash;Albert Camus',
+        // November 7
+        '&ldquo;Voters don&rsquo;t decide issues, they decide who will decide issues.&rdquo; <br /> &mdash;George Will'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -41,7 +43,9 @@ $(document).ready(function() {
         // November 5
         '&ldquo;One must not trifle with love.&rdquo; <br /> &mdash;Alfred de Musset',
         // November 6
-        '&ldquo;All the beautiful sentiments in the world weigh less than a single lovely action.&rdquo; <br /> &mdash;James Russell Lowell'
+        '&ldquo;All the beautiful sentiments in the world weigh less than a single lovely action.&rdquo; <br /> &mdash;James Russell Lowell',
+        // November 7
+        '&ldquo;More than kisses, letters mingle souls.&rdquo; <br /> &mdash;John Donne'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -67,7 +71,9 @@ $(document).ready(function() {
         // November 5
         '&ldquo;Art attracts us only by what it reveals of our most secret self.&rdquo; <br /> &mdash;Alfred North Whitehead',
         // November 6
-        '&ldquo;Every production of an artist should be the expression of an adventure of his soul.&rdquo; <br /> &mdash;W. Somerset Maugham'
+        '&ldquo;Every production of an artist should be the expression of an adventure of his soul.&rdquo; <br /> &mdash;W. Somerset Maugham',
+        // November 7
+        '&ldquo;I think you can leave the arts, superior or inferior, to the conscience of mankind.&rdquo; <br /> &mdash;William Butler Yeats'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
