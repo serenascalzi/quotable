@@ -21,7 +21,9 @@ $(document).ready(function() {
         // November 8
         '&ldquo;Never reach out your hand unless you&rsquo;re willing to extend an arm.&rdquo; <br /> &mdash;Pope Paul VI',
         // November 9
-        '&ldquo;True originality consists not in a new manner but in a new vision.&rdquo; <br /> &mdash;Edith Wharton'
+        '&ldquo;True originality consists not in a new manner but in a new vision.&rdquo; <br /> &mdash;Edith Wharton',
+        // November 10
+        '&ldquo;God cannot alter the past, though historians can.&rdquo; <br /> &mdash;Samuel Butler'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // November 8
         '&ldquo;Love is a hole in the heart.&rdquo; <br /> &mdash;Ben Hecht',
         // November 9
-        '&ldquo;Love is the ultimate expression of the will to live.&rdquo; <br /> &mdash;Tom Wolfe'
+        '&ldquo;Love is the ultimate expression of the will to live.&rdquo; <br /> &mdash;Tom Wolfe',
+        // November 10
+        '&ldquo;Each moment of a happy lover&rsquo;s hour is worth an age of dull and common life.&rdquo; <br /> &mdash;Aphra Behn'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // November 8
         '&ldquo;Love of beauty is taste. The creation of beauty is art.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         // November 9
-        '&ldquo;Nature scarcely ever gives us the very best; for that we must have recourse to art.&rdquo; <br /> &mdash;Baltasar Gracian'
+        '&ldquo;Nature scarcely ever gives us the very best; for that we must have recourse to art.&rdquo; <br /> &mdash;Baltasar Gracian',
+        // November 10
+        '&ldquo;I continue to get further away from the usual painter&rsquo;s tools such as easel, palette, brushes, etc.&rdquo; <br /> &mdash;Jackson Pollock'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
