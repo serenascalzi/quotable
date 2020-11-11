@@ -17,7 +17,9 @@ $(document).ready(function() {
         // November 6
         '&ldquo;Freedom is nothing but a chance to be better.&rdquo; <br /> &mdash;Albert Camus',
         // November 7
-        '&ldquo;Voters don&rsquo;t decide issues, they decide who will decide issues.&rdquo; <br /> &mdash;George Will'
+        '&ldquo;Voters don&rsquo;t decide issues, they decide who will decide issues.&rdquo; <br /> &mdash;George Will',
+        // November 8
+        '&ldquo;Never reach out your hand unless you&rsquo;re willing to extend an arm.&rdquo; <br /> &mdash;Pope Paul VI'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // November 6
         '&ldquo;All the beautiful sentiments in the world weigh less than a single lovely action.&rdquo; <br /> &mdash;James Russell Lowell',
         // November 7
-        '&ldquo;More than kisses, letters mingle souls.&rdquo; <br /> &mdash;John Donne'
+        '&ldquo;More than kisses, letters mingle souls.&rdquo; <br /> &mdash;John Donne',
+        // November 8
+        '&ldquo;Love is a hole in the heart.&rdquo; <br /> &mdash;Ben Hecht'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // November 6
         '&ldquo;Every production of an artist should be the expression of an adventure of his soul.&rdquo; <br /> &mdash;W. Somerset Maugham',
         // November 7
-        '&ldquo;I think you can leave the arts, superior or inferior, to the conscience of mankind.&rdquo; <br /> &mdash;William Butler Yeats'
+        '&ldquo;I think you can leave the arts, superior or inferior, to the conscience of mankind.&rdquo; <br /> &mdash;William Butler Yeats',
+        // November 8
+        '&ldquo;Love of beauty is taste. The creation of beauty is art.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
