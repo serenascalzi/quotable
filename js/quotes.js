@@ -19,7 +19,9 @@ $(document).ready(function() {
         // November 7
         '&ldquo;Voters don&rsquo;t decide issues, they decide who will decide issues.&rdquo; <br /> &mdash;George Will',
         // November 8
-        '&ldquo;Never reach out your hand unless you&rsquo;re willing to extend an arm.&rdquo; <br /> &mdash;Pope Paul VI'
+        '&ldquo;Never reach out your hand unless you&rsquo;re willing to extend an arm.&rdquo; <br /> &mdash;Pope Paul VI',
+        // November 9
+        '&ldquo;True originality consists not in a new manner but in a new vision.&rdquo; <br /> &mdash;Edith Wharton'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // November 7
         '&ldquo;More than kisses, letters mingle souls.&rdquo; <br /> &mdash;John Donne',
         // November 8
-        '&ldquo;Love is a hole in the heart.&rdquo; <br /> &mdash;Ben Hecht'
+        '&ldquo;Love is a hole in the heart.&rdquo; <br /> &mdash;Ben Hecht',
+        // November 9
+        '&ldquo;Love is the ultimate expression of the will to live.&rdquo; <br /> &mdash;Tom Wolfe'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // November 7
         '&ldquo;I think you can leave the arts, superior or inferior, to the conscience of mankind.&rdquo; <br /> &mdash;William Butler Yeats',
         // November 8
-        '&ldquo;Love of beauty is taste. The creation of beauty is art.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;Love of beauty is taste. The creation of beauty is art.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        // November 9
+        '&ldquo;Nature scarcely ever gives us the very best; for that we must have recourse to art.&rdquo; <br /> &mdash;Baltasar Gracian'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
