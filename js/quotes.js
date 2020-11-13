@@ -25,7 +25,9 @@ $(document).ready(function() {
         // November 10
         '&ldquo;God cannot alter the past, though historians can.&rdquo; <br /> &mdash;Samuel Butler',
         // November 11
-        '&ldquo;We relish news of our heroes, forgetting that we are extraordinary to somebody too.&rdquo; <br /> &mdash;Helen Hayes'
+        '&ldquo;We relish news of our heroes, forgetting that we are extraordinary to somebody too.&rdquo; <br /> &mdash;Helen Hayes',
+        // November 12
+        '&ldquo;It is better to rust out than wear out.&rdquo; <br /> &mdash;Edwin Markham'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // November 10
         '&ldquo;Each moment of a happy lover&rsquo;s hour is worth an age of dull and common life.&rdquo; <br /> &mdash;Aphra Behn',
         // November 11
-        '&ldquo;Unable are the loved to die, for love is immortality.&rdquo; <br /> &mdash;Emily Dickinson'
+        '&ldquo;Unable are the loved to die, for love is immortality.&rdquo; <br /> &mdash;Emily Dickinson',
+        // November 12
+        '&ldquo;Fortune and love favor the brave.&rdquo; <br /> &mdash;Ovid'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // November 10
         '&ldquo;I continue to get further away from the usual painter&rsquo;s tools such as easel, palette, brushes, etc.&rdquo; <br /> &mdash;Jackson Pollock',
         // November 11
-        '&ldquo;The best thing commercially, which is the worst artistically, by and large, is the most successful.&rdquo; <br /> &mdash;Orson Welles'
+        '&ldquo;The best thing commercially, which is the worst artistically, by and large, is the most successful.&rdquo; <br /> &mdash;Orson Welles',
+        // November 12
+        '&ldquo;An artist is not paid for his labor but for his vision.&rdquo; <br /> &mdash;James Whistler'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
