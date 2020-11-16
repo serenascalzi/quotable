@@ -31,7 +31,9 @@ $(document).ready(function() {
         // November 13
         '&ldquo;Faith is the strength by which a shattered world shall emerge into the light.&rdquo; <br /> &mdash;Helen Keller',
         // November 14
-        '&ldquo;The best way to make your dreams come true is to wake up.&rdquo; <br /> &mdash;Paul Valery'
+        '&ldquo;The best way to make your dreams come true is to wake up.&rdquo; <br /> &mdash;Paul Valery',
+        // November 15
+        '&ldquo;Hindsight is always twenty-twenty.&rdquo; <br /> &mdash;Billy Wilder'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // November 13
         '&ldquo;To say &lsquo;I love you&rsquo; one must first be able to say the &lsquo;I.&rsquo;&rdquo; <br /> &mdash;Ayn Rand',
         // November 14
-        '&ldquo;The ear is the avenue to the heart.&rdquo; <br /> &mdash;Voltaire'
+        '&ldquo;The ear is the avenue to the heart.&rdquo; <br /> &mdash;Voltaire',
+        // November 15
+        '&ldquo;Tell me who admires and loves you, and I will tell you who you are.&rdquo; <br /> &mdash;Antoine de Saint-Exupery'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // November 13
         '&ldquo;Beauty in art is often nothing but ugliness subdued.&rdquo; <br /> &mdash;Jean Rostand',
         // November 14
-        '&ldquo;Simplicity and repose are the qualities that measure the true value of any work of art.&rdquo; <br /> &mdash;Frank Lloyd Wright'
+        '&ldquo;Simplicity and repose are the qualities that measure the true value of any work of art.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+        // November 15
+        '&ldquo;If it can be written, or thought, it can be filmed.&rdquo; <br /> &mdash;Stanley Kubrick'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
