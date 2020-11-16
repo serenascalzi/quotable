@@ -29,7 +29,9 @@ $(document).ready(function() {
         // November 12
         '&ldquo;It is better to rust out than wear out.&rdquo; <br /> &mdash;Edwin Markham',
         // November 13
-        '&ldquo;Faith is the strength by which a shattered world shall emerge into the light.&rdquo; <br /> &mdash;Helen Keller'
+        '&ldquo;Faith is the strength by which a shattered world shall emerge into the light.&rdquo; <br /> &mdash;Helen Keller',
+        // November 14
+        '&ldquo;The best way to make your dreams come true is to wake up.&rdquo; <br /> &mdash;Paul Valery'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // November 12
         '&ldquo;Fortune and love favor the brave.&rdquo; <br /> &mdash;Ovid',
         // November 13
-        '&ldquo;To say &lsquo;I love you&rsquo; one must first be able to say the &lsquo;I.&rsquo;&rdquo; <br /> &mdash;Ayn Rand'
+        '&ldquo;To say &lsquo;I love you&rsquo; one must first be able to say the &lsquo;I.&rsquo;&rdquo; <br /> &mdash;Ayn Rand',
+        // November 14
+        '&ldquo;The ear is the avenue to the heart.&rdquo; <br /> &mdash;Voltaire'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // November 12
         '&ldquo;An artist is not paid for his labor but for his vision.&rdquo; <br /> &mdash;James Whistler',
         // November 13
-        '&ldquo;Beauty in art is often nothing but ugliness subdued.&rdquo; <br /> &mdash;Jean Rostand'
+        '&ldquo;Beauty in art is often nothing but ugliness subdued.&rdquo; <br /> &mdash;Jean Rostand',
+        // November 14
+        '&ldquo;Simplicity and repose are the qualities that measure the true value of any work of art.&rdquo; <br /> &mdash;Frank Lloyd Wright'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
