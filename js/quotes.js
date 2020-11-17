@@ -33,7 +33,9 @@ $(document).ready(function() {
         // November 14
         '&ldquo;The best way to make your dreams come true is to wake up.&rdquo; <br /> &mdash;Paul Valery',
         // November 15
-        '&ldquo;Hindsight is always twenty-twenty.&rdquo; <br /> &mdash;Billy Wilder'
+        '&ldquo;Hindsight is always twenty-twenty.&rdquo; <br /> &mdash;Billy Wilder',
+        // November 16
+        '&ldquo;The undertaking of a new action brings new strength.&rdquo; <br /> &mdash;Richard L. Evans'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // November 14
         '&ldquo;The ear is the avenue to the heart.&rdquo; <br /> &mdash;Voltaire',
         // November 15
-        '&ldquo;Tell me who admires and loves you, and I will tell you who you are.&rdquo; <br /> &mdash;Antoine de Saint-Exupery'
+        '&ldquo;Tell me who admires and loves you, and I will tell you who you are.&rdquo; <br /> &mdash;Antoine de Saint-Exupery',
+        // November 16
+        '&ldquo;Only love interests me, and I am only in contact with things that revolve around love.&rdquo; <br /> &mdash;Marc Chagall'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // November 14
         '&ldquo;Simplicity and repose are the qualities that measure the true value of any work of art.&rdquo; <br /> &mdash;Frank Lloyd Wright',
         // November 15
-        '&ldquo;If it can be written, or thought, it can be filmed.&rdquo; <br /> &mdash;Stanley Kubrick'
+        '&ldquo;If it can be written, or thought, it can be filmed.&rdquo; <br /> &mdash;Stanley Kubrick',
+        // November 16
+        '&ldquo;Art in Nature is rhythmic and has a horror of constraint.&rdquo; <br /> &mdash;Robert Delaunay'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
