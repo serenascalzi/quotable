@@ -37,7 +37,9 @@ $(document).ready(function() {
         // November 16
         '&ldquo;The undertaking of a new action brings new strength.&rdquo; <br /> &mdash;Richard L. Evans',
         // November 17
-        '&ldquo;If you do not conquer self, you will be conquered by self.&rdquo; <br /> &mdash;Napoleon Hill'
+        '&ldquo;If you do not conquer self, you will be conquered by self.&rdquo; <br /> &mdash;Napoleon Hill',
+        // November 18
+        '&ldquo;Start with what is right rather than what is acceptable.&rdquo; <br /> &mdash;Franz Kafka'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // November 16
         '&ldquo;Only love interests me, and I am only in contact with things that revolve around love.&rdquo; <br /> &mdash;Marc Chagall',
         // November 17
-        '&ldquo;But surely for everything you have to love you have to pay some price.&rdquo; <br /> &mdash;Agatha Christie'
+        '&ldquo;But surely for everything you have to love you have to pay some price.&rdquo; <br /> &mdash;Agatha Christie',
+        // November 18
+        '&ldquo;Love him and let him love you. Do you think anything else under heaven really matters?&rdquo; <br /> &mdash;James Baldwin'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // November 16
         '&ldquo;Art in Nature is rhythmic and has a horror of constraint.&rdquo; <br /> &mdash;Robert Delaunay',
         // November 17
-        '&ldquo;Those who do not want to imitate anything, produce nothing.&rdquo; <br /> &mdash;Salvador Dali'
+        '&ldquo;Those who do not want to imitate anything, produce nothing.&rdquo; <br /> &mdash;Salvador Dali',
+        // November 18
+        '&ldquo;I realize that every picture isn&rsquo;t a work of art.&rdquo; <br /> &mdash;Conrad Hall'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
