@@ -39,7 +39,9 @@ $(document).ready(function() {
         // November 17
         '&ldquo;If you do not conquer self, you will be conquered by self.&rdquo; <br /> &mdash;Napoleon Hill',
         // November 18
-        '&ldquo;Start with what is right rather than what is acceptable.&rdquo; <br /> &mdash;Franz Kafka'
+        '&ldquo;Start with what is right rather than what is acceptable.&rdquo; <br /> &mdash;Franz Kafka',
+        // November 19
+        '&ldquo;Laughter is the sun that drives winter from the human face.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -89,7 +91,9 @@ $(document).ready(function() {
         // November 17
         '&ldquo;But surely for everything you have to love you have to pay some price.&rdquo; <br /> &mdash;Agatha Christie',
         // November 18
-        '&ldquo;Love him and let him love you. Do you think anything else under heaven really matters?&rdquo; <br /> &mdash;James Baldwin'
+        '&ldquo;Love him and let him love you. Do you think anything else under heaven really matters?&rdquo; <br /> &mdash;James Baldwin',
+        // November 19
+        '&ldquo;Love is the difficult realization that something other than oneself is real.&rdquo; <br /> &mdash;Iris Murdoch'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -139,7 +143,9 @@ $(document).ready(function() {
         // November 17
         '&ldquo;Those who do not want to imitate anything, produce nothing.&rdquo; <br /> &mdash;Salvador Dali',
         // November 18
-        '&ldquo;I realize that every picture isn&rsquo;t a work of art.&rdquo; <br /> &mdash;Conrad Hall'
+        '&ldquo;I realize that every picture isn&rsquo;t a work of art.&rdquo; <br /> &mdash;Conrad Hall',
+        // November 19
+        '&ldquo;Art depends on luck and talent.&rdquo; <br /> &mdash;Francis Ford Coppola'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
