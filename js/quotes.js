@@ -47,7 +47,9 @@ $(document).ready(function() {
         // November 21
         '&ldquo;Begin to be now what you will be hereafter.&rdquo; <br /> &mdash;William James',
         // November 22
-        '&ldquo;Who covets more is evermore a slave.&rdquo; <br /> &mdash;Robert Herrick'
+        '&ldquo;Who covets more is evermore a slave.&rdquo; <br /> &mdash;Robert Herrick',
+        // November 23
+        '&ldquo;Good friends, good books and a sleepy conscience: this is the ideal life.&rdquo; <br /> &mdash;Mark Twain'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // November 21
         '&ldquo;Courage is like love; it must have hope for nourishment.&rdquo; <br /> &mdash;Napoleon Bonaparte',
         // November 22
-        '&ldquo;Familiar acts are beautiful through love.&rdquo; <br /> &mdash;Percy Bysshe Shelley'
+        '&ldquo;Familiar acts are beautiful through love.&rdquo; <br /> &mdash;Percy Bysshe Shelley',
+        // November 23
+        '&ldquo;There are more people who wish to be loved than there are who are willing to love.&rdquo; <br /> &mdash;Nicolas Chamfort'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // November 21
         '&ldquo;Great artists suffer for the people.&rdquo; <br /> &mdash;Marvin Gaye',
         // November 22
-        '&ldquo;Art requires philosophy, just as philosophy requires art. Otherwise, what would become of beauty?&rdquo; <br /> &mdash;Paul Gauguin'
+        '&ldquo;Art requires philosophy, just as philosophy requires art. Otherwise, what would become of beauty?&rdquo; <br /> &mdash;Paul Gauguin',
+        // November 23
+        '&ldquo;All children are artists. The problem is how to remain an artist once he grows up.&rdquo; <br /> &mdash;Pablo Picasso'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
