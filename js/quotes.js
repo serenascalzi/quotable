@@ -41,7 +41,9 @@ $(document).ready(function() {
         // November 18
         '&ldquo;Start with what is right rather than what is acceptable.&rdquo; <br /> &mdash;Franz Kafka',
         // November 19
-        '&ldquo;Laughter is the sun that drives winter from the human face.&rdquo; <br /> &mdash;Victor Hugo'
+        '&ldquo;Laughter is the sun that drives winter from the human face.&rdquo; <br /> &mdash;Victor Hugo',
+        // November 20
+        '&ldquo;Change is the end result of all true learning.&rdquo; <br /> &mdash;Leo Buscaglia'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // November 18
         '&ldquo;Love him and let him love you. Do you think anything else under heaven really matters?&rdquo; <br /> &mdash;James Baldwin',
         // November 19
-        '&ldquo;Love is the difficult realization that something other than oneself is real.&rdquo; <br /> &mdash;Iris Murdoch'
+        '&ldquo;Love is the difficult realization that something other than oneself is real.&rdquo; <br /> &mdash;Iris Murdoch',
+        // November 20
+        '&ldquo;A loving heart is the truest wisdom.&rdquo; <br /> &mdash;Charles Dickens'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // November 18
         '&ldquo;I realize that every picture isn&rsquo;t a work of art.&rdquo; <br /> &mdash;Conrad Hall',
         // November 19
-        '&ldquo;Art depends on luck and talent.&rdquo; <br /> &mdash;Francis Ford Coppola'
+        '&ldquo;Art depends on luck and talent.&rdquo; <br /> &mdash;Francis Ford Coppola',
+        // November 20
+        '&ldquo;Good art is art that allows you to enter it from a variety of angles and to emerge with a variety of views.&rdquo; <br /> &mdash;Mary Schmich'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
