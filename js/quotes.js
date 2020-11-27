@@ -49,7 +49,9 @@ $(document).ready(function() {
         // November 22
         '&ldquo;Who covets more is evermore a slave.&rdquo; <br /> &mdash;Robert Herrick',
         // November 23
-        '&ldquo;Good friends, good books and a sleepy conscience: this is the ideal life.&rdquo; <br /> &mdash;Mark Twain'
+        '&ldquo;Good friends, good books and a sleepy conscience: this is the ideal life.&rdquo; <br /> &mdash;Mark Twain',
+        // November 24
+        '&ldquo;The thermometer of success is merely the jealousy of the malcontents.&rdquo; <br /> &mdash;Salvador Dali'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // November 22
         '&ldquo;Familiar acts are beautiful through love.&rdquo; <br /> &mdash;Percy Bysshe Shelley',
         // November 23
-        '&ldquo;There are more people who wish to be loved than there are who are willing to love.&rdquo; <br /> &mdash;Nicolas Chamfort'
+        '&ldquo;There are more people who wish to be loved than there are who are willing to love.&rdquo; <br /> &mdash;Nicolas Chamfort',
+        // November 24
+        '&ldquo;In short I will part with anything for you but you.&rdquo; <br /> &mdash;Mary Wortley Montagu'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // November 22
         '&ldquo;Art requires philosophy, just as philosophy requires art. Otherwise, what would become of beauty?&rdquo; <br /> &mdash;Paul Gauguin',
         // November 23
-        '&ldquo;All children are artists. The problem is how to remain an artist once he grows up.&rdquo; <br /> &mdash;Pablo Picasso'
+        '&ldquo;All children are artists. The problem is how to remain an artist once he grows up.&rdquo; <br /> &mdash;Pablo Picasso',
+        // November 24
+        '&ldquo;Even a true artist does not always produce art.&rdquo; <br /> &mdash;Carroll O&rsquo;Connor'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
