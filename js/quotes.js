@@ -53,7 +53,9 @@ $(document).ready(function() {
         // November 24
         '&ldquo;The thermometer of success is merely the jealousy of the malcontents.&rdquo; <br /> &mdash;Salvador Dali',
         // November 25
-        '&ldquo;Laughter is the sensation of feeling good all over and showing it principally in one place.&rdquo; <br /> &mdash;Josh Billings'
+        '&ldquo;Laughter is the sensation of feeling good all over and showing it principally in one place.&rdquo; <br /> &mdash;Josh Billings',
+        // November 26
+        '&ldquo;There is one day that is ours. Thanksgiving Day is the one day that is purely American.&rdquo; <br /> &mdash;O. Henry'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // November 24
         '&ldquo;In short I will part with anything for you but you.&rdquo; <br /> &mdash;Mary Wortley Montagu',
         // November 25
-        '&ldquo;My heart is like a singing bird.&rdquo; <br /> &mdash;Christina Rossetti'
+        '&ldquo;My heart is like a singing bird.&rdquo; <br /> &mdash;Christina Rossetti',
+        // November 26
+        '&ldquo;Thanksgiving is a time of togetherness and gratitude.&rdquo; <br /> &mdash;Nigel Hamilton'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // November 24
         '&ldquo;Even a true artist does not always produce art.&rdquo; <br /> &mdash;Carroll O&rsquo;Connor',
         // November 25
-        '&ldquo;The portrait of my parents is a complicated one, but lovingly drawn.&rdquo; <br /> &mdash;Joyce Maynard'
+        '&ldquo;The portrait of my parents is a complicated one, but lovingly drawn.&rdquo; <br /> &mdash;Joyce Maynard',
+        // November 26
+        '&ldquo;The essence of all beautiful art, all great art, is gratitude.&rdquo; <br /> &mdash;Friedrich Nietzsche'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
