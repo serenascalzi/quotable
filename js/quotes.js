@@ -51,7 +51,9 @@ $(document).ready(function() {
         // November 23
         '&ldquo;Good friends, good books and a sleepy conscience: this is the ideal life.&rdquo; <br /> &mdash;Mark Twain',
         // November 24
-        '&ldquo;The thermometer of success is merely the jealousy of the malcontents.&rdquo; <br /> &mdash;Salvador Dali'
+        '&ldquo;The thermometer of success is merely the jealousy of the malcontents.&rdquo; <br /> &mdash;Salvador Dali',
+        // November 25
+        '&ldquo;Laughter is the sensation of feeling good all over and showing it principally in one place.&rdquo; <br /> &mdash;Josh Billings'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // November 23
         '&ldquo;There are more people who wish to be loved than there are who are willing to love.&rdquo; <br /> &mdash;Nicolas Chamfort',
         // November 24
-        '&ldquo;In short I will part with anything for you but you.&rdquo; <br /> &mdash;Mary Wortley Montagu'
+        '&ldquo;In short I will part with anything for you but you.&rdquo; <br /> &mdash;Mary Wortley Montagu',
+        // November 25
+        '&ldquo;My heart is like a singing bird.&rdquo; <br /> &mdash;Christina Rossetti'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // November 23
         '&ldquo;All children are artists. The problem is how to remain an artist once he grows up.&rdquo; <br /> &mdash;Pablo Picasso',
         // November 24
-        '&ldquo;Even a true artist does not always produce art.&rdquo; <br /> &mdash;Carroll O&rsquo;Connor'
+        '&ldquo;Even a true artist does not always produce art.&rdquo; <br /> &mdash;Carroll O&rsquo;Connor',
+        // November 25
+        '&ldquo;The portrait of my parents is a complicated one, but lovingly drawn.&rdquo; <br /> &mdash;Joyce Maynard'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
