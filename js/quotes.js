@@ -55,7 +55,9 @@ $(document).ready(function() {
         // November 25
         '&ldquo;Laughter is the sensation of feeling good all over and showing it principally in one place.&rdquo; <br /> &mdash;Josh Billings',
         // November 26
-        '&ldquo;There is one day that is ours. Thanksgiving Day is the one day that is purely American.&rdquo; <br /> &mdash;O. Henry'
+        '&ldquo;There is one day that is ours. Thanksgiving Day is the one day that is purely American.&rdquo; <br /> &mdash;O. Henry',
+        // November 27
+        '&ldquo;The great advantage about telling the truth is that nobody ever believes it.&rdquo; <br /> &mdash;Dorothy L. Sayers'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // November 25
         '&ldquo;My heart is like a singing bird.&rdquo; <br /> &mdash;Christina Rossetti',
         // November 26
-        '&ldquo;Thanksgiving is a time of togetherness and gratitude.&rdquo; <br /> &mdash;Nigel Hamilton'
+        '&ldquo;Thanksgiving is a time of togetherness and gratitude.&rdquo; <br /> &mdash;Nigel Hamilton',
+        // November 27
+        '&ldquo;Love is, above all, the gift of oneself.&rdquo; <br /> &mdash;Jean Anouilh'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // November 25
         '&ldquo;The portrait of my parents is a complicated one, but lovingly drawn.&rdquo; <br /> &mdash;Joyce Maynard',
         // November 26
-        '&ldquo;The essence of all beautiful art, all great art, is gratitude.&rdquo; <br /> &mdash;Friedrich Nietzsche'
+        '&ldquo;The essence of all beautiful art, all great art, is gratitude.&rdquo; <br /> &mdash;Friedrich Nietzsche',
+        // November 27
+        '&ldquo;Every painting is a voyage into a sacred harbour.&rdquo; <br /> &mdash;Giotto di Bondone'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
