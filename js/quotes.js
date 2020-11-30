@@ -57,7 +57,9 @@ $(document).ready(function() {
         // November 26
         '&ldquo;There is one day that is ours. Thanksgiving Day is the one day that is purely American.&rdquo; <br /> &mdash;O. Henry',
         // November 27
-        '&ldquo;The great advantage about telling the truth is that nobody ever believes it.&rdquo; <br /> &mdash;Dorothy L. Sayers'
+        '&ldquo;The great advantage about telling the truth is that nobody ever believes it.&rdquo; <br /> &mdash;Dorothy L. Sayers',
+        // November 28
+        '&ldquo;Feeling gratitude and not expressing it is like wrapping a present and not giving it.&rdquo; <br /> &mdash;William Arthur Ward'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // November 26
         '&ldquo;Thanksgiving is a time of togetherness and gratitude.&rdquo; <br /> &mdash;Nigel Hamilton',
         // November 27
-        '&ldquo;Love is, above all, the gift of oneself.&rdquo; <br /> &mdash;Jean Anouilh'
+        '&ldquo;Love is, above all, the gift of oneself.&rdquo; <br /> &mdash;Jean Anouilh',
+        // November 28
+        '&ldquo;Love is all we have, the only way that each can help the other.&rdquo; <br /> &mdash;Euripides'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // November 26
         '&ldquo;The essence of all beautiful art, all great art, is gratitude.&rdquo; <br /> &mdash;Friedrich Nietzsche',
         // November 27
-        '&ldquo;Every painting is a voyage into a sacred harbour.&rdquo; <br /> &mdash;Giotto di Bondone'
+        '&ldquo;Every painting is a voyage into a sacred harbour.&rdquo; <br /> &mdash;Giotto di Bondone',
+        // November 28
+        '&ldquo;I decided on the spot that I would be an artist, and I assure you, it was no ordinary artist I had in mind.&rdquo; <br /> &mdash;Henry Ossawa Tanner'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
