@@ -59,7 +59,9 @@ $(document).ready(function() {
         // November 27
         '&ldquo;The great advantage about telling the truth is that nobody ever believes it.&rdquo; <br /> &mdash;Dorothy L. Sayers',
         // November 28
-        '&ldquo;Feeling gratitude and not expressing it is like wrapping a present and not giving it.&rdquo; <br /> &mdash;William Arthur Ward'
+        '&ldquo;Feeling gratitude and not expressing it is like wrapping a present and not giving it.&rdquo; <br /> &mdash;William Arthur Ward',
+        // November 29
+        '&ldquo;A good beginning makes a good end.&rdquo; <br /> &mdash;Louis L&rsquo;Amour'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // November 27
         '&ldquo;Love is, above all, the gift of oneself.&rdquo; <br /> &mdash;Jean Anouilh',
         // November 28
-        '&ldquo;Love is all we have, the only way that each can help the other.&rdquo; <br /> &mdash;Euripides'
+        '&ldquo;Love is all we have, the only way that each can help the other.&rdquo; <br /> &mdash;Euripides',
+        // November 29
+        '&ldquo;To witness two lovers is a spectacle for the gods.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // November 27
         '&ldquo;Every painting is a voyage into a sacred harbour.&rdquo; <br /> &mdash;Giotto di Bondone',
         // November 28
-        '&ldquo;I decided on the spot that I would be an artist, and I assure you, it was no ordinary artist I had in mind.&rdquo; <br /> &mdash;Henry Ossawa Tanner'
+        '&ldquo;I decided on the spot that I would be an artist, and I assure you, it was no ordinary artist I had in mind.&rdquo; <br /> &mdash;Henry Ossawa Tanner',
+        // November 29
+        '&ldquo;In life, as in art, the beautiful moves in curves.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
