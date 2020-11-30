@@ -61,7 +61,9 @@ $(document).ready(function() {
         // November 28
         '&ldquo;Feeling gratitude and not expressing it is like wrapping a present and not giving it.&rdquo; <br /> &mdash;William Arthur Ward',
         // November 29
-        '&ldquo;A good beginning makes a good end.&rdquo; <br /> &mdash;Louis L&rsquo;Amour'
+        '&ldquo;A good beginning makes a good end.&rdquo; <br /> &mdash;Louis L&rsquo;Amour',
+        // November 30
+        '&ldquo;Those who do not remember the past are condemned to repeat it.&rdquo; <br /> &mdash;George Santayana'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // November 28
         '&ldquo;Love is all we have, the only way that each can help the other.&rdquo; <br /> &mdash;Euripides',
         // November 29
-        '&ldquo;To witness two lovers is a spectacle for the gods.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
+        '&ldquo;To witness two lovers is a spectacle for the gods.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        // November 30
+        '&ldquo;The one thing we can never get enough of is love. And the one thing we never give enough is love.&rdquo; <br /> &mdash;Henry Miller'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // November 28
         '&ldquo;I decided on the spot that I would be an artist, and I assure you, it was no ordinary artist I had in mind.&rdquo; <br /> &mdash;Henry Ossawa Tanner',
         // November 29
-        '&ldquo;In life, as in art, the beautiful moves in curves.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton'
+        '&ldquo;In life, as in art, the beautiful moves in curves.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton',
+        // November 30
+        '&ldquo;I decided to start anew, to strip away what I had been taught.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
