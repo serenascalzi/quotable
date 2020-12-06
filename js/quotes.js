@@ -7,7 +7,9 @@ $(document).ready(function() {
         // December 1
         '&ldquo;Courage is found in unlikely places.&rdquo; <br /> &mdash;J. R. R. Tolkien',
         // December 2
-        '&ldquo;No man was ever wise by chance.&rdquo; <br /> &mdash;Lucius Annaeus Seneca'
+        '&ldquo;No man was ever wise by chance.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
+        // December 3
+        '&ldquo;When one teaches, two learn.&rdquo; <br /> &mdash;Robert Half'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -25,7 +27,9 @@ $(document).ready(function() {
         // December 1
         '&ldquo;It&rsquo;s important for us to latch onto the people that we love.&rdquo; <br /> &mdash;Connie Stevens',
         // December 2
-        '&ldquo;Our first and last love is self-love.&rdquo; <br /> &mdash;Christian Nestell Bovee'
+        '&ldquo;Our first and last love is self-love.&rdquo; <br /> &mdash;Christian Nestell Bovee',
+        // December 3
+        '&ldquo;Happiness is like a kiss. You must share it to enjoy it.&rdquo; <br /> &mdash;Bernard Meltzer'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -43,7 +47,9 @@ $(document).ready(function() {
         // December 1
         '&ldquo;Classic art was the art of necessity: modern romantic art bears the stamp of caprice and chance.&rdquo; <br /> &mdash;Max Eastman',
         // December 2
-        '&ldquo;I never know what I&rsquo;m going to put on the canvas. The canvas paints itself. I&rsquo;m just the middleman.&rdquo; <br /> &mdash;Peter Max'
+        '&ldquo;I never know what I&rsquo;m going to put on the canvas. The canvas paints itself. I&rsquo;m just the middleman.&rdquo; <br /> &mdash;Peter Max',
+        // December 3
+        '&ldquo;Good design doesn&rsquo;t date.&rdquo; <br /> &mdash;Harry Seidler'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
