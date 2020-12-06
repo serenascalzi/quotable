@@ -9,7 +9,9 @@ $(document).ready(function() {
         // December 2
         '&ldquo;No man was ever wise by chance.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
         // December 3
-        '&ldquo;When one teaches, two learn.&rdquo; <br /> &mdash;Robert Half'
+        '&ldquo;When one teaches, two learn.&rdquo; <br /> &mdash;Robert Half',
+        // December 4
+        '&ldquo;We shall never know all the good that a simple smile can do.&rdquo; <br /> &mdash;Mother Teresa'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -29,7 +31,9 @@ $(document).ready(function() {
         // December 2
         '&ldquo;Our first and last love is self-love.&rdquo; <br /> &mdash;Christian Nestell Bovee',
         // December 3
-        '&ldquo;Happiness is like a kiss. You must share it to enjoy it.&rdquo; <br /> &mdash;Bernard Meltzer'
+        '&ldquo;Happiness is like a kiss. You must share it to enjoy it.&rdquo; <br /> &mdash;Bernard Meltzer',
+        // December 4
+        '&ldquo;Girls we love for what they are; young men for what they promise to be.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -49,7 +53,9 @@ $(document).ready(function() {
         // December 2
         '&ldquo;I never know what I&rsquo;m going to put on the canvas. The canvas paints itself. I&rsquo;m just the middleman.&rdquo; <br /> &mdash;Peter Max',
         // December 3
-        '&ldquo;Good design doesn&rsquo;t date.&rdquo; <br /> &mdash;Harry Seidler'
+        '&ldquo;Good design doesn&rsquo;t date.&rdquo; <br /> &mdash;Harry Seidler',
+        // December 4
+        '&ldquo;The sensitive artist knows that a bitter wind is blowing.&rdquo; <br /> &mdash;Herbert Read'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
