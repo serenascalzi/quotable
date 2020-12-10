@@ -15,7 +15,9 @@ $(document).ready(function() {
         // December 5
         '&ldquo;The first wealth is health.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         // December 6
-        '&ldquo;Eloquence is a painting of the thoughts.&rdquo; <br /> &mdash;Blaise Pascal'
+        '&ldquo;Eloquence is a painting of the thoughts.&rdquo; <br /> &mdash;Blaise Pascal',
+        // December 7
+        '&ldquo;The most worth-while thing is to try to put happiness into the lives of others.&rdquo; <br /> &mdash;Robert Baden-Powell'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -41,7 +43,9 @@ $(document).ready(function() {
         // December 5
         '&ldquo;Who ever loved that loved not at first sight?&rdquo; <br /> &mdash;Christopher Marlowe',
         // December 6
-        '&ldquo;If I get married, I want to be very married.&rdquo; <br /> &mdash;Audrey Hepburn'
+        '&ldquo;If I get married, I want to be very married.&rdquo; <br /> &mdash;Audrey Hepburn',
+        // December 7
+        '&ldquo;Kindness in women, not their beauteous looks, shall win my love.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -67,7 +71,9 @@ $(document).ready(function() {
         // December 5
         '&ldquo;If technique is of no interest to a writer, I doubt that the writer is an artist.&rdquo; <br /> &mdash;Marianne Moore',
         // December 6
-        '&ldquo;A work of art which did not begin in emotion is not art.&rdquo; <br /> &mdash;Paul Cezanne'
+        '&ldquo;A work of art which did not begin in emotion is not art.&rdquo; <br /> &mdash;Paul Cezanne',
+        // December 7
+        '&ldquo;You can&rsquo;t depend on your eyes when your imagination is out of focus.&rdquo; <br /> &mdash;Mark Twain'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
