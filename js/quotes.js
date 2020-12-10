@@ -21,7 +21,9 @@ $(document).ready(function() {
         // December 8
         '&ldquo;I want to live my life, not record it.&rdquo; <br /> &mdash;Jackie Kennedy',
         // December 9
-        '&ldquo;God gives the nuts, but he does not crack them.&rdquo; <br /> &mdash;Franz Kafka'
+        '&ldquo;God gives the nuts, but he does not crack them.&rdquo; <br /> &mdash;Franz Kafka',
+        // December 10
+        '&ldquo;Some things are so unexpected that no one is prepared for them.&rdquo; <br /> &mdash;Leo Rosten'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -53,7 +55,9 @@ $(document).ready(function() {
         // December 8
         '&ldquo;You, yourself, as much as anybody in the entire universe, deserve your love and affection.&rdquo; <br /> &mdash;Buddha',
         // December 9
-        '&ldquo;There is no disguise which can hide love for long where it exists, or simulate it where it does not.&rdquo; <br /> &mdash;Francois de La Rochefoucauld'
+        '&ldquo;There is no disguise which can hide love for long where it exists, or simulate it where it does not.&rdquo; <br /> &mdash;Francois de La Rochefoucauld',
+        // December 10
+        '&ldquo;Down on your knees, and thank heaven, fasting, for a good man&rsquo;s love.&rdquo; <br /> &mdash;Euripides'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -85,7 +89,9 @@ $(document).ready(function() {
         // December 8
         '&ldquo;There is no prejudice that the work of art does not finally overcome.&rdquo; <br /> &mdash;Andre Gide',
         // December 9
-        '&ldquo;One can&rsquo;t paint New York as it is, but rather as it is felt.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe'
+        '&ldquo;One can&rsquo;t paint New York as it is, but rather as it is felt.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe',
+        // December 10
+        '&ldquo;My paintings are not about what is seen. They are about what is known forever in the mind.&rdquo; <br /> &mdash;Agnes Martin'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
