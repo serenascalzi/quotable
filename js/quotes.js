@@ -13,7 +13,9 @@ $(document).ready(function() {
         // December 4
         '&ldquo;We shall never know all the good that a simple smile can do.&rdquo; <br /> &mdash;Mother Teresa',
         // December 5
-        '&ldquo;The first wealth is health.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;The first wealth is health.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        // December 6
+        '&ldquo;Eloquence is a painting of the thoughts.&rdquo; <br /> &mdash;Blaise Pascal'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -37,7 +39,9 @@ $(document).ready(function() {
         // December 4
         '&ldquo;Girls we love for what they are; young men for what they promise to be.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         // December 5
-        '&ldquo;Who ever loved that loved not at first sight?&rdquo; <br /> &mdash;Christopher Marlowe'
+        '&ldquo;Who ever loved that loved not at first sight?&rdquo; <br /> &mdash;Christopher Marlowe',
+        // December 6
+        '&ldquo;If I get married, I want to be very married.&rdquo; <br /> &mdash;Audrey Hepburn'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -61,7 +65,9 @@ $(document).ready(function() {
         // December 4
         '&ldquo;The sensitive artist knows that a bitter wind is blowing.&rdquo; <br /> &mdash;Herbert Read',
         // December 5
-        '&ldquo;If technique is of no interest to a writer, I doubt that the writer is an artist.&rdquo; <br /> &mdash;Marianne Moore'
+        '&ldquo;If technique is of no interest to a writer, I doubt that the writer is an artist.&rdquo; <br /> &mdash;Marianne Moore',
+        // December 6
+        '&ldquo;A work of art which did not begin in emotion is not art.&rdquo; <br /> &mdash;Paul Cezanne'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
