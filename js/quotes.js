@@ -19,7 +19,9 @@ $(document).ready(function() {
         // December 7
         '&ldquo;The most worth-while thing is to try to put happiness into the lives of others.&rdquo; <br /> &mdash;Robert Baden-Powell',
         // December 8
-        '&ldquo;I want to live my life, not record it.&rdquo; <br /> &mdash;Jackie Kennedy'
+        '&ldquo;I want to live my life, not record it.&rdquo; <br /> &mdash;Jackie Kennedy',
+        // December 9
+        '&ldquo;God gives the nuts, but he does not crack them.&rdquo; <br /> &mdash;Franz Kafka'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -49,7 +51,9 @@ $(document).ready(function() {
         // December 7
         '&ldquo;Kindness in women, not their beauteous looks, shall win my love.&rdquo; <br /> &mdash;William Shakespeare',
         // December 8
-        '&ldquo;You, yourself, as much as anybody in the entire universe, deserve your love and affection.&rdquo; <br /> &mdash;Buddha'
+        '&ldquo;You, yourself, as much as anybody in the entire universe, deserve your love and affection.&rdquo; <br /> &mdash;Buddha',
+        // December 9
+        '&ldquo;There is no disguise which can hide love for long where it exists, or simulate it where it does not.&rdquo; <br /> &mdash;Francois de La Rochefoucauld'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -79,7 +83,9 @@ $(document).ready(function() {
         // December 7
         '&ldquo;You can&rsquo;t depend on your eyes when your imagination is out of focus.&rdquo; <br /> &mdash;Mark Twain',
         // December 8
-        '&ldquo;There is no prejudice that the work of art does not finally overcome.&rdquo; <br /> &mdash;Andre Gide'
+        '&ldquo;There is no prejudice that the work of art does not finally overcome.&rdquo; <br /> &mdash;Andre Gide',
+        // December 9
+        '&ldquo;One can&rsquo;t paint New York as it is, but rather as it is felt.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
