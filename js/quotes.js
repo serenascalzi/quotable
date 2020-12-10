@@ -17,7 +17,9 @@ $(document).ready(function() {
         // December 6
         '&ldquo;Eloquence is a painting of the thoughts.&rdquo; <br /> &mdash;Blaise Pascal',
         // December 7
-        '&ldquo;The most worth-while thing is to try to put happiness into the lives of others.&rdquo; <br /> &mdash;Robert Baden-Powell'
+        '&ldquo;The most worth-while thing is to try to put happiness into the lives of others.&rdquo; <br /> &mdash;Robert Baden-Powell',
+        // December 8
+        '&ldquo;I want to live my life, not record it.&rdquo; <br /> &mdash;Jackie Kennedy'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -45,7 +47,9 @@ $(document).ready(function() {
         // December 6
         '&ldquo;If I get married, I want to be very married.&rdquo; <br /> &mdash;Audrey Hepburn',
         // December 7
-        '&ldquo;Kindness in women, not their beauteous looks, shall win my love.&rdquo; <br /> &mdash;William Shakespeare'
+        '&ldquo;Kindness in women, not their beauteous looks, shall win my love.&rdquo; <br /> &mdash;William Shakespeare',
+        // December 8
+        '&ldquo;You, yourself, as much as anybody in the entire universe, deserve your love and affection.&rdquo; <br /> &mdash;Buddha'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -73,7 +77,9 @@ $(document).ready(function() {
         // December 6
         '&ldquo;A work of art which did not begin in emotion is not art.&rdquo; <br /> &mdash;Paul Cezanne',
         // December 7
-        '&ldquo;You can&rsquo;t depend on your eyes when your imagination is out of focus.&rdquo; <br /> &mdash;Mark Twain'
+        '&ldquo;You can&rsquo;t depend on your eyes when your imagination is out of focus.&rdquo; <br /> &mdash;Mark Twain',
+        // December 8
+        '&ldquo;There is no prejudice that the work of art does not finally overcome.&rdquo; <br /> &mdash;Andre Gide'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
