@@ -25,7 +25,9 @@ $(document).ready(function() {
         // December 10
         '&ldquo;Some things are so unexpected that no one is prepared for them.&rdquo; <br /> &mdash;Leo Rosten',
         // December 11
-        '&ldquo;Wisdom outweighs any wealth.&rdquo; <br /> &mdash;Sophocles'
+        '&ldquo;Wisdom outweighs any wealth.&rdquo; <br /> &mdash;Sophocles',
+        // December 12
+        '&ldquo;Syllables govern the world.&rdquo; <br /> &mdash;George Bernard Shaw'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -61,7 +63,9 @@ $(document).ready(function() {
         // December 10
         '&ldquo;Down on your knees, and thank heaven, fasting, for a good man&rsquo;s love.&rdquo; <br /> &mdash;Euripides',
         // December 11
-        '&ldquo;No one has ever loved anyone the way everyone wants to be loved.&rdquo; <br /> &mdash;Mignon McLaughlin'
+        '&ldquo;No one has ever loved anyone the way everyone wants to be loved.&rdquo; <br /> &mdash;Mignon McLaughlin',
+        // December 12
+        '&ldquo;Love is not altogether a delirium, yet it has many points in common therewith.&rdquo; <br /> &mdash;Thomas Carlyle'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -97,7 +101,9 @@ $(document).ready(function() {
         // December 10
         '&ldquo;My paintings are not about what is seen. They are about what is known forever in the mind.&rdquo; <br /> &mdash;Agnes Martin',
         // December 11
-        '&ldquo;The art of art, the glory of expression and the sunshine of the light of letters, is simplicity.&rdquo; <br /> &mdash;Walt Whitman'
+        '&ldquo;The art of art, the glory of expression and the sunshine of the light of letters, is simplicity.&rdquo; <br /> &mdash;Walt Whitman',
+        // December 12
+        '&ldquo;I think about my work every minute of the day.&rdquo; <br /> &mdash;Jeff Koons'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
