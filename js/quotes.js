@@ -27,7 +27,9 @@ $(document).ready(function() {
         // December 11
         '&ldquo;Wisdom outweighs any wealth.&rdquo; <br /> &mdash;Sophocles',
         // December 12
-        '&ldquo;Syllables govern the world.&rdquo; <br /> &mdash;George Bernard Shaw'
+        '&ldquo;Syllables govern the world.&rdquo; <br /> &mdash;George Bernard Shaw',
+        // December 13
+        '&ldquo;Home is the nicest word there is.&rdquo; <br /> &mdash;Laura Ingalls Wilder'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -65,7 +67,9 @@ $(document).ready(function() {
         // December 11
         '&ldquo;No one has ever loved anyone the way everyone wants to be loved.&rdquo; <br /> &mdash;Mignon McLaughlin',
         // December 12
-        '&ldquo;Love is not altogether a delirium, yet it has many points in common therewith.&rdquo; <br /> &mdash;Thomas Carlyle'
+        '&ldquo;Love is not altogether a delirium, yet it has many points in common therewith.&rdquo; <br /> &mdash;Thomas Carlyle',
+        // December 13
+        '&ldquo;Love is a smoke made with the fume of sighs.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -103,7 +107,9 @@ $(document).ready(function() {
         // December 11
         '&ldquo;The art of art, the glory of expression and the sunshine of the light of letters, is simplicity.&rdquo; <br /> &mdash;Walt Whitman',
         // December 12
-        '&ldquo;I think about my work every minute of the day.&rdquo; <br /> &mdash;Jeff Koons'
+        '&ldquo;I think about my work every minute of the day.&rdquo; <br /> &mdash;Jeff Koons',
+        // December 13
+        '&ldquo;A sculptor is a person who is interested in the shape of things, a poet in words, a musician by sounds.&rdquo; <br /> &mdash;Henry Moore'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
