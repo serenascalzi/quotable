@@ -29,7 +29,9 @@ $(document).ready(function() {
         // December 12
         '&ldquo;Syllables govern the world.&rdquo; <br /> &mdash;George Bernard Shaw',
         // December 13
-        '&ldquo;Home is the nicest word there is.&rdquo; <br /> &mdash;Laura Ingalls Wilder'
+        '&ldquo;Home is the nicest word there is.&rdquo; <br /> &mdash;Laura Ingalls Wilder',
+        // December 14
+        '&ldquo;There&rsquo;s a world of difference between truth and facts. Facts can obscure the truth.&rdquo; <br /> &mdash;Maya Angelou'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -69,7 +71,9 @@ $(document).ready(function() {
         // December 12
         '&ldquo;Love is not altogether a delirium, yet it has many points in common therewith.&rdquo; <br /> &mdash;Thomas Carlyle',
         // December 13
-        '&ldquo;Love is a smoke made with the fume of sighs.&rdquo; <br /> &mdash;William Shakespeare'
+        '&ldquo;Love is a smoke made with the fume of sighs.&rdquo; <br /> &mdash;William Shakespeare',
+        // December 14
+        '&ldquo;Who would give a law to lovers? Love is unto itself a higher law.&rdquo; <br /> &mdash;Boethius'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -109,7 +113,9 @@ $(document).ready(function() {
         // December 12
         '&ldquo;I think about my work every minute of the day.&rdquo; <br /> &mdash;Jeff Koons',
         // December 13
-        '&ldquo;A sculptor is a person who is interested in the shape of things, a poet in words, a musician by sounds.&rdquo; <br /> &mdash;Henry Moore'
+        '&ldquo;A sculptor is a person who is interested in the shape of things, a poet in words, a musician by sounds.&rdquo; <br /> &mdash;Henry Moore',
+        // December 14
+        '&ldquo;The goal of art was the vital expression of self.&rdquo; <br /> &mdash;Alfred Stieglitz'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
