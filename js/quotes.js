@@ -33,7 +33,9 @@ $(document).ready(function() {
         // December 14
         '&ldquo;There&rsquo;s a world of difference between truth and facts. Facts can obscure the truth.&rdquo; <br /> &mdash;Maya Angelou',
         // December 15
-        '&ldquo;The whole point of getting things done is knowing what to leave undone.&rdquo; <br /> &mdash;Oswald Chambers'
+        '&ldquo;The whole point of getting things done is knowing what to leave undone.&rdquo; <br /> &mdash;Oswald Chambers',
+        // December 16
+        '&ldquo;It is the set of the sails, not the direction of the wind that determines which way we will go.&rdquo; <br /> &mdash;Jim Rohn'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -77,7 +79,9 @@ $(document).ready(function() {
         // December 14
         '&ldquo;Who would give a law to lovers? Love is unto itself a higher law.&rdquo; <br /> &mdash;Boethius',
         // December 15
-        '&ldquo;A good husband makes a good wife.&rdquo; <br /> &mdash;John Florio'
+        '&ldquo;A good husband makes a good wife.&rdquo; <br /> &mdash;John Florio',
+        // December 16
+        '&ldquo;What a man takes in by contemplation, that he pours out in love.&rdquo; <br /> &mdash;Meister Eckhart'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -121,7 +125,9 @@ $(document).ready(function() {
         // December 14
         '&ldquo;The goal of art was the vital expression of self.&rdquo; <br /> &mdash;Alfred Stieglitz',
         // December 15
-        '&ldquo;I work in whatever medium likes me at the moment.&rdquo; <br /> &mdash;Marc Chagall'
+        '&ldquo;I work in whatever medium likes me at the moment.&rdquo; <br /> &mdash;Marc Chagall',
+        // December 16
+        '&ldquo;Most artists like to think of themselves as rugged individualists, as independent characters.&rdquo; <br /> &mdash;Jack Levine'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
