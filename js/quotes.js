@@ -31,7 +31,9 @@ $(document).ready(function() {
         // December 13
         '&ldquo;Home is the nicest word there is.&rdquo; <br /> &mdash;Laura Ingalls Wilder',
         // December 14
-        '&ldquo;There&rsquo;s a world of difference between truth and facts. Facts can obscure the truth.&rdquo; <br /> &mdash;Maya Angelou'
+        '&ldquo;There&rsquo;s a world of difference between truth and facts. Facts can obscure the truth.&rdquo; <br /> &mdash;Maya Angelou',
+        // December 15
+        '&ldquo;The whole point of getting things done is knowing what to leave undone.&rdquo; <br /> &mdash;Oswald Chambers'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -73,7 +75,9 @@ $(document).ready(function() {
         // December 13
         '&ldquo;Love is a smoke made with the fume of sighs.&rdquo; <br /> &mdash;William Shakespeare',
         // December 14
-        '&ldquo;Who would give a law to lovers? Love is unto itself a higher law.&rdquo; <br /> &mdash;Boethius'
+        '&ldquo;Who would give a law to lovers? Love is unto itself a higher law.&rdquo; <br /> &mdash;Boethius',
+        // December 15
+        '&ldquo;A good husband makes a good wife.&rdquo; <br /> &mdash;John Florio'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -115,7 +119,9 @@ $(document).ready(function() {
         // December 13
         '&ldquo;A sculptor is a person who is interested in the shape of things, a poet in words, a musician by sounds.&rdquo; <br /> &mdash;Henry Moore',
         // December 14
-        '&ldquo;The goal of art was the vital expression of self.&rdquo; <br /> &mdash;Alfred Stieglitz'
+        '&ldquo;The goal of art was the vital expression of self.&rdquo; <br /> &mdash;Alfred Stieglitz',
+        // December 15
+        '&ldquo;I work in whatever medium likes me at the moment.&rdquo; <br /> &mdash;Marc Chagall'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
