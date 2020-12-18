@@ -35,7 +35,9 @@ $(document).ready(function() {
         // December 15
         '&ldquo;The whole point of getting things done is knowing what to leave undone.&rdquo; <br /> &mdash;Oswald Chambers',
         // December 16
-        '&ldquo;It is the set of the sails, not the direction of the wind that determines which way we will go.&rdquo; <br /> &mdash;Jim Rohn'
+        '&ldquo;It is the set of the sails, not the direction of the wind that determines which way we will go.&rdquo; <br /> &mdash;Jim Rohn',
+        // December 17
+        '&ldquo;Forgive many things in others; nothing in yourself.&rdquo; <br /> &mdash;Ausonius'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -81,7 +83,9 @@ $(document).ready(function() {
         // December 15
         '&ldquo;A good husband makes a good wife.&rdquo; <br /> &mdash;John Florio',
         // December 16
-        '&ldquo;What a man takes in by contemplation, that he pours out in love.&rdquo; <br /> &mdash;Meister Eckhart'
+        '&ldquo;What a man takes in by contemplation, that he pours out in love.&rdquo; <br /> &mdash;Meister Eckhart',
+        // December 17
+        '&ldquo;We are all born for love. It is the principle of existence, and its only end.&rdquo; <br /> &mdash;Benjamin Disraeli'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -127,7 +131,9 @@ $(document).ready(function() {
         // December 15
         '&ldquo;I work in whatever medium likes me at the moment.&rdquo; <br /> &mdash;Marc Chagall',
         // December 16
-        '&ldquo;Most artists like to think of themselves as rugged individualists, as independent characters.&rdquo; <br /> &mdash;Jack Levine'
+        '&ldquo;Most artists like to think of themselves as rugged individualists, as independent characters.&rdquo; <br /> &mdash;Jack Levine',
+        // December 17
+        '&ldquo;Great art is as irrational as great music. It is mad with its own loveliness.&rdquo; <br /> &mdash;George Jean Nathan'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
