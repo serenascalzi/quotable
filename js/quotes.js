@@ -37,7 +37,9 @@ $(document).ready(function() {
         // December 16
         '&ldquo;It is the set of the sails, not the direction of the wind that determines which way we will go.&rdquo; <br /> &mdash;Jim Rohn',
         // December 17
-        '&ldquo;Forgive many things in others; nothing in yourself.&rdquo; <br /> &mdash;Ausonius'
+        '&ldquo;Forgive many things in others; nothing in yourself.&rdquo; <br /> &mdash;Ausonius',
+        // December 18
+        '&ldquo;Few men have virtue to withstand the highest bidder.&rdquo; <br /> &mdash;George Washington'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -85,7 +87,9 @@ $(document).ready(function() {
         // December 16
         '&ldquo;What a man takes in by contemplation, that he pours out in love.&rdquo; <br /> &mdash;Meister Eckhart',
         // December 17
-        '&ldquo;We are all born for love. It is the principle of existence, and its only end.&rdquo; <br /> &mdash;Benjamin Disraeli'
+        '&ldquo;We are all born for love. It is the principle of existence, and its only end.&rdquo; <br /> &mdash;Benjamin Disraeli',
+        // December 18
+        '&ldquo;No matter how love-sick a woman is, she shouldn&rsquo;t take the first pill that comes along.&rdquo; <br /> &mdash;Joyce Brothers'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -133,7 +137,9 @@ $(document).ready(function() {
         // December 16
         '&ldquo;Most artists like to think of themselves as rugged individualists, as independent characters.&rdquo; <br /> &mdash;Jack Levine',
         // December 17
-        '&ldquo;Great art is as irrational as great music. It is mad with its own loveliness.&rdquo; <br /> &mdash;George Jean Nathan'
+        '&ldquo;Great art is as irrational as great music. It is mad with its own loveliness.&rdquo; <br /> &mdash;George Jean Nathan',
+        // December 18
+        '&ldquo;Art is like baby shoes. When you coat them with gold, they can no longer be worn.&rdquo; <br /> &mdash;John Updike'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
