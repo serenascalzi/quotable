@@ -39,7 +39,9 @@ $(document).ready(function() {
         // December 17
         '&ldquo;Forgive many things in others; nothing in yourself.&rdquo; <br /> &mdash;Ausonius',
         // December 18
-        '&ldquo;Few men have virtue to withstand the highest bidder.&rdquo; <br /> &mdash;George Washington'
+        '&ldquo;Few men have virtue to withstand the highest bidder.&rdquo; <br /> &mdash;George Washington',
+        // December 19
+        '&ldquo;We grow small trying to be great.&rdquo; <br /> &mdash;E. Stanley Jones'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -89,7 +91,9 @@ $(document).ready(function() {
         // December 17
         '&ldquo;We are all born for love. It is the principle of existence, and its only end.&rdquo; <br /> &mdash;Benjamin Disraeli',
         // December 18
-        '&ldquo;No matter how love-sick a woman is, she shouldn&rsquo;t take the first pill that comes along.&rdquo; <br /> &mdash;Joyce Brothers'
+        '&ldquo;No matter how love-sick a woman is, she shouldn&rsquo;t take the first pill that comes along.&rdquo; <br /> &mdash;Joyce Brothers',
+        // December 19
+        '&ldquo;As love without esteem is capricious and volatile; esteem without love is languid and cold.&rdquo; <br /> &mdash;Jonathan Swift'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -139,7 +143,9 @@ $(document).ready(function() {
         // December 17
         '&ldquo;Great art is as irrational as great music. It is mad with its own loveliness.&rdquo; <br /> &mdash;George Jean Nathan',
         // December 18
-        '&ldquo;Art is like baby shoes. When you coat them with gold, they can no longer be worn.&rdquo; <br /> &mdash;John Updike'
+        '&ldquo;Art is like baby shoes. When you coat them with gold, they can no longer be worn.&rdquo; <br /> &mdash;John Updike',
+        // December 19
+        '&ldquo;Painting completed my life.&rdquo; <br /> &mdash;Frida Kahlo'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
