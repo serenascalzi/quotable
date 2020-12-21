@@ -41,7 +41,9 @@ $(document).ready(function() {
         // December 18
         '&ldquo;Few men have virtue to withstand the highest bidder.&rdquo; <br /> &mdash;George Washington',
         // December 19
-        '&ldquo;We grow small trying to be great.&rdquo; <br /> &mdash;E. Stanley Jones'
+        '&ldquo;We grow small trying to be great.&rdquo; <br /> &mdash;E. Stanley Jones',
+        // December 20
+        '&ldquo;No one has a greater asset for his business than a man&rsquo;s pride in his work.&rdquo; <br /> &mdash;Hosea Ballou'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -93,7 +95,9 @@ $(document).ready(function() {
         // December 18
         '&ldquo;No matter how love-sick a woman is, she shouldn&rsquo;t take the first pill that comes along.&rdquo; <br /> &mdash;Joyce Brothers',
         // December 19
-        '&ldquo;As love without esteem is capricious and volatile; esteem without love is languid and cold.&rdquo; <br /> &mdash;Jonathan Swift'
+        '&ldquo;As love without esteem is capricious and volatile; esteem without love is languid and cold.&rdquo; <br /> &mdash;Jonathan Swift',
+        // December 20
+        '&ldquo;A man&rsquo;s kiss is his signature.&rdquo; <br /> &mdash;Mae West'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -145,7 +149,9 @@ $(document).ready(function() {
         // December 18
         '&ldquo;Art is like baby shoes. When you coat them with gold, they can no longer be worn.&rdquo; <br /> &mdash;John Updike',
         // December 19
-        '&ldquo;Painting completed my life.&rdquo; <br /> &mdash;Frida Kahlo'
+        '&ldquo;Painting completed my life.&rdquo; <br /> &mdash;Frida Kahlo',
+        // December 20
+        '&ldquo;The works must be conceived with fire in the soul but executed with clinical coolness.&rdquo; <br /> &mdash;Joan Miro'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
