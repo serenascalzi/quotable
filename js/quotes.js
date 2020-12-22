@@ -45,7 +45,9 @@ $(document).ready(function() {
         // December 20
         '&ldquo;No one has a greater asset for his business than a man&rsquo;s pride in his work.&rdquo; <br /> &mdash;Hosea Ballou',
         // December 21
-        '&ldquo;Dream in a pragmatic way.&rdquo; <br /> &mdash;Aldous Huxley'
+        '&ldquo;Dream in a pragmatic way.&rdquo; <br /> &mdash;Aldous Huxley',
+        // December 22
+        '&ldquo;If you&rsquo;re alive, there&rsquo;s a purpose for your life.&rdquo; <br /> &mdash;Rick Warren'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -101,7 +103,9 @@ $(document).ready(function() {
         // December 20
         '&ldquo;A man&rsquo;s kiss is his signature.&rdquo; <br /> &mdash;Mae West',
         // December 21
-        '&ldquo;Every gift which is given, even though it be small, is in reality great, if it is given with affection.&rdquo; <br /> &mdash;Pindar'
+        '&ldquo;Every gift which is given, even though it be small, is in reality great, if it is given with affection.&rdquo; <br /> &mdash;Pindar',
+        // December 22
+        '&ldquo;What love we&rsquo;ve given, we&rsquo;ll have forever. What love we fail to give, will be lost for all eternity.&rdquo; <br /> &mdash;Leo Buscaglia'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -157,7 +161,9 @@ $(document).ready(function() {
         // December 20
         '&ldquo;The works must be conceived with fire in the soul but executed with clinical coolness.&rdquo; <br /> &mdash;Joan Miro',
         // December 21
-        '&ldquo;Lesser artists borrow, great artists steal.&rdquo; <br /> &mdash;Igor Stravinsky'
+        '&ldquo;Lesser artists borrow, great artists steal.&rdquo; <br /> &mdash;Igor Stravinsky',
+        // December 22
+        '&ldquo;A good painting to me has always been like a friend. It keeps me company, comforts and inspires.&rdquo; <br /> &mdash;Hedy Lamarr'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
