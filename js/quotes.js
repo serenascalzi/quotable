@@ -43,7 +43,9 @@ $(document).ready(function() {
         // December 19
         '&ldquo;We grow small trying to be great.&rdquo; <br /> &mdash;E. Stanley Jones',
         // December 20
-        '&ldquo;No one has a greater asset for his business than a man&rsquo;s pride in his work.&rdquo; <br /> &mdash;Hosea Ballou'
+        '&ldquo;No one has a greater asset for his business than a man&rsquo;s pride in his work.&rdquo; <br /> &mdash;Hosea Ballou',
+        // December 21
+        '&ldquo;Dream in a pragmatic way.&rdquo; <br /> &mdash;Aldous Huxley'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -97,7 +99,9 @@ $(document).ready(function() {
         // December 19
         '&ldquo;As love without esteem is capricious and volatile; esteem without love is languid and cold.&rdquo; <br /> &mdash;Jonathan Swift',
         // December 20
-        '&ldquo;A man&rsquo;s kiss is his signature.&rdquo; <br /> &mdash;Mae West'
+        '&ldquo;A man&rsquo;s kiss is his signature.&rdquo; <br /> &mdash;Mae West',
+        // December 21
+        '&ldquo;Every gift which is given, even though it be small, is in reality great, if it is given with affection.&rdquo; <br /> &mdash;Pindar'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -151,7 +155,9 @@ $(document).ready(function() {
         // December 19
         '&ldquo;Painting completed my life.&rdquo; <br /> &mdash;Frida Kahlo',
         // December 20
-        '&ldquo;The works must be conceived with fire in the soul but executed with clinical coolness.&rdquo; <br /> &mdash;Joan Miro'
+        '&ldquo;The works must be conceived with fire in the soul but executed with clinical coolness.&rdquo; <br /> &mdash;Joan Miro',
+        // December 21
+        '&ldquo;Lesser artists borrow, great artists steal.&rdquo; <br /> &mdash;Igor Stravinsky'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
