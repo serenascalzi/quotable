@@ -51,7 +51,9 @@ $(document).ready(function() {
         // December 23
         '&ldquo;There&rsquo;s no use doing a kindness if you do it a day too late.&rdquo; <br /> &mdash;Charles Kingsley',
         // December 24
-        '&ldquo;Maybe Christmas, the Grinch thought, doesn&rsquo;t come from a store.&rdquo; <br /> &mdash;Dr. Seuss'
+        '&ldquo;Maybe Christmas, the Grinch thought, doesn&rsquo;t come from a store.&rdquo; <br /> &mdash;Dr. Seuss',
+        // December 25
+        '&ldquo;I will honor Christmas in my heart, and try to keep it all the year.&rdquo; <br /> &mdash;Charles Dickens'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -113,7 +115,9 @@ $(document).ready(function() {
         // December 23
         '&ldquo;Let no one who loves be unhappy, even love unreturned has its rainbow.&rdquo; <br /> &mdash;James M. Barrie',
         // December 24
-        '&ldquo;There is no surprise more magical than the surprise of being loved: It is God&rsquo;s finger on man&rsquo;s shoulder.&rdquo; <br /> &mdash;Charles Morgan'
+        '&ldquo;There is no surprise more magical than the surprise of being loved: It is God&rsquo;s finger on man&rsquo;s shoulder.&rdquo; <br /> &mdash;Charles Morgan',
+        // December 25
+        '&ldquo;As the Father has loved me, so have I loved you.&rdquo; <br /> &mdash;Jesus Christ'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -175,7 +179,9 @@ $(document).ready(function() {
         // December 23
         '&ldquo;Every act of creation is first an act of destruction.&rdquo; <br /> &mdash;Pablo Picasso',
         // December 24
-        '&ldquo;From its brilliancy everything is illuminated.&rdquo; <br /> &mdash;Guru Nanak'
+        '&ldquo;From its brilliancy everything is illuminated.&rdquo; <br /> &mdash;Guru Nanak',
+        // December 25
+        '&ldquo;The true work of art is but a shadow of the divine perfection.&rdquo; <br /> &mdash;Michelangelo'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
