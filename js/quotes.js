@@ -47,7 +47,9 @@ $(document).ready(function() {
         // December 21
         '&ldquo;Dream in a pragmatic way.&rdquo; <br /> &mdash;Aldous Huxley',
         // December 22
-        '&ldquo;If you&rsquo;re alive, there&rsquo;s a purpose for your life.&rdquo; <br /> &mdash;Rick Warren'
+        '&ldquo;If you&rsquo;re alive, there&rsquo;s a purpose for your life.&rdquo; <br /> &mdash;Rick Warren',
+        // December 23
+        '&ldquo;There&rsquo;s no use doing a kindness if you do it a day too late.&rdquo; <br /> &mdash;Charles Kingsley'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -105,7 +107,9 @@ $(document).ready(function() {
         // December 21
         '&ldquo;Every gift which is given, even though it be small, is in reality great, if it is given with affection.&rdquo; <br /> &mdash;Pindar',
         // December 22
-        '&ldquo;What love we&rsquo;ve given, we&rsquo;ll have forever. What love we fail to give, will be lost for all eternity.&rdquo; <br /> &mdash;Leo Buscaglia'
+        '&ldquo;What love we&rsquo;ve given, we&rsquo;ll have forever. What love we fail to give, will be lost for all eternity.&rdquo; <br /> &mdash;Leo Buscaglia',
+        // December 23
+        '&ldquo;Let no one who loves be unhappy, even love unreturned has its rainbow.&rdquo; <br /> &mdash;James M. Barrie'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -163,7 +167,9 @@ $(document).ready(function() {
         // December 21
         '&ldquo;Lesser artists borrow, great artists steal.&rdquo; <br /> &mdash;Igor Stravinsky',
         // December 22
-        '&ldquo;A good painting to me has always been like a friend. It keeps me company, comforts and inspires.&rdquo; <br /> &mdash;Hedy Lamarr'
+        '&ldquo;A good painting to me has always been like a friend. It keeps me company, comforts and inspires.&rdquo; <br /> &mdash;Hedy Lamarr',
+        // December 23
+        '&ldquo;Every act of creation is first an act of destruction.&rdquo; <br /> &mdash;Pablo Picasso'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
