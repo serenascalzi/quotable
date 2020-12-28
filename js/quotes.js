@@ -53,7 +53,9 @@ $(document).ready(function() {
         // December 24
         '&ldquo;Maybe Christmas, the Grinch thought, doesn&rsquo;t come from a store.&rdquo; <br /> &mdash;Dr. Seuss',
         // December 25
-        '&ldquo;I will honor Christmas in my heart, and try to keep it all the year.&rdquo; <br /> &mdash;Charles Dickens'
+        '&ldquo;I will honor Christmas in my heart, and try to keep it all the year.&rdquo; <br /> &mdash;Charles Dickens',
+        // December 26
+        '&ldquo;Cherish your human connections: your relationships with friends and family.&rdquo; <br /> &mdash;Joseph Brodsky'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -117,7 +119,9 @@ $(document).ready(function() {
         // December 24
         '&ldquo;There is no surprise more magical than the surprise of being loved: It is God&rsquo;s finger on man&rsquo;s shoulder.&rdquo; <br /> &mdash;Charles Morgan',
         // December 25
-        '&ldquo;As the Father has loved me, so have I loved you.&rdquo; <br /> &mdash;Jesus Christ'
+        '&ldquo;As the Father has loved me, so have I loved you.&rdquo; <br /> &mdash;Jesus Christ',
+        // December 26
+        '&ldquo;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.&rdquo; <br /> &mdash;Lao Tzu'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -181,7 +185,9 @@ $(document).ready(function() {
         // December 24
         '&ldquo;From its brilliancy everything is illuminated.&rdquo; <br /> &mdash;Guru Nanak',
         // December 25
-        '&ldquo;The true work of art is but a shadow of the divine perfection.&rdquo; <br /> &mdash;Michelangelo'
+        '&ldquo;The true work of art is but a shadow of the divine perfection.&rdquo; <br /> &mdash;Michelangelo',
+        // December 26
+        '&ldquo;True art is characterized by an irresistible urge in the creative artist.&rdquo; <br /> &mdash;Albert Einstein'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
