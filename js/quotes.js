@@ -55,7 +55,9 @@ $(document).ready(function() {
         // December 25
         '&ldquo;I will honor Christmas in my heart, and try to keep it all the year.&rdquo; <br /> &mdash;Charles Dickens',
         // December 26
-        '&ldquo;Cherish your human connections: your relationships with friends and family.&rdquo; <br /> &mdash;Joseph Brodsky'
+        '&ldquo;Cherish your human connections: your relationships with friends and family.&rdquo; <br /> &mdash;Joseph Brodsky',
+        // December 27
+        '&ldquo;One faces the future with one&rsquo;s past.&rdquo; <br /> &mdash;Pearl S. Buck'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -121,7 +123,9 @@ $(document).ready(function() {
         // December 25
         '&ldquo;As the Father has loved me, so have I loved you.&rdquo; <br /> &mdash;Jesus Christ',
         // December 26
-        '&ldquo;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.&rdquo; <br /> &mdash;Lao Tzu'
+        '&ldquo;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.&rdquo; <br /> &mdash;Lao Tzu',
+        // December 27
+        '&ldquo;Accept what people offer. Drink their milkshakes. Take their love.&rdquo; <br /> &mdash;Wally Lamb'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -187,7 +191,9 @@ $(document).ready(function() {
         // December 25
         '&ldquo;The true work of art is but a shadow of the divine perfection.&rdquo; <br /> &mdash;Michelangelo',
         // December 26
-        '&ldquo;True art is characterized by an irresistible urge in the creative artist.&rdquo; <br /> &mdash;Albert Einstein'
+        '&ldquo;True art is characterized by an irresistible urge in the creative artist.&rdquo; <br /> &mdash;Albert Einstein',
+        // December 27
+        '&ldquo;Life obliges me to do something, so I paint.&rdquo; <br /> &mdash;Rene Magritte'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
