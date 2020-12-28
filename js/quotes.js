@@ -49,7 +49,9 @@ $(document).ready(function() {
         // December 22
         '&ldquo;If you&rsquo;re alive, there&rsquo;s a purpose for your life.&rdquo; <br /> &mdash;Rick Warren',
         // December 23
-        '&ldquo;There&rsquo;s no use doing a kindness if you do it a day too late.&rdquo; <br /> &mdash;Charles Kingsley'
+        '&ldquo;There&rsquo;s no use doing a kindness if you do it a day too late.&rdquo; <br /> &mdash;Charles Kingsley',
+        // December 24
+        '&ldquo;Maybe Christmas, the Grinch thought, doesn&rsquo;t come from a store.&rdquo; <br /> &mdash;Dr. Seuss'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -109,7 +111,9 @@ $(document).ready(function() {
         // December 22
         '&ldquo;What love we&rsquo;ve given, we&rsquo;ll have forever. What love we fail to give, will be lost for all eternity.&rdquo; <br /> &mdash;Leo Buscaglia',
         // December 23
-        '&ldquo;Let no one who loves be unhappy, even love unreturned has its rainbow.&rdquo; <br /> &mdash;James M. Barrie'
+        '&ldquo;Let no one who loves be unhappy, even love unreturned has its rainbow.&rdquo; <br /> &mdash;James M. Barrie',
+        // December 24
+        '&ldquo;There is no surprise more magical than the surprise of being loved: It is God&rsquo;s finger on man&rsquo;s shoulder.&rdquo; <br /> &mdash;Charles Morgan'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -169,7 +173,9 @@ $(document).ready(function() {
         // December 22
         '&ldquo;A good painting to me has always been like a friend. It keeps me company, comforts and inspires.&rdquo; <br /> &mdash;Hedy Lamarr',
         // December 23
-        '&ldquo;Every act of creation is first an act of destruction.&rdquo; <br /> &mdash;Pablo Picasso'
+        '&ldquo;Every act of creation is first an act of destruction.&rdquo; <br /> &mdash;Pablo Picasso',
+        // December 24
+        '&ldquo;From its brilliancy everything is illuminated.&rdquo; <br /> &mdash;Guru Nanak'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
