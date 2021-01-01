@@ -61,7 +61,9 @@ $(document).ready(function() {
         // December 28
         '&ldquo;The less you talk, the more you&rsquo;re listened to.&rdquo; <br /> &mdash;Pauline Phillips',
         // December 29
-        '&ldquo;We pass through this world but once.&rdquo; <br /> &mdash;Stephen Jay Gould'
+        '&ldquo;We pass through this world but once.&rdquo; <br /> &mdash;Stephen Jay Gould',
+        // December 30
+        '&ldquo;Every man regards his own life as the New Year&rsquo;s Eve of time.&rdquo; <br /> &mdash;Jean Paul'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -133,7 +135,9 @@ $(document).ready(function() {
         // December 28
         '&ldquo;Faith makes all things possible&hellip; love makes all things easy.&rdquo; <br /> &mdash;Dwight L. Moody',
         // December 29
-        '&ldquo;Love keeps the cold out better than a cloak.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow'
+        '&ldquo;Love keeps the cold out better than a cloak.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
+        // December 30
+        '&ldquo;They invented hugs to let people know you love them without saying anything.&rdquo; <br /> &mdash;Bil Keane'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -205,7 +209,9 @@ $(document).ready(function() {
         // December 28
         '&ldquo;Art is much less important than life, but what a poor life without it.&rdquo; <br /> &mdash;Robert Motherwell',
         // December 29
-        '&ldquo;Architecture is the will of an epoch translated into space.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe'
+        '&ldquo;Architecture is the will of an epoch translated into space.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe',
+        // December 30
+        '&ldquo;It is through art, and through art only, that we can realise our perfection.&rdquo; <br /> &mdash;Oscar Wilde'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
