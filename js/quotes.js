@@ -63,7 +63,9 @@ $(document).ready(function() {
         // December 29
         '&ldquo;We pass through this world but once.&rdquo; <br /> &mdash;Stephen Jay Gould',
         // December 30
-        '&ldquo;Every man regards his own life as the New Year&rsquo;s Eve of time.&rdquo; <br /> &mdash;Jean Paul'
+        '&ldquo;Every man regards his own life as the New Year&rsquo;s Eve of time.&rdquo; <br /> &mdash;Jean Paul',
+        // December 31
+        '&ldquo;Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.&rdquo; <br /> &mdash;Benjamin Franklin'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -137,7 +139,9 @@ $(document).ready(function() {
         // December 29
         '&ldquo;Love keeps the cold out better than a cloak.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
         // December 30
-        '&ldquo;They invented hugs to let people know you love them without saying anything.&rdquo; <br /> &mdash;Bil Keane'
+        '&ldquo;They invented hugs to let people know you love them without saying anything.&rdquo; <br /> &mdash;Bil Keane',
+        // December 31
+        '&ldquo;With our love, we could save the world.&rdquo; <br /> &mdash;George Harrison'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -211,7 +215,9 @@ $(document).ready(function() {
         // December 29
         '&ldquo;Architecture is the will of an epoch translated into space.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe',
         // December 30
-        '&ldquo;It is through art, and through art only, that we can realise our perfection.&rdquo; <br /> &mdash;Oscar Wilde'
+        '&ldquo;It is through art, and through art only, that we can realise our perfection.&rdquo; <br /> &mdash;Oscar Wilde',
+        // December 31
+        '&ldquo;The job of the artist is always to deepen the mystery.&rdquo; <br /> &mdash;Francis Bacon'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
