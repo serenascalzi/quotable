@@ -59,7 +59,9 @@ $(document).ready(function() {
         // December 27
         '&ldquo;One faces the future with one&rsquo;s past.&rdquo; <br /> &mdash;Pearl S. Buck',
         // December 28
-        '&ldquo;The less you talk, the more you&rsquo;re listened to.&rdquo; <br /> &mdash;Pauline Phillips'
+        '&ldquo;The less you talk, the more you&rsquo;re listened to.&rdquo; <br /> &mdash;Pauline Phillips',
+        // December 29
+        '&ldquo;We pass through this world but once.&rdquo; <br /> &mdash;Stephen Jay Gould'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -129,7 +131,9 @@ $(document).ready(function() {
         // December 27
         '&ldquo;Accept what people offer. Drink their milkshakes. Take their love.&rdquo; <br /> &mdash;Wally Lamb',
         // December 28
-        '&ldquo;Faith makes all things possible&hellip; love makes all things easy.&rdquo; <br /> &mdash;Dwight L. Moody'
+        '&ldquo;Faith makes all things possible&hellip; love makes all things easy.&rdquo; <br /> &mdash;Dwight L. Moody',
+        // December 29
+        '&ldquo;Love keeps the cold out better than a cloak.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -199,7 +203,9 @@ $(document).ready(function() {
         // December 27
         '&ldquo;Life obliges me to do something, so I paint.&rdquo; <br /> &mdash;Rene Magritte',
         // December 28
-        '&ldquo;Art is much less important than life, but what a poor life without it.&rdquo; <br /> &mdash;Robert Motherwell'
+        '&ldquo;Art is much less important than life, but what a poor life without it.&rdquo; <br /> &mdash;Robert Motherwell',
+        // December 29
+        '&ldquo;Architecture is the will of an epoch translated into space.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
