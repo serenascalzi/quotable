@@ -57,7 +57,9 @@ $(document).ready(function() {
         // December 26
         '&ldquo;Cherish your human connections: your relationships with friends and family.&rdquo; <br /> &mdash;Joseph Brodsky',
         // December 27
-        '&ldquo;One faces the future with one&rsquo;s past.&rdquo; <br /> &mdash;Pearl S. Buck'
+        '&ldquo;One faces the future with one&rsquo;s past.&rdquo; <br /> &mdash;Pearl S. Buck',
+        // December 28
+        '&ldquo;The less you talk, the more you&rsquo;re listened to.&rdquo; <br /> &mdash;Pauline Phillips'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -125,7 +127,9 @@ $(document).ready(function() {
         // December 26
         '&ldquo;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.&rdquo; <br /> &mdash;Lao Tzu',
         // December 27
-        '&ldquo;Accept what people offer. Drink their milkshakes. Take their love.&rdquo; <br /> &mdash;Wally Lamb'
+        '&ldquo;Accept what people offer. Drink their milkshakes. Take their love.&rdquo; <br /> &mdash;Wally Lamb',
+        // December 28
+        '&ldquo;Faith makes all things possible&hellip; love makes all things easy.&rdquo; <br /> &mdash;Dwight L. Moody'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -193,7 +197,9 @@ $(document).ready(function() {
         // December 26
         '&ldquo;True art is characterized by an irresistible urge in the creative artist.&rdquo; <br /> &mdash;Albert Einstein',
         // December 27
-        '&ldquo;Life obliges me to do something, so I paint.&rdquo; <br /> &mdash;Rene Magritte'
+        '&ldquo;Life obliges me to do something, so I paint.&rdquo; <br /> &mdash;Rene Magritte',
+        // December 28
+        '&ldquo;Art is much less important than life, but what a poor life without it.&rdquo; <br /> &mdash;Robert Motherwell'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
