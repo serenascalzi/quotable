@@ -1,6 +1,9 @@
 $(document).ready(function() {
+    // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
+
     let januaryArray = [
-        '&ldquo;I believe that if one always looked at the skies, one would end up with wings.&rdquo; <br /> &mdash;Gustave Flaubert'
+        '&ldquo;I believe that if one always looked at the skies, one would end up with wings.&rdquo; <br /> &mdash;Gustave Flaubert',
+        '&ldquo;It is a matter of shame that in the morning the birds should be awake earlier than you.&rdquo; <br /> &mdash;Abu Bakr'
     ]
 
     let februaryArray = [
