@@ -1,6 +1,5 @@
 $(document).ready(function() {
-    let artArray = [
-		// January Quotes
+    let januaryArray = [
         '&ldquo;I make pictures and someone comes in and calls it art.&rdquo; <br /> &mdash;Willem de Kooning',
         '&ldquo;I think it is in collaboration that the nature of art is revealed.&rdquo; <br /> &mdash;Steve Lacy',
         '&ldquo;Art is the only way to run away without leaving home.&rdquo; <br /> &mdash;Twyla Tharp',
@@ -31,8 +30,10 @@ $(document).ready(function() {
         '&ldquo;The great artist is a slave to his ideals.&rdquo; <br /> &mdash;Christian Nestell Bovee',
         '&ldquo;Art is a collaboration between God and the artist, and the less the artist does the better.&rdquo; <br /> &mdash;Andre Gide',
         '&ldquo;It is the addition of strangeness to beauty that constitutes the romantic character in art.&rdquo; <br /> &mdash;Walter Hagen',
-        '&ldquo;Art is Art. Everything else is everything else.&rdquo; <br /> &mdash;Ad Reinhardt',
-        // February Quotes
+        '&ldquo;Art is Art. Everything else is everything else.&rdquo; <br /> &mdash;Ad Reinhardt'
+    ]
+
+    let februaryArray = [
         '&ldquo;The rule in the art world is: you cater to the masses or you kowtow to the elite; you can&rsquo;t have both.&rdquo; <br /> &mdash;Ben Hecht',
         '&ldquo;I cry out for order and find it only in art.&rdquo; <br /> &mdash;Helen Hayes',
         '&ldquo;Fiction reveals truths that reality obscures.&rdquo; <br /> &mdash;Jessamyn West',
@@ -61,8 +62,10 @@ $(document).ready(function() {
         '&ldquo;With color one obtains an energy that seems to stem from witchcraft.&rdquo; <br /> &mdash;Henri Matisse',
         '&ldquo;I paint as if I were Rothschild.&rdquo; <br /> &mdash;Paul Cezanne',
         '&ldquo;Painting is a source of endless pleasure, but also of great anguish.&rdquo; <br /> &mdash;Balthus',
-        '&ldquo;Don&rsquo;t pay any attention to what they write about you. Just measure it in inches.&rdquo; <br /> &mdash;Andy Warhol',
-        // March Quotes
+        '&ldquo;Don&rsquo;t pay any attention to what they write about you. Just measure it in inches.&rdquo; <br /> &mdash;Andy Warhol'
+    ]
+
+    let marchArray = [
         '&ldquo;Every picture shows a spot with which the artist has fallen in love.&rdquo; <br /> &mdash;Alfred Sisley',
         '&ldquo;An empty canvas is full.&rdquo; <br /> &mdash;Robert Rauschenberg',
         '&ldquo;Rationalism is the enemy of art, though necessary as a basis for architecture.&rdquo; <br /> &mdash;Arthur Erickson',
@@ -93,8 +96,10 @@ $(document).ready(function() {
         '&ldquo;Art must take reality by surprise.&rdquo; <br /> &mdash;Francoise Sagan',
         '&ldquo;Artistic temperament is the disease that afflicts amateurs.&rdquo; <br /> &mdash;Gilbert K. Chesterton',
         '&ldquo;The artist vocation is to send light into the human heart.&rdquo; <br /> &mdash;George Sand',
-        '&ldquo;From now on, I&rsquo;ll connect the dots my own way.&rdquo; <br /> &mdash;Bill Watterson',
-        // April Quotes
+        '&ldquo;From now on, I&rsquo;ll connect the dots my own way.&rdquo; <br /> &mdash;Bill Watterson'
+    ]
+
+    let aprilArray = [
         '&ldquo;The people who make art their business are mostly imposters.&rdquo; <br /> &mdash;Pablo Picasso',
         '&ldquo;That&rsquo;s the motivation of an artist &ndash; to seek attention of some kind.&rdquo; <br /> &mdash;James Taylor',
         '&ldquo;Irresponsibility is part of the pleasure of all art; it is the part the schools cannot recognize.&rdquo; <br /> &mdash;James Joyce',
@@ -124,8 +129,10 @@ $(document).ready(function() {
         '&ldquo;It is not sufficient to see and to know the beauty of a work. We must feel and be affected by it.&rdquo; <br /> &mdash;Voltaire',
         '&ldquo;Painting is by nature a luminous language.&rdquo; <br /> &mdash;Robert Delaunay',
         '&ldquo;Art is the objectification of feeling.&rdquo; <br /> &mdash;Herman Melville',
-        '&ldquo;The precision of naming takes away from the uniqueness of seeing.&rdquo; <br /> &mdash;Pierre Bonnard',
-        // May Quotes
+        '&ldquo;The precision of naming takes away from the uniqueness of seeing.&rdquo; <br /> &mdash;Pierre Bonnard'
+    ]
+
+    let mayArray = [
         '&ldquo;Art is a marriage of the conscious and the unconscious.&rdquo; <br /> &mdash;Jean Cocteau',
         '&ldquo;Art is either plagiarism or revolution.&rdquo; <br /> &mdash;Paul Gauguin',
         '&ldquo;Art is nature speeded up and God slowed down.&rdquo; <br /> &mdash;Malcolm de Chazal',
@@ -156,8 +163,10 @@ $(document).ready(function() {
         '&ldquo;I paint with shapes.&rdquo; <br /> &mdash;Alexander Calder',
         '&ldquo;Art is anything you can get away with.&rdquo; <br /> &mdash;Marshall McLuhan',
         '&ldquo;Not everybody trusts paintings but people believe photographs.&rdquo; <br /> &mdash;Ansel Adams',
-        '&ldquo;The perfection of art is to conceal art.&rdquo; <br /> &mdash;Quintilian',
-        // June Quotes
+        '&ldquo;The perfection of art is to conceal art.&rdquo; <br /> &mdash;Quintilian'
+    ]
+
+    let juneArray = [
         '&ldquo;Ads are the cave art of the twentieth century.&rdquo; <br /> &mdash;Marshall McLuhan',
         '&ldquo;An artist never really finishes his work, he merely abandons it.&rdquo; <br /> &mdash;Paul Valery',
         '&ldquo;Every artist writes his own autobiography.&rdquo; <br /> &mdash;Havelock Ellis',
@@ -187,8 +196,10 @@ $(document).ready(function() {
         '&ldquo;Be careful that you do not write or paint anything that is not your own, that you don&rsquo;t know in your own soul.&rdquo; <br /> &mdash;Emily Carr',
         '&ldquo;You cannot possibly invent painting all by yourself.&rdquo; <br /> &mdash;Pierre Bonnard',
         '&ldquo;The expression of beauty is in direct ratio to the power of conception the artist has acquired.&rdquo; <br /> &mdash;Gustave Courbet',
-        '&ldquo;The worse my drawings were, the more beautiful did the originals appear.&rdquo; <br /> &mdash;John James Audubon',
-        // July Quotes
+        '&ldquo;The worse my drawings were, the more beautiful did the originals appear.&rdquo; <br /> &mdash;John James Audubon'
+    ]
+
+    let julyArray = [
         '&ldquo;I choose a block of marble and chop off whatever I don&rsquo;t need.&rdquo; <br /> &mdash;Auguste Rodin',
         '&ldquo;A work of art that contains theories is like an object on which the price tag has been left.&rdquo; <br /> &mdash;Alexander Pope',
         '&ldquo;To draw you must close your eyes and sing.&rdquo; <br /> &mdash;Pablo Picasso',
@@ -219,8 +230,10 @@ $(document).ready(function() {
         '&ldquo;Art is too serious to be taken seriously.&rdquo; <br /> &mdash;Ad Reinhardt',
         '&ldquo;Every great inspiration is but an experiment &ndash; though every experiment we know, is not a great inspiration.&rdquo; <br /> &mdash;Charles Ives',
         '&ldquo;Painting is self-discovery. Every good artist paints what he is.&rdquo; <br /> &mdash;Jackson Pollock',
-        '&ldquo;A portrait is a painting with something wrong with the mouth.&rdquo; <br /> &mdash;John Singer Sargent',
-        // August Quotes
+        '&ldquo;A portrait is a painting with something wrong with the mouth.&rdquo; <br /> &mdash;John Singer Sargent'
+    ]
+
+    let augustArray = [
         '&ldquo;All art is autobiographical. The pearl is the oyster&rsquo;s autobiography.&rdquo; <br /> &mdash;Federico Fellini',
         '&ldquo;Our individual lives cannot, generally, be works of art unless the social order is also.&rdquo; <br /> &mdash;Charles Horton Cooley',
         '&ldquo;Form follows function.&rdquo; <br /> &mdash;Louis Sullivan',
@@ -251,8 +264,10 @@ $(document).ready(function() {
         '&ldquo;Only an artist can interpret the meaning of life.&rdquo; <br /> &mdash;Novalis',
         '&ldquo;We have art in order not to die of the truth.&rdquo; <br /> &mdash;Friedrich Nietzsche',
         '&ldquo;Sculpture is the best comment that a painter can make on painting.&rdquo; <br /> &mdash;Pablo Picasso',
-        '&ldquo;Art has to move you and design does not, unless it&rsquo;s a good design for a bus.&rdquo; <br /> &mdash;David Hockney',
-        // September Quotes
+        '&ldquo;Art has to move you and design does not, unless it&rsquo;s a good design for a bus.&rdquo; <br /> &mdash;David Hockney'
+    ]
+
+    let septemberArray = [
         '&ldquo;A good photograph is knowing where to stand.&rdquo; <br /> &mdash;Ansel Adams',
         '&ldquo;Never buy four C-plus paintings when you can buy one A.&rdquo; <br /> &mdash;Walter Annenberg',
         '&ldquo;Pictures must not be too picturesque.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
@@ -282,8 +297,10 @@ $(document).ready(function() {
         '&ldquo;Art is the right hand of Nature. The latter has only given us being, the former has made us men.&rdquo; <br /> &mdash;Friedrich Schiller',
         '&ldquo;Personality is everything in art and poetry.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         '&ldquo;Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun.&rdquo; <br /> &mdash;Pablo Picasso',
-        '&ldquo;Art enables us to find ourselves and lose ourselves at the same time.&rdquo; <br /> &mdash;Thomas Merton',
-        // October Quotes
+        '&ldquo;Art enables us to find ourselves and lose ourselves at the same time.&rdquo; <br /> &mdash;Thomas Merton'
+    ]
+
+    let octoberArray = [
         '&ldquo;Without art, the crudeness of reality would make the world unbearable.&rdquo; <br /> &mdash;George Bernard Shaw',
         '&ldquo;When I have a camera in my hand, I know no fear.&rdquo; <br /> &mdash;Alfred Eisenstaedt',
         '&ldquo;Colors, like features, follow the changes of the emotions.&rdquo; <br /> &mdash;Pablo Picasso',
@@ -314,8 +331,10 @@ $(document).ready(function() {
         '&ldquo;Mournful and yet grand is the destiny of the artist.&rdquo; <br /> &mdash;Franz Liszt',
         '&ldquo;It is not in life, but in art that self-fulfillment is to be found.&rdquo; <br /> &mdash;Wilson Mizner',
         '&ldquo;An art book is a museum without walls.&rdquo; <br /> &mdash;Andre Malraux',
-        '&ldquo;The mission of art is to represent nature not to imitate her.&rdquo; <br /> &mdash;William Morris Hunt',
-        // November Quotes
+        '&ldquo;The mission of art is to represent nature not to imitate her.&rdquo; <br /> &mdash;William Morris Hunt'
+    ]
+
+    let novemberArray = [
         '&ldquo;In the future, everyone will be famous for 15 minutes.&rdquo; <br /> &mdash;Andy Warhol',
         '&ldquo;What art offers is space &ndash; a certain breathing room for the spirit.&rdquo; <br /> &mdash;John Updike',
         '&ldquo;Art is dangerous. It is one of the attractions: when it ceases to be dangerous you don&rsquo;t want it.&rdquo; <br /> &mdash;Duke Ellington',
@@ -345,17 +364,77 @@ $(document).ready(function() {
         '&ldquo;Every painting is a voyage into a sacred harbour.&rdquo; <br /> &mdash;Giotto di Bondone',
         '&ldquo;I decided on the spot that I would be an artist, and I assure you, it was no ordinary artist I had in mind.&rdquo; <br /> &mdash;Henry Ossawa Tanner',
         '&ldquo;In life, as in art, the beautiful moves in curves.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton',
-        '&ldquo;I decided to start anew, to strip away what I had been taught.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe',
-        // December Quotes
+        '&ldquo;I decided to start anew, to strip away what I had been taught.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe'
+    ]
+    
+    let decemberArray = [
+        '&ldquo;Classic art was the art of necessity: modern romantic art bears the stamp of caprice and chance.&rdquo; <br /> &mdash;Max Eastman',
+        '&ldquo;I never know what I&rsquo;m going to put on the canvas. The canvas paints itself. I&rsquo;m just the middleman.&rdquo; <br /> &mdash;Peter Max',
+        '&ldquo;Good design doesn&rsquo;t date.&rdquo; <br /> &mdash;Harry Seidler',
+        '&ldquo;The sensitive artist knows that a bitter wind is blowing.&rdquo; <br /> &mdash;Herbert Read',
+        '&ldquo;If technique is of no interest to a writer, I doubt that the writer is an artist.&rdquo; <br /> &mdash;Marianne Moore',
+        '&ldquo;A work of art which did not begin in emotion is not art.&rdquo; <br /> &mdash;Paul Cezanne',
+        '&ldquo;You can&rsquo;t depend on your eyes when your imagination is out of focus.&rdquo; <br /> &mdash;Mark Twain',
+        '&ldquo;There is no prejudice that the work of art does not finally overcome.&rdquo; <br /> &mdash;Andre Gide',
+        '&ldquo;One can&rsquo;t paint New York as it is, but rather as it is felt.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe',
+        '&ldquo;My paintings are not about what is seen. They are about what is known forever in the mind.&rdquo; <br /> &mdash;Agnes Martin',
+        '&ldquo;The art of art, the glory of expression and the sunshine of the light of letters, is simplicity.&rdquo; <br /> &mdash;Walt Whitman',
+        '&ldquo;I think about my work every minute of the day.&rdquo; <br /> &mdash;Jeff Koons',
+        '&ldquo;A sculptor is a person who is interested in the shape of things, a poet in words, a musician by sounds.&rdquo; <br /> &mdash;Henry Moore',
+        '&ldquo;The goal of art was the vital expression of self.&rdquo; <br /> &mdash;Alfred Stieglitz',
+        '&ldquo;I work in whatever medium likes me at the moment.&rdquo; <br /> &mdash;Marc Chagall',
+        '&ldquo;Most artists like to think of themselves as rugged individualists, as independent characters.&rdquo; <br /> &mdash;Jack Levine',
+        '&ldquo;Great art is as irrational as great music. It is mad with its own loveliness.&rdquo; <br /> &mdash;George Jean Nathan',
+        '&ldquo;Art is like baby shoes. When you coat them with gold, they can no longer be worn.&rdquo; <br /> &mdash;John Updike',
+        '&ldquo;Painting completed my life.&rdquo; <br /> &mdash;Frida Kahlo',
+        '&ldquo;The works must be conceived with fire in the soul but executed with clinical coolness.&rdquo; <br /> &mdash;Joan Miro',
+        '&ldquo;Lesser artists borrow, great artists steal.&rdquo; <br /> &mdash;Igor Stravinsky',
+        '&ldquo;A good painting to me has always been like a friend. It keeps me company, comforts and inspires.&rdquo; <br /> &mdash;Hedy Lamarr',
+        '&ldquo;Every act of creation is first an act of destruction.&rdquo; <br /> &mdash;Pablo Picasso',
+        '&ldquo;From its brilliancy everything is illuminated.&rdquo; <br /> &mdash;Guru Nanak',
+        '&ldquo;The true work of art is but a shadow of the divine perfection.&rdquo; <br /> &mdash;Michelangelo',
+        '&ldquo;True art is characterized by an irresistible urge in the creative artist.&rdquo; <br /> &mdash;Albert Einstein',
+        '&ldquo;Life obliges me to do something, so I paint.&rdquo; <br /> &mdash;Rene Magritte',
+        '&ldquo;Art is much less important than life, but what a poor life without it.&rdquo; <br /> &mdash;Robert Motherwell',
+        '&ldquo;Architecture is the will of an epoch translated into space.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe',
+        '&ldquo;It is through art, and through art only, that we can realise our perfection.&rdquo; <br /> &mdash;Oscar Wilde',
+        '&ldquo;The job of the artist is always to deepen the mystery.&rdquo; <br /> &mdash;Francis Bacon'
     ]
 
-    let artQuotes = artArray.sort(function(a,b) {
-    	return 0.5 - Math.random()
-    })
+    let date = new Date()
 
-    let artQuote = artQuotes[0]
+    let month = date.getMonth()
+    let monthArray = []
+    if (month === 0) {
+        monthArray = januaryArray
+    } else if (month === 1) {
+        monthArray = februaryArray
+    } else if (month === 2) {
+        monthArray = marchArray
+    } else if (month === 3) {
+        monthArray = aprilArray
+    } else if (month === 4) {
+        monthArray = mayArray
+    } else if (month === 5) {
+        monthArray = juneArray
+    } else if (month === 6) {
+        monthArray = julyArray
+    } else if (month === 7) {
+        monthArray = augustArray
+    } else if (month === 8) {
+        monthArray = septemberArray
+    } else if (month === 9) {
+        monthArray = octoberArray
+    } else if (month === 10) {
+        monthArray = novemberArray
+    } else if (month === 11) {
+        monthArray = decemberArray
+    }
+
+    let dayOfMonth = date.getDate()
+
+    let artQuote = monthArray[dayOfMonth - 1]
 
     let art = `<h3>${artQuote}</h3>`
-
     $('#art').html(art)
 })
