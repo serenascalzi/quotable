@@ -1,6 +1,5 @@
 $(document).ready(function() {
-    let variedArray = [
-		// January Quotes
+    let januaryArray = [
         '&ldquo;I think in terms of the day&rsquo;s resolutions, not the years&rsquo;.&rdquo; <br /> &mdash;Henry Moore',
         '&ldquo;The sweetest of all sounds is praise.&rdquo; <br /> &mdash;Xenophon',
         '&ldquo;We must be willing to let go of the life we have planned, so as to have the life that is waiting for us.&rdquo; <br /> &mdash;E. M. Forster',
@@ -31,8 +30,10 @@ $(document).ready(function() {
         '&ldquo;Peace is its own reward.&rdquo; <br /> &mdash;Mahatma Gandhi',
         '&ldquo;Music is moonlight in the gloomy night of life.&rdquo; <br /> &mdash;Jean Paul',
         '&ldquo;A man who gives his children habits of industry provides for them better than by giving them fortune.&rdquo; <br /> &mdash;Richard Whately',
-        '&ldquo;We must make the best of those ills which cannot be avoided.&rdquo; <br /> &mdash;Clarence Day',
-        // February Quotes
+        '&ldquo;We must make the best of those ills which cannot be avoided.&rdquo; <br /> &mdash;Clarence Day'
+    ]
+
+    let februaryArray = [
         '&ldquo;Every failure is a step to success.&rdquo; <br /> &mdash;William Whewell',
         '&ldquo;Kites rise highest against the wind &ndash; not with it.&rdquo; <br /> &mdash;Winston Churchill',
         '&ldquo;When your work speaks for itself, don&rsquo;t interrupt.&rdquo; <br /> &mdash;Henry J. Kaiser',
@@ -61,8 +62,10 @@ $(document).ready(function() {
         '&ldquo;A cloudy day is no match for a sunny disposition.&rdquo; <br /> &mdash;William Arthur Ward',
         '&ldquo;Time passes irrevocably.&rdquo; <br /> &mdash;Virgil',
         '&ldquo;You can never plan the future by the past.&rdquo; <br /> &mdash;Edmund Burke',
-        '&ldquo;You grow up the day you have the first real laugh at yourself.&rdquo; <br /> &mdash;Ethel Barrymore',
-        // March Quotes
+        '&ldquo;You grow up the day you have the first real laugh at yourself.&rdquo; <br /> &mdash;Ethel Barrymore'
+    ]
+
+    let marchArray = [
         '&ldquo;Everything&rsquo;s got a moral, if only you can find it.&rdquo; <br /> &mdash;Lewis Carroll',
         '&ldquo;The whole secret of life is to be interested in one thing profoundly and in a thousand things well.&rdquo; <br /> &mdash;Horace Walpole',
         '&ldquo;Everything has been figured out, expect how to live.&rdquo; <br /> &mdash;Jean-Paul Sartre',
@@ -93,8 +96,10 @@ $(document).ready(function() {
         '&ldquo;Everything that is beautiful and noble is the product of reason and calculation.&rdquo; <br /> &mdash;Charles Baudelaire',
         '&ldquo;The more things change, the more they are the same.&rdquo; <br /> &mdash;Alphonse Karr',
         '&ldquo;Words are, of course, the most powerful drug used by mankind.&rdquo; <br /> &mdash;Rudyard Kipling',
-        '&ldquo;Tact is the ability to describe others as they see themselves.&rdquo; <br /> &mdash;Abraham Lincoln',
-        // April Quotes
+        '&ldquo;Tact is the ability to describe others as they see themselves.&rdquo; <br /> &mdash;Abraham Lincoln'
+    ]
+
+    let aprilArray = [
         '&ldquo;Here cometh April again, and as far as I can see the world hath more fools in it than ever.&rdquo; <br /> &mdash;Charles Lamb',
         '&ldquo;Worry never robs tomorrow of its sorrow, it only saps today of its joy.&rdquo; <br /> &mdash;Leo Buscaglia',
         '&ldquo;The wisdom of the wise and the experience of the ages are perpetuated by quotations.&rdquo; <br /> &mdash;Benjamin Disraeli',
@@ -124,8 +129,10 @@ $(document).ready(function() {
         '&ldquo;Perfection itself is imperfection.&rdquo; <br /> &mdash;Vladimir Horowitz',
         '&ldquo;How little do they see what really is, who frame their hasty judgment upon that which seems.&rdquo; <br /> &mdash;Daniel Webster',
         '&ldquo;I imagine that yes is the only living thing.&rdquo; <br /> &mdash;e. e. cummings',
-        '&ldquo;People seldom refuse help, if one offers it in the right way.&rdquo; <br /> &mdash;A. C. Benson',
-        // May Quotes
+        '&ldquo;People seldom refuse help, if one offers it in the right way.&rdquo; <br /> &mdash;A. C. Benson'
+    ]
+
+    let mayArray = [
         '&ldquo;Forgiveness is a funny thing. It warms the heart and cools the sting.&rdquo; <br /> &mdash;William Arthur Ward',
         '&ldquo;I hear, I know. I see, I remember. I do, I understand.&rdquo; <br /> &mdash;Confucius',
         '&ldquo;When I pray, coincidences happen, and when I don&rsquo;t, they don&rsquo;t.&rdquo; <br /> &mdash;William Temple',
@@ -156,8 +163,10 @@ $(document).ready(function() {
         '&ldquo;As America celebrates Memorial Day, we pay tribute to those who have given their lives in our nation&rsquo;s wars.&rdquo; <br /> &mdash;John M. McHugh',
         '&ldquo;It is an ironic habit of human beings to run faster when we have lost our way.&rdquo; <br /> &mdash;Rollo May',
         '&ldquo;Hope is independent of the apparatus of logic.&rdquo; <br /> &mdash;Norman Cousins',
-        '&ldquo;The most satisfying thing in life is to have been able to give a large part of one&rsquo;s self to others.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin',
-        // June Quotes
+        '&ldquo;The most satisfying thing in life is to have been able to give a large part of one&rsquo;s self to others.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin'
+    ]
+
+    let juneArray = [
         '&ldquo;Things start out as hopes and end up as habits.&rdquo; <br /> &mdash;Lillian Hellman',
         '&ldquo;If you want a thing done well, do it yourself.&rdquo; <br /> &mdash;Napoleon Bonaparte',
         '&ldquo;Success is getting what you want. Happiness is wanting what you get.&rdquo; <br /> &mdash;Dale Carnegie',
@@ -187,8 +196,10 @@ $(document).ready(function() {
         '&ldquo;Life ought to be a struggle of desire toward adventures whose nobility will fertilize the soul.&rdquo; <br /> &mdash;Rebecca West',
         '&ldquo;Our knowledge is a little island in a great ocean of nonknowledge.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
         '&ldquo;Doubt is the father of invention.&rdquo; <br /> &mdash;Ambrose Bierce',
-        '&ldquo;There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.&rdquo; <br /> &mdash;Robert Quillen',
-        // July Quotes
+        '&ldquo;There are glimpses of heaven to us in every act, or thought, or word, that raises us above ourselves.&rdquo; <br /> &mdash;Robert Quillen'
+    ]
+
+    let julyArray = [
         '&ldquo;Words are but pictures of our thoughts.&rdquo; <br /> &mdash;John Dryden',
         '&ldquo;The very essence of instinct is that it&rsquo;s followed independently of reason.&rdquo; <br /> &mdash;Charles Darwin',
         '&ldquo;Freedom means the opportunity to be what we never thought we would be.&rdquo; <br /> &mdash;Daniel J. Boorstin',
@@ -219,8 +230,10 @@ $(document).ready(function() {
         '&ldquo;With the past, I have nothing to do; nor with the future. I live now.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         '&ldquo;This is the precept by which I have lived: Prepare for the worst; expect the best; and take what comes.&rdquo; <br /> &mdash;Hannah Arendt',
         '&ldquo;You will never win if you never begin.&rdquo; <br /> &mdash;Helen Rowland',
-        '&ldquo;Of all duties, prayer certainly is the sweetest and most easy.&rdquo; <br /> &mdash;Laurence Sterne',
-        // August Quotes
+        '&ldquo;Of all duties, prayer certainly is the sweetest and most easy.&rdquo; <br /> &mdash;Laurence Sterne'
+    ]
+
+    let augustArray = [
         '&ldquo;All human wisdom is summed up in two words; wait and hope.&rdquo; <br /> &mdash;Alexandre Dumas',
         '&ldquo;If you count all your assets you always show a profit.&rdquo; <br /> &mdash;Wilson Mizner',
         '&ldquo;I have no methods; all I do is accept people as they are.&rdquo; <br /> &mdash;Joan Rivers',
@@ -251,8 +264,10 @@ $(document).ready(function() {
         '&ldquo;The aim of education is the knowledge, not of facts, but of values.&rdquo; <br /> &mdash;William Inge',
         '&ldquo;A great deal of intelligence can be invested in ignorance when the need for illusion is deep.&rdquo; <br /> &mdash;Saul Bellow',
         '&ldquo;It is not so much our friends&rsquo; help that helps us, as the confidence of their help.&rdquo; <br /> &mdash;Epicurus',
-        '&ldquo;Experience is one thing you can&rsquo;t get for nothing.&rdquo; <br /> &mdash;Oscar Wilde',
-        // September Quotes
+        '&ldquo;Experience is one thing you can&rsquo;t get for nothing.&rdquo; <br /> &mdash;Oscar Wilde'
+    ]
+
+    let septemberArray = [
         '&ldquo;Only the wisest and stupidest of men never change.&rdquo; <br /> &mdash;Confucius',
         '&ldquo;Between saying and doing, many a pair of shoes is worn out.&rdquo; <br /> &mdash;Iris Murdoch',
         '&ldquo;Leap, and the net will appear.&rdquo; <br /> &mdash;John Burroughs',
@@ -282,8 +297,10 @@ $(document).ready(function() {
         '&ldquo;The young man knows the rules, but the old man knows the exceptions.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
         '&ldquo;I would define, in brief, the poetry of words as the rhythmical creation of Beauty.&rdquo; <br /> &mdash;Edgar Allan Poe',
         '&ldquo;The hardest thing is to take less when you can get more.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;Life without liberty is like a body without spirit.&rdquo; <br /> &mdash;Khalil Gibran',
-        // October Quotes
+        '&ldquo;Life without liberty is like a body without spirit.&rdquo; <br /> &mdash;Khalil Gibran'
+    ]
+
+    let octoberArray = [
         '&ldquo;Effort only fully releases its reward after a person refuses to quit.&rdquo; <br /> &mdash;Napoleon Hill',
         '&ldquo;It is not length of life, but depth of life.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         '&ldquo;Personally I&rsquo;m always ready to learn, although I do not always like being taught.&rdquo; <br /> &mdash;Winston Churchill',
@@ -314,8 +331,10 @@ $(document).ready(function() {
         '&ldquo;Humanity is acquiring all the right technology for all the wrong reasons.&rdquo; <br /> &mdash;R. Buckminster Fuller',
         '&ldquo;I think; therefore I am.&rdquo; <br /> &mdash;Rene Descartes',
         '&ldquo;A smile is a curve that sets everything straight.&rdquo; <br /> &mdash;Phyllis Diller',
-        '&ldquo;Another belief of mine; that everyone else my age is an adult, whereas I am merely in disguise.&rdquo; <br /> &mdash;Margaret Atwood',
-        // November Quotes
+        '&ldquo;Another belief of mine; that everyone else my age is an adult, whereas I am merely in disguise.&rdquo; <br /> &mdash;Margaret Atwood'
+    ]
+
+    let novemberArray = [
         '&ldquo;Silent gratitude isn&rsquo;t much use to anyone.&rdquo; <br /> &mdash;Gertrude Stein',
         '&ldquo;The most wasted of all days is one without laughter.&rdquo; <br /> &mdash;e. e. cummings',
         '&ldquo;A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.&rdquo; <br /> &mdash;George Bernard Shaw',
@@ -345,8 +364,10 @@ $(document).ready(function() {
         '&ldquo;The great advantage about telling the truth is that nobody ever believes it.&rdquo; <br /> &mdash;Dorothy L. Sayers',
         '&ldquo;Feeling gratitude and not expressing it is like wrapping a present and not giving it.&rdquo; <br /> &mdash;William Arthur Ward',
         '&ldquo;A good beginning makes a good end.&rdquo; <br /> &mdash;Louis L&rsquo;Amour',
-        '&ldquo;Those who do not remember the past are condemned to repeat it.&rdquo; <br /> &mdash;George Santayana',
-        // December Quotes
+        '&ldquo;Those who do not remember the past are condemned to repeat it.&rdquo; <br /> &mdash;George Santayana'
+    ]
+
+    let decemberArray = [
         '&ldquo;Courage is found in unlikely places.&rdquo; <br /> &mdash;J. R. R. Tolkien',
         '&ldquo;No man was ever wise by chance.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
         '&ldquo;When one teaches, two learn.&rdquo; <br /> &mdash;Robert Half',
@@ -380,13 +401,43 @@ $(document).ready(function() {
         '&ldquo;Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.&rdquo; <br /> &mdash;Benjamin Franklin'
     ]
 
-    let variedQuotes = variedArray.sort(function(a,b) {
-    	return 0.5 - Math.random()
-    })
+    let date = new Date()
 
-    let variedQuote = variedQuotes[0]
+    let month = date.getMonth()
+
+    let monthArray = []
+
+    if (month === 0) {
+        monthArray = januaryArray
+    } else if (month === 1) {
+        monthArray = februaryArray
+    } else if (month === 2) {
+        monthArray = marchArray
+    } else if (month === 3) {
+        monthArray = aprilArray
+    } else if (month === 4) {
+        monthArray = mayArray
+    } else if (month === 5) {
+        monthArray = juneArray
+    } else if (month === 6) {
+        monthArray = julyArray
+    } else if (month === 7) {
+        monthArray = augustArray
+    } else if (month === 8) {
+        monthArray = septemberArray
+    } else if (month === 9) {
+        monthArray = octoberArray
+    } else if (month === 10) {
+        monthArray = novemberArray
+    } else if (month === 11) {
+        monthArray = decemberArray
+    }
+
+    let dayOfMonth = date.getDate()
+
+    let variedQuote = monthArray[dayOfMonth - 1]
 
     let varied = `<h3>${variedQuote}</h3>`
-
+    
     $('#varied').html(varied)
 })

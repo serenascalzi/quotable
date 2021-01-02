@@ -404,7 +404,9 @@ $(document).ready(function() {
     let date = new Date()
 
     let month = date.getMonth()
+
     let monthArray = []
+
     if (month === 0) {
         monthArray = januaryArray
     } else if (month === 1) {
@@ -436,5 +438,6 @@ $(document).ready(function() {
     let artQuote = monthArray[dayOfMonth - 1]
 
     let art = `<h3>${artQuote}</h3>`
+    
     $('#art').html(art)
 })

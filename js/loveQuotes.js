@@ -1,6 +1,5 @@
 $(document).ready(function() {
-    let loveArray = [
-		// January Quotes
+    let januaryArray = [
         '&ldquo;The giving of love is an education in itself.&rdquo; <br /> &mdash;Eleanor Roosevelt',
         '&ldquo;Dear Lord, I&rsquo;m so grateful I&rsquo;m still loved.&rdquo; <br /> &mdash;Vivien Leigh',
         '&ldquo;Love means to commit yourself without guarantee.&rdquo; <br /> &mdash;Anne Campbell',
@@ -31,8 +30,10 @@ $(document).ready(function() {
         '&ldquo;When we lose one we love, our bitterest tears are called forth by the memory of hours when we loved not enough.&rdquo; <br /> &mdash;Maurice Maeterlinck',
         '&ldquo;At the touch of love everyone becomes a poet.&rdquo; <br /> &mdash;Plato',
         '&ldquo;Accustom yourself continually to make many acts of love, for they enkindle and melt the soul.&rdquo; <br /> &mdash;Saint Teresa of Avila',
-        '&ldquo;I was adored once too.&rdquo; <br /> &mdash;William Shakespeare',
-        // February Quotes
+        '&ldquo;I was adored once too.&rdquo; <br /> &mdash;William Shakespeare'
+    ]
+
+    let februaryArray = [
         '&ldquo;Love implies anger. The man who is angered by nothing cares about nothing.&rdquo; <br /> &mdash;Edward Abbey',
         '&ldquo;I wonder what fool it was that first invented kissing.&rdquo; <br /> &mdash;Jonathan Swift',
         '&ldquo;Gestures, in love, are incomparably more attractive, effective and valuable than words.&rdquo; <br /> &mdash;Francois Rabelais',
@@ -61,8 +62,10 @@ $(document).ready(function() {
         '&ldquo;Love possesses not nor will it be possessed, for love is sufficient unto love.&rdquo; <br /> &mdash;Khalil Gibran',
         '&ldquo;I think you have to pay for love with bitter tears.&rdquo; <br /> &mdash;Edith Piaf',
         '&ldquo;Try as you will, you cannot annihilate that eternal relic of the human heart, love.&rdquo; <br /> &mdash;Victor Hugo',
-        '&ldquo;Love is the flower you&rsquo;ve got to let grow.&rdquo; <br /> &mdash;John Lennon',
-        // March Quotes
+        '&ldquo;Love is the flower you&rsquo;ve got to let grow.&rdquo; <br /> &mdash;John Lennon'
+    ]
+
+    let marchArray = [
         '&ldquo;People who throw kisses are hopelessly lazy.&rdquo; <br /> &mdash;Bob Hope',
         '&ldquo;Who, being loved, is poor?&rdquo; <br /> &mdash;Oscar Wilde',
         '&ldquo;We waste time looking for the perfect lover, instead of creating the perfect love.&rdquo; <br /> &mdash;Tom Robbins',
@@ -93,8 +96,10 @@ $(document).ready(function() {
         '&ldquo;Never let a fool kiss you, or a kiss fool you.&rdquo; <br /> &mdash;Joey Adams',
         '&ldquo;Love is the power to see similarity in the dissimilar.&rdquo; <br /> &mdash;Theodor W. Adorno',
         '&ldquo;Love is more pleasant than marriage for the same reason that novels are more amusing than history.&rdquo; <br /> &mdash;Nicolas Chamfort',
-        '&ldquo;Love is supreme and unconditional; like is nice but limited.&rdquo; <br /> &mdash;Duke Ellington',
-        // April Quotes
+        '&ldquo;Love is supreme and unconditional; like is nice but limited.&rdquo; <br /> &mdash;Duke Ellington'
+    ]
+
+    let aprilArray = [
         '&ldquo;It is best to love wisely, no doubt; but to love foolishly is better than not to be able to love at all.&rdquo; <br /> &mdash;William Makepeace Thackeray',
         '&ldquo;This love is silent.&rdquo; <br /> &mdash;T. S. Eliot',
         '&ldquo;We always love those who admire us, but we do not always love those whom we admire.&rdquo; <br /> &mdash;Francois de La Rochefoucauld',
@@ -124,8 +129,10 @@ $(document).ready(function() {
         '&ldquo;I argue thee that love is life. And life hath immortality.&rdquo; <br /> &mdash;Emily Dickinson',
         '&ldquo;When we are in love we seem to ourselves quite different from what we were before.&rdquo; <br /> &mdash;Blaise Pascal',
         '&ldquo;Love is the beauty of the soul.&rdquo; <br /> &mdash;Saint Augustine',
-        '&ldquo;Faith is love taking the form of aspiration.&rdquo; <br /> &mdash;William Ellery Channing',
-        // May Quotes
+        '&ldquo;Faith is love taking the form of aspiration.&rdquo; <br /> &mdash;William Ellery Channing'
+    ]
+
+    let mayArray = [
         '&ldquo;Morning without you is a dwindled dawn.&rdquo; <br /> &mdash;Emily Dickinson',
         '&ldquo;Life without love is like a tree without blossoms or fruit.&rdquo; <br /> &mdash;Khalil Gibran',
         '&ldquo;Joy is prayer; joy is strength: joy is love; joy is a net of love by which you can catch souls.&rdquo; <br /> &mdash;Mother Teresa',
@@ -156,8 +163,10 @@ $(document).ready(function() {
         '&ldquo;It is love, not reason, that is stronger than death.&rdquo; <br /> &mdash;Thomas Mann',
         '&ldquo;If you don&rsquo;t love me, it does not matter, anyway I can love for both of us.&rdquo; <br /> &mdash;Stendhal',
         '&ldquo;A pair of powerful spectacles has sometimes sufficed to cure a person in love.&rdquo; <br /> &mdash;Friedrich Nietzsche',
-        '&ldquo;Love alone could waken love.&rdquo; <br /> &mdash;Pearl S. Buck',
-        // June Quotes
+        '&ldquo;Love alone could waken love.&rdquo; <br /> &mdash;Pearl S. Buck'
+    ]
+
+    let juneArray = [
         '&ldquo;When a woman is talking to you, listen to what she says with her eyes.&rdquo; <br /> &mdash;Victor Hugo',
         '&ldquo;Life in abundance comes only through great love.&rdquo; <br /> &mdash;Elbert Hubbard',
         '&ldquo;Love unlocks doors and opens windows that weren&rsquo;t even there before.&rdquo; <br /> &mdash;Mignon McLaughlin',
@@ -187,8 +196,10 @@ $(document).ready(function() {
         '&ldquo;Romance is tempestuous. Love is calm.&rdquo; <br /> &mdash;Mason Cooley',
         '&ldquo;It is very easy to love alone.&rdquo; <br /> &mdash;Gertrude Stein',
         '&ldquo;All love is vanquished by a succeeding love.&rdquo; <br /> &mdash;Ovid',
-        '&ldquo;Great thoughts come from the heart.&rdquo; <br /> &mdash;Luc de Clapiers',
-        // July Quotes
+        '&ldquo;Great thoughts come from the heart.&rdquo; <br /> &mdash;Luc de Clapiers'
+    ]
+
+    let julyArray = [
         '&ldquo;If it were not for hopes, the heart would break.&rdquo; <br /> &mdash;Thomas Fuller',
         '&ldquo;They do not love that do not show their love.&rdquo; <br /> &mdash;William Shakespeare',
         '&ldquo;To love abundantly is to live abundantly, and to love forever is to live forever.&rdquo; <br /> &mdash;Henry Drummond',
@@ -219,8 +230,10 @@ $(document).ready(function() {
         '&ldquo;People protect what they love.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
         '&ldquo;Love is a tyrant sparing none.&rdquo; <br /> &mdash;Pierre Corneille',
         '&ldquo;Absences are a good influence in love and keep it bright and delicate.&rdquo; <br /> &mdash;Robert Louis Stevenson',
-        '&ldquo;I feel that there is nothing more truly artistic than to love people.&rdquo; <br /> &mdash;Vincent Van Gogh',
-        // August Quotes
+        '&ldquo;I feel that there is nothing more truly artistic than to love people.&rdquo; <br /> &mdash;Vincent Van Gogh'
+    ]
+
+    let augustArray = [
         '&ldquo;The heart forgets its sorrow and ache.&rdquo; <br /> &mdash;James Russell Lowell',
         '&ldquo;The words of kindness are more healing to a drooping heart than balm or honey.&rdquo; <br /> &mdash;Sarah Fielding',
         '&ldquo;Marriages, like careers, need constant nurturing&hellip; the secret of having it all is loving it all.&rdquo; <br /> &mdash;Joyce Brothers',
@@ -251,8 +264,10 @@ $(document).ready(function() {
         '&ldquo;Words may be false and full of art; Sighs are the natural language of the heart.&rdquo; <br /> &mdash;Thomas Shadwell',
         '&ldquo;To love rightly is to love what is orderly and beautiful in an educated and disciplined way.&rdquo; <br /> &mdash;Plato',
         '&ldquo;It is easier to love humanity as a whole than to love one&rsquo;s neighbor.&rdquo; <br /> &mdash;Eric Hoffer',
-        '&ldquo;The love of liberty is the love of others; the love of power is the love of ourselves.&rdquo; <br /> &mdash;William Hazlitt',
-        // September Quotes
+        '&ldquo;The love of liberty is the love of others; the love of power is the love of ourselves.&rdquo; <br /> &mdash;William Hazlitt'
+    ]
+
+    let septemberArray = [
         '&ldquo;All love shifts and changes. I don&rsquo;t know if you can be wholeheartedly in love all the time.&rdquo; <br /> &mdash;Julie Andrews',
         '&ldquo;I think it is all a matter of love: the more you love a memory, the stronger and stranger it is.&rdquo; <br /> &mdash;Vladimir Nabokov',
         '&ldquo;Love is like an hourglass, with the heart filling up as the brain empties.&rdquo; <br /> &mdash;Jules Renard',
@@ -282,8 +297,10 @@ $(document).ready(function() {
         '&ldquo;It is an extra dividend when you like the girl you&rsquo;ve fallen in love with.&rdquo; <br /> &mdash;Clark Gable',
         '&ldquo;The love of heaven makes one heavenly.&rdquo; <br /> &mdash;William Shakespeare',
         '&ldquo;Knowledge is love and light and vision.&rdquo; <br /> &mdash;Helen Keller',
-        '&ldquo;Love means not ever having to say you&rsquo;re sorry.&rdquo; <br /> &mdash;Erich Segal',
-        // October Quotes
+        '&ldquo;Love means not ever having to say you&rsquo;re sorry.&rdquo; <br /> &mdash;Erich Segal'
+    ]
+
+    let octoberArray = [
         '&ldquo;Never a lip is curved with pain that can&rsquo;t be kissed into smiles again.&rdquo; <br /> &mdash;Bret Harte',
         '&ldquo;Once a woman has forgiven her man, she must not reheat his sins for breakfast.&rdquo; <br /> &mdash;Marlene Dietrich',
         '&ldquo;I long for the raised voice, the howl of rage or love.&rdquo; <br /> &mdash;Leslie Fiedler',
@@ -314,8 +331,10 @@ $(document).ready(function() {
         '&ldquo;To live is like to love &ndash; all reason is against it, and all healthy instinct for it.&rdquo; <br /> &mdash;Samuel Butler',
         '&ldquo;And the heart that is soonest awake to the flowers is always the first to be touch&rsquo;d by the thorns.&rdquo; <br /> &mdash;Thomas Moore',
         '&ldquo;Beauty is the lover&rsquo;s gift.&rdquo; <br /> &mdash;William Congreve',
-        '&ldquo;Self-love is the source of all our other loves.&rdquo; <br /> &mdash;Pierre Corneille',
-        // November Quotes
+        '&ldquo;Self-love is the source of all our other loves.&rdquo; <br /> &mdash;Pierre Corneille'
+    ]
+
+    let novemberArray = [
         '&ldquo;We don&rsquo;t believe in rheumatism and true love until after the first attack.&rdquo; <br /> &mdash;Marie von Ebner-Eschenbach',
         '&ldquo;If you would be loved, love, and be loveable.&rdquo; <br /> &mdash;Benjamin Franklin',
         '&ldquo;Love is what you&rsquo;ve been through with somebody.&rdquo; <br /> &mdash;James Thurber',
@@ -345,8 +364,10 @@ $(document).ready(function() {
         '&ldquo;Love is, above all, the gift of oneself.&rdquo; <br /> &mdash;Jean Anouilh',
         '&ldquo;Love is all we have, the only way that each can help the other.&rdquo; <br /> &mdash;Euripides',
         '&ldquo;To witness two lovers is a spectacle for the gods.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
-        '&ldquo;The one thing we can never get enough of is love. And the one thing we never give enough is love.&rdquo; <br /> &mdash;Henry Miller',
-        // December Quotes
+        '&ldquo;The one thing we can never get enough of is love. And the one thing we never give enough is love.&rdquo; <br /> &mdash;Henry Miller'
+    ]
+
+    let decemberArray = [
         '&ldquo;It&rsquo;s important for us to latch onto the people that we love.&rdquo; <br /> &mdash;Connie Stevens',
         '&ldquo;Our first and last love is self-love.&rdquo; <br /> &mdash;Christian Nestell Bovee',
         '&ldquo;Happiness is like a kiss. You must share it to enjoy it.&rdquo; <br /> &mdash;Bernard Meltzer',
@@ -380,13 +401,43 @@ $(document).ready(function() {
         '&ldquo;With our love, we could save the world.&rdquo; <br /> &mdash;George Harrison'
     ]
 
-    let loveQuotes = loveArray.sort(function(a,b) {
-    	return 0.5 - Math.random()
-    })
+    let date = new Date()
 
-    let loveQuote = loveQuotes[0]
+    let month = date.getMonth()
+
+    let monthArray = []
+
+    if (month === 0) {
+        monthArray = januaryArray
+    } else if (month === 1) {
+        monthArray = februaryArray
+    } else if (month === 2) {
+        monthArray = marchArray
+    } else if (month === 3) {
+        monthArray = aprilArray
+    } else if (month === 4) {
+        monthArray = mayArray
+    } else if (month === 5) {
+        monthArray = juneArray
+    } else if (month === 6) {
+        monthArray = julyArray
+    } else if (month === 7) {
+        monthArray = augustArray
+    } else if (month === 8) {
+        monthArray = septemberArray
+    } else if (month === 9) {
+        monthArray = octoberArray
+    } else if (month === 10) {
+        monthArray = novemberArray
+    } else if (month === 11) {
+        monthArray = decemberArray
+    }
+
+    let dayOfMonth = date.getDate()
+
+    let loveQuote = monthArray[dayOfMonth - 1]
 
     let love = `<h3>${loveQuote}</h3>`
-
+    
     $('#love').html(love)
 })
