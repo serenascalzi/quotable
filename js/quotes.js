@@ -4,68 +4,7 @@ $(document).ready(function() {
 
 	// Random Varied Quote
 	let variedArray = [
-        // December 1
-        '&ldquo;Courage is found in unlikely places.&rdquo; <br /> &mdash;J. R. R. Tolkien',
-        // December 2
-        '&ldquo;No man was ever wise by chance.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
-        // December 3
-        '&ldquo;When one teaches, two learn.&rdquo; <br /> &mdash;Robert Half',
-        // December 4
-        '&ldquo;We shall never know all the good that a simple smile can do.&rdquo; <br /> &mdash;Mother Teresa',
-        // December 5
-        '&ldquo;The first wealth is health.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
-        // December 6
-        '&ldquo;Eloquence is a painting of the thoughts.&rdquo; <br /> &mdash;Blaise Pascal',
-        // December 7
-        '&ldquo;The most worth-while thing is to try to put happiness into the lives of others.&rdquo; <br /> &mdash;Robert Baden-Powell',
-        // December 8
-        '&ldquo;I want to live my life, not record it.&rdquo; <br /> &mdash;Jackie Kennedy',
-        // December 9
-        '&ldquo;God gives the nuts, but he does not crack them.&rdquo; <br /> &mdash;Franz Kafka',
-        // December 10
-        '&ldquo;Some things are so unexpected that no one is prepared for them.&rdquo; <br /> &mdash;Leo Rosten',
-        // December 11
-        '&ldquo;Wisdom outweighs any wealth.&rdquo; <br /> &mdash;Sophocles',
-        // December 12
-        '&ldquo;Syllables govern the world.&rdquo; <br /> &mdash;George Bernard Shaw',
-        // December 13
-        '&ldquo;Home is the nicest word there is.&rdquo; <br /> &mdash;Laura Ingalls Wilder',
-        // December 14
-        '&ldquo;There&rsquo;s a world of difference between truth and facts. Facts can obscure the truth.&rdquo; <br /> &mdash;Maya Angelou',
-        // December 15
-        '&ldquo;The whole point of getting things done is knowing what to leave undone.&rdquo; <br /> &mdash;Oswald Chambers',
-        // December 16
-        '&ldquo;It is the set of the sails, not the direction of the wind that determines which way we will go.&rdquo; <br /> &mdash;Jim Rohn',
-        // December 17
-        '&ldquo;Forgive many things in others; nothing in yourself.&rdquo; <br /> &mdash;Ausonius',
-        // December 18
-        '&ldquo;Few men have virtue to withstand the highest bidder.&rdquo; <br /> &mdash;George Washington',
-        // December 19
-        '&ldquo;We grow small trying to be great.&rdquo; <br /> &mdash;E. Stanley Jones',
-        // December 20
-        '&ldquo;No one has a greater asset for his business than a man&rsquo;s pride in his work.&rdquo; <br /> &mdash;Hosea Ballou',
-        // December 21
-        '&ldquo;Dream in a pragmatic way.&rdquo; <br /> &mdash;Aldous Huxley',
-        // December 22
-        '&ldquo;If you&rsquo;re alive, there&rsquo;s a purpose for your life.&rdquo; <br /> &mdash;Rick Warren',
-        // December 23
-        '&ldquo;There&rsquo;s no use doing a kindness if you do it a day too late.&rdquo; <br /> &mdash;Charles Kingsley',
-        // December 24
-        '&ldquo;Maybe Christmas, the Grinch thought, doesn&rsquo;t come from a store.&rdquo; <br /> &mdash;Dr. Seuss',
-        // December 25
-        '&ldquo;I will honor Christmas in my heart, and try to keep it all the year.&rdquo; <br /> &mdash;Charles Dickens',
-        // December 26
-        '&ldquo;Cherish your human connections: your relationships with friends and family.&rdquo; <br /> &mdash;Joseph Brodsky',
-        // December 27
-        '&ldquo;One faces the future with one&rsquo;s past.&rdquo; <br /> &mdash;Pearl S. Buck',
-        // December 28
-        '&ldquo;The less you talk, the more you&rsquo;re listened to.&rdquo; <br /> &mdash;Pauline Phillips',
-        // December 29
-        '&ldquo;We pass through this world but once.&rdquo; <br /> &mdash;Stephen Jay Gould',
-        // December 30
-        '&ldquo;Every man regards his own life as the New Year&rsquo;s Eve of time.&rdquo; <br /> &mdash;Jean Paul',
-        // December 31
-        '&ldquo;Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.&rdquo; <br /> &mdash;Benjamin Franklin'
+        '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
     let variedQuotes = variedArray.sort(function(a,b) {
@@ -80,68 +19,7 @@ $(document).ready(function() {
 
     // Random Love Quote
     let loveArray = [
-        // December 1
-        '&ldquo;It&rsquo;s important for us to latch onto the people that we love.&rdquo; <br /> &mdash;Connie Stevens',
-        // December 2
-        '&ldquo;Our first and last love is self-love.&rdquo; <br /> &mdash;Christian Nestell Bovee',
-        // December 3
-        '&ldquo;Happiness is like a kiss. You must share it to enjoy it.&rdquo; <br /> &mdash;Bernard Meltzer',
-        // December 4
-        '&ldquo;Girls we love for what they are; young men for what they promise to be.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
-        // December 5
-        '&ldquo;Who ever loved that loved not at first sight?&rdquo; <br /> &mdash;Christopher Marlowe',
-        // December 6
-        '&ldquo;If I get married, I want to be very married.&rdquo; <br /> &mdash;Audrey Hepburn',
-        // December 7
-        '&ldquo;Kindness in women, not their beauteous looks, shall win my love.&rdquo; <br /> &mdash;William Shakespeare',
-        // December 8
-        '&ldquo;You, yourself, as much as anybody in the entire universe, deserve your love and affection.&rdquo; <br /> &mdash;Buddha',
-        // December 9
-        '&ldquo;There is no disguise which can hide love for long where it exists, or simulate it where it does not.&rdquo; <br /> &mdash;Francois de La Rochefoucauld',
-        // December 10
-        '&ldquo;Down on your knees, and thank heaven, fasting, for a good man&rsquo;s love.&rdquo; <br /> &mdash;Euripides',
-        // December 11
-        '&ldquo;No one has ever loved anyone the way everyone wants to be loved.&rdquo; <br /> &mdash;Mignon McLaughlin',
-        // December 12
-        '&ldquo;Love is not altogether a delirium, yet it has many points in common therewith.&rdquo; <br /> &mdash;Thomas Carlyle',
-        // December 13
-        '&ldquo;Love is a smoke made with the fume of sighs.&rdquo; <br /> &mdash;William Shakespeare',
-        // December 14
-        '&ldquo;Who would give a law to lovers? Love is unto itself a higher law.&rdquo; <br /> &mdash;Boethius',
-        // December 15
-        '&ldquo;A good husband makes a good wife.&rdquo; <br /> &mdash;John Florio',
-        // December 16
-        '&ldquo;What a man takes in by contemplation, that he pours out in love.&rdquo; <br /> &mdash;Meister Eckhart',
-        // December 17
-        '&ldquo;We are all born for love. It is the principle of existence, and its only end.&rdquo; <br /> &mdash;Benjamin Disraeli',
-        // December 18
-        '&ldquo;No matter how love-sick a woman is, she shouldn&rsquo;t take the first pill that comes along.&rdquo; <br /> &mdash;Joyce Brothers',
-        // December 19
-        '&ldquo;As love without esteem is capricious and volatile; esteem without love is languid and cold.&rdquo; <br /> &mdash;Jonathan Swift',
-        // December 20
-        '&ldquo;A man&rsquo;s kiss is his signature.&rdquo; <br /> &mdash;Mae West',
-        // December 21
-        '&ldquo;Every gift which is given, even though it be small, is in reality great, if it is given with affection.&rdquo; <br /> &mdash;Pindar',
-        // December 22
-        '&ldquo;What love we&rsquo;ve given, we&rsquo;ll have forever. What love we fail to give, will be lost for all eternity.&rdquo; <br /> &mdash;Leo Buscaglia',
-        // December 23
-        '&ldquo;Let no one who loves be unhappy, even love unreturned has its rainbow.&rdquo; <br /> &mdash;James M. Barrie',
-        // December 24
-        '&ldquo;There is no surprise more magical than the surprise of being loved: It is God&rsquo;s finger on man&rsquo;s shoulder.&rdquo; <br /> &mdash;Charles Morgan',
-        // December 25
-        '&ldquo;As the Father has loved me, so have I loved you.&rdquo; <br /> &mdash;Jesus Christ',
-        // December 26
-        '&ldquo;Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.&rdquo; <br /> &mdash;Lao Tzu',
-        // December 27
-        '&ldquo;Accept what people offer. Drink their milkshakes. Take their love.&rdquo; <br /> &mdash;Wally Lamb',
-        // December 28
-        '&ldquo;Faith makes all things possible&hellip; love makes all things easy.&rdquo; <br /> &mdash;Dwight L. Moody',
-        // December 29
-        '&ldquo;Love keeps the cold out better than a cloak.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
-        // December 30
-        '&ldquo;They invented hugs to let people know you love them without saying anything.&rdquo; <br /> &mdash;Bil Keane',
-        // December 31
-        '&ldquo;With our love, we could save the world.&rdquo; <br /> &mdash;George Harrison'
+        '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
     let loveQuotes = loveArray.sort(function(a,b) {
@@ -156,68 +34,7 @@ $(document).ready(function() {
 
     // Random Art Quote
     let artArray = [
-        // December 1
-        '&ldquo;Classic art was the art of necessity: modern romantic art bears the stamp of caprice and chance.&rdquo; <br /> &mdash;Max Eastman',
-        // December 2
-        '&ldquo;I never know what I&rsquo;m going to put on the canvas. The canvas paints itself. I&rsquo;m just the middleman.&rdquo; <br /> &mdash;Peter Max',
-        // December 3
-        '&ldquo;Good design doesn&rsquo;t date.&rdquo; <br /> &mdash;Harry Seidler',
-        // December 4
-        '&ldquo;The sensitive artist knows that a bitter wind is blowing.&rdquo; <br /> &mdash;Herbert Read',
-        // December 5
-        '&ldquo;If technique is of no interest to a writer, I doubt that the writer is an artist.&rdquo; <br /> &mdash;Marianne Moore',
-        // December 6
-        '&ldquo;A work of art which did not begin in emotion is not art.&rdquo; <br /> &mdash;Paul Cezanne',
-        // December 7
-        '&ldquo;You can&rsquo;t depend on your eyes when your imagination is out of focus.&rdquo; <br /> &mdash;Mark Twain',
-        // December 8
-        '&ldquo;There is no prejudice that the work of art does not finally overcome.&rdquo; <br /> &mdash;Andre Gide',
-        // December 9
-        '&ldquo;One can&rsquo;t paint New York as it is, but rather as it is felt.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe',
-        // December 10
-        '&ldquo;My paintings are not about what is seen. They are about what is known forever in the mind.&rdquo; <br /> &mdash;Agnes Martin',
-        // December 11
-        '&ldquo;The art of art, the glory of expression and the sunshine of the light of letters, is simplicity.&rdquo; <br /> &mdash;Walt Whitman',
-        // December 12
-        '&ldquo;I think about my work every minute of the day.&rdquo; <br /> &mdash;Jeff Koons',
-        // December 13
-        '&ldquo;A sculptor is a person who is interested in the shape of things, a poet in words, a musician by sounds.&rdquo; <br /> &mdash;Henry Moore',
-        // December 14
-        '&ldquo;The goal of art was the vital expression of self.&rdquo; <br /> &mdash;Alfred Stieglitz',
-        // December 15
-        '&ldquo;I work in whatever medium likes me at the moment.&rdquo; <br /> &mdash;Marc Chagall',
-        // December 16
-        '&ldquo;Most artists like to think of themselves as rugged individualists, as independent characters.&rdquo; <br /> &mdash;Jack Levine',
-        // December 17
-        '&ldquo;Great art is as irrational as great music. It is mad with its own loveliness.&rdquo; <br /> &mdash;George Jean Nathan',
-        // December 18
-        '&ldquo;Art is like baby shoes. When you coat them with gold, they can no longer be worn.&rdquo; <br /> &mdash;John Updike',
-        // December 19
-        '&ldquo;Painting completed my life.&rdquo; <br /> &mdash;Frida Kahlo',
-        // December 20
-        '&ldquo;The works must be conceived with fire in the soul but executed with clinical coolness.&rdquo; <br /> &mdash;Joan Miro',
-        // December 21
-        '&ldquo;Lesser artists borrow, great artists steal.&rdquo; <br /> &mdash;Igor Stravinsky',
-        // December 22
-        '&ldquo;A good painting to me has always been like a friend. It keeps me company, comforts and inspires.&rdquo; <br /> &mdash;Hedy Lamarr',
-        // December 23
-        '&ldquo;Every act of creation is first an act of destruction.&rdquo; <br /> &mdash;Pablo Picasso',
-        // December 24
-        '&ldquo;From its brilliancy everything is illuminated.&rdquo; <br /> &mdash;Guru Nanak',
-        // December 25
-        '&ldquo;The true work of art is but a shadow of the divine perfection.&rdquo; <br /> &mdash;Michelangelo',
-        // December 26
-        '&ldquo;True art is characterized by an irresistible urge in the creative artist.&rdquo; <br /> &mdash;Albert Einstein',
-        // December 27
-        '&ldquo;Life obliges me to do something, so I paint.&rdquo; <br /> &mdash;Rene Magritte',
-        // December 28
-        '&ldquo;Art is much less important than life, but what a poor life without it.&rdquo; <br /> &mdash;Robert Motherwell',
-        // December 29
-        '&ldquo;Architecture is the will of an epoch translated into space.&rdquo; <br /> &mdash;Ludwig Mies van der Rohe',
-        // December 30
-        '&ldquo;It is through art, and through art only, that we can realise our perfection.&rdquo; <br /> &mdash;Oscar Wilde',
-        // December 31
-        '&ldquo;The job of the artist is always to deepen the mystery.&rdquo; <br /> &mdash;Francis Bacon'
+        '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
     ]
 
     let artQuotes = artArray.sort(function(a,b) {
