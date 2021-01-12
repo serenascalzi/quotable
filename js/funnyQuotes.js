@@ -11,7 +11,8 @@ $(document).ready(function() {
         '&ldquo;There are three things you can do in a baseball game. You can win, or you can lose, or it can rain.&rdquo; <br /> &mdash;Casey Stengel',
         '&ldquo;Quote me as saying I was mis-quoted.&rdquo; <br /> &mdash;Groucho Marx',
         '&ldquo;It is to be observed that &lsquo;angling&rsquo; is the name given to fishing by people who can&rsquo;t fish.&rdquo; <br /> &mdash;Stephen Leacock',
-        '&ldquo;Pair up in threes.&rdquo; <br /> &mdash;Yogi Berra'
+        '&ldquo;Pair up in threes.&rdquo; <br /> &mdash;Yogi Berra',
+        '&ldquo;A child of five would understand this. Send someone to fetch a child of five.&rdquo; <br /> &mdash;Groucho Marx'
     ]
 
     let februaryArray = [
