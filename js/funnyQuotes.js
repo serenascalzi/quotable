@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;I do not fear computers. I fear the lack of them.&rdquo; <br /> &mdash;Isaac Asimov',
         '&ldquo;In comic strips, the person on the left always speaks first.&rdquo; <br /> &mdash;George Carlin',
         '&ldquo;Only the mediocre are always at their best.&rdquo; <br /> &mdash;Jean Giraudoux',
-        '&ldquo;Never have more children than you have car windows.&rdquo; <br /> &mdash;Erma Bombeck'
+        '&ldquo;Never have more children than you have car windows.&rdquo; <br /> &mdash;Erma Bombeck',
+        '&ldquo;I improve on misquotation.&rdquo; <br /> &mdash;Cary Grant'
     ]
 
     let februaryArray = [
