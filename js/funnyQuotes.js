@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;In comic strips, the person on the left always speaks first.&rdquo; <br /> &mdash;George Carlin',
         '&ldquo;Only the mediocre are always at their best.&rdquo; <br /> &mdash;Jean Giraudoux',
         '&ldquo;Never have more children than you have car windows.&rdquo; <br /> &mdash;Erma Bombeck',
-        '&ldquo;I improve on misquotation.&rdquo; <br /> &mdash;Cary Grant'
+        '&ldquo;I improve on misquotation.&rdquo; <br /> &mdash;Cary Grant',
+        '&ldquo;Space isn&rsquo;t remote at all. It&rsquo;s only an hour&rsquo;s drive away if your car could go straight upwards.&rdquo; <br /> &mdash;Fred Hoyle'
     ]
 
     let februaryArray = [
