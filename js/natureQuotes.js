@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;For greed all nature is too little.&rdquo; <br /> &mdash;Lucius Annaeus Seneca',
         '&ldquo;How glorious a greeting the sun gives the mountains!&rdquo; <br /> &mdash;John Muir',
         '&ldquo;He could not die when trees were green, for he loved the time too well.&rdquo; <br /> &mdash;John Clare',
-        '&ldquo;Nature is wont to hide herself.&rdquo; <br /> &mdash;Heraclitus'
+        '&ldquo;Nature is wont to hide herself.&rdquo; <br /> &mdash;Heraclitus',
+        '&ldquo;Nothing is more beautiful than the loveliness of the woods before sunrise.&rdquo; <br /> &mdash;George Washington Carver'
     ]
 
     let februaryArray = [
