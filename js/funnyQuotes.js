@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;Only the mediocre are always at their best.&rdquo; <br /> &mdash;Jean Giraudoux',
         '&ldquo;Never have more children than you have car windows.&rdquo; <br /> &mdash;Erma Bombeck',
         '&ldquo;I improve on misquotation.&rdquo; <br /> &mdash;Cary Grant',
-        '&ldquo;Space isn&rsquo;t remote at all. It&rsquo;s only an hour&rsquo;s drive away if your car could go straight upwards.&rdquo; <br /> &mdash;Fred Hoyle'
+        '&ldquo;Space isn&rsquo;t remote at all. It&rsquo;s only an hour&rsquo;s drive away if your car could go straight upwards.&rdquo; <br /> &mdash;Fred Hoyle',
+        '&ldquo;The older I grow the more I distrust the familiar doctrine that age brings wisdom.&rdquo; <br /> &mdash;H. L. Mencken'
     ]
 
     let februaryArray = [
