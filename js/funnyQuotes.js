@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;I improve on misquotation.&rdquo; <br /> &mdash;Cary Grant',
         '&ldquo;Space isn&rsquo;t remote at all. It&rsquo;s only an hour&rsquo;s drive away if your car could go straight upwards.&rdquo; <br /> &mdash;Fred Hoyle',
         '&ldquo;The older I grow the more I distrust the familiar doctrine that age brings wisdom.&rdquo; <br /> &mdash;H. L. Mencken',
-        '&ldquo;Never wear anything that panics the cat.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke'
+        '&ldquo;Never wear anything that panics the cat.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
+        '&ldquo;My life needs editing.&rdquo; <br /> &mdash;Mort Sahl'
     ]
 
     let februaryArray = [
