@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;He could not die when trees were green, for he loved the time too well.&rdquo; <br /> &mdash;John Clare',
         '&ldquo;Nature is wont to hide herself.&rdquo; <br /> &mdash;Heraclitus',
         '&ldquo;Nothing is more beautiful than the loveliness of the woods before sunrise.&rdquo; <br /> &mdash;George Washington Carver',
-        '&ldquo;Gray skies are just clouds passing over.&rdquo; <br /> &mdash;Duke Ellington'
+        '&ldquo;Gray skies are just clouds passing over.&rdquo; <br /> &mdash;Duke Ellington',
+        '&ldquo;The universe seems neither benign nor hostile, merely indifferent.&rdquo; <br /> &mdash;Carl Sagan'
     ]
 
     let februaryArray = [
