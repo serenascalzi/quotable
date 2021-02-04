@@ -5,6 +5,7 @@ $(document).ready(function() {
         '&ldquo;We are all born mad. Some remain so.&rdquo; <br /> &mdash;Samuel Beckett',
         '&ldquo;I don&rsquo;t believe it. Prove it to me and I still won&rsquo;t believe it.&rdquo; <br /> &mdash;Douglas Adams',
         '&ldquo;As for our majority&hellip; one is enough.&rdquo; <br /> &mdash;Benjamin Disraeli',
+        '&ldquo;I didn&rsquo;t attend the funeral, but I sent a nice letter saying I approved of it.&rdquo; <br /> &mdash;Mark Twain',
         // February 29
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
     ]
