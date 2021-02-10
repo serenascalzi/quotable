@@ -11,6 +11,7 @@ $(document).ready(function() {
         '&ldquo;Common sense is the collection of prejudices acquired by age eighteen.&rdquo; <br /> &mdash;Albert Einstein',
         '&ldquo;Spaghetti can be eaten most successfully if you inhale it like a vacuum cleaner.&rdquo; <br /> &mdash;Sophia Loren',
         '&ldquo;Nothing is as obnoxious as other people&rsquo;s luck.&rdquo; <br /> &mdash;F. Scott Fitzgerald',
+        '&ldquo;I was sleeping the other night, alone, thanks to the exterminator.&rdquo; <br /> &mdash;Emo Philips',
         // February 29
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
     ]
