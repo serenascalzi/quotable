@@ -15,6 +15,7 @@ $(document).ready(function() {
         '&ldquo;At my age flowers scare me.&rdquo; <br /> &mdash;George Burns',
         '&ldquo;If you&rsquo;re going to do something tonight that you&rsquo;ll be sorry for tomorrow morning, sleep late.&rdquo; <br /> &mdash;Henny Youngman',
         '&ldquo;I&rsquo;ve been on so many blind dates, I should get a free dog.&rdquo; <br /> &mdash;Wendy Liebman',
+        '&ldquo;If love is the answer, could you please rephrase the question?&rdquo; <br /> &mdash;Lily Tomlin',
         // February 29
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
     ]
