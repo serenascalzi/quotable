@@ -48,7 +48,7 @@ $(document).ready(function() {
         '&ldquo;It is the dim haze of mystery that adds enchantment to pursuit.&rdquo; <br /> &mdash;Antoine Rivarol',
         '&ldquo;There is no instinct like that of the heart.&rdquo; <br /> &mdash;Lord Byron',
         '&ldquo;If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you.&rdquo; <br /> &mdash;A. A. Milne',
-        '&ldquo;Home is any four walls that enclose the right person.&rdquo; <br /> &mdash;Helen Rowland',
+        '&ldquo;Too often we&hellip; enjoy the comfort of opinion without the discomfort of thought.&rdquo; <br /> &mdash;John F. Kennedy',
         '&ldquo;One word frees us of all the weight and pain in life. That word is love.&rdquo; <br /> &mdash;Sophocles',
         '&ldquo;Do exactly what you would do if you felt most secure.&rdquo; <br /> &mdash;Meister Eckhart',
         '&ldquo;Blessed are the young for they shall inherit the national debt.&rdquo; <br /> &mdash;Herbert Hoover',
