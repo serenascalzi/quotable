@@ -18,6 +18,7 @@ $(document).ready(function() {
         '&ldquo;If love is the answer, could you please rephrase the question?&rdquo; <br /> &mdash;Lily Tomlin',
         '&ldquo;A good film is when the price of the dinner, the theatre admission and the babysitter were worth it.&rdquo; <br /> &mdash;Alfred Hitchcock',
         '&ldquo;There&rsquo;s only one way to have a happy marriage and as soon as I learn what it is I&rsquo;ll get married again.&rdquo; <br /> &mdash;Clint Eastwood',
+        '&ldquo;I am a kind of paranoid in reverse. I suspect people of plotting to make me happy.&rdquo; <br /> &mdash;J. D. Salinger',
         // February 29
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
     ]
