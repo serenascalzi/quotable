@@ -21,6 +21,7 @@ $(document).ready(function() {
         '&ldquo;I am a kind of paranoid in reverse. I suspect people of plotting to make me happy.&rdquo; <br /> &mdash;J. D. Salinger',
         '&ldquo;Age is something that doesn&rsquo;t matter, unless you are a cheese.&rdquo; <br /> &mdash;Luis Bunuel',
         '&ldquo;One-fifth of the people are against everything all the time.&rdquo; <br /> &mdash;Robert Kennedy',
+        '&ldquo;Every man has his follies &ndash; and often they are the most interesting thing he has got.&rdquo; <br /> &mdash;Josh Billings',
         // February 29
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
     ]
