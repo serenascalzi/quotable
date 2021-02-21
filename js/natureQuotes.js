@@ -22,6 +22,7 @@ $(document).ready(function() {
         '&ldquo;Solitary trees, if they grow at all, grow strong.&rdquo; <br /> &mdash;Winston Churchill',
         '&ldquo;For the mind disturbed, the still beauty of dawn is nature&rsquo;s finest balm.&rdquo; <br /> &mdash;Edwin Way Teale',
         '&ldquo;The Lord grant we may all be tillers of the soil.&rdquo; <br /> &mdash;Nikolai Gogol',
+        '&ldquo;Eagles commonly fly alone. They are crows, daws, and starlings that flock together.&rdquo; <br /> &mdash;John Webster',
         // February 29
         '&ldquo;The stars that have most glory have no rest.&rdquo; <br /> &mdash;Samuel Daniel'
     ]
