@@ -24,6 +24,7 @@ $(document).ready(function() {
         '&ldquo;Every man has his follies &ndash; and often they are the most interesting thing he has got.&rdquo; <br /> &mdash;Josh Billings',
         '&ldquo;Everybody knows how to raise children, except the people who have them.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
         '&ldquo;An optimist is a fellow who believes a housefly is looking for a way to get out.&rdquo; <br /> &mdash;George Jean Nathan',
+        '&ldquo;Candy is dandy but liquor is quicker.&rdquo; <br /> &mdash;Ogden Nash',
         // February 29
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
     ]

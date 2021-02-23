@@ -24,6 +24,7 @@ $(document).ready(function() {
         '&ldquo;The Lord grant we may all be tillers of the soil.&rdquo; <br /> &mdash;Nikolai Gogol',
         '&ldquo;Eagles commonly fly alone. They are crows, daws, and starlings that flock together.&rdquo; <br /> &mdash;John Webster',
         '&ldquo;The world is always in movement.&rdquo; <br /> &mdash;V. S. Naipaul',
+        '&ldquo;Land is the secure ground of home, the sea is like life, the outside, the unknown.&rdquo; <br /> &mdash;Stephen Gardiner',
         // February 29
         '&ldquo;The stars that have most glory have no rest.&rdquo; <br /> &mdash;Samuel Daniel'
     ]
