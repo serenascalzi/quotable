@@ -26,6 +26,7 @@ $(document).ready(function() {
         '&ldquo;The world is always in movement.&rdquo; <br /> &mdash;V. S. Naipaul',
         '&ldquo;Land is the secure ground of home, the sea is like life, the outside, the unknown.&rdquo; <br /> &mdash;Stephen Gardiner',
         '&ldquo;They are ill discoverers that think there is no land, when they can see nothing but sea.&rdquo; <br /> &mdash;Francis Bacon',
+        '&ldquo;Twilight drops her curtain down, and pins it with a star.&rdquo; <br /> &mdash;Lucy Maud Montgomery',
         // February 29
         '&ldquo;The stars that have most glory have no rest.&rdquo; <br /> &mdash;Samuel Daniel'
     ]
