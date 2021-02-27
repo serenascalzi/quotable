@@ -28,6 +28,7 @@ $(document).ready(function() {
         '&ldquo;I want my children to have all the things I couldn&rsquo;t afford. Then I want to move in with them.&rdquo; <br /> &mdash;Phyllis Diller',
         '&ldquo;If two wrongs don&rsquo;t make a right, try three.&rdquo; <br /> &mdash;Laurence J. Peter',
         '&ldquo;Weather forecast for tonight: dark.&rdquo; <br /> &mdash;George Carlin',
+        '&ldquo;Never get a mime talking. He won&rsquo;t stop.&rdquo; <br /> &mdash;Marcel Marceau',
         // February 29
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
     ]
