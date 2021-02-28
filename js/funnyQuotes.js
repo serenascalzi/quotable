@@ -29,7 +29,7 @@ $(document).ready(function() {
         '&ldquo;If two wrongs don&rsquo;t make a right, try three.&rdquo; <br /> &mdash;Laurence J. Peter',
         '&ldquo;Weather forecast for tonight: dark.&rdquo; <br /> &mdash;George Carlin',
         '&ldquo;Never get a mime talking. He won&rsquo;t stop.&rdquo; <br /> &mdash;Marcel Marceau',
-        // February 29
+        '&ldquo;It&rsquo;s time for the human race to enter the solar system.&rdquo; <br /> &mdash;Dan Quayle',
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
     ]
 
