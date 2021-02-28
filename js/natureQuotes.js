@@ -29,7 +29,7 @@ $(document).ready(function() {
         '&ldquo;Twilight drops her curtain down, and pins it with a star.&rdquo; <br /> &mdash;Lucy Maud Montgomery',
         '&ldquo;Consider what each soil will bear, and what each refuses.&rdquo; <br /> &mdash;Virgil',
         '&ldquo;The Sun, Moon and Stars are there to guide us.&rdquo; <br /> &mdash;Dennis Banks',
-        // February 29
+        '&ldquo;Self-defence is Nature&rsquo;s eldest law.&rdquo; <br /> &mdash;John Dryden',
         '&ldquo;The stars that have most glory have no rest.&rdquo; <br /> &mdash;Samuel Daniel'
     ]
 
