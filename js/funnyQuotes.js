@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let marchArray = [
-        '&ldquo;Make crime pay. Become a lawyer.&rdquo; <br /> &mdash;Will Rogers'
+        '&ldquo;Make crime pay. Become a lawyer.&rdquo; <br /> &mdash;Will Rogers',
+        '&ldquo;A man who has never made a woman angry is a failure in life.&rdquo; <br /> &mdash;Christopher Morley'
     ]
 
     let aprilArray = [
