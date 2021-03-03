@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let marchArray = [
         '&ldquo;In the depth of winter I finally learned that there was in me an invincible summer.&rdquo; <br /> &mdash;Albert Camus',
-        '&ldquo;It appears to be a law that you cannot have a deep sympathy with both man and nature.&rdquo; <br /> &mdash;Henry David Thoreau'
+        '&ldquo;It appears to be a law that you cannot have a deep sympathy with both man and nature.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;The poetry of the earth is never dead.&rdquo; <br /> &mdash;John Keats'
     ]
 
     let aprilArray = [
