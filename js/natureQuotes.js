@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;In the depth of winter I finally learned that there was in me an invincible summer.&rdquo; <br /> &mdash;Albert Camus',
         '&ldquo;It appears to be a law that you cannot have a deep sympathy with both man and nature.&rdquo; <br /> &mdash;Henry David Thoreau',
         '&ldquo;The poetry of the earth is never dead.&rdquo; <br /> &mdash;John Keats',
-        '&ldquo;Big doesn&rsquo;t necessarily mean better. Sunflowers aren&rsquo;t better than violets.&rdquo; <br /> &mdash;Edna Ferber'
+        '&ldquo;Big doesn&rsquo;t necessarily mean better. Sunflowers aren&rsquo;t better than violets.&rdquo; <br /> &mdash;Edna Ferber',
+        '&ldquo;I believe a leaf of grass is no less than the journey-work of the stars.&rdquo; <br /> &mdash;Walt Whitman'
     ]
 
     let aprilArray = [
