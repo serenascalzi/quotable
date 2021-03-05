@@ -4,7 +4,8 @@ $(document).ready(function() {
     let marchArray = [
         '&ldquo;Make crime pay. Become a lawyer.&rdquo; <br /> &mdash;Will Rogers',
         '&ldquo;A man who has never made a woman angry is a failure in life.&rdquo; <br /> &mdash;Christopher Morley',
-        '&ldquo;I&rsquo;ve got to keep breathing. It&rsquo;ll be my worst business mistake if I don&rsquo;t.&rdquo; <br /> &mdash;Steve Martin'
+        '&ldquo;I&rsquo;ve got to keep breathing. It&rsquo;ll be my worst business mistake if I don&rsquo;t.&rdquo; <br /> &mdash;Steve Martin',
+        '&ldquo;The safe way to double your money is to fold it over once and put it in your pocket.&rdquo; <br /> &mdash;Kin Hubbard'
     ]
 
     let aprilArray = [
