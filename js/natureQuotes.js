@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;I believe a leaf of grass is no less than the journey-work of the stars.&rdquo; <br /> &mdash;Walt Whitman',
         '&ldquo;One touch of nature makes the whole world kin.&rdquo; <br /> &mdash;William Shakespeare',
         '&ldquo;Look deep into nature, and then you will understand everything better.&rdquo; <br /> &mdash;Albert Einstein',
-        '&ldquo;Rebellion without truth is like spring in a bleak, arid desert.&rdquo; <br /> &mdash;Khalil Gibran'
+        '&ldquo;Rebellion without truth is like spring in a bleak, arid desert.&rdquo; <br /> &mdash;Khalil Gibran',
+        '&ldquo;This continent, an open palm spread frank before the sky.&rdquo; <br /> &mdash;James Agee'
     ]
 
     let aprilArray = [
