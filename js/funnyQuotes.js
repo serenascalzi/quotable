@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;I write to discover what I think. After all, the bars aren&rsquo;t open that early.&rdquo; <br /> &mdash;Daniel J. Boorstin',
         '&ldquo;By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day.&rdquo; <br /> &mdash;Robert Frost',
         '&ldquo;There cannot be a crisis next week. My schedule is already full.&rdquo; <br /> &mdash;Henry Kissinger',
-        '&ldquo;There are nights when the wolves are silent and only the moon howls.&rdquo; <br /> &mdash;George Carlin'
+        '&ldquo;There are nights when the wolves are silent and only the moon howls.&rdquo; <br /> &mdash;George Carlin',
+        '&ldquo;A woman is like a tea bag &ndash; you can&rsquo;t tell how strong she is until you put her in hot water.&rdquo; <br /> &mdash;Eleanor Roosevelt'
     ]
 
     let aprilArray = [
