@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;This continent, an open palm spread frank before the sky.&rdquo; <br /> &mdash;James Agee',
         '&ldquo;The best place to find God is in a garden. You can dig for him there.&rdquo; <br /> &mdash;George Bernard Shaw',
         '&ldquo;Sound is the vocabulary of nature.&rdquo; <br /> &mdash;Pierre Schaeffer',
-        '&ldquo;I believe in God, only I spell it Nature.&rdquo; <br /> &mdash;Frank Lloyd Wright'
+        '&ldquo;I believe in God, only I spell it Nature.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+        '&ldquo;The flower is the poetry of reproduction. It is an example of the eternal seductiveness of life.&rdquo; <br /> &mdash;Jean Giraudoux'
     ]
 
     let aprilArray = [
