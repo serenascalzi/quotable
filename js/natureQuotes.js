@@ -16,7 +16,8 @@ $(document).ready(function() {
         '&ldquo;I believe in God, only I spell it Nature.&rdquo; <br /> &mdash;Frank Lloyd Wright',
         '&ldquo;The flower is the poetry of reproduction. It is an example of the eternal seductiveness of life.&rdquo; <br /> &mdash;Jean Giraudoux',
         '&ldquo;Blue thou art, intensely blue; Flower, whence came thy dazzling hue?&rdquo; <br /> &mdash;James Montgomery',
-        '&ldquo;A forest bird never wants a cage.&rdquo; <br /> &mdash;Henrik Ibsen'
+        '&ldquo;A forest bird never wants a cage.&rdquo; <br /> &mdash;Henrik Ibsen',
+        '&ldquo;What nature delivers to us is never stale. Because what nature creates has eternity in it.&rdquo; <br /> &mdash;Isaac Bashevis Singer'
     ]
 
     let aprilArray = [
