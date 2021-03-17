@@ -17,7 +17,8 @@ $(document).ready(function() {
         '&ldquo;The better I get to know men, the more I find myself loving dogs.&rdquo; <br /> &mdash;Charles de Gaulle',
         '&ldquo;Ask five economists and you&rsquo;ll get five different answers &ndash; six if one went to Harvard.&rdquo; <br /> &mdash;Edgar Fiedler',
         '&ldquo;Camping is nature&rsquo;s way of promoting the motel business.&rdquo; <br /> &mdash;Dave Barry',
-        '&ldquo;I can speak Esperanto like a native.&rdquo; <br /> &mdash;Spike Milligan'
+        '&ldquo;I can speak Esperanto like a native.&rdquo; <br /> &mdash;Spike Milligan',
+        '&ldquo;If it was raining soup, the Irish would go out with forks.&rdquo; <br /> &mdash;Brendan Behan'
     ]
 
     let aprilArray = [
