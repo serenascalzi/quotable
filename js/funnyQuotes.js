@@ -20,7 +20,8 @@ $(document).ready(function() {
         '&ldquo;I can speak Esperanto like a native.&rdquo; <br /> &mdash;Spike Milligan',
         '&ldquo;If it was raining soup, the Irish would go out with forks.&rdquo; <br /> &mdash;Brendan Behan',
         '&ldquo;If government were a product, selling it would be illegal.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
-        '&ldquo;Don&rsquo;t stay in bed, unless you can make money in bed.&rdquo; <br /> &mdash;George Burns'
+        '&ldquo;Don&rsquo;t stay in bed, unless you can make money in bed.&rdquo; <br /> &mdash;George Burns',
+        '&ldquo;I believe in luck: how else can you explain the success of those you dislike?&rdquo; <br /> &mdash;Jean Cocteau'
     ]
 
     let aprilArray = [
