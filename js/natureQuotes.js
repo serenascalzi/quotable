@@ -20,7 +20,8 @@ $(document).ready(function() {
         '&ldquo;What nature delivers to us is never stale. Because what nature creates has eternity in it.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
         '&ldquo;All theory, dear friend, is gray, but the golden tree of life springs ever green.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         '&ldquo;Words, like nature, half reveal and half conceal the soul within.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
-        '&ldquo;We must return to nature and nature&rsquo;s god.&rdquo; <br /> &mdash;Luther Burbank'
+        '&ldquo;We must return to nature and nature&rsquo;s god.&rdquo; <br /> &mdash;Luther Burbank',
+        '&ldquo;As the twig is bent the tree inclines.&rdquo; <br /> &mdash;Virgil'
     ]
 
     let aprilArray = [
