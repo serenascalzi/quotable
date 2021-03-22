@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;All theory, dear friend, is gray, but the golden tree of life springs ever green.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         '&ldquo;Words, like nature, half reveal and half conceal the soul within.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
         '&ldquo;We must return to nature and nature&rsquo;s god.&rdquo; <br /> &mdash;Luther Burbank',
-        '&ldquo;As the twig is bent the tree inclines.&rdquo; <br /> &mdash;Virgil'
+        '&ldquo;As the twig is bent the tree inclines.&rdquo; <br /> &mdash;Virgil',
+        '&ldquo;Oaths are but words, and words are but wind.&rdquo; <br /> &mdash;Samuel Butler'
     ]
 
     let aprilArray = [
