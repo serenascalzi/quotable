@@ -22,7 +22,8 @@ $(document).ready(function() {
         '&ldquo;Words, like nature, half reveal and half conceal the soul within.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
         '&ldquo;We must return to nature and nature&rsquo;s god.&rdquo; <br /> &mdash;Luther Burbank',
         '&ldquo;As the twig is bent the tree inclines.&rdquo; <br /> &mdash;Virgil',
-        '&ldquo;Oaths are but words, and words are but wind.&rdquo; <br /> &mdash;Samuel Butler'
+        '&ldquo;Oaths are but words, and words are but wind.&rdquo; <br /> &mdash;Samuel Butler',
+        '&ldquo;I believe I can even yet remember when I saw the stars for the first time.&rdquo; <br /> &mdash;Max Muller'
     ]
 
     let aprilArray = [
