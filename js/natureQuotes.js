@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;We must return to nature and nature&rsquo;s god.&rdquo; <br /> &mdash;Luther Burbank',
         '&ldquo;As the twig is bent the tree inclines.&rdquo; <br /> &mdash;Virgil',
         '&ldquo;Oaths are but words, and words are but wind.&rdquo; <br /> &mdash;Samuel Butler',
-        '&ldquo;I believe I can even yet remember when I saw the stars for the first time.&rdquo; <br /> &mdash;Max Muller'
+        '&ldquo;I believe I can even yet remember when I saw the stars for the first time.&rdquo; <br /> &mdash;Max Muller',
+        '&ldquo;Art will never be able to exist without nature.&rdquo; <br /> &mdash;Pierre Bonnard'
     ]
 
     let aprilArray = [

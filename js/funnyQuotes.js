@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;Don&rsquo;t stay in bed, unless you can make money in bed.&rdquo; <br /> &mdash;George Burns',
         '&ldquo;I believe in luck: how else can you explain the success of those you dislike?&rdquo; <br /> &mdash;Jean Cocteau',
         '&ldquo;We have deep depth.&rdquo; <br /> &mdash;Yogi Berra',
-        '&ldquo;I was a vegetarian until I started leaning toward the sunlight.&rdquo; <br /> &mdash;Rita Rudner'
+        '&ldquo;I was a vegetarian until I started leaning toward the sunlight.&rdquo; <br /> &mdash;Rita Rudner',
+        '&ldquo;Bachelors know more about women than married men; if they didn&rsquo;t they&rsquo;d be married too.&rdquo; <br /> &mdash;H. L. Mencken'
     ]
 
     let aprilArray = [
