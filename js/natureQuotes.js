@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;I believe I can even yet remember when I saw the stars for the first time.&rdquo; <br /> &mdash;Max Muller',
         '&ldquo;Art will never be able to exist without nature.&rdquo; <br /> &mdash;Pierre Bonnard',
         '&ldquo;The stars don&rsquo;t look bigger, but they do look brighter.&rdquo; <br /> &mdash;Sally Ride',
-        '&ldquo;Strangely enough, they have a mind to till the soil, and the love of possessions is a disease in them.&rdquo; <br /> &mdash;Sitting Bull'
+        '&ldquo;Strangely enough, they have a mind to till the soil, and the love of possessions is a disease in them.&rdquo; <br /> &mdash;Sitting Bull',
+        '&ldquo;The continued existence of wildlife and wilderness is important to the quality of life of humans.&rdquo; <br /> &mdash;Jim Fowler'
     ]
 
     let aprilArray = [
