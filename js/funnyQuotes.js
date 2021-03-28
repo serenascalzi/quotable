@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;Bachelors know more about women than married men; if they didn&rsquo;t they&rsquo;d be married too.&rdquo; <br /> &mdash;H. L. Mencken',
         '&ldquo;Lead us not into temptation. Just tell us where it is; we&rsquo;ll find it.&rdquo; <br /> &mdash;Sam Levenson',
         '&ldquo;Hell hath no fury like a bureaucrat scorned.&rdquo; <br /> &mdash;Milton Friedman',
-        '&ldquo;Middle age is when a guy keeps turning off lights for economical rather than romantic reasons.&rdquo; <br /> &mdash;Lillian Gordy Carter'
+        '&ldquo;Middle age is when a guy keeps turning off lights for economical rather than romantic reasons.&rdquo; <br /> &mdash;Lillian Gordy Carter',
+        '&ldquo;Gambling: The sure way of getting nothing for something.&rdquo; <br /> &mdash;Wilson Mizner'
     ]
 
     let aprilArray = [
