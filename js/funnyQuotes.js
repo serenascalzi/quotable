@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;Hell hath no fury like a bureaucrat scorned.&rdquo; <br /> &mdash;Milton Friedman',
         '&ldquo;Middle age is when a guy keeps turning off lights for economical rather than romantic reasons.&rdquo; <br /> &mdash;Lillian Gordy Carter',
         '&ldquo;Gambling: The sure way of getting nothing for something.&rdquo; <br /> &mdash;Wilson Mizner',
-        '&ldquo;Never put off till tomorrow what you can do the day after tomorrow.&rdquo; <br /> &mdash;Mark Twain'
+        '&ldquo;Never put off till tomorrow what you can do the day after tomorrow.&rdquo; <br /> &mdash;Mark Twain',
+        '&ldquo;Originality is the art of concealing your source.&rdquo; <br /> &mdash;Franklin P. Jones'
     ]
 
     let aprilArray = [
