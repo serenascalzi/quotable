@@ -31,7 +31,8 @@ $(document).ready(function() {
         '&ldquo;I learn something every time I go into the mountains.&rdquo; <br /> &mdash;Michael Kennedy',
         '&ldquo;Water and air, the two essential fluids on which all life depends, have become global garbage cans.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
         '&ldquo;Miracles are not contrary to nature, but only contrary to what we know about nature.&rdquo; <br /> &mdash;Saint Augustine',
-        '&ldquo;The very winds whispered in soothing accents, and maternal Nature bade me weep no more.&rdquo; <br /> &mdash;Mary Shelley'
+        '&ldquo;The very winds whispered in soothing accents, and maternal Nature bade me weep no more.&rdquo; <br /> &mdash;Mary Shelley',
+        '&ldquo;We are learning, too, that the love of beauty is one of Nature&rsquo;s greatest healers.&rdquo; <br /> &mdash;Ellsworth Huntington'
     ]
 
     let aprilArray = [

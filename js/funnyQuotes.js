@@ -31,7 +31,8 @@ $(document).ready(function() {
         '&ldquo;Gambling: The sure way of getting nothing for something.&rdquo; <br /> &mdash;Wilson Mizner',
         '&ldquo;Never put off till tomorrow what you can do the day after tomorrow.&rdquo; <br /> &mdash;Mark Twain',
         '&ldquo;Originality is the art of concealing your source.&rdquo; <br /> &mdash;Franklin P. Jones',
-        '&ldquo;Never floss with a stranger.&rdquo; <br /> &mdash;Joan Rivers'
+        '&ldquo;Never floss with a stranger.&rdquo; <br /> &mdash;Joan Rivers',
+        '&ldquo;America is a land of taxation that was founded to avoid taxation.&rdquo; <br /> &mdash;Laurence J. Peter'
     ]
 
     let aprilArray = [
