@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let marchArray = [
-        '&ldquo;Make crime pay. Become a lawyer.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;A man who has never made a woman angry is a failure in life.&rdquo; <br /> &mdash;Christopher Morley',
-        '&ldquo;I&rsquo;ve got to keep breathing. It&rsquo;ll be my worst business mistake if I don&rsquo;t.&rdquo; <br /> &mdash;Steve Martin',
-        '&ldquo;The safe way to double your money is to fold it over once and put it in your pocket.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;The chief obstacle to the progress of the human race is the human race.&rdquo; <br /> &mdash;Don Marquis',
-        '&ldquo;Genius is more often found in a cracked pot than in a whole one.&rdquo; <br /> &mdash;E. B. White',
-        '&ldquo;I don&rsquo;t try to describe the future. I try to prevent it.&rdquo; <br /> &mdash;Ray Bradbury',
-        '&ldquo;I write to discover what I think. After all, the bars aren&rsquo;t open that early.&rdquo; <br /> &mdash;Daniel J. Boorstin',
-        '&ldquo;By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day.&rdquo; <br /> &mdash;Robert Frost',
-        '&ldquo;There cannot be a crisis next week. My schedule is already full.&rdquo; <br /> &mdash;Henry Kissinger',
-        '&ldquo;There are nights when the wolves are silent and only the moon howls.&rdquo; <br /> &mdash;George Carlin',
-        '&ldquo;A woman is like a tea bag &ndash; you can&rsquo;t tell how strong she is until you put her in hot water.&rdquo; <br /> &mdash;Eleanor Roosevelt',
-        '&ldquo;The better I get to know men, the more I find myself loving dogs.&rdquo; <br /> &mdash;Charles de Gaulle',
-        '&ldquo;Ask five economists and you&rsquo;ll get five different answers &ndash; six if one went to Harvard.&rdquo; <br /> &mdash;Edgar Fiedler',
-        '&ldquo;Camping is nature&rsquo;s way of promoting the motel business.&rdquo; <br /> &mdash;Dave Barry',
-        '&ldquo;I can speak Esperanto like a native.&rdquo; <br /> &mdash;Spike Milligan',
-        '&ldquo;If it was raining soup, the Irish would go out with forks.&rdquo; <br /> &mdash;Brendan Behan',
-        '&ldquo;If government were a product, selling it would be illegal.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
-        '&ldquo;Don&rsquo;t stay in bed, unless you can make money in bed.&rdquo; <br /> &mdash;George Burns',
-        '&ldquo;I believe in luck: how else can you explain the success of those you dislike?&rdquo; <br /> &mdash;Jean Cocteau',
-        '&ldquo;We have deep depth.&rdquo; <br /> &mdash;Yogi Berra',
-        '&ldquo;I was a vegetarian until I started leaning toward the sunlight.&rdquo; <br /> &mdash;Rita Rudner',
-        '&ldquo;Bachelors know more about women than married men; if they didn&rsquo;t they&rsquo;d be married too.&rdquo; <br /> &mdash;H. L. Mencken',
-        '&ldquo;Lead us not into temptation. Just tell us where it is; we&rsquo;ll find it.&rdquo; <br /> &mdash;Sam Levenson',
-        '&ldquo;Hell hath no fury like a bureaucrat scorned.&rdquo; <br /> &mdash;Milton Friedman',
-        '&ldquo;Middle age is when a guy keeps turning off lights for economical rather than romantic reasons.&rdquo; <br /> &mdash;Lillian Gordy Carter',
-        '&ldquo;Gambling: The sure way of getting nothing for something.&rdquo; <br /> &mdash;Wilson Mizner',
-        '&ldquo;Never put off till tomorrow what you can do the day after tomorrow.&rdquo; <br /> &mdash;Mark Twain',
-        '&ldquo;Originality is the art of concealing your source.&rdquo; <br /> &mdash;Franklin P. Jones',
-        '&ldquo;Never floss with a stranger.&rdquo; <br /> &mdash;Joan Rivers',
-        '&ldquo;America is a land of taxation that was founded to avoid taxation.&rdquo; <br /> &mdash;Laurence J. Peter'
-    ]
-
     let aprilArray = [
-        // April Quotes
+        '&ldquo;When I was about ten years old, I gave my teacher an April Fool&rsquo;s sandwich, which had a dead goldfish in it.&rdquo; <br /> &mdash;Alan Alda'
     ]
 
     let mayArray = [
@@ -135,6 +101,40 @@ $(document).ready(function() {
         '&ldquo;Never get a mime talking. He won&rsquo;t stop.&rdquo; <br /> &mdash;Marcel Marceau',
         '&ldquo;It&rsquo;s time for the human race to enter the solar system.&rdquo; <br /> &mdash;Dan Quayle',
         '&ldquo;What does it mean to pre-board? Do you get on before you get on?&rdquo; <br /> &mdash;George Carlin'
+    ]
+
+    let marchArray = [
+        '&ldquo;Make crime pay. Become a lawyer.&rdquo; <br /> &mdash;Will Rogers',
+        '&ldquo;A man who has never made a woman angry is a failure in life.&rdquo; <br /> &mdash;Christopher Morley',
+        '&ldquo;I&rsquo;ve got to keep breathing. It&rsquo;ll be my worst business mistake if I don&rsquo;t.&rdquo; <br /> &mdash;Steve Martin',
+        '&ldquo;The safe way to double your money is to fold it over once and put it in your pocket.&rdquo; <br /> &mdash;Kin Hubbard',
+        '&ldquo;The chief obstacle to the progress of the human race is the human race.&rdquo; <br /> &mdash;Don Marquis',
+        '&ldquo;Genius is more often found in a cracked pot than in a whole one.&rdquo; <br /> &mdash;E. B. White',
+        '&ldquo;I don&rsquo;t try to describe the future. I try to prevent it.&rdquo; <br /> &mdash;Ray Bradbury',
+        '&ldquo;I write to discover what I think. After all, the bars aren&rsquo;t open that early.&rdquo; <br /> &mdash;Daniel J. Boorstin',
+        '&ldquo;By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day.&rdquo; <br /> &mdash;Robert Frost',
+        '&ldquo;There cannot be a crisis next week. My schedule is already full.&rdquo; <br /> &mdash;Henry Kissinger',
+        '&ldquo;There are nights when the wolves are silent and only the moon howls.&rdquo; <br /> &mdash;George Carlin',
+        '&ldquo;A woman is like a tea bag &ndash; you can&rsquo;t tell how strong she is until you put her in hot water.&rdquo; <br /> &mdash;Eleanor Roosevelt',
+        '&ldquo;The better I get to know men, the more I find myself loving dogs.&rdquo; <br /> &mdash;Charles de Gaulle',
+        '&ldquo;Ask five economists and you&rsquo;ll get five different answers &ndash; six if one went to Harvard.&rdquo; <br /> &mdash;Edgar Fiedler',
+        '&ldquo;Camping is nature&rsquo;s way of promoting the motel business.&rdquo; <br /> &mdash;Dave Barry',
+        '&ldquo;I can speak Esperanto like a native.&rdquo; <br /> &mdash;Spike Milligan',
+        '&ldquo;If it was raining soup, the Irish would go out with forks.&rdquo; <br /> &mdash;Brendan Behan',
+        '&ldquo;If government were a product, selling it would be illegal.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
+        '&ldquo;Don&rsquo;t stay in bed, unless you can make money in bed.&rdquo; <br /> &mdash;George Burns',
+        '&ldquo;I believe in luck: how else can you explain the success of those you dislike?&rdquo; <br /> &mdash;Jean Cocteau',
+        '&ldquo;We have deep depth.&rdquo; <br /> &mdash;Yogi Berra',
+        '&ldquo;I was a vegetarian until I started leaning toward the sunlight.&rdquo; <br /> &mdash;Rita Rudner',
+        '&ldquo;Bachelors know more about women than married men; if they didn&rsquo;t they&rsquo;d be married too.&rdquo; <br /> &mdash;H. L. Mencken',
+        '&ldquo;Lead us not into temptation. Just tell us where it is; we&rsquo;ll find it.&rdquo; <br /> &mdash;Sam Levenson',
+        '&ldquo;Hell hath no fury like a bureaucrat scorned.&rdquo; <br /> &mdash;Milton Friedman',
+        '&ldquo;Middle age is when a guy keeps turning off lights for economical rather than romantic reasons.&rdquo; <br /> &mdash;Lillian Gordy Carter',
+        '&ldquo;Gambling: The sure way of getting nothing for something.&rdquo; <br /> &mdash;Wilson Mizner',
+        '&ldquo;Never put off till tomorrow what you can do the day after tomorrow.&rdquo; <br /> &mdash;Mark Twain',
+        '&ldquo;Originality is the art of concealing your source.&rdquo; <br /> &mdash;Franklin P. Jones',
+        '&ldquo;Never floss with a stranger.&rdquo; <br /> &mdash;Joan Rivers',
+        '&ldquo;America is a land of taxation that was founded to avoid taxation.&rdquo; <br /> &mdash;Laurence J. Peter'
     ]
 
     let date = new Date()

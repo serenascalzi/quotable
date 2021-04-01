@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let marchArray = [
-        '&ldquo;In the depth of winter I finally learned that there was in me an invincible summer.&rdquo; <br /> &mdash;Albert Camus',
-        '&ldquo;It appears to be a law that you cannot have a deep sympathy with both man and nature.&rdquo; <br /> &mdash;Henry David Thoreau',
-        '&ldquo;The poetry of the earth is never dead.&rdquo; <br /> &mdash;John Keats',
-        '&ldquo;Big doesn&rsquo;t necessarily mean better. Sunflowers aren&rsquo;t better than violets.&rdquo; <br /> &mdash;Edna Ferber',
-        '&ldquo;I believe a leaf of grass is no less than the journey-work of the stars.&rdquo; <br /> &mdash;Walt Whitman',
-        '&ldquo;One touch of nature makes the whole world kin.&rdquo; <br /> &mdash;William Shakespeare',
-        '&ldquo;Look deep into nature, and then you will understand everything better.&rdquo; <br /> &mdash;Albert Einstein',
-        '&ldquo;Rebellion without truth is like spring in a bleak, arid desert.&rdquo; <br /> &mdash;Khalil Gibran',
-        '&ldquo;This continent, an open palm spread frank before the sky.&rdquo; <br /> &mdash;James Agee',
-        '&ldquo;The best place to find God is in a garden. You can dig for him there.&rdquo; <br /> &mdash;George Bernard Shaw',
-        '&ldquo;Sound is the vocabulary of nature.&rdquo; <br /> &mdash;Pierre Schaeffer',
-        '&ldquo;I believe in God, only I spell it Nature.&rdquo; <br /> &mdash;Frank Lloyd Wright',
-        '&ldquo;The flower is the poetry of reproduction. It is an example of the eternal seductiveness of life.&rdquo; <br /> &mdash;Jean Giraudoux',
-        '&ldquo;Blue thou art, intensely blue; Flower, whence came thy dazzling hue?&rdquo; <br /> &mdash;James Montgomery',
-        '&ldquo;A forest bird never wants a cage.&rdquo; <br /> &mdash;Henrik Ibsen',
-        '&ldquo;What nature delivers to us is never stale. Because what nature creates has eternity in it.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
-        '&ldquo;All theory, dear friend, is gray, but the golden tree of life springs ever green.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
-        '&ldquo;Words, like nature, half reveal and half conceal the soul within.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
-        '&ldquo;We must return to nature and nature&rsquo;s god.&rdquo; <br /> &mdash;Luther Burbank',
-        '&ldquo;As the twig is bent the tree inclines.&rdquo; <br /> &mdash;Virgil',
-        '&ldquo;Oaths are but words, and words are but wind.&rdquo; <br /> &mdash;Samuel Butler',
-        '&ldquo;I believe I can even yet remember when I saw the stars for the first time.&rdquo; <br /> &mdash;Max Muller',
-        '&ldquo;Art will never be able to exist without nature.&rdquo; <br /> &mdash;Pierre Bonnard',
-        '&ldquo;The stars don&rsquo;t look bigger, but they do look brighter.&rdquo; <br /> &mdash;Sally Ride',
-        '&ldquo;Strangely enough, they have a mind to till the soil, and the love of possessions is a disease in them.&rdquo; <br /> &mdash;Sitting Bull',
-        '&ldquo;The continued existence of wildlife and wilderness is important to the quality of life of humans.&rdquo; <br /> &mdash;Jim Fowler',
-        '&ldquo;I learn something every time I go into the mountains.&rdquo; <br /> &mdash;Michael Kennedy',
-        '&ldquo;Water and air, the two essential fluids on which all life depends, have become global garbage cans.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
-        '&ldquo;Miracles are not contrary to nature, but only contrary to what we know about nature.&rdquo; <br /> &mdash;Saint Augustine',
-        '&ldquo;The very winds whispered in soothing accents, and maternal Nature bade me weep no more.&rdquo; <br /> &mdash;Mary Shelley',
-        '&ldquo;We are learning, too, that the love of beauty is one of Nature&rsquo;s greatest healers.&rdquo; <br /> &mdash;Ellsworth Huntington'
-    ]
-
     let aprilArray = [
-        // April Quotes
+        '&ldquo;It is not only fine feathers that make fine birds.&rdquo; <br /> &mdash;Aesop'
     ]
 
     let mayArray = [
@@ -135,6 +101,40 @@ $(document).ready(function() {
         '&ldquo;The Sun, Moon and Stars are there to guide us.&rdquo; <br /> &mdash;Dennis Banks',
         '&ldquo;Self-defence is Nature&rsquo;s eldest law.&rdquo; <br /> &mdash;John Dryden',
         '&ldquo;The stars that have most glory have no rest.&rdquo; <br /> &mdash;Samuel Daniel'
+    ]
+
+    let marchArray = [
+        '&ldquo;In the depth of winter I finally learned that there was in me an invincible summer.&rdquo; <br /> &mdash;Albert Camus',
+        '&ldquo;It appears to be a law that you cannot have a deep sympathy with both man and nature.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;The poetry of the earth is never dead.&rdquo; <br /> &mdash;John Keats',
+        '&ldquo;Big doesn&rsquo;t necessarily mean better. Sunflowers aren&rsquo;t better than violets.&rdquo; <br /> &mdash;Edna Ferber',
+        '&ldquo;I believe a leaf of grass is no less than the journey-work of the stars.&rdquo; <br /> &mdash;Walt Whitman',
+        '&ldquo;One touch of nature makes the whole world kin.&rdquo; <br /> &mdash;William Shakespeare',
+        '&ldquo;Look deep into nature, and then you will understand everything better.&rdquo; <br /> &mdash;Albert Einstein',
+        '&ldquo;Rebellion without truth is like spring in a bleak, arid desert.&rdquo; <br /> &mdash;Khalil Gibran',
+        '&ldquo;This continent, an open palm spread frank before the sky.&rdquo; <br /> &mdash;James Agee',
+        '&ldquo;The best place to find God is in a garden. You can dig for him there.&rdquo; <br /> &mdash;George Bernard Shaw',
+        '&ldquo;Sound is the vocabulary of nature.&rdquo; <br /> &mdash;Pierre Schaeffer',
+        '&ldquo;I believe in God, only I spell it Nature.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+        '&ldquo;The flower is the poetry of reproduction. It is an example of the eternal seductiveness of life.&rdquo; <br /> &mdash;Jean Giraudoux',
+        '&ldquo;Blue thou art, intensely blue; Flower, whence came thy dazzling hue?&rdquo; <br /> &mdash;James Montgomery',
+        '&ldquo;A forest bird never wants a cage.&rdquo; <br /> &mdash;Henrik Ibsen',
+        '&ldquo;What nature delivers to us is never stale. Because what nature creates has eternity in it.&rdquo; <br /> &mdash;Isaac Bashevis Singer',
+        '&ldquo;All theory, dear friend, is gray, but the golden tree of life springs ever green.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        '&ldquo;Words, like nature, half reveal and half conceal the soul within.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
+        '&ldquo;We must return to nature and nature&rsquo;s god.&rdquo; <br /> &mdash;Luther Burbank',
+        '&ldquo;As the twig is bent the tree inclines.&rdquo; <br /> &mdash;Virgil',
+        '&ldquo;Oaths are but words, and words are but wind.&rdquo; <br /> &mdash;Samuel Butler',
+        '&ldquo;I believe I can even yet remember when I saw the stars for the first time.&rdquo; <br /> &mdash;Max Muller',
+        '&ldquo;Art will never be able to exist without nature.&rdquo; <br /> &mdash;Pierre Bonnard',
+        '&ldquo;The stars don&rsquo;t look bigger, but they do look brighter.&rdquo; <br /> &mdash;Sally Ride',
+        '&ldquo;Strangely enough, they have a mind to till the soil, and the love of possessions is a disease in them.&rdquo; <br /> &mdash;Sitting Bull',
+        '&ldquo;The continued existence of wildlife and wilderness is important to the quality of life of humans.&rdquo; <br /> &mdash;Jim Fowler',
+        '&ldquo;I learn something every time I go into the mountains.&rdquo; <br /> &mdash;Michael Kennedy',
+        '&ldquo;Water and air, the two essential fluids on which all life depends, have become global garbage cans.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
+        '&ldquo;Miracles are not contrary to nature, but only contrary to what we know about nature.&rdquo; <br /> &mdash;Saint Augustine',
+        '&ldquo;The very winds whispered in soothing accents, and maternal Nature bade me weep no more.&rdquo; <br /> &mdash;Mary Shelley',
+        '&ldquo;We are learning, too, that the love of beauty is one of Nature&rsquo;s greatest healers.&rdquo; <br /> &mdash;Ellsworth Huntington'
     ]
 
     let date = new Date()
