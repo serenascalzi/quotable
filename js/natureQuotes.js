@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let aprilArray = [
-        '&ldquo;It is not only fine feathers that make fine birds.&rdquo; <br /> &mdash;Aesop'
+        '&ldquo;It is not only fine feathers that make fine birds.&rdquo; <br /> &mdash;Aesop',
+        '&ldquo;What would be ugly in a garden constitutes beauty in a mountain.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let mayArray = [
