@@ -173,7 +173,7 @@ $(document).ready(function() {
 
     let dayOfMonth = date.getDate()
 
-    let funnyQuote = monthArray[dayOfMonth - 3]
+    let funnyQuote = monthArray[dayOfMonth - 1]
 
     let funny = `<h3>${funnyQuote}</h3>`
     
