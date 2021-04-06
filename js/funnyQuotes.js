@@ -4,7 +4,8 @@ $(document).ready(function() {
     let aprilArray = [
         '&ldquo;When I was about ten years old, I gave my teacher an April Fool&rsquo;s sandwich, which had a dead goldfish in it.&rdquo; <br /> &mdash;Alan Alda',
         '&ldquo;In heaven, all the interesting people are missing.&rdquo; <br /> &mdash;Friedrich Nietzsche',
-        '&ldquo;I&rsquo;ve sometimes thought of marrying &ndash; and then I&rsquo;ve thought again.&rdquo; <br /> &mdash;Noel Coward'
+        '&ldquo;I&rsquo;ve sometimes thought of marrying &ndash; and then I&rsquo;ve thought again.&rdquo; <br /> &mdash;Noel Coward',
+        '&ldquo;A word to the wise is infuriating.&rdquo; <br /> &mdash;Hunter S. Thompson'
     ]
 
     let mayArray = [
