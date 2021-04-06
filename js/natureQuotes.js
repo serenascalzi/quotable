@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;It is not only fine feathers that make fine birds.&rdquo; <br /> &mdash;Aesop',
         '&ldquo;What would be ugly in a garden constitutes beauty in a mountain.&rdquo; <br /> &mdash;Victor Hugo',
         '&ldquo;Set your course by the stars, not by the lights of every passing ship.&rdquo; <br /> &mdash;Omar N. Bradley',
-        '&ldquo;With the coming of spring, I am calm again.&rdquo; <br /> &mdash;Gustav Mahler'
+        '&ldquo;With the coming of spring, I am calm again.&rdquo; <br /> &mdash;Gustav Mahler',
+        '&ldquo;The sea complains upon a thousand shores.&rdquo; <br /> &mdash;Alexander Smith'
     ]
 
     let mayArray = [
