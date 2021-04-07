@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;I&rsquo;ve sometimes thought of marrying &ndash; and then I&rsquo;ve thought again.&rdquo; <br /> &mdash;Noel Coward',
         '&ldquo;A word to the wise is infuriating.&rdquo; <br /> &mdash;Hunter S. Thompson',
         '&ldquo;Housework can&rsquo;t kill you, but why take a chance?&rdquo; <br /> &mdash;Phyllis Diller',
-        '&ldquo;I bought some instant water one time but I didn&rsquo;t know what to add to it.&rdquo; <br /> &mdash;Steven Wright'
+        '&ldquo;I bought some instant water one time but I didn&rsquo;t know what to add to it.&rdquo; <br /> &mdash;Steven Wright',
+        '&ldquo;Everything in life is somewhere else, and you get there in a car.&rdquo; <br /> &mdash;E. B. White'
     ]
 
     let mayArray = [
