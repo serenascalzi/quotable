@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;With the coming of spring, I am calm again.&rdquo; <br /> &mdash;Gustav Mahler',
         '&ldquo;The sea complains upon a thousand shores.&rdquo; <br /> &mdash;Alexander Smith',
         '&ldquo;The best thing one can do when it&rsquo;s raining is to let it rain.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
-        '&ldquo;Heaven is under our feet as well as over our heads.&rdquo; <br /> &mdash;Henry David Thoreau'
+        '&ldquo;Heaven is under our feet as well as over our heads.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;The fulness of the godhead dwelt in every blade of grass.&rdquo; <br /> &mdash;Elias Hicks'
     ]
 
     let mayArray = [
