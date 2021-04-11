@@ -11,7 +11,8 @@ $(document).ready(function() {
         '&ldquo;Everything in life is somewhere else, and you get there in a car.&rdquo; <br /> &mdash;E. B. White',
         '&ldquo;If a cluttered desk is the sign of a cluttered mind, what is the significance of a clean desk?&rdquo; <br /> &mdash;Laurence J. Peter',
         '&ldquo;I believe in rules. Sure I do. If there weren&rsquo;t any rules, how could you break them?&rdquo; <br /> &mdash;Leo Durocher',
-        '&ldquo;Forty for you, sixty for me. And equal partners we will be.&rdquo; <br /> &mdash;Joan Rivers'
+        '&ldquo;Forty for you, sixty for me. And equal partners we will be.&rdquo; <br /> &mdash;Joan Rivers',
+        '&ldquo;I used to jog but the ice cubes kept falling out of my glass.&rdquo; <br /> &mdash;David Lee Roth'
     ]
 
     let mayArray = [
