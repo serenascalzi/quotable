@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;I bought some instant water one time but I didn&rsquo;t know what to add to it.&rdquo; <br /> &mdash;Steven Wright',
         '&ldquo;Everything in life is somewhere else, and you get there in a car.&rdquo; <br /> &mdash;E. B. White',
         '&ldquo;If a cluttered desk is the sign of a cluttered mind, what is the significance of a clean desk?&rdquo; <br /> &mdash;Laurence J. Peter',
-        '&ldquo;I believe in rules. Sure I do. If there weren&rsquo;t any rules, how could you break them?&rdquo; <br /> &mdash;Leo Durocher'
+        '&ldquo;I believe in rules. Sure I do. If there weren&rsquo;t any rules, how could you break them?&rdquo; <br /> &mdash;Leo Durocher',
+        '&ldquo;Forty for you, sixty for me. And equal partners we will be.&rdquo; <br /> &mdash;Joan Rivers'
     ]
 
     let mayArray = [
