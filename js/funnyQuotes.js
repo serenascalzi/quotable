@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;I believe in rules. Sure I do. If there weren&rsquo;t any rules, how could you break them?&rdquo; <br /> &mdash;Leo Durocher',
         '&ldquo;Forty for you, sixty for me. And equal partners we will be.&rdquo; <br /> &mdash;Joan Rivers',
         '&ldquo;I used to jog but the ice cubes kept falling out of my glass.&rdquo; <br /> &mdash;David Lee Roth',
-        '&ldquo;French is the language that turns dirt into romance.&rdquo; <br /> &mdash;Stephen King'
+        '&ldquo;French is the language that turns dirt into romance.&rdquo; <br /> &mdash;Stephen King',
+        '&ldquo;To catch a husband is an art; to hold him is a job.&rdquo; <br /> &mdash;Simone de Beauvoir'
     ]
 
     let mayArray = [
