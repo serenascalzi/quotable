@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;Great men are like eagles, and build their nest on some lofty solitude.&rdquo; <br /> &mdash;Arthur Schopenhauer',
         '&ldquo;A hen is only an egg&rsquo;s way of making another egg.&rdquo; <br /> &mdash;Samuel Butler',
         '&ldquo;God writes the Gospel not in the Bible alone, but also on trees, and in the flowers and clouds and stars.&rdquo; <br /> &mdash;Martin Luther',
-        '&ldquo;To destroy is still the strongest instinct in nature.&rdquo; <br /> &mdash;Max Beerbohm'
+        '&ldquo;To destroy is still the strongest instinct in nature.&rdquo; <br /> &mdash;Max Beerbohm',
+        '&ldquo;If people sat outside and looked at the stars each night, I&rsquo;ll bet they&rsquo;d live a lot differently.&rdquo; <br /> &mdash;Bill Watterson'
     ]
 
     let mayArray = [
