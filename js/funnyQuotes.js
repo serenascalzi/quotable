@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;I used to jog but the ice cubes kept falling out of my glass.&rdquo; <br /> &mdash;David Lee Roth',
         '&ldquo;French is the language that turns dirt into romance.&rdquo; <br /> &mdash;Stephen King',
         '&ldquo;To catch a husband is an art; to hold him is a job.&rdquo; <br /> &mdash;Simone de Beauvoir',
-        '&ldquo;What I like to drink most is wine that belongs to others.&rdquo; <br /> &mdash;Diogenes'
+        '&ldquo;What I like to drink most is wine that belongs to others.&rdquo; <br /> &mdash;Diogenes',
+        '&ldquo;I&rsquo;m spending a year dead for tax reasons.&rdquo; <br /> &mdash;Douglas Adams'
     ]
 
     let mayArray = [
