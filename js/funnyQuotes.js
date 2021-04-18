@@ -17,7 +17,8 @@ $(document).ready(function() {
         '&ldquo;To catch a husband is an art; to hold him is a job.&rdquo; <br /> &mdash;Simone de Beauvoir',
         '&ldquo;What I like to drink most is wine that belongs to others.&rdquo; <br /> &mdash;Diogenes',
         '&ldquo;I&rsquo;m spending a year dead for tax reasons.&rdquo; <br /> &mdash;Douglas Adams',
-        '&ldquo;You don&rsquo;t pay taxes &ndash; they take taxes.&rdquo; <br /> &mdash;Chris Rock'
+        '&ldquo;You don&rsquo;t pay taxes &ndash; they take taxes.&rdquo; <br /> &mdash;Chris Rock',
+        '&ldquo;In politics stupidity is not a handicap.&rdquo; <br /> &mdash;Napoleon Bonaparte'
     ]
 
     let mayArray = [
