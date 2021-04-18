@@ -18,7 +18,8 @@ $(document).ready(function() {
         '&ldquo;We are an impossibility in an impossible universe.&rdquo; <br /> &mdash;Ray Bradbury',
         '&ldquo;No occupation is so delightful to me as the culture of the earth, and no culture comparable to that of the garden.&rdquo; <br /> &mdash;Thomas Jefferson',
         '&ldquo;Conservation is a state of harmony between men and land.&rdquo; <br /> &mdash;Aldo Leopold',
-        '&ldquo;Nature is often hidden, sometimes overcome, seldom extinguished.&rdquo; <br /> &mdash;Francis Bacon'
+        '&ldquo;Nature is often hidden, sometimes overcome, seldom extinguished.&rdquo; <br /> &mdash;Francis Bacon',
+        '&ldquo;There are no lines in nature, only areas of colour, one against another.&rdquo; <br /> &mdash;Edouard Manet'
     ]
 
     let mayArray = [
