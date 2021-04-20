@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;I&rsquo;m spending a year dead for tax reasons.&rdquo; <br /> &mdash;Douglas Adams',
         '&ldquo;You don&rsquo;t pay taxes &ndash; they take taxes.&rdquo; <br /> &mdash;Chris Rock',
         '&ldquo;In politics stupidity is not a handicap.&rdquo; <br /> &mdash;Napoleon Bonaparte',
-        '&ldquo;It ain&rsquo;t the heat, it&rsquo;s the humility.&rdquo; <br /> &mdash;Yogi Berra'
+        '&ldquo;It ain&rsquo;t the heat, it&rsquo;s the humility.&rdquo; <br /> &mdash;Yogi Berra',
+        '&ldquo;People everywhere confuse what they read in newspapers with news.&rdquo; <br /> &mdash;A. J. Liebling'
     ]
 
     let mayArray = [
