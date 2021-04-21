@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;Nature is often hidden, sometimes overcome, seldom extinguished.&rdquo; <br /> &mdash;Francis Bacon',
         '&ldquo;There are no lines in nature, only areas of colour, one against another.&rdquo; <br /> &mdash;Edouard Manet',
         '&ldquo;God, I can push the grass apart and lay my finger on Thy heart.&rdquo; <br /> &mdash;Edna St. Vincent Millay',
-        '&ldquo;I have always wanted a bunny and I&rsquo;ll always have a rabbit the rest of my life.&rdquo; <br /> &mdash;Amy Sedaris'
+        '&ldquo;I have always wanted a bunny and I&rsquo;ll always have a rabbit the rest of my life.&rdquo; <br /> &mdash;Amy Sedaris',
+        '&ldquo;I&rsquo;ve always regarded nature as the clothing of God.&rdquo; <br /> &mdash;Alan Hovhaness'
     ]
 
     let mayArray = [
