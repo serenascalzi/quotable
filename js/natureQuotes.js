@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;God, I can push the grass apart and lay my finger on Thy heart.&rdquo; <br /> &mdash;Edna St. Vincent Millay',
         '&ldquo;I have always wanted a bunny and I&rsquo;ll always have a rabbit the rest of my life.&rdquo; <br /> &mdash;Amy Sedaris',
         '&ldquo;I&rsquo;ve always regarded nature as the clothing of God.&rdquo; <br /> &mdash;Alan Hovhaness',
-        '&ldquo;Scenery is fine &ndash; but human nature is finer.&rdquo; <br /> &mdash;John Keats'
+        '&ldquo;Scenery is fine &ndash; but human nature is finer.&rdquo; <br /> &mdash;John Keats',
+        '&ldquo;The sun, too, shines into cesspools and is not polluted.&rdquo; <br /> &mdash;Diogenes'
     ]
 
     let mayArray = [
