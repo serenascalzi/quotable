@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;My mom used to say that Greek Easter was later because then you get stuff cheaper.&rdquo; <br /> &mdash;Amy Sedaris',
         '&ldquo;Give me a couple of years, and I&rsquo;ll make that actress an overnight success.&rdquo; <br /> &mdash;Samuel Goldwyn',
         '&ldquo;I have a mind to join a club and beat you over the head with it.&rdquo; <br /> &mdash;Groucho Marx',
-        '&ldquo;Communism is like one big phone company.&rdquo; <br /> &mdash;Lenny Bruce'
+        '&ldquo;Communism is like one big phone company.&rdquo; <br /> &mdash;Lenny Bruce',
+        '&ldquo;Instant gratification takes too long.&rdquo; <br /> &mdash;Carrie Fisher'
     ]
 
     let mayArray = [

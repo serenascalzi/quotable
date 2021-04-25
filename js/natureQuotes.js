@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;I&rsquo;ve always regarded nature as the clothing of God.&rdquo; <br /> &mdash;Alan Hovhaness',
         '&ldquo;Scenery is fine &ndash; but human nature is finer.&rdquo; <br /> &mdash;John Keats',
         '&ldquo;The sun, too, shines into cesspools and is not polluted.&rdquo; <br /> &mdash;Diogenes',
-        '&ldquo;In the world of words, the imagination is one of the forces of nature.&rdquo; <br /> &mdash;Wallace Stevens'
+        '&ldquo;In the world of words, the imagination is one of the forces of nature.&rdquo; <br /> &mdash;Wallace Stevens',
+        '&ldquo;Nature does not hurry, yet everything is accomplished.&rdquo; <br /> &mdash;Lao Tzu'
     ]
 
     let mayArray = [
