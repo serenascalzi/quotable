@@ -24,7 +24,8 @@ $(document).ready(function() {
         '&ldquo;You can learn many things from children. How much patience you have, for instance.&rdquo; <br /> &mdash;Franklin P. Jones',
         '&ldquo;My mom used to say that Greek Easter was later because then you get stuff cheaper.&rdquo; <br /> &mdash;Amy Sedaris',
         '&ldquo;Give me a couple of years, and I&rsquo;ll make that actress an overnight success.&rdquo; <br /> &mdash;Samuel Goldwyn',
-        '&ldquo;I have a mind to join a club and beat you over the head with it.&rdquo; <br /> &mdash;Groucho Marx'
+        '&ldquo;I have a mind to join a club and beat you over the head with it.&rdquo; <br /> &mdash;Groucho Marx',
+        '&ldquo;Communism is like one big phone company.&rdquo; <br /> &mdash;Lenny Bruce'
     ]
 
     let mayArray = [
