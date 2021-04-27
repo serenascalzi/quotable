@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;I have a mind to join a club and beat you over the head with it.&rdquo; <br /> &mdash;Groucho Marx',
         '&ldquo;Communism is like one big phone company.&rdquo; <br /> &mdash;Lenny Bruce',
         '&ldquo;Instant gratification takes too long.&rdquo; <br /> &mdash;Carrie Fisher',
-        '&ldquo;Every dogma has its day.&rdquo; <br /> &mdash;Anthony Burgess'
+        '&ldquo;Every dogma has its day.&rdquo; <br /> &mdash;Anthony Burgess',
+        '&ldquo;There&rsquo;s a great power in words, if you don&rsquo;t hitch too many of them together.&rdquo; <br /> &mdash;Josh Billings'
     ]
 
     let mayArray = [
