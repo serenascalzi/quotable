@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;The sun, too, shines into cesspools and is not polluted.&rdquo; <br /> &mdash;Diogenes',
         '&ldquo;In the world of words, the imagination is one of the forces of nature.&rdquo; <br /> &mdash;Wallace Stevens',
         '&ldquo;Nature does not hurry, yet everything is accomplished.&rdquo; <br /> &mdash;Lao Tzu',
-        '&ldquo;Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.&rdquo; <br /> &mdash;John Ruskin'
+        '&ldquo;Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.&rdquo; <br /> &mdash;John Ruskin',
+        '&ldquo;The fairest thing in nature, a flower, still has its roots in earth and manure.&rdquo; <br /> &mdash;D. H. Lawrence'
     ]
 
     let mayArray = [
