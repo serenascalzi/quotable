@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;Communism is like one big phone company.&rdquo; <br /> &mdash;Lenny Bruce',
         '&ldquo;Instant gratification takes too long.&rdquo; <br /> &mdash;Carrie Fisher',
         '&ldquo;Every dogma has its day.&rdquo; <br /> &mdash;Anthony Burgess',
-        '&ldquo;There&rsquo;s a great power in words, if you don&rsquo;t hitch too many of them together.&rdquo; <br /> &mdash;Josh Billings'
+        '&ldquo;There&rsquo;s a great power in words, if you don&rsquo;t hitch too many of them together.&rdquo; <br /> &mdash;Josh Billings',
+        '&ldquo;They didn&rsquo;t want it good, they wanted it Wednesday.&rdquo; <br /> &mdash;Robert A. Heinlein'
     ]
 
     let mayArray = [
