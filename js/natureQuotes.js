@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;Nature does not hurry, yet everything is accomplished.&rdquo; <br /> &mdash;Lao Tzu',
         '&ldquo;Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.&rdquo; <br /> &mdash;John Ruskin',
         '&ldquo;The fairest thing in nature, a flower, still has its roots in earth and manure.&rdquo; <br /> &mdash;D. H. Lawrence',
-        '&ldquo;He who does not become familiar with nature through love will never know her.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel'
+        '&ldquo;He who does not become familiar with nature through love will never know her.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
+        '&ldquo;Buildings, too, are children of Earth and Sun.&rdquo; <br /> &mdash;Frank Lloyd Wright'
     ]
 
     let mayArray = [
