@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;Every dogma has its day.&rdquo; <br /> &mdash;Anthony Burgess',
         '&ldquo;There&rsquo;s a great power in words, if you don&rsquo;t hitch too many of them together.&rdquo; <br /> &mdash;Josh Billings',
         '&ldquo;They didn&rsquo;t want it good, they wanted it Wednesday.&rdquo; <br /> &mdash;Robert A. Heinlein',
-        '&ldquo;For every complex problem there is an answer that is clear, simple, and wrong.&rdquo; <br /> &mdash;H. L. Mencken'
+        '&ldquo;For every complex problem there is an answer that is clear, simple, and wrong.&rdquo; <br /> &mdash;H. L. Mencken',
+        '&ldquo;Age is not important unless you&rsquo;re a cheese.&rdquo; <br /> &mdash;Helen Hayes'
     ]
 
     let mayArray = [
