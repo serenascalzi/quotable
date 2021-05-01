@@ -1,41 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let aprilArray = [
-        '&ldquo;When I was about ten years old, I gave my teacher an April Fool&rsquo;s sandwich, which had a dead goldfish in it.&rdquo; <br /> &mdash;Alan Alda',
-        '&ldquo;In heaven, all the interesting people are missing.&rdquo; <br /> &mdash;Friedrich Nietzsche',
-        '&ldquo;I&rsquo;ve sometimes thought of marrying &ndash; and then I&rsquo;ve thought again.&rdquo; <br /> &mdash;Noel Coward',
-        '&ldquo;A word to the wise is infuriating.&rdquo; <br /> &mdash;Hunter S. Thompson',
-        '&ldquo;Housework can&rsquo;t kill you, but why take a chance?&rdquo; <br /> &mdash;Phyllis Diller',
-        '&ldquo;I bought some instant water one time but I didn&rsquo;t know what to add to it.&rdquo; <br /> &mdash;Steven Wright',
-        '&ldquo;Everything in life is somewhere else, and you get there in a car.&rdquo; <br /> &mdash;E. B. White',
-        '&ldquo;If a cluttered desk is the sign of a cluttered mind, what is the significance of a clean desk?&rdquo; <br /> &mdash;Laurence J. Peter',
-        '&ldquo;I believe in rules. Sure I do. If there weren&rsquo;t any rules, how could you break them?&rdquo; <br /> &mdash;Leo Durocher',
-        '&ldquo;Forty for you, sixty for me. And equal partners we will be.&rdquo; <br /> &mdash;Joan Rivers',
-        '&ldquo;I used to jog but the ice cubes kept falling out of my glass.&rdquo; <br /> &mdash;David Lee Roth',
-        '&ldquo;French is the language that turns dirt into romance.&rdquo; <br /> &mdash;Stephen King',
-        '&ldquo;To catch a husband is an art; to hold him is a job.&rdquo; <br /> &mdash;Simone de Beauvoir',
-        '&ldquo;What I like to drink most is wine that belongs to others.&rdquo; <br /> &mdash;Diogenes',
-        '&ldquo;I&rsquo;m spending a year dead for tax reasons.&rdquo; <br /> &mdash;Douglas Adams',
-        '&ldquo;You don&rsquo;t pay taxes &ndash; they take taxes.&rdquo; <br /> &mdash;Chris Rock',
-        '&ldquo;In politics stupidity is not a handicap.&rdquo; <br /> &mdash;Napoleon Bonaparte',
-        '&ldquo;It ain&rsquo;t the heat, it&rsquo;s the humility.&rdquo; <br /> &mdash;Yogi Berra',
-        '&ldquo;People everywhere confuse what they read in newspapers with news.&rdquo; <br /> &mdash;A. J. Liebling',
-        '&ldquo;You can learn many things from children. How much patience you have, for instance.&rdquo; <br /> &mdash;Franklin P. Jones',
-        '&ldquo;My mom used to say that Greek Easter was later because then you get stuff cheaper.&rdquo; <br /> &mdash;Amy Sedaris',
-        '&ldquo;Give me a couple of years, and I&rsquo;ll make that actress an overnight success.&rdquo; <br /> &mdash;Samuel Goldwyn',
-        '&ldquo;I have a mind to join a club and beat you over the head with it.&rdquo; <br /> &mdash;Groucho Marx',
-        '&ldquo;Communism is like one big phone company.&rdquo; <br /> &mdash;Lenny Bruce',
-        '&ldquo;Instant gratification takes too long.&rdquo; <br /> &mdash;Carrie Fisher',
-        '&ldquo;Every dogma has its day.&rdquo; <br /> &mdash;Anthony Burgess',
-        '&ldquo;There&rsquo;s a great power in words, if you don&rsquo;t hitch too many of them together.&rdquo; <br /> &mdash;Josh Billings',
-        '&ldquo;They didn&rsquo;t want it good, they wanted it Wednesday.&rdquo; <br /> &mdash;Robert A. Heinlein',
-        '&ldquo;For every complex problem there is an answer that is clear, simple, and wrong.&rdquo; <br /> &mdash;H. L. Mencken',
-        '&ldquo;Age is not important unless you&rsquo;re a cheese.&rdquo; <br /> &mdash;Helen Hayes'
-    ]
-
     let mayArray = [
-        // May Quotes
+        '&ldquo;The one thing I do not want to be called is First Lady. It sounds like a saddle horse.&rdquo; <br /> &mdash;Jackie Kennedy'
     ]
 
     let juneArray = [
@@ -164,6 +131,39 @@ $(document).ready(function() {
         '&ldquo;Originality is the art of concealing your source.&rdquo; <br /> &mdash;Franklin P. Jones',
         '&ldquo;Never floss with a stranger.&rdquo; <br /> &mdash;Joan Rivers',
         '&ldquo;America is a land of taxation that was founded to avoid taxation.&rdquo; <br /> &mdash;Laurence J. Peter'
+    ]
+
+    let aprilArray = [
+        '&ldquo;When I was about ten years old, I gave my teacher an April Fool&rsquo;s sandwich, which had a dead goldfish in it.&rdquo; <br /> &mdash;Alan Alda',
+        '&ldquo;In heaven, all the interesting people are missing.&rdquo; <br /> &mdash;Friedrich Nietzsche',
+        '&ldquo;I&rsquo;ve sometimes thought of marrying &ndash; and then I&rsquo;ve thought again.&rdquo; <br /> &mdash;Noel Coward',
+        '&ldquo;A word to the wise is infuriating.&rdquo; <br /> &mdash;Hunter S. Thompson',
+        '&ldquo;Housework can&rsquo;t kill you, but why take a chance?&rdquo; <br /> &mdash;Phyllis Diller',
+        '&ldquo;I bought some instant water one time but I didn&rsquo;t know what to add to it.&rdquo; <br /> &mdash;Steven Wright',
+        '&ldquo;Everything in life is somewhere else, and you get there in a car.&rdquo; <br /> &mdash;E. B. White',
+        '&ldquo;If a cluttered desk is the sign of a cluttered mind, what is the significance of a clean desk?&rdquo; <br /> &mdash;Laurence J. Peter',
+        '&ldquo;I believe in rules. Sure I do. If there weren&rsquo;t any rules, how could you break them?&rdquo; <br /> &mdash;Leo Durocher',
+        '&ldquo;Forty for you, sixty for me. And equal partners we will be.&rdquo; <br /> &mdash;Joan Rivers',
+        '&ldquo;I used to jog but the ice cubes kept falling out of my glass.&rdquo; <br /> &mdash;David Lee Roth',
+        '&ldquo;French is the language that turns dirt into romance.&rdquo; <br /> &mdash;Stephen King',
+        '&ldquo;To catch a husband is an art; to hold him is a job.&rdquo; <br /> &mdash;Simone de Beauvoir',
+        '&ldquo;What I like to drink most is wine that belongs to others.&rdquo; <br /> &mdash;Diogenes',
+        '&ldquo;I&rsquo;m spending a year dead for tax reasons.&rdquo; <br /> &mdash;Douglas Adams',
+        '&ldquo;You don&rsquo;t pay taxes &ndash; they take taxes.&rdquo; <br /> &mdash;Chris Rock',
+        '&ldquo;In politics stupidity is not a handicap.&rdquo; <br /> &mdash;Napoleon Bonaparte',
+        '&ldquo;It ain&rsquo;t the heat, it&rsquo;s the humility.&rdquo; <br /> &mdash;Yogi Berra',
+        '&ldquo;People everywhere confuse what they read in newspapers with news.&rdquo; <br /> &mdash;A. J. Liebling',
+        '&ldquo;You can learn many things from children. How much patience you have, for instance.&rdquo; <br /> &mdash;Franklin P. Jones',
+        '&ldquo;My mom used to say that Greek Easter was later because then you get stuff cheaper.&rdquo; <br /> &mdash;Amy Sedaris',
+        '&ldquo;Give me a couple of years, and I&rsquo;ll make that actress an overnight success.&rdquo; <br /> &mdash;Samuel Goldwyn',
+        '&ldquo;I have a mind to join a club and beat you over the head with it.&rdquo; <br /> &mdash;Groucho Marx',
+        '&ldquo;Communism is like one big phone company.&rdquo; <br /> &mdash;Lenny Bruce',
+        '&ldquo;Instant gratification takes too long.&rdquo; <br /> &mdash;Carrie Fisher',
+        '&ldquo;Every dogma has its day.&rdquo; <br /> &mdash;Anthony Burgess',
+        '&ldquo;There&rsquo;s a great power in words, if you don&rsquo;t hitch too many of them together.&rdquo; <br /> &mdash;Josh Billings',
+        '&ldquo;They didn&rsquo;t want it good, they wanted it Wednesday.&rdquo; <br /> &mdash;Robert A. Heinlein',
+        '&ldquo;For every complex problem there is an answer that is clear, simple, and wrong.&rdquo; <br /> &mdash;H. L. Mencken',
+        '&ldquo;Age is not important unless you&rsquo;re a cheese.&rdquo; <br /> &mdash;Helen Hayes'
     ]
 
     let date = new Date()
