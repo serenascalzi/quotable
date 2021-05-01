@@ -1,41 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let aprilArray = [
-        '&ldquo;It is not only fine feathers that make fine birds.&rdquo; <br /> &mdash;Aesop',
-        '&ldquo;What would be ugly in a garden constitutes beauty in a mountain.&rdquo; <br /> &mdash;Victor Hugo',
-        '&ldquo;Set your course by the stars, not by the lights of every passing ship.&rdquo; <br /> &mdash;Omar N. Bradley',
-        '&ldquo;With the coming of spring, I am calm again.&rdquo; <br /> &mdash;Gustav Mahler',
-        '&ldquo;The sea complains upon a thousand shores.&rdquo; <br /> &mdash;Alexander Smith',
-        '&ldquo;The best thing one can do when it&rsquo;s raining is to let it rain.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
-        '&ldquo;Heaven is under our feet as well as over our heads.&rdquo; <br /> &mdash;Henry David Thoreau',
-        '&ldquo;The fulness of the godhead dwelt in every blade of grass.&rdquo; <br /> &mdash;Elias Hicks',
-        '&ldquo;Great men are like eagles, and build their nest on some lofty solitude.&rdquo; <br /> &mdash;Arthur Schopenhauer',
-        '&ldquo;A hen is only an egg&rsquo;s way of making another egg.&rdquo; <br /> &mdash;Samuel Butler',
-        '&ldquo;God writes the Gospel not in the Bible alone, but also on trees, and in the flowers and clouds and stars.&rdquo; <br /> &mdash;Martin Luther',
-        '&ldquo;To destroy is still the strongest instinct in nature.&rdquo; <br /> &mdash;Max Beerbohm',
-        '&ldquo;If people sat outside and looked at the stars each night, I&rsquo;ll bet they&rsquo;d live a lot differently.&rdquo; <br /> &mdash;Bill Watterson',
-        '&ldquo;We are an impossibility in an impossible universe.&rdquo; <br /> &mdash;Ray Bradbury',
-        '&ldquo;No occupation is so delightful to me as the culture of the earth, and no culture comparable to that of the garden.&rdquo; <br /> &mdash;Thomas Jefferson',
-        '&ldquo;Conservation is a state of harmony between men and land.&rdquo; <br /> &mdash;Aldo Leopold',
-        '&ldquo;Nature is often hidden, sometimes overcome, seldom extinguished.&rdquo; <br /> &mdash;Francis Bacon',
-        '&ldquo;There are no lines in nature, only areas of colour, one against another.&rdquo; <br /> &mdash;Edouard Manet',
-        '&ldquo;God, I can push the grass apart and lay my finger on Thy heart.&rdquo; <br /> &mdash;Edna St. Vincent Millay',
-        '&ldquo;I have always wanted a bunny and I&rsquo;ll always have a rabbit the rest of my life.&rdquo; <br /> &mdash;Amy Sedaris',
-        '&ldquo;I&rsquo;ve always regarded nature as the clothing of God.&rdquo; <br /> &mdash;Alan Hovhaness',
-        '&ldquo;Scenery is fine &ndash; but human nature is finer.&rdquo; <br /> &mdash;John Keats',
-        '&ldquo;The sun, too, shines into cesspools and is not polluted.&rdquo; <br /> &mdash;Diogenes',
-        '&ldquo;In the world of words, the imagination is one of the forces of nature.&rdquo; <br /> &mdash;Wallace Stevens',
-        '&ldquo;Nature does not hurry, yet everything is accomplished.&rdquo; <br /> &mdash;Lao Tzu',
-        '&ldquo;Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.&rdquo; <br /> &mdash;John Ruskin',
-        '&ldquo;The fairest thing in nature, a flower, still has its roots in earth and manure.&rdquo; <br /> &mdash;D. H. Lawrence',
-        '&ldquo;He who does not become familiar with nature through love will never know her.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
-        '&ldquo;Buildings, too, are children of Earth and Sun.&rdquo; <br /> &mdash;Frank Lloyd Wright',
-        '&ldquo;Life is a great sunrise. I do not see why death should not be an even greater one.&rdquo; <br /> &mdash;Vladimir Nabokov'
-    ]
-
     let mayArray = [
-        // May Quotes
+        '&ldquo;You can cut all the flowers but you cannot keep spring from coming.&rdquo; <br /> &mdash;Pablo Neruda'
     ]
 
     let juneArray = [
@@ -164,6 +131,39 @@ $(document).ready(function() {
         '&ldquo;Miracles are not contrary to nature, but only contrary to what we know about nature.&rdquo; <br /> &mdash;Saint Augustine',
         '&ldquo;The very winds whispered in soothing accents, and maternal Nature bade me weep no more.&rdquo; <br /> &mdash;Mary Shelley',
         '&ldquo;We are learning, too, that the love of beauty is one of Nature&rsquo;s greatest healers.&rdquo; <br /> &mdash;Ellsworth Huntington'
+    ]
+
+    let aprilArray = [
+        '&ldquo;It is not only fine feathers that make fine birds.&rdquo; <br /> &mdash;Aesop',
+        '&ldquo;What would be ugly in a garden constitutes beauty in a mountain.&rdquo; <br /> &mdash;Victor Hugo',
+        '&ldquo;Set your course by the stars, not by the lights of every passing ship.&rdquo; <br /> &mdash;Omar N. Bradley',
+        '&ldquo;With the coming of spring, I am calm again.&rdquo; <br /> &mdash;Gustav Mahler',
+        '&ldquo;The sea complains upon a thousand shores.&rdquo; <br /> &mdash;Alexander Smith',
+        '&ldquo;The best thing one can do when it&rsquo;s raining is to let it rain.&rdquo; <br /> &mdash;Henry Wadsworth Longfellow',
+        '&ldquo;Heaven is under our feet as well as over our heads.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;The fulness of the godhead dwelt in every blade of grass.&rdquo; <br /> &mdash;Elias Hicks',
+        '&ldquo;Great men are like eagles, and build their nest on some lofty solitude.&rdquo; <br /> &mdash;Arthur Schopenhauer',
+        '&ldquo;A hen is only an egg&rsquo;s way of making another egg.&rdquo; <br /> &mdash;Samuel Butler',
+        '&ldquo;God writes the Gospel not in the Bible alone, but also on trees, and in the flowers and clouds and stars.&rdquo; <br /> &mdash;Martin Luther',
+        '&ldquo;To destroy is still the strongest instinct in nature.&rdquo; <br /> &mdash;Max Beerbohm',
+        '&ldquo;If people sat outside and looked at the stars each night, I&rsquo;ll bet they&rsquo;d live a lot differently.&rdquo; <br /> &mdash;Bill Watterson',
+        '&ldquo;We are an impossibility in an impossible universe.&rdquo; <br /> &mdash;Ray Bradbury',
+        '&ldquo;No occupation is so delightful to me as the culture of the earth, and no culture comparable to that of the garden.&rdquo; <br /> &mdash;Thomas Jefferson',
+        '&ldquo;Conservation is a state of harmony between men and land.&rdquo; <br /> &mdash;Aldo Leopold',
+        '&ldquo;Nature is often hidden, sometimes overcome, seldom extinguished.&rdquo; <br /> &mdash;Francis Bacon',
+        '&ldquo;There are no lines in nature, only areas of colour, one against another.&rdquo; <br /> &mdash;Edouard Manet',
+        '&ldquo;God, I can push the grass apart and lay my finger on Thy heart.&rdquo; <br /> &mdash;Edna St. Vincent Millay',
+        '&ldquo;I have always wanted a bunny and I&rsquo;ll always have a rabbit the rest of my life.&rdquo; <br /> &mdash;Amy Sedaris',
+        '&ldquo;I&rsquo;ve always regarded nature as the clothing of God.&rdquo; <br /> &mdash;Alan Hovhaness',
+        '&ldquo;Scenery is fine &ndash; but human nature is finer.&rdquo; <br /> &mdash;John Keats',
+        '&ldquo;The sun, too, shines into cesspools and is not polluted.&rdquo; <br /> &mdash;Diogenes',
+        '&ldquo;In the world of words, the imagination is one of the forces of nature.&rdquo; <br /> &mdash;Wallace Stevens',
+        '&ldquo;Nature does not hurry, yet everything is accomplished.&rdquo; <br /> &mdash;Lao Tzu',
+        '&ldquo;Let every dawn be to you as the beginning of life, and every setting sun be to you as its close.&rdquo; <br /> &mdash;John Ruskin',
+        '&ldquo;The fairest thing in nature, a flower, still has its roots in earth and manure.&rdquo; <br /> &mdash;D. H. Lawrence',
+        '&ldquo;He who does not become familiar with nature through love will never know her.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
+        '&ldquo;Buildings, too, are children of Earth and Sun.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+        '&ldquo;Life is a great sunrise. I do not see why death should not be an even greater one.&rdquo; <br /> &mdash;Vladimir Nabokov'
     ]
 
     let date = new Date()
