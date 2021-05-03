@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let mayArray = [
         '&ldquo;You can cut all the flowers but you cannot keep spring from coming.&rdquo; <br /> &mdash;Pablo Neruda',
-        '&ldquo;Self-preservation is the first law of nature.&rdquo; <br /> &mdash;Samuel Butler'
+        '&ldquo;Self-preservation is the first law of nature.&rdquo; <br /> &mdash;Samuel Butler',
+        '&ldquo;Human judges can show mercy. But against the laws of nature, there is no appeal.&rdquo; <br /> &mdash;Arthur C. Clarke'
     ]
 
     let juneArray = [
