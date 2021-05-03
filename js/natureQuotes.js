@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let mayArray = [
-        '&ldquo;You can cut all the flowers but you cannot keep spring from coming.&rdquo; <br /> &mdash;Pablo Neruda'
+        '&ldquo;You can cut all the flowers but you cannot keep spring from coming.&rdquo; <br /> &mdash;Pablo Neruda',
+        '&ldquo;Self-preservation is the first law of nature.&rdquo; <br /> &mdash;Samuel Butler'
     ]
 
     let juneArray = [

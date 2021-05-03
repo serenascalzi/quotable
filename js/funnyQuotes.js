@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let mayArray = [
-        '&ldquo;The one thing I do not want to be called is First Lady. It sounds like a saddle horse.&rdquo; <br /> &mdash;Jackie Kennedy'
+        '&ldquo;The one thing I do not want to be called is First Lady. It sounds like a saddle horse.&rdquo; <br /> &mdash;Jackie Kennedy',
+        '&ldquo;Women who seek to be equal with men lack ambition.&rdquo; <br /> &mdash;Timothy Leary'
     ]
 
     let juneArray = [
