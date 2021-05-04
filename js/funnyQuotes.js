@@ -4,7 +4,8 @@ $(document).ready(function() {
     let mayArray = [
         '&ldquo;The one thing I do not want to be called is First Lady. It sounds like a saddle horse.&rdquo; <br /> &mdash;Jackie Kennedy',
         '&ldquo;Women who seek to be equal with men lack ambition.&rdquo; <br /> &mdash;Timothy Leary',
-        '&ldquo;Some people drink from the fountain of knowledge, others just gargle.&rdquo; <br /> &mdash;Robert Anthony'
+        '&ldquo;Some people drink from the fountain of knowledge, others just gargle.&rdquo; <br /> &mdash;Robert Anthony',
+        '&ldquo;The scientific theory I like best is that the rings of Saturn are composed entirely of lost airline luggage.&rdquo; <br /> &mdash;Mark Russell'
     ]
 
     let juneArray = [
