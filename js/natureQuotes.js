@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;Human judges can show mercy. But against the laws of nature, there is no appeal.&rdquo; <br /> &mdash;Arthur C. Clarke',
         '&ldquo;The earth is the very quintessence of the human condition.&rdquo; <br /> &mdash;Hannah Arendt',
         '&ldquo;The supernatural is the natural not yet understood.&rdquo; <br /> &mdash;Elbert Hubbard',
-        '&ldquo;&lsquo;Healing,&rsquo; Papa would tell me, &lsquo;is not a science, but the intuitive art of wooing nature.&rsquo;&rdquo; <br /> &mdash;W. H. Auden'
+        '&ldquo;&lsquo;Healing,&rsquo; Papa would tell me, &lsquo;is not a science, but the intuitive art of wooing nature.&rsquo;&rdquo; <br /> &mdash;W. H. Auden',
+        '&ldquo;If your knees aren&rsquo;t green by the end of the day, you ought to seriously re-examine your life.&rdquo; <br /> &mdash;Bill Watterson'
     ]
 
     let juneArray = [
