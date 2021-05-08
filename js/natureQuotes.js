@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;The earth is the very quintessence of the human condition.&rdquo; <br /> &mdash;Hannah Arendt',
         '&ldquo;The supernatural is the natural not yet understood.&rdquo; <br /> &mdash;Elbert Hubbard',
         '&ldquo;&lsquo;Healing,&rsquo; Papa would tell me, &lsquo;is not a science, but the intuitive art of wooing nature.&rsquo;&rdquo; <br /> &mdash;W. H. Auden',
-        '&ldquo;If your knees aren&rsquo;t green by the end of the day, you ought to seriously re-examine your life.&rdquo; <br /> &mdash;Bill Watterson'
+        '&ldquo;If your knees aren&rsquo;t green by the end of the day, you ought to seriously re-examine your life.&rdquo; <br /> &mdash;Bill Watterson',
+        '&ldquo;Earth is a flower and it&rsquo;s pollinating.&rdquo; <br /> &mdash;Neil Young'
     ]
 
     let juneArray = [
