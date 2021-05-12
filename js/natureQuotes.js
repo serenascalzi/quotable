@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;Earth is a flower and it&rsquo;s pollinating.&rdquo; <br /> &mdash;Neil Young',
         '&ldquo;In all things of nature there is something of the marvelous.&rdquo; <br /> &mdash;Aristotle',
         '&ldquo;Adopt the pace of nature: her secret is patience.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
-        '&ldquo;The violets in the mountains have broken the rocks.&rdquo; <br /> &mdash;Tennessee Williams'
+        '&ldquo;The violets in the mountains have broken the rocks.&rdquo; <br /> &mdash;Tennessee Williams',
+        '&ldquo;Night comes to the desert all at once, as if someone turned off the light.&rdquo; <br /> &mdash;Joyce Carol Oates'
     ]
 
     let juneArray = [
