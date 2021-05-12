@@ -11,7 +11,8 @@ $(document).ready(function() {
         '&ldquo;If your knees aren&rsquo;t green by the end of the day, you ought to seriously re-examine your life.&rdquo; <br /> &mdash;Bill Watterson',
         '&ldquo;Earth is a flower and it&rsquo;s pollinating.&rdquo; <br /> &mdash;Neil Young',
         '&ldquo;In all things of nature there is something of the marvelous.&rdquo; <br /> &mdash;Aristotle',
-        '&ldquo;Adopt the pace of nature: her secret is patience.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;Adopt the pace of nature: her secret is patience.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        '&ldquo;The violets in the mountains have broken the rocks.&rdquo; <br /> &mdash;Tennessee Williams'
     ]
 
     let juneArray = [
