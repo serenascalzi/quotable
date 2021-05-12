@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;When you&rsquo;re eight years old nothing is your business.&rdquo; <br /> &mdash;Lenny Bruce',
         '&ldquo;Life is a zoo in a jungle.&rdquo; <br /> &mdash;Peter De Vries',
         '&ldquo;I have a wonderful make-up crew. They&rsquo;re the same people restoring the Statue of Liberty.&rdquo; <br /> &mdash;Bob Hope',
-        '&ldquo;You want a friend in Washington? Get a dog.&rdquo; <br /> &mdash;Harry S. Truman'
+        '&ldquo;You want a friend in Washington? Get a dog.&rdquo; <br /> &mdash;Harry S. Truman',
+        '&ldquo;A lot of people are afraid of heights. Not me, I&rsquo;m afraid of widths.&rdquo; <br /> &mdash;Steven Wright'
     ]
 
     let juneArray = [
