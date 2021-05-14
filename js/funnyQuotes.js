@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;If evolution really works, how come mothers only have two hands?&rdquo; <br /> &mdash;Milton Berle',
         '&ldquo;The best way to keep one&rsquo;s word is not to give it.&rdquo; <br /> &mdash;Napoleon Bonaparte',
         '&ldquo;Punctuality is the virtue of the bored.&rdquo; <br /> &mdash;Evelyn Waugh',
-        '&ldquo;My most brilliant achievement was my ability to be able to persuade my wife to marry me.&rdquo; <br /> &mdash;Winston Churchill'
+        '&ldquo;My most brilliant achievement was my ability to be able to persuade my wife to marry me.&rdquo; <br /> &mdash;Winston Churchill',
+        '&ldquo;Because of their size, parents may be difficult to discipline properly.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke'
     ]
 
     let juneArray = [
