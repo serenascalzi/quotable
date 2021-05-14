@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;Adopt the pace of nature: her secret is patience.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         '&ldquo;The violets in the mountains have broken the rocks.&rdquo; <br /> &mdash;Tennessee Williams',
         '&ldquo;Night comes to the desert all at once, as if someone turned off the light.&rdquo; <br /> &mdash;Joyce Carol Oates',
-        '&ldquo;In search of my mother&rsquo;s garden, I found my own.&rdquo; <br /> &mdash;Alice Walker'
+        '&ldquo;In search of my mother&rsquo;s garden, I found my own.&rdquo; <br /> &mdash;Alice Walker',
+        '&ldquo;Use plants to bring life.&rdquo; <br /> &mdash;Douglas Wilson'
     ]
 
     let juneArray = [
