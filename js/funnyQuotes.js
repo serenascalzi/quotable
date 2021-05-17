@@ -17,7 +17,8 @@ $(document).ready(function() {
         '&ldquo;My most brilliant achievement was my ability to be able to persuade my wife to marry me.&rdquo; <br /> &mdash;Winston Churchill',
         '&ldquo;Because of their size, parents may be difficult to discipline properly.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
         '&ldquo;Once, during Prohibition, I was forced to live for days on nothing but food and water.&rdquo; <br /> &mdash;W. C. Fields',
-        '&ldquo;He was like a cock who thought the sun had risen to hear him crow.&rdquo; <br /> &mdash;George Eliot'
+        '&ldquo;He was like a cock who thought the sun had risen to hear him crow.&rdquo; <br /> &mdash;George Eliot',
+        '&ldquo;If you ask me anything I don&rsquo;t know, I&rsquo;m not going to answer.&rdquo; <br /> &mdash;Yogi Berra'
     ]
 
     let juneArray = [
