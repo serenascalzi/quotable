@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;The best way to keep one&rsquo;s word is not to give it.&rdquo; <br /> &mdash;Napoleon Bonaparte',
         '&ldquo;Punctuality is the virtue of the bored.&rdquo; <br /> &mdash;Evelyn Waugh',
         '&ldquo;My most brilliant achievement was my ability to be able to persuade my wife to marry me.&rdquo; <br /> &mdash;Winston Churchill',
-        '&ldquo;Because of their size, parents may be difficult to discipline properly.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke'
+        '&ldquo;Because of their size, parents may be difficult to discipline properly.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
+        '&ldquo;Once, during Prohibition, I was forced to live for days on nothing but food and water.&rdquo; <br /> &mdash;W. C. Fields'
     ]
 
     let juneArray = [

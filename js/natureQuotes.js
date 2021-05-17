@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;The violets in the mountains have broken the rocks.&rdquo; <br /> &mdash;Tennessee Williams',
         '&ldquo;Night comes to the desert all at once, as if someone turned off the light.&rdquo; <br /> &mdash;Joyce Carol Oates',
         '&ldquo;In search of my mother&rsquo;s garden, I found my own.&rdquo; <br /> &mdash;Alice Walker',
-        '&ldquo;Use plants to bring life.&rdquo; <br /> &mdash;Douglas Wilson'
+        '&ldquo;Use plants to bring life.&rdquo; <br /> &mdash;Douglas Wilson',
+        '&ldquo;Shadow owes its birth to light.&rdquo; <br /> &mdash;John Gay'
     ]
 
     let juneArray = [
