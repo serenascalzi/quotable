@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;Once, during Prohibition, I was forced to live for days on nothing but food and water.&rdquo; <br /> &mdash;W. C. Fields',
         '&ldquo;He was like a cock who thought the sun had risen to hear him crow.&rdquo; <br /> &mdash;George Eliot',
         '&ldquo;If you ask me anything I don&rsquo;t know, I&rsquo;m not going to answer.&rdquo; <br /> &mdash;Yogi Berra',
-        '&ldquo;The avoidance of taxes is the only intellectual pursuit that still carries any reward.&rdquo; <br /> &mdash;John Maynard Keynes'
+        '&ldquo;The avoidance of taxes is the only intellectual pursuit that still carries any reward.&rdquo; <br /> &mdash;John Maynard Keynes',
+        '&ldquo;You can lead a man to Congress, but you can&rsquo;t make him think.&rdquo; <br /> &mdash;Milton Berle'
     ]
 
     let juneArray = [

@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;Shadow owes its birth to light.&rdquo; <br /> &mdash;John Gay',
         '&ldquo;A good garden may have some weeds.&rdquo; <br /> &mdash;Thomas Fuller',
         '&ldquo;Literature and butterflies are the two sweetest passions known to man.&rdquo; <br /> &mdash;Vladimir Nabokov',
-        '&ldquo;Nature is not human hearted.&rdquo; <br /> &mdash;Lao Tzu'
+        '&ldquo;Nature is not human hearted.&rdquo; <br /> &mdash;Lao Tzu',
+        '&ldquo;Sweet April showers do spring May flowers.&rdquo; <br /> &mdash;Thomas Tusser'
     ]
 
     let juneArray = [
