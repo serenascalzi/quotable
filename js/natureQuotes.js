@@ -20,7 +20,8 @@ $(document).ready(function() {
         '&ldquo;A good garden may have some weeds.&rdquo; <br /> &mdash;Thomas Fuller',
         '&ldquo;Literature and butterflies are the two sweetest passions known to man.&rdquo; <br /> &mdash;Vladimir Nabokov',
         '&ldquo;Nature is not human hearted.&rdquo; <br /> &mdash;Lao Tzu',
-        '&ldquo;Sweet April showers do spring May flowers.&rdquo; <br /> &mdash;Thomas Tusser'
+        '&ldquo;Sweet April showers do spring May flowers.&rdquo; <br /> &mdash;Thomas Tusser',
+        '&ldquo;The foot feels the foot when it feels the ground.&rdquo; <br /> &mdash;Buddha'
     ]
 
     let juneArray = [

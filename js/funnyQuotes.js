@@ -20,7 +20,8 @@ $(document).ready(function() {
         '&ldquo;He was like a cock who thought the sun had risen to hear him crow.&rdquo; <br /> &mdash;George Eliot',
         '&ldquo;If you ask me anything I don&rsquo;t know, I&rsquo;m not going to answer.&rdquo; <br /> &mdash;Yogi Berra',
         '&ldquo;The avoidance of taxes is the only intellectual pursuit that still carries any reward.&rdquo; <br /> &mdash;John Maynard Keynes',
-        '&ldquo;You can lead a man to Congress, but you can&rsquo;t make him think.&rdquo; <br /> &mdash;Milton Berle'
+        '&ldquo;You can lead a man to Congress, but you can&rsquo;t make him think.&rdquo; <br /> &mdash;Milton Berle',
+        '&ldquo;When a man opens a car door for his wife, it&rsquo;s either a new car or a new wife.&rdquo; <br /> &mdash;Prince Philip'
     ]
 
     let juneArray = [
