@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;Literature and butterflies are the two sweetest passions known to man.&rdquo; <br /> &mdash;Vladimir Nabokov',
         '&ldquo;Nature is not human hearted.&rdquo; <br /> &mdash;Lao Tzu',
         '&ldquo;Sweet April showers do spring May flowers.&rdquo; <br /> &mdash;Thomas Tusser',
-        '&ldquo;The foot feels the foot when it feels the ground.&rdquo; <br /> &mdash;Buddha'
+        '&ldquo;The foot feels the foot when it feels the ground.&rdquo; <br /> &mdash;Buddha',
+        '&ldquo;Nature is inside art as its content, not outside as its model.&rdquo; <br /> &mdash;Marilyn French'
     ]
 
     let juneArray = [
