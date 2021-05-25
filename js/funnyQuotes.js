@@ -24,7 +24,8 @@ $(document).ready(function() {
         '&ldquo;When a man opens a car door for his wife, it&rsquo;s either a new car or a new wife.&rdquo; <br /> &mdash;Prince Philip',
         '&ldquo;I am at heart a gentleman.&rdquo; <br /> &mdash;Marlene Dietrich',
         '&ldquo;When in doubt tell the truth.&rdquo; <br /> &mdash;Mark Twain',
-        '&ldquo;Yield to temptation. It may not pass your way again.&rdquo; <br /> &mdash;Robert A. Heinlein'
+        '&ldquo;Yield to temptation. It may not pass your way again.&rdquo; <br /> &mdash;Robert A. Heinlein',
+        '&ldquo;We are here and it is now. Further than that, all human knowledge is moonshine.&rdquo; <br /> &mdash;H. L. Mencken'
     ]
 
     let juneArray = [
