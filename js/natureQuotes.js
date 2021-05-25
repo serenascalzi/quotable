@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;Sweet April showers do spring May flowers.&rdquo; <br /> &mdash;Thomas Tusser',
         '&ldquo;The foot feels the foot when it feels the ground.&rdquo; <br /> &mdash;Buddha',
         '&ldquo;Nature is inside art as its content, not outside as its model.&rdquo; <br /> &mdash;Marilyn French',
-        '&ldquo;Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.&rdquo; <br /> &mdash;Ambrose Bierce'
+        '&ldquo;Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.&rdquo; <br /> &mdash;Ambrose Bierce',
+        '&ldquo;Nature uses as little as possible of anything.&rdquo; <br /> &mdash;Johannes Kepler'
     ]
 
     let juneArray = [
