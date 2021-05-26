@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;Nature is inside art as its content, not outside as its model.&rdquo; <br /> &mdash;Marilyn French',
         '&ldquo;Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.&rdquo; <br /> &mdash;Ambrose Bierce',
         '&ldquo;Nature uses as little as possible of anything.&rdquo; <br /> &mdash;Johannes Kepler',
-        '&ldquo;There were no temples or shrines among us save those of nature.&rdquo; <br /> &mdash;Charles Eastman'
+        '&ldquo;There were no temples or shrines among us save those of nature.&rdquo; <br /> &mdash;Charles Eastman',
+        '&ldquo;Nature never makes any blunders, when she makes a fool she means it.&rdquo; <br /> &mdash;Archibald Alexander'
     ]
 
     let juneArray = [
