@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;When in doubt tell the truth.&rdquo; <br /> &mdash;Mark Twain',
         '&ldquo;Yield to temptation. It may not pass your way again.&rdquo; <br /> &mdash;Robert A. Heinlein',
         '&ldquo;We are here and it is now. Further than that, all human knowledge is moonshine.&rdquo; <br /> &mdash;H. L. Mencken',
-        '&ldquo;Macho does not prove mucho.&rdquo; <br /> &mdash;Zsa Zsa Gabor'
+        '&ldquo;Macho does not prove mucho.&rdquo; <br /> &mdash;Zsa Zsa Gabor',
+        '&ldquo;Fashions have done more harm than revolutions.&rdquo; <br /> &mdash;Victor Hugo'
     ]
 
     let juneArray = [
