@@ -160,10 +160,10 @@ $(document).ready(function() {
         '&ldquo;The life of the dead is placed in the memory of the living.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
         '&ldquo;Appearances are a glimpse of the unseen.&rdquo; <br /> &mdash;Anaxagoras',
         '&ldquo;Unless we remember we cannot understand.&rdquo; <br /> &mdash;E. M. Forster',
-        '&ldquo;My fellow Americans, ask not what your country can do for you, ask what you can do for your country.&rdquo; <br /> &mdash;John F. Kennedy',
+        '&ldquo;Gratitude is the fairest blossom which springs from the soul.&rdquo; <br /> &mdash;Henry Ward Beecher',
         '&ldquo;My motto is: Contented with little, yet wishing for more.&rdquo; <br /> &mdash;Charles Lamb',
         '&ldquo;Give light and people will find the way.&rdquo; <br /> &mdash;Ella Baker',
-        '&ldquo;Gratitude is the fairest blossom which springs from the soul.&rdquo; <br /> &mdash;Henry Ward Beecher'
+        '&ldquo;My fellow Americans, ask not what your country can do for you, ask what you can do for your country.&rdquo; <br /> &mdash;John F. Kennedy'
     ]
 
     let juneArray = [

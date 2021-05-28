@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;We are here and it is now. Further than that, all human knowledge is moonshine.&rdquo; <br /> &mdash;H. L. Mencken',
         '&ldquo;Macho does not prove mucho.&rdquo; <br /> &mdash;Zsa Zsa Gabor',
         '&ldquo;Fashions have done more harm than revolutions.&rdquo; <br /> &mdash;Victor Hugo',
-        '&ldquo;I have a memory like an elephant. I remember every elephant I&rsquo;ve ever met.&rdquo; <br /> &mdash;Herb Caen'
+        '&ldquo;I have a memory like an elephant. I remember every elephant I&rsquo;ve ever met.&rdquo; <br /> &mdash;Herb Caen',
+        '&ldquo;Be thankful we&rsquo;re not getting all the government we&rsquo;re paying for.&rdquo; <br /> &mdash;Will Rogers'
     ]
 
     let juneArray = [
