@@ -160,10 +160,10 @@ $(document).ready(function() {
         '&ldquo;You must be the change you wish to see in the world.&rdquo; <br /> &mdash;Mahatma Gandhi',
         '&ldquo;Courage is fear holding on a minute longer.&rdquo; <br /> &mdash;George S. Patton',
         '&ldquo;A friend may well be reckoned the masterpiece of nature.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
-        '&ldquo;As America celebrates Memorial Day, we pay tribute to those who have given their lives in our nation&rsquo;s wars.&rdquo; <br /> &mdash;John M. McHugh',
+        '&ldquo;The most satisfying thing in life is to have been able to give a large part of one&rsquo;s self to others.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin',
         '&ldquo;It is an ironic habit of human beings to run faster when we have lost our way.&rdquo; <br /> &mdash;Rollo May',
         '&ldquo;Hope is independent of the apparatus of logic.&rdquo; <br /> &mdash;Norman Cousins',
-        '&ldquo;The most satisfying thing in life is to have been able to give a large part of one&rsquo;s self to others.&rdquo; <br /> &mdash;Pierre Teilhard de Chardin'
+        '&ldquo;As America celebrates Memorial Day, we pay tribute to those who have given their lives in our nation&rsquo;s wars.&rdquo; <br /> &mdash;John M. McHugh'
     ]
 
     let juneArray = [
