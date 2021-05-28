@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;Yield to temptation. It may not pass your way again.&rdquo; <br /> &mdash;Robert A. Heinlein',
         '&ldquo;We are here and it is now. Further than that, all human knowledge is moonshine.&rdquo; <br /> &mdash;H. L. Mencken',
         '&ldquo;Macho does not prove mucho.&rdquo; <br /> &mdash;Zsa Zsa Gabor',
-        '&ldquo;Fashions have done more harm than revolutions.&rdquo; <br /> &mdash;Victor Hugo'
+        '&ldquo;Fashions have done more harm than revolutions.&rdquo; <br /> &mdash;Victor Hugo',
+        '&ldquo;I have a memory like an elephant. I remember every elephant I&rsquo;ve ever met.&rdquo; <br /> &mdash;Herb Caen'
     ]
 
     let juneArray = [
