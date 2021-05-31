@@ -31,7 +31,8 @@ $(document).ready(function() {
         '&ldquo;My soul can find no staircase to Heaven unless it be through Earth&rsquo;s loveliness.&rdquo; <br /> &mdash;Michelangelo',
         '&ldquo;Life comes from the earth and life returns to the earth.&rdquo; <br /> &mdash;Zhuangzi',
         '&ldquo;One could not pluck a flower without troubling a star.&rdquo; <br /> &mdash;Loren Eiseley',
-        '&ldquo;Don&rsquo;t pray when it rains if you don&rsquo;t pray when the sun shines.&rdquo; <br /> &mdash;Satchel Paige'
+        '&ldquo;Don&rsquo;t pray when it rains if you don&rsquo;t pray when the sun shines.&rdquo; <br /> &mdash;Satchel Paige',
+        '&ldquo;Flowers are happy things.&rdquo; <br /> &mdash;P. G. Wodehouse'
     ]
 
     let juneArray = [

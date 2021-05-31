@@ -31,7 +31,8 @@ $(document).ready(function() {
         '&ldquo;I have a memory like an elephant. I remember every elephant I&rsquo;ve ever met.&rdquo; <br /> &mdash;Herb Caen',
         '&ldquo;Be thankful we&rsquo;re not getting all the government we&rsquo;re paying for.&rdquo; <br /> &mdash;Will Rogers',
         '&ldquo;A sure cure for seasickness is to sit under a tree.&rdquo; <br /> &mdash;Spike Milligan',
-        '&ldquo;What after all, is a halo? It&rsquo;s only one more thing to keep clean.&rdquo; <br /> &mdash;Christopher Fry'
+        '&ldquo;What after all, is a halo? It&rsquo;s only one more thing to keep clean.&rdquo; <br /> &mdash;Christopher Fry',
+        '&ldquo;She got her looks from her father. He&rsquo;s a plastic surgeon.&rdquo; <br /> &mdash;Groucho Marx'
     ]
 
     let juneArray = [
