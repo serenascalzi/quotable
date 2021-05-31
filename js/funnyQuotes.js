@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;Fashions have done more harm than revolutions.&rdquo; <br /> &mdash;Victor Hugo',
         '&ldquo;I have a memory like an elephant. I remember every elephant I&rsquo;ve ever met.&rdquo; <br /> &mdash;Herb Caen',
         '&ldquo;Be thankful we&rsquo;re not getting all the government we&rsquo;re paying for.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;A sure cure for seasickness is to sit under a tree.&rdquo; <br /> &mdash;Spike Milligan'
+        '&ldquo;A sure cure for seasickness is to sit under a tree.&rdquo; <br /> &mdash;Spike Milligan',
+        '&ldquo;What after all, is a halo? It&rsquo;s only one more thing to keep clean.&rdquo; <br /> &mdash;Christopher Fry'
     ]
 
     let juneArray = [
