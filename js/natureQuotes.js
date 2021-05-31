@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;Nature never makes any blunders, when she makes a fool she means it.&rdquo; <br /> &mdash;Archibald Alexander',
         '&ldquo;Nothing leads to good that is not natural.&rdquo; <br /> &mdash;Friedrich Schiller',
         '&ldquo;My soul can find no staircase to Heaven unless it be through Earth&rsquo;s loveliness.&rdquo; <br /> &mdash;Michelangelo',
-        '&ldquo;Life comes from the earth and life returns to the earth.&rdquo; <br /> &mdash;Zhuangzi'
+        '&ldquo;Life comes from the earth and life returns to the earth.&rdquo; <br /> &mdash;Zhuangzi',
+        '&ldquo;One could not pluck a flower without troubling a star.&rdquo; <br /> &mdash;Loren Eiseley'
     ]
 
     let juneArray = [

@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;Macho does not prove mucho.&rdquo; <br /> &mdash;Zsa Zsa Gabor',
         '&ldquo;Fashions have done more harm than revolutions.&rdquo; <br /> &mdash;Victor Hugo',
         '&ldquo;I have a memory like an elephant. I remember every elephant I&rsquo;ve ever met.&rdquo; <br /> &mdash;Herb Caen',
-        '&ldquo;Be thankful we&rsquo;re not getting all the government we&rsquo;re paying for.&rdquo; <br /> &mdash;Will Rogers'
+        '&ldquo;Be thankful we&rsquo;re not getting all the government we&rsquo;re paying for.&rdquo; <br /> &mdash;Will Rogers',
+        '&ldquo;A sure cure for seasickness is to sit under a tree.&rdquo; <br /> &mdash;Spike Milligan'
     ]
 
     let juneArray = [
