@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let mayArray = [
-        '&ldquo;The one thing I do not want to be called is First Lady. It sounds like a saddle horse.&rdquo; <br /> &mdash;Jackie Kennedy',
-        '&ldquo;Women who seek to be equal with men lack ambition.&rdquo; <br /> &mdash;Timothy Leary',
-        '&ldquo;Some people drink from the fountain of knowledge, others just gargle.&rdquo; <br /> &mdash;Robert Anthony',
-        '&ldquo;The scientific theory I like best is that the rings of Saturn are composed entirely of lost airline luggage.&rdquo; <br /> &mdash;Mark Russell',
-        '&ldquo;When you&rsquo;re eight years old nothing is your business.&rdquo; <br /> &mdash;Lenny Bruce',
-        '&ldquo;Life is a zoo in a jungle.&rdquo; <br /> &mdash;Peter De Vries',
-        '&ldquo;I have a wonderful make-up crew. They&rsquo;re the same people restoring the Statue of Liberty.&rdquo; <br /> &mdash;Bob Hope',
-        '&ldquo;You want a friend in Washington? Get a dog.&rdquo; <br /> &mdash;Harry S. Truman',
-        '&ldquo;A lot of people are afraid of heights. Not me, I&rsquo;m afraid of widths.&rdquo; <br /> &mdash;Steven Wright',
-        '&ldquo;If evolution really works, how come mothers only have two hands?&rdquo; <br /> &mdash;Milton Berle',
-        '&ldquo;The best way to keep one&rsquo;s word is not to give it.&rdquo; <br /> &mdash;Napoleon Bonaparte',
-        '&ldquo;Punctuality is the virtue of the bored.&rdquo; <br /> &mdash;Evelyn Waugh',
-        '&ldquo;My most brilliant achievement was my ability to be able to persuade my wife to marry me.&rdquo; <br /> &mdash;Winston Churchill',
-        '&ldquo;Because of their size, parents may be difficult to discipline properly.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
-        '&ldquo;Once, during Prohibition, I was forced to live for days on nothing but food and water.&rdquo; <br /> &mdash;W. C. Fields',
-        '&ldquo;He was like a cock who thought the sun had risen to hear him crow.&rdquo; <br /> &mdash;George Eliot',
-        '&ldquo;If you ask me anything I don&rsquo;t know, I&rsquo;m not going to answer.&rdquo; <br /> &mdash;Yogi Berra',
-        '&ldquo;The avoidance of taxes is the only intellectual pursuit that still carries any reward.&rdquo; <br /> &mdash;John Maynard Keynes',
-        '&ldquo;You can lead a man to Congress, but you can&rsquo;t make him think.&rdquo; <br /> &mdash;Milton Berle',
-        '&ldquo;When a man opens a car door for his wife, it&rsquo;s either a new car or a new wife.&rdquo; <br /> &mdash;Prince Philip',
-        '&ldquo;I am at heart a gentleman.&rdquo; <br /> &mdash;Marlene Dietrich',
-        '&ldquo;When in doubt tell the truth.&rdquo; <br /> &mdash;Mark Twain',
-        '&ldquo;Yield to temptation. It may not pass your way again.&rdquo; <br /> &mdash;Robert A. Heinlein',
-        '&ldquo;We are here and it is now. Further than that, all human knowledge is moonshine.&rdquo; <br /> &mdash;H. L. Mencken',
-        '&ldquo;Macho does not prove mucho.&rdquo; <br /> &mdash;Zsa Zsa Gabor',
-        '&ldquo;Fashions have done more harm than revolutions.&rdquo; <br /> &mdash;Victor Hugo',
-        '&ldquo;I have a memory like an elephant. I remember every elephant I&rsquo;ve ever met.&rdquo; <br /> &mdash;Herb Caen',
-        '&ldquo;Be thankful we&rsquo;re not getting all the government we&rsquo;re paying for.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;A sure cure for seasickness is to sit under a tree.&rdquo; <br /> &mdash;Spike Milligan',
-        '&ldquo;What after all, is a halo? It&rsquo;s only one more thing to keep clean.&rdquo; <br /> &mdash;Christopher Fry',
-        '&ldquo;She got her looks from her father. He&rsquo;s a plastic surgeon.&rdquo; <br /> &mdash;Groucho Marx'
-    ]
-
     let juneArray = [
-        // June Quotes
+        '&ldquo;I have the body of an eighteen year old. I keep it in the fridge.&rdquo; <br /> &mdash;Spike Milligan'
     ]
 
     let julyArray = [
@@ -194,6 +160,40 @@ $(document).ready(function() {
         '&ldquo;They didn&rsquo;t want it good, they wanted it Wednesday.&rdquo; <br /> &mdash;Robert A. Heinlein',
         '&ldquo;For every complex problem there is an answer that is clear, simple, and wrong.&rdquo; <br /> &mdash;H. L. Mencken',
         '&ldquo;Age is not important unless you&rsquo;re a cheese.&rdquo; <br /> &mdash;Helen Hayes'
+    ]
+
+    let mayArray = [
+        '&ldquo;The one thing I do not want to be called is First Lady. It sounds like a saddle horse.&rdquo; <br /> &mdash;Jackie Kennedy',
+        '&ldquo;Women who seek to be equal with men lack ambition.&rdquo; <br /> &mdash;Timothy Leary',
+        '&ldquo;Some people drink from the fountain of knowledge, others just gargle.&rdquo; <br /> &mdash;Robert Anthony',
+        '&ldquo;The scientific theory I like best is that the rings of Saturn are composed entirely of lost airline luggage.&rdquo; <br /> &mdash;Mark Russell',
+        '&ldquo;When you&rsquo;re eight years old nothing is your business.&rdquo; <br /> &mdash;Lenny Bruce',
+        '&ldquo;Life is a zoo in a jungle.&rdquo; <br /> &mdash;Peter De Vries',
+        '&ldquo;I have a wonderful make-up crew. They&rsquo;re the same people restoring the Statue of Liberty.&rdquo; <br /> &mdash;Bob Hope',
+        '&ldquo;You want a friend in Washington? Get a dog.&rdquo; <br /> &mdash;Harry S. Truman',
+        '&ldquo;A lot of people are afraid of heights. Not me, I&rsquo;m afraid of widths.&rdquo; <br /> &mdash;Steven Wright',
+        '&ldquo;If evolution really works, how come mothers only have two hands?&rdquo; <br /> &mdash;Milton Berle',
+        '&ldquo;The best way to keep one&rsquo;s word is not to give it.&rdquo; <br /> &mdash;Napoleon Bonaparte',
+        '&ldquo;Punctuality is the virtue of the bored.&rdquo; <br /> &mdash;Evelyn Waugh',
+        '&ldquo;My most brilliant achievement was my ability to be able to persuade my wife to marry me.&rdquo; <br /> &mdash;Winston Churchill',
+        '&ldquo;Because of their size, parents may be difficult to discipline properly.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
+        '&ldquo;Once, during Prohibition, I was forced to live for days on nothing but food and water.&rdquo; <br /> &mdash;W. C. Fields',
+        '&ldquo;He was like a cock who thought the sun had risen to hear him crow.&rdquo; <br /> &mdash;George Eliot',
+        '&ldquo;If you ask me anything I don&rsquo;t know, I&rsquo;m not going to answer.&rdquo; <br /> &mdash;Yogi Berra',
+        '&ldquo;The avoidance of taxes is the only intellectual pursuit that still carries any reward.&rdquo; <br /> &mdash;John Maynard Keynes',
+        '&ldquo;You can lead a man to Congress, but you can&rsquo;t make him think.&rdquo; <br /> &mdash;Milton Berle',
+        '&ldquo;When a man opens a car door for his wife, it&rsquo;s either a new car or a new wife.&rdquo; <br /> &mdash;Prince Philip',
+        '&ldquo;I am at heart a gentleman.&rdquo; <br /> &mdash;Marlene Dietrich',
+        '&ldquo;When in doubt tell the truth.&rdquo; <br /> &mdash;Mark Twain',
+        '&ldquo;Yield to temptation. It may not pass your way again.&rdquo; <br /> &mdash;Robert A. Heinlein',
+        '&ldquo;We are here and it is now. Further than that, all human knowledge is moonshine.&rdquo; <br /> &mdash;H. L. Mencken',
+        '&ldquo;Macho does not prove mucho.&rdquo; <br /> &mdash;Zsa Zsa Gabor',
+        '&ldquo;Fashions have done more harm than revolutions.&rdquo; <br /> &mdash;Victor Hugo',
+        '&ldquo;I have a memory like an elephant. I remember every elephant I&rsquo;ve ever met.&rdquo; <br /> &mdash;Herb Caen',
+        '&ldquo;Be thankful we&rsquo;re not getting all the government we&rsquo;re paying for.&rdquo; <br /> &mdash;Will Rogers',
+        '&ldquo;A sure cure for seasickness is to sit under a tree.&rdquo; <br /> &mdash;Spike Milligan',
+        '&ldquo;What after all, is a halo? It&rsquo;s only one more thing to keep clean.&rdquo; <br /> &mdash;Christopher Fry',
+        '&ldquo;She got her looks from her father. He&rsquo;s a plastic surgeon.&rdquo; <br /> &mdash;Groucho Marx'
     ]
 
     let date = new Date()

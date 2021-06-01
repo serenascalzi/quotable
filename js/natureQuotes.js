@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let mayArray = [
-        '&ldquo;You can cut all the flowers but you cannot keep spring from coming.&rdquo; <br /> &mdash;Pablo Neruda',
-        '&ldquo;Self-preservation is the first law of nature.&rdquo; <br /> &mdash;Samuel Butler',
-        '&ldquo;Human judges can show mercy. But against the laws of nature, there is no appeal.&rdquo; <br /> &mdash;Arthur C. Clarke',
-        '&ldquo;The earth is the very quintessence of the human condition.&rdquo; <br /> &mdash;Hannah Arendt',
-        '&ldquo;The supernatural is the natural not yet understood.&rdquo; <br /> &mdash;Elbert Hubbard',
-        '&ldquo;&lsquo;Healing,&rsquo; Papa would tell me, &lsquo;is not a science, but the intuitive art of wooing nature.&rsquo;&rdquo; <br /> &mdash;W. H. Auden',
-        '&ldquo;If your knees aren&rsquo;t green by the end of the day, you ought to seriously re-examine your life.&rdquo; <br /> &mdash;Bill Watterson',
-        '&ldquo;Earth is a flower and it&rsquo;s pollinating.&rdquo; <br /> &mdash;Neil Young',
-        '&ldquo;In all things of nature there is something of the marvelous.&rdquo; <br /> &mdash;Aristotle',
-        '&ldquo;Adopt the pace of nature: her secret is patience.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
-        '&ldquo;The violets in the mountains have broken the rocks.&rdquo; <br /> &mdash;Tennessee Williams',
-        '&ldquo;Night comes to the desert all at once, as if someone turned off the light.&rdquo; <br /> &mdash;Joyce Carol Oates',
-        '&ldquo;In search of my mother&rsquo;s garden, I found my own.&rdquo; <br /> &mdash;Alice Walker',
-        '&ldquo;Use plants to bring life.&rdquo; <br /> &mdash;Douglas Wilson',
-        '&ldquo;Shadow owes its birth to light.&rdquo; <br /> &mdash;John Gay',
-        '&ldquo;A good garden may have some weeds.&rdquo; <br /> &mdash;Thomas Fuller',
-        '&ldquo;Literature and butterflies are the two sweetest passions known to man.&rdquo; <br /> &mdash;Vladimir Nabokov',
-        '&ldquo;Nature is not human hearted.&rdquo; <br /> &mdash;Lao Tzu',
-        '&ldquo;Sweet April showers do spring May flowers.&rdquo; <br /> &mdash;Thomas Tusser',
-        '&ldquo;The foot feels the foot when it feels the ground.&rdquo; <br /> &mdash;Buddha',
-        '&ldquo;Nature is inside art as its content, not outside as its model.&rdquo; <br /> &mdash;Marilyn French',
-        '&ldquo;Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.&rdquo; <br /> &mdash;Ambrose Bierce',
-        '&ldquo;Nature uses as little as possible of anything.&rdquo; <br /> &mdash;Johannes Kepler',
-        '&ldquo;There were no temples or shrines among us save those of nature.&rdquo; <br /> &mdash;Charles Eastman',
-        '&ldquo;Nature never makes any blunders, when she makes a fool she means it.&rdquo; <br /> &mdash;Archibald Alexander',
-        '&ldquo;Nothing leads to good that is not natural.&rdquo; <br /> &mdash;Friedrich Schiller',
-        '&ldquo;My soul can find no staircase to Heaven unless it be through Earth&rsquo;s loveliness.&rdquo; <br /> &mdash;Michelangelo',
-        '&ldquo;Life comes from the earth and life returns to the earth.&rdquo; <br /> &mdash;Zhuangzi',
-        '&ldquo;One could not pluck a flower without troubling a star.&rdquo; <br /> &mdash;Loren Eiseley',
-        '&ldquo;Don&rsquo;t pray when it rains if you don&rsquo;t pray when the sun shines.&rdquo; <br /> &mdash;Satchel Paige',
-        '&ldquo;Flowers are happy things.&rdquo; <br /> &mdash;P. G. Wodehouse'
-    ]
-
     let juneArray = [
-        // June Quotes
+        '&ldquo;All things are artificial, for nature is the art of God.&rdquo; <br /> &mdash;Thomas Browne'
     ]
 
     let julyArray = [
@@ -194,6 +160,40 @@ $(document).ready(function() {
         '&ldquo;He who does not become familiar with nature through love will never know her.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
         '&ldquo;Buildings, too, are children of Earth and Sun.&rdquo; <br /> &mdash;Frank Lloyd Wright',
         '&ldquo;Life is a great sunrise. I do not see why death should not be an even greater one.&rdquo; <br /> &mdash;Vladimir Nabokov'
+    ]
+
+    let mayArray = [
+        '&ldquo;You can cut all the flowers but you cannot keep spring from coming.&rdquo; <br /> &mdash;Pablo Neruda',
+        '&ldquo;Self-preservation is the first law of nature.&rdquo; <br /> &mdash;Samuel Butler',
+        '&ldquo;Human judges can show mercy. But against the laws of nature, there is no appeal.&rdquo; <br /> &mdash;Arthur C. Clarke',
+        '&ldquo;The earth is the very quintessence of the human condition.&rdquo; <br /> &mdash;Hannah Arendt',
+        '&ldquo;The supernatural is the natural not yet understood.&rdquo; <br /> &mdash;Elbert Hubbard',
+        '&ldquo;&lsquo;Healing,&rsquo; Papa would tell me, &lsquo;is not a science, but the intuitive art of wooing nature.&rsquo;&rdquo; <br /> &mdash;W. H. Auden',
+        '&ldquo;If your knees aren&rsquo;t green by the end of the day, you ought to seriously re-examine your life.&rdquo; <br /> &mdash;Bill Watterson',
+        '&ldquo;Earth is a flower and it&rsquo;s pollinating.&rdquo; <br /> &mdash;Neil Young',
+        '&ldquo;In all things of nature there is something of the marvelous.&rdquo; <br /> &mdash;Aristotle',
+        '&ldquo;Adopt the pace of nature: her secret is patience.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        '&ldquo;The violets in the mountains have broken the rocks.&rdquo; <br /> &mdash;Tennessee Williams',
+        '&ldquo;Night comes to the desert all at once, as if someone turned off the light.&rdquo; <br /> &mdash;Joyce Carol Oates',
+        '&ldquo;In search of my mother&rsquo;s garden, I found my own.&rdquo; <br /> &mdash;Alice Walker',
+        '&ldquo;Use plants to bring life.&rdquo; <br /> &mdash;Douglas Wilson',
+        '&ldquo;Shadow owes its birth to light.&rdquo; <br /> &mdash;John Gay',
+        '&ldquo;A good garden may have some weeds.&rdquo; <br /> &mdash;Thomas Fuller',
+        '&ldquo;Literature and butterflies are the two sweetest passions known to man.&rdquo; <br /> &mdash;Vladimir Nabokov',
+        '&ldquo;Nature is not human hearted.&rdquo; <br /> &mdash;Lao Tzu',
+        '&ldquo;Sweet April showers do spring May flowers.&rdquo; <br /> &mdash;Thomas Tusser',
+        '&ldquo;The foot feels the foot when it feels the ground.&rdquo; <br /> &mdash;Buddha',
+        '&ldquo;Nature is inside art as its content, not outside as its model.&rdquo; <br /> &mdash;Marilyn French',
+        '&ldquo;Spring beckons! All things to the call respond; the trees are leaving and cashiers abscond.&rdquo; <br /> &mdash;Ambrose Bierce',
+        '&ldquo;Nature uses as little as possible of anything.&rdquo; <br /> &mdash;Johannes Kepler',
+        '&ldquo;There were no temples or shrines among us save those of nature.&rdquo; <br /> &mdash;Charles Eastman',
+        '&ldquo;Nature never makes any blunders, when she makes a fool she means it.&rdquo; <br /> &mdash;Archibald Alexander',
+        '&ldquo;Nothing leads to good that is not natural.&rdquo; <br /> &mdash;Friedrich Schiller',
+        '&ldquo;My soul can find no staircase to Heaven unless it be through Earth&rsquo;s loveliness.&rdquo; <br /> &mdash;Michelangelo',
+        '&ldquo;Life comes from the earth and life returns to the earth.&rdquo; <br /> &mdash;Zhuangzi',
+        '&ldquo;One could not pluck a flower without troubling a star.&rdquo; <br /> &mdash;Loren Eiseley',
+        '&ldquo;Don&rsquo;t pray when it rains if you don&rsquo;t pray when the sun shines.&rdquo; <br /> &mdash;Satchel Paige',
+        '&ldquo;Flowers are happy things.&rdquo; <br /> &mdash;P. G. Wodehouse'
     ]
 
     let date = new Date()
