@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let juneArray = [
-        '&ldquo;All things are artificial, for nature is the art of God.&rdquo; <br /> &mdash;Thomas Browne'
+        '&ldquo;All things are artificial, for nature is the art of God.&rdquo; <br /> &mdash;Thomas Browne',
+        '&ldquo;A morning-glory at my window satisfies me more than the metaphysics of books.&rdquo; <br /> &mdash;Walt Whitman'
     ]
 
     let julyArray = [
