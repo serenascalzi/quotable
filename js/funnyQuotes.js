@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let juneArray = [
-        '&ldquo;I have the body of an eighteen year old. I keep it in the fridge.&rdquo; <br /> &mdash;Spike Milligan'
+        '&ldquo;I have the body of an eighteen year old. I keep it in the fridge.&rdquo; <br /> &mdash;Spike Milligan',
+        '&ldquo;Middle age is when your age starts to show around your middle.&rdquo; <br /> &mdash;Bob Hope'
     ]
 
     let julyArray = [
