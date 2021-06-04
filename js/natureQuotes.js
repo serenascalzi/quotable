@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let juneArray = [
         '&ldquo;All things are artificial, for nature is the art of God.&rdquo; <br /> &mdash;Thomas Browne',
-        '&ldquo;A morning-glory at my window satisfies me more than the metaphysics of books.&rdquo; <br /> &mdash;Walt Whitman'
+        '&ldquo;A morning-glory at my window satisfies me more than the metaphysics of books.&rdquo; <br /> &mdash;Walt Whitman',
+        '&ldquo;The eye of a human being is a microscope, which makes the world seem bigger than it really is.&rdquo; <br /> &mdash;Khalil Gibran'
     ]
 
     let julyArray = [

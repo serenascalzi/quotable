@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let juneArray = [
         '&ldquo;I have the body of an eighteen year old. I keep it in the fridge.&rdquo; <br /> &mdash;Spike Milligan',
-        '&ldquo;Middle age is when your age starts to show around your middle.&rdquo; <br /> &mdash;Bob Hope'
+        '&ldquo;Middle age is when your age starts to show around your middle.&rdquo; <br /> &mdash;Bob Hope',
+        '&ldquo;I never knew whether to pity or congratulate a man on coming to his senses.&rdquo; <br /> &mdash;William Makepeace Thackeray'
     ]
 
     let julyArray = [
