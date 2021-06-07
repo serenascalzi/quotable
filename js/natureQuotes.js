@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;The eye of a human being is a microscope, which makes the world seem bigger than it really is.&rdquo; <br /> &mdash;Khalil Gibran',
         '&ldquo;In the presence of eternity, the mountains are as transient as the clouds.&rdquo; <br /> &mdash;Robert Green Ingersoll',
         '&ldquo;Never does nature say one thing and wisdom another.&rdquo; <br /> &mdash;Juvenal',
-        '&ldquo;Swans sing before they die &ndash; &lsquo;twere no bad thing should certain persons die before they sing.&rdquo; <br /> &mdash;Samuel Taylor Coleridge'
+        '&ldquo;Swans sing before they die &ndash; &lsquo;twere no bad thing should certain persons die before they sing.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
+        '&ldquo;Let the rain kiss you. Let the rain beat upon your head with silver liquid drops. Let the rain sing you a lullaby.&rdquo; <br /> &mdash;Langston Hughes'
     ]
 
     let julyArray = [

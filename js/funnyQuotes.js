@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;I never knew whether to pity or congratulate a man on coming to his senses.&rdquo; <br /> &mdash;William Makepeace Thackeray',
         '&ldquo;Nobody understands anyone 18, including those who are 18.&rdquo; <br /> &mdash;Jim Bishop',
         '&ldquo;Prejudice is a great time saver. You can form opinions without having to get the facts.&rdquo; <br /> &mdash;E. B. White',
-        '&ldquo;If you must have motivation, think of your paycheck on Friday.&rdquo; <br /> &mdash;Noel Coward'
+        '&ldquo;If you must have motivation, think of your paycheck on Friday.&rdquo; <br /> &mdash;Noel Coward',
+        '&ldquo;That money talks, I&rsquo;ll not deny, I heard it once: It said, &lsquo;Goodbye&rsquo;.&rdquo; <br /> &mdash;Richard Armour'
     ]
 
     let julyArray = [
