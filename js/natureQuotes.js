@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;In the presence of eternity, the mountains are as transient as the clouds.&rdquo; <br /> &mdash;Robert Green Ingersoll',
         '&ldquo;Never does nature say one thing and wisdom another.&rdquo; <br /> &mdash;Juvenal',
         '&ldquo;Swans sing before they die &ndash; &lsquo;twere no bad thing should certain persons die before they sing.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
-        '&ldquo;Let the rain kiss you. Let the rain beat upon your head with silver liquid drops. Let the rain sing you a lullaby.&rdquo; <br /> &mdash;Langston Hughes'
+        '&ldquo;Let the rain kiss you. Let the rain beat upon your head with silver liquid drops. Let the rain sing you a lullaby.&rdquo; <br /> &mdash;Langston Hughes',
+        '&ldquo;If the path be beautiful, let us not ask where it leads.&rdquo; <br /> &mdash;Anatole France'
     ]
 
     let julyArray = [
