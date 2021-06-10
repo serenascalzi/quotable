@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;Prejudice is a great time saver. You can form opinions without having to get the facts.&rdquo; <br /> &mdash;E. B. White',
         '&ldquo;If you must have motivation, think of your paycheck on Friday.&rdquo; <br /> &mdash;Noel Coward',
         '&ldquo;That money talks, I&rsquo;ll not deny, I heard it once: It said, &lsquo;Goodbye&rsquo;.&rdquo; <br /> &mdash;Richard Armour',
-        '&ldquo;Everybody talks about the weather, but nobody does anything about it.&rdquo; <br /> &mdash;Charles Dudley Warner'
+        '&ldquo;Everybody talks about the weather, but nobody does anything about it.&rdquo; <br /> &mdash;Charles Dudley Warner',
+        '&ldquo;Anytime you see a turtle up on top of a fence post, you know he had some help.&rdquo; <br /> &mdash;Unknown'
     ]
 
     let julyArray = [
