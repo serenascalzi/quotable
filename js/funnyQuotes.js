@@ -11,7 +11,8 @@ $(document).ready(function() {
         '&ldquo;That money talks, I&rsquo;ll not deny, I heard it once: It said, &lsquo;Goodbye&rsquo;.&rdquo; <br /> &mdash;Richard Armour',
         '&ldquo;Everybody talks about the weather, but nobody does anything about it.&rdquo; <br /> &mdash;Charles Dudley Warner',
         '&ldquo;Anytime you see a turtle up on top of a fence post, you know he had some help.&rdquo; <br /> &mdash;Unknown',
-        '&ldquo;We all pay for life with death, so everything in between should be free.&rdquo; <br /> &mdash;Bill Hicks'
+        '&ldquo;We all pay for life with death, so everything in between should be free.&rdquo; <br /> &mdash;Bill Hicks',
+        '&ldquo;My fake plants died because I did not pretend to water them.&rdquo; <br /> &mdash;Mitch Hedberg'
     ]
 
     let julyArray = [
