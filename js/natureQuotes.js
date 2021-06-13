@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;If the path be beautiful, let us not ask where it leads.&rdquo; <br /> &mdash;Anatole France',
         '&ldquo;Plans to protect air and water, wilderness and wildlife are in fact plans to protect man.&rdquo; <br /> &mdash;Stewart Udall',
         '&ldquo;You cannot step into the same river twice.&rdquo; <br /> &mdash;Heraclitus',
-        '&ldquo;I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.&rdquo; <br /> &mdash;Claude Monet'
+        '&ldquo;I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.&rdquo; <br /> &mdash;Claude Monet',
+        '&ldquo;Poetry is the synthesis of hyacinths and biscuits.&rdquo; <br /> &mdash;Carl Sandburg'
     ]
 
     let julyArray = [
