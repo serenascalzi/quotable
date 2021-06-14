@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;Plans to protect air and water, wilderness and wildlife are in fact plans to protect man.&rdquo; <br /> &mdash;Stewart Udall',
         '&ldquo;You cannot step into the same river twice.&rdquo; <br /> &mdash;Heraclitus',
         '&ldquo;I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.&rdquo; <br /> &mdash;Claude Monet',
-        '&ldquo;Poetry is the synthesis of hyacinths and biscuits.&rdquo; <br /> &mdash;Carl Sandburg'
+        '&ldquo;Poetry is the synthesis of hyacinths and biscuits.&rdquo; <br /> &mdash;Carl Sandburg',
+        '&ldquo;How strange that nature does not knock, and yet does not intrude!&rdquo; <br /> &mdash;Emily Dickinson'
     ]
 
     let julyArray = [
