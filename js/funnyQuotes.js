@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;My fake plants died because I did not pretend to water them.&rdquo; <br /> &mdash;Mitch Hedberg',
         '&ldquo;Any kid will run any errand for you, if you ask at bedtime.&rdquo; <br /> &mdash;Red Skelton',
         '&ldquo;A psychiatrist asks a lot of expensive questions your wife asks for nothing.&rdquo; <br /> &mdash;Joey Adams',
-        '&ldquo;In the Halls of Justice the only justice is in the halls.&rdquo; <br /> &mdash;Lenny Bruce'
+        '&ldquo;In the Halls of Justice the only justice is in the halls.&rdquo; <br /> &mdash;Lenny Bruce',
+        '&ldquo;When my mother had to get dinner for 8 she&rsquo;d just make enough for 16 and only serve half.&rdquo; <br /> &mdash;Gracie Allen'
     ]
 
     let julyArray = [
