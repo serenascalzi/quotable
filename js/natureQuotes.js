@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.&rdquo; <br /> &mdash;Claude Monet',
         '&ldquo;Poetry is the synthesis of hyacinths and biscuits.&rdquo; <br /> &mdash;Carl Sandburg',
         '&ldquo;How strange that nature does not knock, and yet does not intrude!&rdquo; <br /> &mdash;Emily Dickinson',
-        '&ldquo;The groves were God&rsquo;s first temples.&rdquo; <br /> &mdash;William Cullen Bryant'
+        '&ldquo;The groves were God&rsquo;s first temples.&rdquo; <br /> &mdash;William Cullen Bryant',
+        '&ldquo;Great things are done when men and mountains meet.&rdquo; <br /> &mdash;William Blake'
     ]
 
     let julyArray = [
