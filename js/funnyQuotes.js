@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;We all pay for life with death, so everything in between should be free.&rdquo; <br /> &mdash;Bill Hicks',
         '&ldquo;My fake plants died because I did not pretend to water them.&rdquo; <br /> &mdash;Mitch Hedberg',
         '&ldquo;Any kid will run any errand for you, if you ask at bedtime.&rdquo; <br /> &mdash;Red Skelton',
-        '&ldquo;A psychiatrist asks a lot of expensive questions your wife asks for nothing.&rdquo; <br /> &mdash;Joey Adams'
+        '&ldquo;A psychiatrist asks a lot of expensive questions your wife asks for nothing.&rdquo; <br /> &mdash;Joey Adams',
+        '&ldquo;In the Halls of Justice the only justice is in the halls.&rdquo; <br /> &mdash;Lenny Bruce'
     ]
 
     let julyArray = [
