@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;You cannot step into the same river twice.&rdquo; <br /> &mdash;Heraclitus',
         '&ldquo;I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.&rdquo; <br /> &mdash;Claude Monet',
         '&ldquo;Poetry is the synthesis of hyacinths and biscuits.&rdquo; <br /> &mdash;Carl Sandburg',
-        '&ldquo;How strange that nature does not knock, and yet does not intrude!&rdquo; <br /> &mdash;Emily Dickinson'
+        '&ldquo;How strange that nature does not knock, and yet does not intrude!&rdquo; <br /> &mdash;Emily Dickinson',
+        '&ldquo;The groves were God&rsquo;s first temples.&rdquo; <br /> &mdash;William Cullen Bryant'
     ]
 
     let julyArray = [
