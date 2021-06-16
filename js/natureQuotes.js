@@ -16,7 +16,8 @@ $(document).ready(function() {
         '&ldquo;Poetry is the synthesis of hyacinths and biscuits.&rdquo; <br /> &mdash;Carl Sandburg',
         '&ldquo;How strange that nature does not knock, and yet does not intrude!&rdquo; <br /> &mdash;Emily Dickinson',
         '&ldquo;The groves were God&rsquo;s first temples.&rdquo; <br /> &mdash;William Cullen Bryant',
-        '&ldquo;Great things are done when men and mountains meet.&rdquo; <br /> &mdash;William Blake'
+        '&ldquo;Great things are done when men and mountains meet.&rdquo; <br /> &mdash;William Blake',
+        '&ldquo;My father considered a walk among the mountains as the equivalent of churchgoing.&rdquo; <br /> &mdash;Aldous Huxley'
     ]
 
     let julyArray = [
