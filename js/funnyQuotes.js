@@ -18,7 +18,8 @@ $(document).ready(function() {
         '&ldquo;In the Halls of Justice the only justice is in the halls.&rdquo; <br /> &mdash;Lenny Bruce',
         '&ldquo;When my mother had to get dinner for 8 she&rsquo;d just make enough for 16 and only serve half.&rdquo; <br /> &mdash;Gracie Allen',
         '&ldquo;Dad taught me everything I know. Unfortunately, he didn&rsquo;t teach me everything he knows.&rdquo; <br /> &mdash;Al Unser',
-        '&ldquo;The secrets of success are a good wife and a steady job. My wife told me.&rdquo; <br /> &mdash;Howard Nemerov'
+        '&ldquo;The secrets of success are a good wife and a steady job. My wife told me.&rdquo; <br /> &mdash;Howard Nemerov',
+        '&ldquo;Guilt: the gift that keeps on giving.&rdquo; <br /> &mdash;Erma Bombeck'
     ]
 
     let julyArray = [
