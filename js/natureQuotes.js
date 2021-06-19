@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;Great things are done when men and mountains meet.&rdquo; <br /> &mdash;William Blake',
         '&ldquo;My father considered a walk among the mountains as the equivalent of churchgoing.&rdquo; <br /> &mdash;Aldous Huxley',
         '&ldquo;The sky is the part of creation in which nature has done for the sake of pleasing man.&rdquo; <br /> &mdash;John Ruskin',
-        '&ldquo;The lake and the mountains have become my landscape, my real world.&rdquo; <br /> &mdash;Georges Simenon'
+        '&ldquo;The lake and the mountains have become my landscape, my real world.&rdquo; <br /> &mdash;Georges Simenon',
+        '&ldquo;There are no passengers on spaceship earth. We are all crew.&rdquo; <br /> &mdash;Marshall McLuhan'
     ]
 
     let julyArray = [
