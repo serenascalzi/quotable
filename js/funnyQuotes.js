@@ -20,7 +20,8 @@ $(document).ready(function() {
         '&ldquo;Dad taught me everything I know. Unfortunately, he didn&rsquo;t teach me everything he knows.&rdquo; <br /> &mdash;Al Unser',
         '&ldquo;The secrets of success are a good wife and a steady job. My wife told me.&rdquo; <br /> &mdash;Howard Nemerov',
         '&ldquo;Guilt: the gift that keeps on giving.&rdquo; <br /> &mdash;Erma Bombeck',
-        '&ldquo;No one appreciates the very special genius of your conversation as the dog does.&rdquo; <br /> &mdash;Christopher Morley'
+        '&ldquo;No one appreciates the very special genius of your conversation as the dog does.&rdquo; <br /> &mdash;Christopher Morley',
+        '&ldquo;I love Mickey Mouse more than any woman I have ever known.&rdquo; <br /> &mdash;Walt Disney'
     ]
 
     let julyArray = [
