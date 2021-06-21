@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;The sky is the part of creation in which nature has done for the sake of pleasing man.&rdquo; <br /> &mdash;John Ruskin',
         '&ldquo;The lake and the mountains have become my landscape, my real world.&rdquo; <br /> &mdash;Georges Simenon',
         '&ldquo;There are no passengers on spaceship earth. We are all crew.&rdquo; <br /> &mdash;Marshall McLuhan',
-        '&ldquo;What a man needs in gardening is a cast-iron back, with a hinge in it.&rdquo; <br /> &mdash;Charles Dudley Warner'
+        '&ldquo;What a man needs in gardening is a cast-iron back, with a hinge in it.&rdquo; <br /> &mdash;Charles Dudley Warner',
+        '&ldquo;Study nature, love nature, stay close to nature. It will never fail you.&rdquo; <br /> &mdash;Frank Lloyd Wright'
     ]
 
     let julyArray = [
