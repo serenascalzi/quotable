@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;No one appreciates the very special genius of your conversation as the dog does.&rdquo; <br /> &mdash;Christopher Morley',
         '&ldquo;I love Mickey Mouse more than any woman I have ever known.&rdquo; <br /> &mdash;Walt Disney',
         '&ldquo;To know one&rsquo;s self is wisdom, but not to know one&rsquo;s neighbors is genius.&rdquo; <br /> &mdash;Minna Antrim',
-        '&ldquo;If you don&rsquo;t think every day is a good day, just try missing one.&rdquo; <br /> &mdash;Cavett Robert'
+        '&ldquo;If you don&rsquo;t think every day is a good day, just try missing one.&rdquo; <br /> &mdash;Cavett Robert',
+        '&ldquo;The husband who decides to surprise his wife is often very much surprised himself.&rdquo; <br /> &mdash;Voltaire'
     ]
 
     let julyArray = [
