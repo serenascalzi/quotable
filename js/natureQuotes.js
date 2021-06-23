@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;There are no passengers on spaceship earth. We are all crew.&rdquo; <br /> &mdash;Marshall McLuhan',
         '&ldquo;What a man needs in gardening is a cast-iron back, with a hinge in it.&rdquo; <br /> &mdash;Charles Dudley Warner',
         '&ldquo;Study nature, love nature, stay close to nature. It will never fail you.&rdquo; <br /> &mdash;Frank Lloyd Wright',
-        '&ldquo;I only ask to be free. The butterflies are free.&rdquo; <br /> &mdash;Charles Dickens'
+        '&ldquo;I only ask to be free. The butterflies are free.&rdquo; <br /> &mdash;Charles Dickens',
+        '&ldquo;If I had to choose a religion, the sun as the universal giver of life would be my god.&rdquo; <br /> &mdash;Napoleon Bonaparte'
     ]
 
     let julyArray = [
