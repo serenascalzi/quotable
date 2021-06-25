@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;To know one&rsquo;s self is wisdom, but not to know one&rsquo;s neighbors is genius.&rdquo; <br /> &mdash;Minna Antrim',
         '&ldquo;If you don&rsquo;t think every day is a good day, just try missing one.&rdquo; <br /> &mdash;Cavett Robert',
         '&ldquo;The husband who decides to surprise his wife is often very much surprised himself.&rdquo; <br /> &mdash;Voltaire',
-        '&ldquo;Always live in the ugliest house on the street &ndash; then you don&rsquo;t have to look at it.&rdquo; <br /> &mdash;David Hockney'
+        '&ldquo;Always live in the ugliest house on the street &ndash; then you don&rsquo;t have to look at it.&rdquo; <br /> &mdash;David Hockney',
+        '&ldquo;A crown is merely a hat that lets the rain in.&rdquo; <br /> &mdash;Frederick the Great'
     ]
 
     let julyArray = [
