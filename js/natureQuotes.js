@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;I only ask to be free. The butterflies are free.&rdquo; <br /> &mdash;Charles Dickens',
         '&ldquo;If I had to choose a religion, the sun as the universal giver of life would be my god.&rdquo; <br /> &mdash;Napoleon Bonaparte',
         '&ldquo;Heaven lent you a soul, Earth will lend a grave.&rdquo; <br /> &mdash;Christian Nestell Bovee',
-        '&ldquo;And out of darkness came the hands that reach thro&rsquo; nature, moulding men.&rdquo; <br /> &mdash;Alfred Lord Tennyson'
+        '&ldquo;And out of darkness came the hands that reach thro&rsquo; nature, moulding men.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
+        '&ldquo;Fishes live in the sea, as men do a-land; the great ones eat up the little ones.&rdquo; <br /> &mdash;William Shakespeare'
     ]
 
     let julyArray = [
