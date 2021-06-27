@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;The husband who decides to surprise his wife is often very much surprised himself.&rdquo; <br /> &mdash;Voltaire',
         '&ldquo;Always live in the ugliest house on the street &ndash; then you don&rsquo;t have to look at it.&rdquo; <br /> &mdash;David Hockney',
         '&ldquo;A crown is merely a hat that lets the rain in.&rdquo; <br /> &mdash;Frederick the Great',
-        '&ldquo;Cure for an obsession: get another one.&rdquo; <br /> &mdash;Mason Cooley'
+        '&ldquo;Cure for an obsession: get another one.&rdquo; <br /> &mdash;Mason Cooley',
+        '&ldquo;I&rsquo;m a holy man minus the holiness.&rdquo; <br /> &mdash;E. M. Forster'
     ]
 
     let julyArray = [

@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;If I had to choose a religion, the sun as the universal giver of life would be my god.&rdquo; <br /> &mdash;Napoleon Bonaparte',
         '&ldquo;Heaven lent you a soul, Earth will lend a grave.&rdquo; <br /> &mdash;Christian Nestell Bovee',
         '&ldquo;And out of darkness came the hands that reach thro&rsquo; nature, moulding men.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
-        '&ldquo;Fishes live in the sea, as men do a-land; the great ones eat up the little ones.&rdquo; <br /> &mdash;William Shakespeare'
+        '&ldquo;Fishes live in the sea, as men do a-land; the great ones eat up the little ones.&rdquo; <br /> &mdash;William Shakespeare',
+        '&ldquo;If you would know strength and patience, welcome the company of trees.&rdquo; <br /> &mdash;Hal Borland'
     ]
 
     let julyArray = [
