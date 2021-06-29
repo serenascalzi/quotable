@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;A crown is merely a hat that lets the rain in.&rdquo; <br /> &mdash;Frederick the Great',
         '&ldquo;Cure for an obsession: get another one.&rdquo; <br /> &mdash;Mason Cooley',
         '&ldquo;I&rsquo;m a holy man minus the holiness.&rdquo; <br /> &mdash;E. M. Forster',
-        '&ldquo;Why don&rsquo;t you get a haircut? You look like a chrysanthemum.&rdquo; <br /> &mdash;P. G. Wodehouse'
+        '&ldquo;Why don&rsquo;t you get a haircut? You look like a chrysanthemum.&rdquo; <br /> &mdash;P. G. Wodehouse',
+        '&ldquo;If you steal from one author it&rsquo;s plagiarism; if you steal from many it&rsquo;s research.&rdquo; <br /> &mdash;Wilson Mizner'
     ]
 
     let julyArray = [
