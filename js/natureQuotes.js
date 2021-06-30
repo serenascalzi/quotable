@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;Fishes live in the sea, as men do a-land; the great ones eat up the little ones.&rdquo; <br /> &mdash;William Shakespeare',
         '&ldquo;If you would know strength and patience, welcome the company of trees.&rdquo; <br /> &mdash;Hal Borland',
         '&ldquo;The temple bell stops but I still hear the sound coming out of the flowers.&rdquo; <br /> &mdash;Matsuo Basho',
-        '&ldquo;Flowers are the sweetest things God ever made and forgot to put a soul into.&rdquo; <br /> &mdash;Henry Ward Beecher'
+        '&ldquo;Flowers are the sweetest things God ever made and forgot to put a soul into.&rdquo; <br /> &mdash;Henry Ward Beecher',
+        '&ldquo;Won&rsquo;t you come into the garden? I would like my roses to see you.&rdquo; <br /> &mdash;Richard Brinsley Sheridan'
     ]
 
     let julyArray = [
