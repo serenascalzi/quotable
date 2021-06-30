@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;Cure for an obsession: get another one.&rdquo; <br /> &mdash;Mason Cooley',
         '&ldquo;I&rsquo;m a holy man minus the holiness.&rdquo; <br /> &mdash;E. M. Forster',
         '&ldquo;Why don&rsquo;t you get a haircut? You look like a chrysanthemum.&rdquo; <br /> &mdash;P. G. Wodehouse',
-        '&ldquo;If you steal from one author it&rsquo;s plagiarism; if you steal from many it&rsquo;s research.&rdquo; <br /> &mdash;Wilson Mizner'
+        '&ldquo;If you steal from one author it&rsquo;s plagiarism; if you steal from many it&rsquo;s research.&rdquo; <br /> &mdash;Wilson Mizner',
+        '&ldquo;Science may never come up with a better office communication system than the coffee break.&rdquo; <br /> &mdash;Earl Wilson'
     ]
 
     let julyArray = [
