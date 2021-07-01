@@ -1,41 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let juneArray = [
-        '&ldquo;I have the body of an eighteen year old. I keep it in the fridge.&rdquo; <br /> &mdash;Spike Milligan',
-        '&ldquo;Middle age is when your age starts to show around your middle.&rdquo; <br /> &mdash;Bob Hope',
-        '&ldquo;I never knew whether to pity or congratulate a man on coming to his senses.&rdquo; <br /> &mdash;William Makepeace Thackeray',
-        '&ldquo;Nobody understands anyone 18, including those who are 18.&rdquo; <br /> &mdash;Jim Bishop',
-        '&ldquo;Prejudice is a great time saver. You can form opinions without having to get the facts.&rdquo; <br /> &mdash;E. B. White',
-        '&ldquo;If you must have motivation, think of your paycheck on Friday.&rdquo; <br /> &mdash;Noel Coward',
-        '&ldquo;That money talks, I&rsquo;ll not deny, I heard it once: It said, &lsquo;Goodbye&rsquo;.&rdquo; <br /> &mdash;Richard Armour',
-        '&ldquo;Everybody talks about the weather, but nobody does anything about it.&rdquo; <br /> &mdash;Charles Dudley Warner',
-        '&ldquo;Anytime you see a turtle up on top of a fence post, you know he had some help.&rdquo; <br /> &mdash;Unknown',
-        '&ldquo;We all pay for life with death, so everything in between should be free.&rdquo; <br /> &mdash;Bill Hicks',
-        '&ldquo;My fake plants died because I did not pretend to water them.&rdquo; <br /> &mdash;Mitch Hedberg',
-        '&ldquo;Any kid will run any errand for you, if you ask at bedtime.&rdquo; <br /> &mdash;Red Skelton',
-        '&ldquo;A psychiatrist asks a lot of expensive questions your wife asks for nothing.&rdquo; <br /> &mdash;Joey Adams',
-        '&ldquo;In the Halls of Justice the only justice is in the halls.&rdquo; <br /> &mdash;Lenny Bruce',
-        '&ldquo;When my mother had to get dinner for 8 she&rsquo;d just make enough for 16 and only serve half.&rdquo; <br /> &mdash;Gracie Allen',
-        '&ldquo;Dad taught me everything I know. Unfortunately, he didn&rsquo;t teach me everything he knows.&rdquo; <br /> &mdash;Al Unser',
-        '&ldquo;The secrets of success are a good wife and a steady job. My wife told me.&rdquo; <br /> &mdash;Howard Nemerov',
-        '&ldquo;Guilt: the gift that keeps on giving.&rdquo; <br /> &mdash;Erma Bombeck',
-        '&ldquo;No one appreciates the very special genius of your conversation as the dog does.&rdquo; <br /> &mdash;Christopher Morley',
-        '&ldquo;I love Mickey Mouse more than any woman I have ever known.&rdquo; <br /> &mdash;Walt Disney',
-        '&ldquo;To know one&rsquo;s self is wisdom, but not to know one&rsquo;s neighbors is genius.&rdquo; <br /> &mdash;Minna Antrim',
-        '&ldquo;If you don&rsquo;t think every day is a good day, just try missing one.&rdquo; <br /> &mdash;Cavett Robert',
-        '&ldquo;The husband who decides to surprise his wife is often very much surprised himself.&rdquo; <br /> &mdash;Voltaire',
-        '&ldquo;Always live in the ugliest house on the street &ndash; then you don&rsquo;t have to look at it.&rdquo; <br /> &mdash;David Hockney',
-        '&ldquo;A crown is merely a hat that lets the rain in.&rdquo; <br /> &mdash;Frederick the Great',
-        '&ldquo;Cure for an obsession: get another one.&rdquo; <br /> &mdash;Mason Cooley',
-        '&ldquo;I&rsquo;m a holy man minus the holiness.&rdquo; <br /> &mdash;E. M. Forster',
-        '&ldquo;Why don&rsquo;t you get a haircut? You look like a chrysanthemum.&rdquo; <br /> &mdash;P. G. Wodehouse',
-        '&ldquo;If you steal from one author it&rsquo;s plagiarism; if you steal from many it&rsquo;s research.&rdquo; <br /> &mdash;Wilson Mizner',
-        '&ldquo;Science may never come up with a better office communication system than the coffee break.&rdquo; <br /> &mdash;Earl Wilson'
-    ]
-
     let julyArray = [
-        // July Quotes
+        '&ldquo;For NASA, space is still a high priority.&rdquo; <br /> &mdash;Dan Quayle'
     ]
 
     let augustArray = [
@@ -223,6 +190,39 @@ $(document).ready(function() {
         '&ldquo;A sure cure for seasickness is to sit under a tree.&rdquo; <br /> &mdash;Spike Milligan',
         '&ldquo;What after all, is a halo? It&rsquo;s only one more thing to keep clean.&rdquo; <br /> &mdash;Christopher Fry',
         '&ldquo;She got her looks from her father. He&rsquo;s a plastic surgeon.&rdquo; <br /> &mdash;Groucho Marx'
+    ]
+
+    let juneArray = [
+        '&ldquo;I have the body of an eighteen year old. I keep it in the fridge.&rdquo; <br /> &mdash;Spike Milligan',
+        '&ldquo;Middle age is when your age starts to show around your middle.&rdquo; <br /> &mdash;Bob Hope',
+        '&ldquo;I never knew whether to pity or congratulate a man on coming to his senses.&rdquo; <br /> &mdash;William Makepeace Thackeray',
+        '&ldquo;Nobody understands anyone 18, including those who are 18.&rdquo; <br /> &mdash;Jim Bishop',
+        '&ldquo;Prejudice is a great time saver. You can form opinions without having to get the facts.&rdquo; <br /> &mdash;E. B. White',
+        '&ldquo;If you must have motivation, think of your paycheck on Friday.&rdquo; <br /> &mdash;Noel Coward',
+        '&ldquo;That money talks, I&rsquo;ll not deny, I heard it once: It said, &lsquo;Goodbye&rsquo;.&rdquo; <br /> &mdash;Richard Armour',
+        '&ldquo;Everybody talks about the weather, but nobody does anything about it.&rdquo; <br /> &mdash;Charles Dudley Warner',
+        '&ldquo;Anytime you see a turtle up on top of a fence post, you know he had some help.&rdquo; <br /> &mdash;Unknown',
+        '&ldquo;We all pay for life with death, so everything in between should be free.&rdquo; <br /> &mdash;Bill Hicks',
+        '&ldquo;My fake plants died because I did not pretend to water them.&rdquo; <br /> &mdash;Mitch Hedberg',
+        '&ldquo;Any kid will run any errand for you, if you ask at bedtime.&rdquo; <br /> &mdash;Red Skelton',
+        '&ldquo;A psychiatrist asks a lot of expensive questions your wife asks for nothing.&rdquo; <br /> &mdash;Joey Adams',
+        '&ldquo;In the Halls of Justice the only justice is in the halls.&rdquo; <br /> &mdash;Lenny Bruce',
+        '&ldquo;When my mother had to get dinner for 8 she&rsquo;d just make enough for 16 and only serve half.&rdquo; <br /> &mdash;Gracie Allen',
+        '&ldquo;Dad taught me everything I know. Unfortunately, he didn&rsquo;t teach me everything he knows.&rdquo; <br /> &mdash;Al Unser',
+        '&ldquo;The secrets of success are a good wife and a steady job. My wife told me.&rdquo; <br /> &mdash;Howard Nemerov',
+        '&ldquo;Guilt: the gift that keeps on giving.&rdquo; <br /> &mdash;Erma Bombeck',
+        '&ldquo;No one appreciates the very special genius of your conversation as the dog does.&rdquo; <br /> &mdash;Christopher Morley',
+        '&ldquo;I love Mickey Mouse more than any woman I have ever known.&rdquo; <br /> &mdash;Walt Disney',
+        '&ldquo;To know one&rsquo;s self is wisdom, but not to know one&rsquo;s neighbors is genius.&rdquo; <br /> &mdash;Minna Antrim',
+        '&ldquo;If you don&rsquo;t think every day is a good day, just try missing one.&rdquo; <br /> &mdash;Cavett Robert',
+        '&ldquo;The husband who decides to surprise his wife is often very much surprised himself.&rdquo; <br /> &mdash;Voltaire',
+        '&ldquo;Always live in the ugliest house on the street &ndash; then you don&rsquo;t have to look at it.&rdquo; <br /> &mdash;David Hockney',
+        '&ldquo;A crown is merely a hat that lets the rain in.&rdquo; <br /> &mdash;Frederick the Great',
+        '&ldquo;Cure for an obsession: get another one.&rdquo; <br /> &mdash;Mason Cooley',
+        '&ldquo;I&rsquo;m a holy man minus the holiness.&rdquo; <br /> &mdash;E. M. Forster',
+        '&ldquo;Why don&rsquo;t you get a haircut? You look like a chrysanthemum.&rdquo; <br /> &mdash;P. G. Wodehouse',
+        '&ldquo;If you steal from one author it&rsquo;s plagiarism; if you steal from many it&rsquo;s research.&rdquo; <br /> &mdash;Wilson Mizner',
+        '&ldquo;Science may never come up with a better office communication system than the coffee break.&rdquo; <br /> &mdash;Earl Wilson'
     ]
 
     let date = new Date()
