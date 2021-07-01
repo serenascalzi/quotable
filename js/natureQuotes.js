@@ -1,41 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let juneArray = [
-        '&ldquo;All things are artificial, for nature is the art of God.&rdquo; <br /> &mdash;Thomas Browne',
-        '&ldquo;A morning-glory at my window satisfies me more than the metaphysics of books.&rdquo; <br /> &mdash;Walt Whitman',
-        '&ldquo;The eye of a human being is a microscope, which makes the world seem bigger than it really is.&rdquo; <br /> &mdash;Khalil Gibran',
-        '&ldquo;In the presence of eternity, the mountains are as transient as the clouds.&rdquo; <br /> &mdash;Robert Green Ingersoll',
-        '&ldquo;Never does nature say one thing and wisdom another.&rdquo; <br /> &mdash;Juvenal',
-        '&ldquo;Swans sing before they die &ndash; &lsquo;twere no bad thing should certain persons die before they sing.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
-        '&ldquo;Let the rain kiss you. Let the rain beat upon your head with silver liquid drops. Let the rain sing you a lullaby.&rdquo; <br /> &mdash;Langston Hughes',
-        '&ldquo;If the path be beautiful, let us not ask where it leads.&rdquo; <br /> &mdash;Anatole France',
-        '&ldquo;Plans to protect air and water, wilderness and wildlife are in fact plans to protect man.&rdquo; <br /> &mdash;Stewart Udall',
-        '&ldquo;You cannot step into the same river twice.&rdquo; <br /> &mdash;Heraclitus',
-        '&ldquo;I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.&rdquo; <br /> &mdash;Claude Monet',
-        '&ldquo;Poetry is the synthesis of hyacinths and biscuits.&rdquo; <br /> &mdash;Carl Sandburg',
-        '&ldquo;How strange that nature does not knock, and yet does not intrude!&rdquo; <br /> &mdash;Emily Dickinson',
-        '&ldquo;The groves were God&rsquo;s first temples.&rdquo; <br /> &mdash;William Cullen Bryant',
-        '&ldquo;Great things are done when men and mountains meet.&rdquo; <br /> &mdash;William Blake',
-        '&ldquo;My father considered a walk among the mountains as the equivalent of churchgoing.&rdquo; <br /> &mdash;Aldous Huxley',
-        '&ldquo;The sky is the part of creation in which nature has done for the sake of pleasing man.&rdquo; <br /> &mdash;John Ruskin',
-        '&ldquo;The lake and the mountains have become my landscape, my real world.&rdquo; <br /> &mdash;Georges Simenon',
-        '&ldquo;There are no passengers on spaceship earth. We are all crew.&rdquo; <br /> &mdash;Marshall McLuhan',
-        '&ldquo;What a man needs in gardening is a cast-iron back, with a hinge in it.&rdquo; <br /> &mdash;Charles Dudley Warner',
-        '&ldquo;Study nature, love nature, stay close to nature. It will never fail you.&rdquo; <br /> &mdash;Frank Lloyd Wright',
-        '&ldquo;I only ask to be free. The butterflies are free.&rdquo; <br /> &mdash;Charles Dickens',
-        '&ldquo;If I had to choose a religion, the sun as the universal giver of life would be my god.&rdquo; <br /> &mdash;Napoleon Bonaparte',
-        '&ldquo;Heaven lent you a soul, Earth will lend a grave.&rdquo; <br /> &mdash;Christian Nestell Bovee',
-        '&ldquo;And out of darkness came the hands that reach thro&rsquo; nature, moulding men.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
-        '&ldquo;Fishes live in the sea, as men do a-land; the great ones eat up the little ones.&rdquo; <br /> &mdash;William Shakespeare',
-        '&ldquo;If you would know strength and patience, welcome the company of trees.&rdquo; <br /> &mdash;Hal Borland',
-        '&ldquo;The temple bell stops but I still hear the sound coming out of the flowers.&rdquo; <br /> &mdash;Matsuo Basho',
-        '&ldquo;Flowers are the sweetest things God ever made and forgot to put a soul into.&rdquo; <br /> &mdash;Henry Ward Beecher',
-        '&ldquo;Won&rsquo;t you come into the garden? I would like my roses to see you.&rdquo; <br /> &mdash;Richard Brinsley Sheridan'
-    ]
-
     let julyArray = [
-        // July Quotes
+        '&ldquo;Pity the meek, for they shall inherit the earth.&rdquo; <br /> &mdash;Don Marquis'
     ]
 
     let augustArray = [
@@ -223,6 +190,39 @@ $(document).ready(function() {
         '&ldquo;One could not pluck a flower without troubling a star.&rdquo; <br /> &mdash;Loren Eiseley',
         '&ldquo;Don&rsquo;t pray when it rains if you don&rsquo;t pray when the sun shines.&rdquo; <br /> &mdash;Satchel Paige',
         '&ldquo;Flowers are happy things.&rdquo; <br /> &mdash;P. G. Wodehouse'
+    ]
+
+    let juneArray = [
+        '&ldquo;All things are artificial, for nature is the art of God.&rdquo; <br /> &mdash;Thomas Browne',
+        '&ldquo;A morning-glory at my window satisfies me more than the metaphysics of books.&rdquo; <br /> &mdash;Walt Whitman',
+        '&ldquo;The eye of a human being is a microscope, which makes the world seem bigger than it really is.&rdquo; <br /> &mdash;Khalil Gibran',
+        '&ldquo;In the presence of eternity, the mountains are as transient as the clouds.&rdquo; <br /> &mdash;Robert Green Ingersoll',
+        '&ldquo;Never does nature say one thing and wisdom another.&rdquo; <br /> &mdash;Juvenal',
+        '&ldquo;Swans sing before they die &ndash; &lsquo;twere no bad thing should certain persons die before they sing.&rdquo; <br /> &mdash;Samuel Taylor Coleridge',
+        '&ldquo;Let the rain kiss you. Let the rain beat upon your head with silver liquid drops. Let the rain sing you a lullaby.&rdquo; <br /> &mdash;Langston Hughes',
+        '&ldquo;If the path be beautiful, let us not ask where it leads.&rdquo; <br /> &mdash;Anatole France',
+        '&ldquo;Plans to protect air and water, wilderness and wildlife are in fact plans to protect man.&rdquo; <br /> &mdash;Stewart Udall',
+        '&ldquo;You cannot step into the same river twice.&rdquo; <br /> &mdash;Heraclitus',
+        '&ldquo;I am following Nature without being able to grasp her, I perhaps owe having become a painter to flowers.&rdquo; <br /> &mdash;Claude Monet',
+        '&ldquo;Poetry is the synthesis of hyacinths and biscuits.&rdquo; <br /> &mdash;Carl Sandburg',
+        '&ldquo;How strange that nature does not knock, and yet does not intrude!&rdquo; <br /> &mdash;Emily Dickinson',
+        '&ldquo;The groves were God&rsquo;s first temples.&rdquo; <br /> &mdash;William Cullen Bryant',
+        '&ldquo;Great things are done when men and mountains meet.&rdquo; <br /> &mdash;William Blake',
+        '&ldquo;My father considered a walk among the mountains as the equivalent of churchgoing.&rdquo; <br /> &mdash;Aldous Huxley',
+        '&ldquo;The sky is the part of creation in which nature has done for the sake of pleasing man.&rdquo; <br /> &mdash;John Ruskin',
+        '&ldquo;The lake and the mountains have become my landscape, my real world.&rdquo; <br /> &mdash;Georges Simenon',
+        '&ldquo;There are no passengers on spaceship earth. We are all crew.&rdquo; <br /> &mdash;Marshall McLuhan',
+        '&ldquo;What a man needs in gardening is a cast-iron back, with a hinge in it.&rdquo; <br /> &mdash;Charles Dudley Warner',
+        '&ldquo;Study nature, love nature, stay close to nature. It will never fail you.&rdquo; <br /> &mdash;Frank Lloyd Wright',
+        '&ldquo;I only ask to be free. The butterflies are free.&rdquo; <br /> &mdash;Charles Dickens',
+        '&ldquo;If I had to choose a religion, the sun as the universal giver of life would be my god.&rdquo; <br /> &mdash;Napoleon Bonaparte',
+        '&ldquo;Heaven lent you a soul, Earth will lend a grave.&rdquo; <br /> &mdash;Christian Nestell Bovee',
+        '&ldquo;And out of darkness came the hands that reach thro&rsquo; nature, moulding men.&rdquo; <br /> &mdash;Alfred Lord Tennyson',
+        '&ldquo;Fishes live in the sea, as men do a-land; the great ones eat up the little ones.&rdquo; <br /> &mdash;William Shakespeare',
+        '&ldquo;If you would know strength and patience, welcome the company of trees.&rdquo; <br /> &mdash;Hal Borland',
+        '&ldquo;The temple bell stops but I still hear the sound coming out of the flowers.&rdquo; <br /> &mdash;Matsuo Basho',
+        '&ldquo;Flowers are the sweetest things God ever made and forgot to put a soul into.&rdquo; <br /> &mdash;Henry Ward Beecher',
+        '&ldquo;Won&rsquo;t you come into the garden? I would like my roses to see you.&rdquo; <br /> &mdash;Richard Brinsley Sheridan'
     ]
 
     let date = new Date()
