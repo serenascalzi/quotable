@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let julyArray = [
-        '&ldquo;Pity the meek, for they shall inherit the earth.&rdquo; <br /> &mdash;Don Marquis'
+        '&ldquo;Pity the meek, for they shall inherit the earth.&rdquo; <br /> &mdash;Don Marquis',
+        '&ldquo;Nature, like man, sometimes weeps from gladness.&rdquo; <br /> &mdash;Benjamin Disraeli'
     ]
 
     let augustArray = [
