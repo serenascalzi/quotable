@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let julyArray = [
-        '&ldquo;For NASA, space is still a high priority.&rdquo; <br /> &mdash;Dan Quayle'
+        '&ldquo;For NASA, space is still a high priority.&rdquo; <br /> &mdash;Dan Quayle',
+        '&ldquo;Fortune knocks but once, but misfortune has much more patience.&rdquo; <br /> &mdash;Laurence J. Peter'
     ]
 
     let augustArray = [
