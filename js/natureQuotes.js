@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let julyArray = [
         '&ldquo;Pity the meek, for they shall inherit the earth.&rdquo; <br /> &mdash;Don Marquis',
-        '&ldquo;Nature, like man, sometimes weeps from gladness.&rdquo; <br /> &mdash;Benjamin Disraeli'
+        '&ldquo;Nature, like man, sometimes weeps from gladness.&rdquo; <br /> &mdash;Benjamin Disraeli',
+        '&ldquo;Go forth under the open sky, and list To Nature&rsquo;s teachings.&rdquo; <br /> &mdash;William Cullen Bryant'
     ]
 
     let augustArray = [
