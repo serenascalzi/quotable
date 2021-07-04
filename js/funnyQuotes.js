@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let julyArray = [
         '&ldquo;For NASA, space is still a high priority.&rdquo; <br /> &mdash;Dan Quayle',
-        '&ldquo;Fortune knocks but once, but misfortune has much more patience.&rdquo; <br /> &mdash;Laurence J. Peter'
+        '&ldquo;Fortune knocks but once, but misfortune has much more patience.&rdquo; <br /> &mdash;Laurence J. Peter',
+        '&ldquo;If it weren&rsquo;t for Philo T. Farnsworth, inventor of television, we&rsquo;d still be eating frozen radio dinners.&rdquo; <br /> &mdash;Johnny Carson'
     ]
 
     let augustArray = [
