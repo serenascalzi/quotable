@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;Pity the meek, for they shall inherit the earth.&rdquo; <br /> &mdash;Don Marquis',
         '&ldquo;Nature, like man, sometimes weeps from gladness.&rdquo; <br /> &mdash;Benjamin Disraeli',
         '&ldquo;Go forth under the open sky, and list To Nature&rsquo;s teachings.&rdquo; <br /> &mdash;William Cullen Bryant',
-        '&ldquo;To make us love our country, our country ought to be lovely.&rdquo; <br /> &mdash;Edmund Burke'
+        '&ldquo;To make us love our country, our country ought to be lovely.&rdquo; <br /> &mdash;Edmund Burke',
+        '&ldquo;Oh, the summer night, Has a smile of light, And she sits on a sapphire throne.&rdquo; <br /> &mdash;Bryan Procter'
     ]
 
     let augustArray = [
