@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;If it weren&rsquo;t for Philo T. Farnsworth, inventor of television, we&rsquo;d still be eating frozen radio dinners.&rdquo; <br /> &mdash;Johnny Carson',
         '&ldquo;If I have to lay an egg for my country, I&rsquo;ll do it.&rdquo; <br /> &mdash;Bob Hope',
         '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Fred Allen',
-        '&ldquo;A loafer always has the correct time.&rdquo; <br /> &mdash;Kin Hubbard'
+        '&ldquo;A loafer always has the correct time.&rdquo; <br /> &mdash;Kin Hubbard',
+        '&ldquo;A jury is composed of twelve men of average ignorance.&rdquo; <br /> &mdash;Herbert Spencer'
     ]
 
     let augustArray = [
