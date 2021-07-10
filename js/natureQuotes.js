@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;Oh, the summer night, Has a smile of light, And she sits on a sapphire throne.&rdquo; <br /> &mdash;Bryan Procter',
         '&ldquo;The Dove, on silver pinions, winged her peaceful way.&rdquo; <br /> &mdash;James Montgomery',
         '&ldquo;Clouds symbolize the veils that shroud God.&rdquo; <br /> &mdash;Honore de Balzac',
-        '&ldquo;But friendship is the breathing rose, with sweets in every fold.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.'
+        '&ldquo;But friendship is the breathing rose, with sweets in every fold.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
+        '&ldquo;Nature&rsquo;s far too subtle to repeat herself.&rdquo; <br /> &mdash;Paul Muni'
     ]
 
     let augustArray = [
