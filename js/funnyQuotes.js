@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;A loafer always has the correct time.&rdquo; <br /> &mdash;Kin Hubbard',
         '&ldquo;A jury is composed of twelve men of average ignorance.&rdquo; <br /> &mdash;Herbert Spencer',
         '&ldquo;I have never been hurt by what I have not said.&rdquo; <br /> &mdash;Calvin Coolidge',
-        '&ldquo;I have made good judgments in the past. I have made good judgments in the future.&rdquo; <br /> &mdash;Dan Quayle'
+        '&ldquo;I have made good judgments in the past. I have made good judgments in the future.&rdquo; <br /> &mdash;Dan Quayle',
+        '&ldquo;I never saw a lawyer yet who would admit he was making money.&rdquo; <br /> &mdash;Mary Roberts Rinehart'
     ]
 
     let augustArray = [
