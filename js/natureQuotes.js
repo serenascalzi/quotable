@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;But friendship is the breathing rose, with sweets in every fold.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
         '&ldquo;Nature&rsquo;s far too subtle to repeat herself.&rdquo; <br /> &mdash;Paul Muni',
         '&ldquo;If one way be better than another, that you may be sure is nature&rsquo;s way.&rdquo; <br /> &mdash;Aristotle',
-        '&ldquo;Mere goodness can achieve little against the power of nature.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel'
+        '&ldquo;Mere goodness can achieve little against the power of nature.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel',
+        '&ldquo;Death is the ugly fact which Nature has to hide, and she hides it well.&rdquo; <br /> &mdash;Alexander Smith'
     ]
 
     let augustArray = [
