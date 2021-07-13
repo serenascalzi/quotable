@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;The Dove, on silver pinions, winged her peaceful way.&rdquo; <br /> &mdash;James Montgomery',
         '&ldquo;Clouds symbolize the veils that shroud God.&rdquo; <br /> &mdash;Honore de Balzac',
         '&ldquo;But friendship is the breathing rose, with sweets in every fold.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
-        '&ldquo;Nature&rsquo;s far too subtle to repeat herself.&rdquo; <br /> &mdash;Paul Muni'
+        '&ldquo;Nature&rsquo;s far too subtle to repeat herself.&rdquo; <br /> &mdash;Paul Muni',
+        '&ldquo;If one way be better than another, that you may be sure is nature&rsquo;s way.&rdquo; <br /> &mdash;Aristotle'
     ]
 
     let augustArray = [
