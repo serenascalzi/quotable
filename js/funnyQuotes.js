@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;I have made good judgments in the past. I have made good judgments in the future.&rdquo; <br /> &mdash;Dan Quayle',
         '&ldquo;I never saw a lawyer yet who would admit he was making money.&rdquo; <br /> &mdash;Mary Roberts Rinehart',
         '&ldquo;Education is a progressive discovery of our own ignorance.&rdquo; <br /> &mdash;Will Durant',
-        '&ldquo;Never eat spinach just before going on the air.&rdquo; <br /> &mdash;Dan Rather'
+        '&ldquo;Never eat spinach just before going on the air.&rdquo; <br /> &mdash;Dan Rather',
+        '&ldquo;I did not have three thousand pairs of shoes, I had one thousand and sixty.&rdquo; <br /> &mdash;Imelda Marcos'
     ]
 
     let augustArray = [
