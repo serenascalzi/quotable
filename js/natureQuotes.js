@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;If one way be better than another, that you may be sure is nature&rsquo;s way.&rdquo; <br /> &mdash;Aristotle',
         '&ldquo;Mere goodness can achieve little against the power of nature.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel',
         '&ldquo;Death is the ugly fact which Nature has to hide, and she hides it well.&rdquo; <br /> &mdash;Alexander Smith',
-        '&ldquo;We sit in the mud&hellip; and reach for the stars.&rdquo; <br /> &mdash;Ivan Turgenev'
+        '&ldquo;We sit in the mud&hellip; and reach for the stars.&rdquo; <br /> &mdash;Ivan Turgenev',
+        '&ldquo;Weeds are flowers too, once you get to know them.&rdquo; <br /> &mdash;A. A. Milne'
     ]
 
     let augustArray = [

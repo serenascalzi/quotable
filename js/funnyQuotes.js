@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;I never saw a lawyer yet who would admit he was making money.&rdquo; <br /> &mdash;Mary Roberts Rinehart',
         '&ldquo;Education is a progressive discovery of our own ignorance.&rdquo; <br /> &mdash;Will Durant',
         '&ldquo;Never eat spinach just before going on the air.&rdquo; <br /> &mdash;Dan Rather',
-        '&ldquo;I did not have three thousand pairs of shoes, I had one thousand and sixty.&rdquo; <br /> &mdash;Imelda Marcos'
+        '&ldquo;I did not have three thousand pairs of shoes, I had one thousand and sixty.&rdquo; <br /> &mdash;Imelda Marcos',
+        '&ldquo;Cabbage: a familiar kitchen-garden vegetable about as large and wise as a man&rsquo;s head.&rdquo; <br /> &mdash;Ambrose Bierce'
     ]
 
     let augustArray = [
