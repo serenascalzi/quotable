@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;Nature&rsquo;s far too subtle to repeat herself.&rdquo; <br /> &mdash;Paul Muni',
         '&ldquo;If one way be better than another, that you may be sure is nature&rsquo;s way.&rdquo; <br /> &mdash;Aristotle',
         '&ldquo;Mere goodness can achieve little against the power of nature.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel',
-        '&ldquo;Death is the ugly fact which Nature has to hide, and she hides it well.&rdquo; <br /> &mdash;Alexander Smith'
+        '&ldquo;Death is the ugly fact which Nature has to hide, and she hides it well.&rdquo; <br /> &mdash;Alexander Smith',
+        '&ldquo;We sit in the mud&hellip; and reach for the stars.&rdquo; <br /> &mdash;Ivan Turgenev'
     ]
 
     let augustArray = [
