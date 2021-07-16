@@ -16,7 +16,8 @@ $(document).ready(function() {
         '&ldquo;Never eat spinach just before going on the air.&rdquo; <br /> &mdash;Dan Rather',
         '&ldquo;I did not have three thousand pairs of shoes, I had one thousand and sixty.&rdquo; <br /> &mdash;Imelda Marcos',
         '&ldquo;Cabbage: a familiar kitchen-garden vegetable about as large and wise as a man&rsquo;s head.&rdquo; <br /> &mdash;Ambrose Bierce',
-        '&ldquo;Insanity is hereditary; you get it from your children.&rdquo; <br /> &mdash;Sam Levenson'
+        '&ldquo;Insanity is hereditary; you get it from your children.&rdquo; <br /> &mdash;Sam Levenson',
+        '&ldquo;When all is lost, ask the I.R.S. &ndash; they&rsquo;ll find something.&rdquo; <br /> &mdash;Douglas Horton'
     ]
 
     let augustArray = [
