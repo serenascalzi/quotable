@@ -17,7 +17,8 @@ $(document).ready(function() {
         '&ldquo;We sit in the mud&hellip; and reach for the stars.&rdquo; <br /> &mdash;Ivan Turgenev',
         '&ldquo;Weeds are flowers too, once you get to know them.&rdquo; <br /> &mdash;A. A. Milne',
         '&ldquo;Against her ankles as she trod The lucky buttercups did nod.&rdquo; <br /> &mdash;Jean Ingelow',
-        '&ldquo;I had to live in the desert before I could understand the full value of grass in a green ditch.&rdquo; <br /> &mdash;Ella Maillart'
+        '&ldquo;I had to live in the desert before I could understand the full value of grass in a green ditch.&rdquo; <br /> &mdash;Ella Maillart',
+        '&ldquo;Nature is something outside our body, but the mind is within us.&rdquo; <br /> &mdash;Bhumibol Adulyadej'
     ]
 
     let augustArray = [
