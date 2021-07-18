@@ -18,7 +18,8 @@ $(document).ready(function() {
         '&ldquo;Weeds are flowers too, once you get to know them.&rdquo; <br /> &mdash;A. A. Milne',
         '&ldquo;Against her ankles as she trod The lucky buttercups did nod.&rdquo; <br /> &mdash;Jean Ingelow',
         '&ldquo;I had to live in the desert before I could understand the full value of grass in a green ditch.&rdquo; <br /> &mdash;Ella Maillart',
-        '&ldquo;Nature is something outside our body, but the mind is within us.&rdquo; <br /> &mdash;Bhumibol Adulyadej'
+        '&ldquo;Nature is something outside our body, but the mind is within us.&rdquo; <br /> &mdash;Bhumibol Adulyadej',
+        '&ldquo;Be truthful, nature only sides with truth.&rdquo; <br /> &mdash;Adolf Loos'
     ]
 
     let augustArray = [
