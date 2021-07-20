@@ -20,7 +20,8 @@ $(document).ready(function() {
         '&ldquo;I had to live in the desert before I could understand the full value of grass in a green ditch.&rdquo; <br /> &mdash;Ella Maillart',
         '&ldquo;Nature is something outside our body, but the mind is within us.&rdquo; <br /> &mdash;Bhumibol Adulyadej',
         '&ldquo;Be truthful, nature only sides with truth.&rdquo; <br /> &mdash;Adolf Loos',
-        '&ldquo;If the stars should appear but one night every thousand years how man would marvel and stare.&rdquo; <br /> &mdash;Ralph Waldo Emerson'
+        '&ldquo;If the stars should appear but one night every thousand years how man would marvel and stare.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        '&ldquo;All the universe is full of the lives of perfect creatures.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky'
     ]
 
     let augustArray = [

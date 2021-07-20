@@ -20,7 +20,8 @@ $(document).ready(function() {
         '&ldquo;When all is lost, ask the I.R.S. &ndash; they&rsquo;ll find something.&rdquo; <br /> &mdash;Douglas Horton',
         '&ldquo;A man always has two reasons for doing anything: a good reason and the real reason.&rdquo; <br /> &mdash;J. P. Morgan',
         '&ldquo;The other night I ate at a real nice family restaurant. Every table had an argument going.&rdquo; <br /> &mdash;George Carlin',
-        '&ldquo;I have had more trouble with myself than with any other man.&rdquo; <br /> &mdash;Dwight L. Moody'
+        '&ldquo;I have had more trouble with myself than with any other man.&rdquo; <br /> &mdash;Dwight L. Moody',
+        '&ldquo;Never trust anything that can think for itself if you can&rsquo;t see where it keeps its brain.&rdquo; <br /> &mdash;J. K. Rowling'
     ]
 
     let augustArray = [
