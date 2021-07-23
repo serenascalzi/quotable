@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;I have had more trouble with myself than with any other man.&rdquo; <br /> &mdash;Dwight L. Moody',
         '&ldquo;Never trust anything that can think for itself if you can&rsquo;t see where it keeps its brain.&rdquo; <br /> &mdash;J. K. Rowling',
         '&ldquo;If you think it&rsquo;s hard to meet new people, try picking up the wrong golf ball.&rdquo; <br /> &mdash;Jack Lemmon',
-        '&ldquo;I drink to make other people interesting.&rdquo; <br /> &mdash;George Jean Nathan'
+        '&ldquo;I drink to make other people interesting.&rdquo; <br /> &mdash;George Jean Nathan',
+        '&ldquo;This stammer got me a home in Beverly Hills, and I&rsquo;m not about to screw with it now.&rdquo; <br /> &mdash;Bob Newhart'
     ]
 
     let augustArray = [
