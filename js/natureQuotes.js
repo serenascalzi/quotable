@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;If the stars should appear but one night every thousand years how man would marvel and stare.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         '&ldquo;All the universe is full of the lives of perfect creatures.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky',
         '&ldquo;Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.&rdquo; <br /> &mdash;Blaise Pascal',
-        '&ldquo;There is the sky, which is all men&rsquo;s together.&rdquo; <br /> &mdash;Euripides'
+        '&ldquo;There is the sky, which is all men&rsquo;s together.&rdquo; <br /> &mdash;Euripides',
+        '&ldquo;Show me your garden and I shall tell you what you are.&rdquo; <br /> &mdash;Alfred Austin'
     ]
 
     let augustArray = [
