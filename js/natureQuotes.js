@@ -24,7 +24,8 @@ $(document).ready(function() {
         '&ldquo;All the universe is full of the lives of perfect creatures.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky',
         '&ldquo;Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.&rdquo; <br /> &mdash;Blaise Pascal',
         '&ldquo;There is the sky, which is all men&rsquo;s together.&rdquo; <br /> &mdash;Euripides',
-        '&ldquo;Show me your garden and I shall tell you what you are.&rdquo; <br /> &mdash;Alfred Austin'
+        '&ldquo;Show me your garden and I shall tell you what you are.&rdquo; <br /> &mdash;Alfred Austin',
+        '&ldquo;What we observe is not nature itself, but nature exposed to our method of questioning.&rdquo; <br /> &mdash;Werner Heisenberg'
     ]
 
     let augustArray = [
