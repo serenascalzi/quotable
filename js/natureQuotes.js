@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.&rdquo; <br /> &mdash;Blaise Pascal',
         '&ldquo;There is the sky, which is all men&rsquo;s together.&rdquo; <br /> &mdash;Euripides',
         '&ldquo;Show me your garden and I shall tell you what you are.&rdquo; <br /> &mdash;Alfred Austin',
-        '&ldquo;What we observe is not nature itself, but nature exposed to our method of questioning.&rdquo; <br /> &mdash;Werner Heisenberg'
+        '&ldquo;What we observe is not nature itself, but nature exposed to our method of questioning.&rdquo; <br /> &mdash;Werner Heisenberg',
+        '&ldquo;Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?&rdquo; <br /> &mdash;William Cullen Bryant'
     ]
 
     let augustArray = [
