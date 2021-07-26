@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;I drink to make other people interesting.&rdquo; <br /> &mdash;George Jean Nathan',
         '&ldquo;This stammer got me a home in Beverly Hills, and I&rsquo;m not about to screw with it now.&rdquo; <br /> &mdash;Bob Newhart',
         '&ldquo;Every cloud has its silver lining but it is sometimes a little difficult to get it to the mint.&rdquo; <br /> &mdash;Don Marquis',
-        '&ldquo;Freedom of the press is guaranteed only to those who own one.&rdquo; <br /> &mdash;A. J. Liebling'
+        '&ldquo;Freedom of the press is guaranteed only to those who own one.&rdquo; <br /> &mdash;A. J. Liebling',
+        '&ldquo;I am not a member of any organized political party. I am a Democrat.&rdquo; <br /> &mdash;Will Rogers'
     ]
 
     let augustArray = [
