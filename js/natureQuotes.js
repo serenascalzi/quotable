@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;What we observe is not nature itself, but nature exposed to our method of questioning.&rdquo; <br /> &mdash;Werner Heisenberg',
         '&ldquo;Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?&rdquo; <br /> &mdash;William Cullen Bryant',
         '&ldquo;Flowers grow out of dark moments.&rdquo; <br /> &mdash;Corita Kent',
-        '&ldquo;Don&rsquo;t tell me the moon is shining; show me the glint of light on broken glass.&rdquo; <br /> &mdash;Anton Chekhov'
+        '&ldquo;Don&rsquo;t tell me the moon is shining; show me the glint of light on broken glass.&rdquo; <br /> &mdash;Anton Chekhov',
+        '&ldquo;Time will pass and seasons will come and go.&rdquo; <br /> &mdash;Roy Bean'
     ]
 
     let augustArray = [

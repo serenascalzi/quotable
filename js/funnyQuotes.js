@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;Every cloud has its silver lining but it is sometimes a little difficult to get it to the mint.&rdquo; <br /> &mdash;Don Marquis',
         '&ldquo;Freedom of the press is guaranteed only to those who own one.&rdquo; <br /> &mdash;A. J. Liebling',
         '&ldquo;I am not a member of any organized political party. I am a Democrat.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;Cats are intended to teach us that not everything in nature has a function.&rdquo; <br /> &mdash;Garrison Keillor'
+        '&ldquo;Cats are intended to teach us that not everything in nature has a function.&rdquo; <br /> &mdash;Garrison Keillor',
+        '&ldquo;Monkeys are superior to men in this: when a monkey looks into a mirror, he sees a monkey.&rdquo; <br /> &mdash;Malcolm de Chazal'
     ]
 
     let augustArray = [
