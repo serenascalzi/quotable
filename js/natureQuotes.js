@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?&rdquo; <br /> &mdash;William Cullen Bryant',
         '&ldquo;Flowers grow out of dark moments.&rdquo; <br /> &mdash;Corita Kent',
         '&ldquo;Don&rsquo;t tell me the moon is shining; show me the glint of light on broken glass.&rdquo; <br /> &mdash;Anton Chekhov',
-        '&ldquo;Time will pass and seasons will come and go.&rdquo; <br /> &mdash;Roy Bean'
+        '&ldquo;Time will pass and seasons will come and go.&rdquo; <br /> &mdash;Roy Bean',
+        '&ldquo;Ah, summer, what power you have to make us suffer and like it.&rdquo; <br /> &mdash;Russell Baker'
     ]
 
     let augustArray = [
