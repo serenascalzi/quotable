@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;Freedom of the press is guaranteed only to those who own one.&rdquo; <br /> &mdash;A. J. Liebling',
         '&ldquo;I am not a member of any organized political party. I am a Democrat.&rdquo; <br /> &mdash;Will Rogers',
         '&ldquo;Cats are intended to teach us that not everything in nature has a function.&rdquo; <br /> &mdash;Garrison Keillor',
-        '&ldquo;Monkeys are superior to men in this: when a monkey looks into a mirror, he sees a monkey.&rdquo; <br /> &mdash;Malcolm de Chazal'
+        '&ldquo;Monkeys are superior to men in this: when a monkey looks into a mirror, he sees a monkey.&rdquo; <br /> &mdash;Malcolm de Chazal',
+        '&ldquo;The only athletic sport I ever mastered was backgammon.&rdquo; <br /> &mdash;Douglas William Jerrold'
     ]
 
     let augustArray = [
