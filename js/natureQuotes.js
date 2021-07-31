@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;Flowers grow out of dark moments.&rdquo; <br /> &mdash;Corita Kent',
         '&ldquo;Don&rsquo;t tell me the moon is shining; show me the glint of light on broken glass.&rdquo; <br /> &mdash;Anton Chekhov',
         '&ldquo;Time will pass and seasons will come and go.&rdquo; <br /> &mdash;Roy Bean',
-        '&ldquo;Ah, summer, what power you have to make us suffer and like it.&rdquo; <br /> &mdash;Russell Baker'
+        '&ldquo;Ah, summer, what power you have to make us suffer and like it.&rdquo; <br /> &mdash;Russell Baker',
+        '&ldquo;In nature there are few sharp lines.&rdquo; <br /> &mdash;A. R. Ammons'
     ]
 
     let augustArray = [
