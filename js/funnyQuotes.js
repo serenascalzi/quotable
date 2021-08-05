@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let julyArray = [
-        '&ldquo;For NASA, space is still a high priority.&rdquo; <br /> &mdash;Dan Quayle',
-        '&ldquo;Fortune knocks but once, but misfortune has much more patience.&rdquo; <br /> &mdash;Laurence J. Peter',
-        '&ldquo;If it weren&rsquo;t for Philo T. Farnsworth, inventor of television, we&rsquo;d still be eating frozen radio dinners.&rdquo; <br /> &mdash;Johnny Carson',
-        '&ldquo;If I have to lay an egg for my country, I&rsquo;ll do it.&rdquo; <br /> &mdash;Bob Hope',
-        '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Fred Allen',
-        '&ldquo;A loafer always has the correct time.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;A jury is composed of twelve men of average ignorance.&rdquo; <br /> &mdash;Herbert Spencer',
-        '&ldquo;I have never been hurt by what I have not said.&rdquo; <br /> &mdash;Calvin Coolidge',
-        '&ldquo;I have made good judgments in the past. I have made good judgments in the future.&rdquo; <br /> &mdash;Dan Quayle',
-        '&ldquo;I never saw a lawyer yet who would admit he was making money.&rdquo; <br /> &mdash;Mary Roberts Rinehart',
-        '&ldquo;Education is a progressive discovery of our own ignorance.&rdquo; <br /> &mdash;Will Durant',
-        '&ldquo;Never eat spinach just before going on the air.&rdquo; <br /> &mdash;Dan Rather',
-        '&ldquo;I did not have three thousand pairs of shoes, I had one thousand and sixty.&rdquo; <br /> &mdash;Imelda Marcos',
-        '&ldquo;Cabbage: a familiar kitchen-garden vegetable about as large and wise as a man&rsquo;s head.&rdquo; <br /> &mdash;Ambrose Bierce',
-        '&ldquo;Insanity is hereditary; you get it from your children.&rdquo; <br /> &mdash;Sam Levenson',
-        '&ldquo;When all is lost, ask the I.R.S. &ndash; they&rsquo;ll find something.&rdquo; <br /> &mdash;Douglas Horton',
-        '&ldquo;A man always has two reasons for doing anything: a good reason and the real reason.&rdquo; <br /> &mdash;J. P. Morgan',
-        '&ldquo;The other night I ate at a real nice family restaurant. Every table had an argument going.&rdquo; <br /> &mdash;George Carlin',
-        '&ldquo;I have had more trouble with myself than with any other man.&rdquo; <br /> &mdash;Dwight L. Moody',
-        '&ldquo;Never trust anything that can think for itself if you can&rsquo;t see where it keeps its brain.&rdquo; <br /> &mdash;J. K. Rowling',
-        '&ldquo;If you think it&rsquo;s hard to meet new people, try picking up the wrong golf ball.&rdquo; <br /> &mdash;Jack Lemmon',
-        '&ldquo;I drink to make other people interesting.&rdquo; <br /> &mdash;George Jean Nathan',
-        '&ldquo;This stammer got me a home in Beverly Hills, and I&rsquo;m not about to screw with it now.&rdquo; <br /> &mdash;Bob Newhart',
-        '&ldquo;Every cloud has its silver lining but it is sometimes a little difficult to get it to the mint.&rdquo; <br /> &mdash;Don Marquis',
-        '&ldquo;Freedom of the press is guaranteed only to those who own one.&rdquo; <br /> &mdash;A. J. Liebling',
-        '&ldquo;I am not a member of any organized political party. I am a Democrat.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;Cats are intended to teach us that not everything in nature has a function.&rdquo; <br /> &mdash;Garrison Keillor',
-        '&ldquo;Monkeys are superior to men in this: when a monkey looks into a mirror, he sees a monkey.&rdquo; <br /> &mdash;Malcolm de Chazal',
-        '&ldquo;The only athletic sport I ever mastered was backgammon.&rdquo; <br /> &mdash;Douglas William Jerrold',
-        '&ldquo;Burt Reynolds once asked me out. I was in his room.&rdquo; <br /> &mdash;Phyllis Diller',
-        '&ldquo;I am a Ford, not a Lincoln.&rdquo; <br /> &mdash;Gerald R. Ford'
-    ]
-
     let augustArray = [
-        // August Quotes
+        '&ldquo;I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.&rdquo; <br /> &mdash;Robert Benchley'
     ]
 
     let septemberArray = [
@@ -253,6 +219,40 @@ $(document).ready(function() {
         '&ldquo;Why don&rsquo;t you get a haircut? You look like a chrysanthemum.&rdquo; <br /> &mdash;P. G. Wodehouse',
         '&ldquo;If you steal from one author it&rsquo;s plagiarism; if you steal from many it&rsquo;s research.&rdquo; <br /> &mdash;Wilson Mizner',
         '&ldquo;Science may never come up with a better office communication system than the coffee break.&rdquo; <br /> &mdash;Earl Wilson'
+    ]
+
+    let julyArray = [
+        '&ldquo;For NASA, space is still a high priority.&rdquo; <br /> &mdash;Dan Quayle',
+        '&ldquo;Fortune knocks but once, but misfortune has much more patience.&rdquo; <br /> &mdash;Laurence J. Peter',
+        '&ldquo;If it weren&rsquo;t for Philo T. Farnsworth, inventor of television, we&rsquo;d still be eating frozen radio dinners.&rdquo; <br /> &mdash;Johnny Carson',
+        '&ldquo;If I have to lay an egg for my country, I&rsquo;ll do it.&rdquo; <br /> &mdash;Bob Hope',
+        '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Fred Allen',
+        '&ldquo;A loafer always has the correct time.&rdquo; <br /> &mdash;Kin Hubbard',
+        '&ldquo;A jury is composed of twelve men of average ignorance.&rdquo; <br /> &mdash;Herbert Spencer',
+        '&ldquo;I have never been hurt by what I have not said.&rdquo; <br /> &mdash;Calvin Coolidge',
+        '&ldquo;I have made good judgments in the past. I have made good judgments in the future.&rdquo; <br /> &mdash;Dan Quayle',
+        '&ldquo;I never saw a lawyer yet who would admit he was making money.&rdquo; <br /> &mdash;Mary Roberts Rinehart',
+        '&ldquo;Education is a progressive discovery of our own ignorance.&rdquo; <br /> &mdash;Will Durant',
+        '&ldquo;Never eat spinach just before going on the air.&rdquo; <br /> &mdash;Dan Rather',
+        '&ldquo;I did not have three thousand pairs of shoes, I had one thousand and sixty.&rdquo; <br /> &mdash;Imelda Marcos',
+        '&ldquo;Cabbage: a familiar kitchen-garden vegetable about as large and wise as a man&rsquo;s head.&rdquo; <br /> &mdash;Ambrose Bierce',
+        '&ldquo;Insanity is hereditary; you get it from your children.&rdquo; <br /> &mdash;Sam Levenson',
+        '&ldquo;When all is lost, ask the I.R.S. &ndash; they&rsquo;ll find something.&rdquo; <br /> &mdash;Douglas Horton',
+        '&ldquo;A man always has two reasons for doing anything: a good reason and the real reason.&rdquo; <br /> &mdash;J. P. Morgan',
+        '&ldquo;The other night I ate at a real nice family restaurant. Every table had an argument going.&rdquo; <br /> &mdash;George Carlin',
+        '&ldquo;I have had more trouble with myself than with any other man.&rdquo; <br /> &mdash;Dwight L. Moody',
+        '&ldquo;Never trust anything that can think for itself if you can&rsquo;t see where it keeps its brain.&rdquo; <br /> &mdash;J. K. Rowling',
+        '&ldquo;If you think it&rsquo;s hard to meet new people, try picking up the wrong golf ball.&rdquo; <br /> &mdash;Jack Lemmon',
+        '&ldquo;I drink to make other people interesting.&rdquo; <br /> &mdash;George Jean Nathan',
+        '&ldquo;This stammer got me a home in Beverly Hills, and I&rsquo;m not about to screw with it now.&rdquo; <br /> &mdash;Bob Newhart',
+        '&ldquo;Every cloud has its silver lining but it is sometimes a little difficult to get it to the mint.&rdquo; <br /> &mdash;Don Marquis',
+        '&ldquo;Freedom of the press is guaranteed only to those who own one.&rdquo; <br /> &mdash;A. J. Liebling',
+        '&ldquo;I am not a member of any organized political party. I am a Democrat.&rdquo; <br /> &mdash;Will Rogers',
+        '&ldquo;Cats are intended to teach us that not everything in nature has a function.&rdquo; <br /> &mdash;Garrison Keillor',
+        '&ldquo;Monkeys are superior to men in this: when a monkey looks into a mirror, he sees a monkey.&rdquo; <br /> &mdash;Malcolm de Chazal',
+        '&ldquo;The only athletic sport I ever mastered was backgammon.&rdquo; <br /> &mdash;Douglas William Jerrold',
+        '&ldquo;Burt Reynolds once asked me out. I was in his room.&rdquo; <br /> &mdash;Phyllis Diller',
+        '&ldquo;I am a Ford, not a Lincoln.&rdquo; <br /> &mdash;Gerald R. Ford'
     ]
 
     let date = new Date()

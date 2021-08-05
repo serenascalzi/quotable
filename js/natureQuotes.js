@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let julyArray = [
-        '&ldquo;Pity the meek, for they shall inherit the earth.&rdquo; <br /> &mdash;Don Marquis',
-        '&ldquo;Nature, like man, sometimes weeps from gladness.&rdquo; <br /> &mdash;Benjamin Disraeli',
-        '&ldquo;Go forth under the open sky, and list To Nature&rsquo;s teachings.&rdquo; <br /> &mdash;William Cullen Bryant',
-        '&ldquo;To make us love our country, our country ought to be lovely.&rdquo; <br /> &mdash;Edmund Burke',
-        '&ldquo;Oh, the summer night, Has a smile of light, And she sits on a sapphire throne.&rdquo; <br /> &mdash;Bryan Procter',
-        '&ldquo;The Dove, on silver pinions, winged her peaceful way.&rdquo; <br /> &mdash;James Montgomery',
-        '&ldquo;Clouds symbolize the veils that shroud God.&rdquo; <br /> &mdash;Honore de Balzac',
-        '&ldquo;But friendship is the breathing rose, with sweets in every fold.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
-        '&ldquo;Nature&rsquo;s far too subtle to repeat herself.&rdquo; <br /> &mdash;Paul Muni',
-        '&ldquo;If one way be better than another, that you may be sure is nature&rsquo;s way.&rdquo; <br /> &mdash;Aristotle',
-        '&ldquo;Mere goodness can achieve little against the power of nature.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel',
-        '&ldquo;Death is the ugly fact which Nature has to hide, and she hides it well.&rdquo; <br /> &mdash;Alexander Smith',
-        '&ldquo;We sit in the mud&hellip; and reach for the stars.&rdquo; <br /> &mdash;Ivan Turgenev',
-        '&ldquo;Weeds are flowers too, once you get to know them.&rdquo; <br /> &mdash;A. A. Milne',
-        '&ldquo;Against her ankles as she trod The lucky buttercups did nod.&rdquo; <br /> &mdash;Jean Ingelow',
-        '&ldquo;I had to live in the desert before I could understand the full value of grass in a green ditch.&rdquo; <br /> &mdash;Ella Maillart',
-        '&ldquo;Nature is something outside our body, but the mind is within us.&rdquo; <br /> &mdash;Bhumibol Adulyadej',
-        '&ldquo;Be truthful, nature only sides with truth.&rdquo; <br /> &mdash;Adolf Loos',
-        '&ldquo;If the stars should appear but one night every thousand years how man would marvel and stare.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
-        '&ldquo;All the universe is full of the lives of perfect creatures.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky',
-        '&ldquo;Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.&rdquo; <br /> &mdash;Blaise Pascal',
-        '&ldquo;There is the sky, which is all men&rsquo;s together.&rdquo; <br /> &mdash;Euripides',
-        '&ldquo;Show me your garden and I shall tell you what you are.&rdquo; <br /> &mdash;Alfred Austin',
-        '&ldquo;What we observe is not nature itself, but nature exposed to our method of questioning.&rdquo; <br /> &mdash;Werner Heisenberg',
-        '&ldquo;Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?&rdquo; <br /> &mdash;William Cullen Bryant',
-        '&ldquo;Flowers grow out of dark moments.&rdquo; <br /> &mdash;Corita Kent',
-        '&ldquo;Don&rsquo;t tell me the moon is shining; show me the glint of light on broken glass.&rdquo; <br /> &mdash;Anton Chekhov',
-        '&ldquo;Time will pass and seasons will come and go.&rdquo; <br /> &mdash;Roy Bean',
-        '&ldquo;Ah, summer, what power you have to make us suffer and like it.&rdquo; <br /> &mdash;Russell Baker',
-        '&ldquo;In nature there are few sharp lines.&rdquo; <br /> &mdash;A. R. Ammons',
-        '&ldquo;Hey sky, take off your hat, I&rsquo;m on my way!&rdquo; <br /> &mdash;Valentina Tereshkova'
-    ]
-
     let augustArray = [
-        // August Quotes
+        '&ldquo;Trees are the earth&rsquo;s endless effort to speak to the listening heaven.&rdquo; <br /> &mdash;Rabindranath Tagore'
     ]
 
     let septemberArray = [
@@ -253,6 +219,40 @@ $(document).ready(function() {
         '&ldquo;The temple bell stops but I still hear the sound coming out of the flowers.&rdquo; <br /> &mdash;Matsuo Basho',
         '&ldquo;Flowers are the sweetest things God ever made and forgot to put a soul into.&rdquo; <br /> &mdash;Henry Ward Beecher',
         '&ldquo;Won&rsquo;t you come into the garden? I would like my roses to see you.&rdquo; <br /> &mdash;Richard Brinsley Sheridan'
+    ]
+
+    let julyArray = [
+        '&ldquo;Pity the meek, for they shall inherit the earth.&rdquo; <br /> &mdash;Don Marquis',
+        '&ldquo;Nature, like man, sometimes weeps from gladness.&rdquo; <br /> &mdash;Benjamin Disraeli',
+        '&ldquo;Go forth under the open sky, and list To Nature&rsquo;s teachings.&rdquo; <br /> &mdash;William Cullen Bryant',
+        '&ldquo;To make us love our country, our country ought to be lovely.&rdquo; <br /> &mdash;Edmund Burke',
+        '&ldquo;Oh, the summer night, Has a smile of light, And she sits on a sapphire throne.&rdquo; <br /> &mdash;Bryan Procter',
+        '&ldquo;The Dove, on silver pinions, winged her peaceful way.&rdquo; <br /> &mdash;James Montgomery',
+        '&ldquo;Clouds symbolize the veils that shroud God.&rdquo; <br /> &mdash;Honore de Balzac',
+        '&ldquo;But friendship is the breathing rose, with sweets in every fold.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
+        '&ldquo;Nature&rsquo;s far too subtle to repeat herself.&rdquo; <br /> &mdash;Paul Muni',
+        '&ldquo;If one way be better than another, that you may be sure is nature&rsquo;s way.&rdquo; <br /> &mdash;Aristotle',
+        '&ldquo;Mere goodness can achieve little against the power of nature.&rdquo; <br /> &mdash;Georg Wilhelm Friedrich Hegel',
+        '&ldquo;Death is the ugly fact which Nature has to hide, and she hides it well.&rdquo; <br /> &mdash;Alexander Smith',
+        '&ldquo;We sit in the mud&hellip; and reach for the stars.&rdquo; <br /> &mdash;Ivan Turgenev',
+        '&ldquo;Weeds are flowers too, once you get to know them.&rdquo; <br /> &mdash;A. A. Milne',
+        '&ldquo;Against her ankles as she trod The lucky buttercups did nod.&rdquo; <br /> &mdash;Jean Ingelow',
+        '&ldquo;I had to live in the desert before I could understand the full value of grass in a green ditch.&rdquo; <br /> &mdash;Ella Maillart',
+        '&ldquo;Nature is something outside our body, but the mind is within us.&rdquo; <br /> &mdash;Bhumibol Adulyadej',
+        '&ldquo;Be truthful, nature only sides with truth.&rdquo; <br /> &mdash;Adolf Loos',
+        '&ldquo;If the stars should appear but one night every thousand years how man would marvel and stare.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        '&ldquo;All the universe is full of the lives of perfect creatures.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky',
+        '&ldquo;Nature is an infinite sphere of which the center is everywhere and the circumference nowhere.&rdquo; <br /> &mdash;Blaise Pascal',
+        '&ldquo;There is the sky, which is all men&rsquo;s together.&rdquo; <br /> &mdash;Euripides',
+        '&ldquo;Show me your garden and I shall tell you what you are.&rdquo; <br /> &mdash;Alfred Austin',
+        '&ldquo;What we observe is not nature itself, but nature exposed to our method of questioning.&rdquo; <br /> &mdash;Werner Heisenberg',
+        '&ldquo;Where hast thou wandered, gentle gale, to find the perfumes thou dost bring?&rdquo; <br /> &mdash;William Cullen Bryant',
+        '&ldquo;Flowers grow out of dark moments.&rdquo; <br /> &mdash;Corita Kent',
+        '&ldquo;Don&rsquo;t tell me the moon is shining; show me the glint of light on broken glass.&rdquo; <br /> &mdash;Anton Chekhov',
+        '&ldquo;Time will pass and seasons will come and go.&rdquo; <br /> &mdash;Roy Bean',
+        '&ldquo;Ah, summer, what power you have to make us suffer and like it.&rdquo; <br /> &mdash;Russell Baker',
+        '&ldquo;In nature there are few sharp lines.&rdquo; <br /> &mdash;A. R. Ammons',
+        '&ldquo;Hey sky, take off your hat, I&rsquo;m on my way!&rdquo; <br /> &mdash;Valentina Tereshkova'
     ]
 
     let date = new Date()
