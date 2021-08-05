@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let augustArray = [
-        '&ldquo;Trees are the earth&rsquo;s endless effort to speak to the listening heaven.&rdquo; <br /> &mdash;Rabindranath Tagore'
+        '&ldquo;Trees are the earth&rsquo;s endless effort to speak to the listening heaven.&rdquo; <br /> &mdash;Rabindranath Tagore',
+        '&ldquo;We cannot command Nature except by obeying her.&rdquo; <br /> &mdash;Francis Bacon'
     ]
 
     let septemberArray = [

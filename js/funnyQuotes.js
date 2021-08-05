@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let augustArray = [
-        '&ldquo;I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.&rdquo; <br /> &mdash;Robert Benchley'
+        '&ldquo;I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.&rdquo; <br /> &mdash;Robert Benchley',
+        '&ldquo;I don&rsquo;t deserve this award, but I have arthritis and I don&rsquo;t deserve that either.&rdquo; <br /> &mdash;Jack Benny'
     ]
 
     let septemberArray = [
