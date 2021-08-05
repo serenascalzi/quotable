@@ -31,7 +31,8 @@ $(document).ready(function() {
         '&ldquo;Cats are intended to teach us that not everything in nature has a function.&rdquo; <br /> &mdash;Garrison Keillor',
         '&ldquo;Monkeys are superior to men in this: when a monkey looks into a mirror, he sees a monkey.&rdquo; <br /> &mdash;Malcolm de Chazal',
         '&ldquo;The only athletic sport I ever mastered was backgammon.&rdquo; <br /> &mdash;Douglas William Jerrold',
-        '&ldquo;Burt Reynolds once asked me out. I was in his room.&rdquo; <br /> &mdash;Phyllis Diller'
+        '&ldquo;Burt Reynolds once asked me out. I was in his room.&rdquo; <br /> &mdash;Phyllis Diller',
+        '&ldquo;I am a Ford, not a Lincoln.&rdquo; <br /> &mdash;Gerald R. Ford'
     ]
 
     let augustArray = [
