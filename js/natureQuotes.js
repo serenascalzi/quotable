@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;Trees are the earth&rsquo;s endless effort to speak to the listening heaven.&rdquo; <br /> &mdash;Rabindranath Tagore',
         '&ldquo;We cannot command Nature except by obeying her.&rdquo; <br /> &mdash;Francis Bacon',
         '&ldquo;Give me odorous at sunrise a garden of beautiful flowers where I can walk undisturbed.&rdquo; <br /> &mdash;Walt Whitman',
-        '&ldquo;There are a thousand hacking at the branches of evil to one who is striking at the root.&rdquo; <br /> &mdash;Henry David Thoreau'
+        '&ldquo;There are a thousand hacking at the branches of evil to one who is striking at the root.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;When I have a terrible need of &ndash; shall I say the word &ndash; religion. Then I go out and paint the stars.&rdquo; <br /> &mdash;Vincent Van Gogh'
     ]
 
     let septemberArray = [
