@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.&rdquo; <br /> &mdash;Robert Benchley',
         '&ldquo;I don&rsquo;t deserve this award, but I have arthritis and I don&rsquo;t deserve that either.&rdquo; <br /> &mdash;Jack Benny',
         '&ldquo;Tell us your phobias and we will tell you what you are afraid of.&rdquo; <br /> &mdash;Robert Benchley',
-        '&ldquo;A door is what a dog is perpetually on the wrong side of.&rdquo; <br /> &mdash;Ogden Nash'
+        '&ldquo;A door is what a dog is perpetually on the wrong side of.&rdquo; <br /> &mdash;Ogden Nash',
+        '&ldquo;Always make the audience suffer as much as possible.&rdquo; <br /> &mdash;Alfred Hitchcock'
     ]
 
     let septemberArray = [
