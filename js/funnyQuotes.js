@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;Tell us your phobias and we will tell you what you are afraid of.&rdquo; <br /> &mdash;Robert Benchley',
         '&ldquo;A door is what a dog is perpetually on the wrong side of.&rdquo; <br /> &mdash;Ogden Nash',
         '&ldquo;Always make the audience suffer as much as possible.&rdquo; <br /> &mdash;Alfred Hitchcock',
-        '&ldquo;Originality is the fine art of remembering what you hear but forgetting where you heard it.&rdquo; <br /> &mdash;Laurence J. Peter'
+        '&ldquo;Originality is the fine art of remembering what you hear but forgetting where you heard it.&rdquo; <br /> &mdash;Laurence J. Peter',
+        '&ldquo;A bookstore is one of the only pieces of evidence we have that people are still thinking.&rdquo; <br /> &mdash;Jerry Seinfeld'
     ]
 
     let septemberArray = [
