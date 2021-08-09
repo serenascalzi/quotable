@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;There are a thousand hacking at the branches of evil to one who is striking at the root.&rdquo; <br /> &mdash;Henry David Thoreau',
         '&ldquo;When I have a terrible need of &ndash; shall I say the word &ndash; religion. Then I go out and paint the stars.&rdquo; <br /> &mdash;Vincent Van Gogh',
         '&ldquo;I love not man the less, but Nature more.&rdquo; <br /> &mdash;Lord Byron',
-        '&ldquo;To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.&rdquo; <br /> &mdash;Jane Austen'
+        '&ldquo;To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.&rdquo; <br /> &mdash;Jane Austen',
+        '&ldquo;Sadness is but a wall between two gardens.&rdquo; <br /> &mdash;Khalil Gibran'
     ]
 
     let septemberArray = [
