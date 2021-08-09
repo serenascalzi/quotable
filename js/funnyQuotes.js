@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;Always make the audience suffer as much as possible.&rdquo; <br /> &mdash;Alfred Hitchcock',
         '&ldquo;Originality is the fine art of remembering what you hear but forgetting where you heard it.&rdquo; <br /> &mdash;Laurence J. Peter',
         '&ldquo;A bookstore is one of the only pieces of evidence we have that people are still thinking.&rdquo; <br /> &mdash;Jerry Seinfeld',
-        '&ldquo;It is a scientific fact that your body will not absorb cholesterol if you take it from another person&rsquo;s plate.&rdquo; <br /> &mdash;Dave Barry'
+        '&ldquo;It is a scientific fact that your body will not absorb cholesterol if you take it from another person&rsquo;s plate.&rdquo; <br /> &mdash;Dave Barry',
+        '&ldquo;If I had to live my life again, I&rsquo;d make the same mistakes, only sooner.&rdquo; <br /> &mdash;Tallulah Bankhead'
     ]
 
     let septemberArray = [

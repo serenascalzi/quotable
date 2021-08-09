@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;When I have a terrible need of &ndash; shall I say the word &ndash; religion. Then I go out and paint the stars.&rdquo; <br /> &mdash;Vincent Van Gogh',
         '&ldquo;I love not man the less, but Nature more.&rdquo; <br /> &mdash;Lord Byron',
         '&ldquo;To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.&rdquo; <br /> &mdash;Jane Austen',
-        '&ldquo;Sadness is but a wall between two gardens.&rdquo; <br /> &mdash;Khalil Gibran'
+        '&ldquo;Sadness is but a wall between two gardens.&rdquo; <br /> &mdash;Khalil Gibran',
+        '&ldquo;However much you knock at nature&rsquo;s door, she will never answer you in comprehensible words.&rdquo; <br /> &mdash;Ivan Turgenev'
     ]
 
     let septemberArray = [
