@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;Give me odorous at sunrise a garden of beautiful flowers where I can walk undisturbed.&rdquo; <br /> &mdash;Walt Whitman',
         '&ldquo;There are a thousand hacking at the branches of evil to one who is striking at the root.&rdquo; <br /> &mdash;Henry David Thoreau',
         '&ldquo;When I have a terrible need of &ndash; shall I say the word &ndash; religion. Then I go out and paint the stars.&rdquo; <br /> &mdash;Vincent Van Gogh',
-        '&ldquo;I love not man the less, but Nature more.&rdquo; <br /> &mdash;Lord Byron'
+        '&ldquo;I love not man the less, but Nature more.&rdquo; <br /> &mdash;Lord Byron',
+        '&ldquo;To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.&rdquo; <br /> &mdash;Jane Austen'
     ]
 
     let septemberArray = [
