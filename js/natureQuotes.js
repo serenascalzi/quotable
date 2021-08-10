@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;I love not man the less, but Nature more.&rdquo; <br /> &mdash;Lord Byron',
         '&ldquo;To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.&rdquo; <br /> &mdash;Jane Austen',
         '&ldquo;Sadness is but a wall between two gardens.&rdquo; <br /> &mdash;Khalil Gibran',
-        '&ldquo;However much you knock at nature&rsquo;s door, she will never answer you in comprehensible words.&rdquo; <br /> &mdash;Ivan Turgenev'
+        '&ldquo;However much you knock at nature&rsquo;s door, she will never answer you in comprehensible words.&rdquo; <br /> &mdash;Ivan Turgenev',
+        '&ldquo;Nature provides exceptions to every rule.&rdquo; <br /> &mdash;Margaret Fuller'
     ]
 
     let septemberArray = [
