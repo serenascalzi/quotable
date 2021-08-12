@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;It is a scientific fact that your body will not absorb cholesterol if you take it from another person&rsquo;s plate.&rdquo; <br /> &mdash;Dave Barry',
         '&ldquo;If I had to live my life again, I&rsquo;d make the same mistakes, only sooner.&rdquo; <br /> &mdash;Tallulah Bankhead',
         '&ldquo;Being a woman is a terribly difficult task, since it consists principally in dealing with men.&rdquo; <br /> &mdash;Joseph Conrad',
-        '&ldquo;Gravitation is not responsible for people falling in love.&rdquo; <br /> &mdash;Albert Einstein'
+        '&ldquo;Gravitation is not responsible for people falling in love.&rdquo; <br /> &mdash;Albert Einstein',
+        '&ldquo;A rich man is nothing but a poor man with money.&rdquo; <br /> &mdash;W. C. Fields'
     ]
 
     let septemberArray = [

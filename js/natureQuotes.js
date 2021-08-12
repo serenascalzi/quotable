@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;Sadness is but a wall between two gardens.&rdquo; <br /> &mdash;Khalil Gibran',
         '&ldquo;However much you knock at nature&rsquo;s door, she will never answer you in comprehensible words.&rdquo; <br /> &mdash;Ivan Turgenev',
         '&ldquo;Nature provides exceptions to every rule.&rdquo; <br /> &mdash;Margaret Fuller',
-        '&ldquo;The flower that smells the sweetest is shy and lowly.&rdquo; <br /> &mdash;William Wordsworth'
+        '&ldquo;The flower that smells the sweetest is shy and lowly.&rdquo; <br /> &mdash;William Wordsworth',
+        '&ldquo;Disease is the retribution of outraged Nature.&rdquo; <br /> &mdash;Hosea Ballou'
     ]
 
     let septemberArray = [
