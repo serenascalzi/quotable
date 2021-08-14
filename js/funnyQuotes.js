@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;If I had to live my life again, I&rsquo;d make the same mistakes, only sooner.&rdquo; <br /> &mdash;Tallulah Bankhead',
         '&ldquo;Being a woman is a terribly difficult task, since it consists principally in dealing with men.&rdquo; <br /> &mdash;Joseph Conrad',
         '&ldquo;Gravitation is not responsible for people falling in love.&rdquo; <br /> &mdash;Albert Einstein',
-        '&ldquo;A rich man is nothing but a poor man with money.&rdquo; <br /> &mdash;W. C. Fields'
+        '&ldquo;A rich man is nothing but a poor man with money.&rdquo; <br /> &mdash;W. C. Fields',
+        '&ldquo;Time is nature&rsquo;s way of keeping everything from happening at once.&rdquo; <br /> &mdash;John Archibald Wheeler'
     ]
 
     let septemberArray = [
