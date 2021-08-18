@@ -16,7 +16,8 @@ $(document).ready(function() {
         '&ldquo;A rich man is nothing but a poor man with money.&rdquo; <br /> &mdash;W. C. Fields',
         '&ldquo;Time is nature&rsquo;s way of keeping everything from happening at once.&rdquo; <br /> &mdash;John Archibald Wheeler',
         '&ldquo;May the forces of evil become confused on the way to your house.&rdquo; <br /> &mdash;George Carlin',
-        '&ldquo;We can lick gravity, but sometimes the paperwork is overwhelming.&rdquo; <br /> &mdash;Wernher von Braun'
+        '&ldquo;We can lick gravity, but sometimes the paperwork is overwhelming.&rdquo; <br /> &mdash;Wernher von Braun',
+        '&ldquo;Who included me among the ranks of the human race?&rdquo; <br /> &mdash;Joseph Brodsky'
     ]
 
     let septemberArray = [
