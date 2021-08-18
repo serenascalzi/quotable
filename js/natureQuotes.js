@@ -17,7 +17,8 @@ $(document).ready(function() {
         '&ldquo;Nature is the master of talents; genius is the master of nature.&rdquo; <br /> &mdash;Josiah Gilbert Holland',
         '&ldquo;Nature is indifferent to the survival of the human species, including Americans.&rdquo; <br /> &mdash;Adlai Stevenson I',
         '&ldquo;The old cathedrals are good, but the great blue dome that hangs over everything is better.&rdquo; <br /> &mdash;Thomas Carlyle',
-        '&ldquo;What would be left of our tragedies if an insect were to present us his?&rdquo; <br /> &mdash;Emil Cioran'
+        '&ldquo;What would be left of our tragedies if an insect were to present us his?&rdquo; <br /> &mdash;Emil Cioran',
+        '&ldquo;I know the joy of fishes in the river through my own joy, as I go walking along the same river.&rdquo; <br /> &mdash;Zhuangzi'
     ]
 
     let septemberArray = [
