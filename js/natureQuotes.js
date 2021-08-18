@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;Nature provides exceptions to every rule.&rdquo; <br /> &mdash;Margaret Fuller',
         '&ldquo;The flower that smells the sweetest is shy and lowly.&rdquo; <br /> &mdash;William Wordsworth',
         '&ldquo;Disease is the retribution of outraged Nature.&rdquo; <br /> &mdash;Hosea Ballou',
-        '&ldquo;Nature is the master of talents; genius is the master of nature.&rdquo; <br /> &mdash;Josiah Gilbert Holland'
+        '&ldquo;Nature is the master of talents; genius is the master of nature.&rdquo; <br /> &mdash;Josiah Gilbert Holland',
+        '&ldquo;Nature is indifferent to the survival of the human species, including Americans.&rdquo; <br /> &mdash;Adlai Stevenson I'
     ]
 
     let septemberArray = [

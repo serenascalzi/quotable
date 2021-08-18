@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;Being a woman is a terribly difficult task, since it consists principally in dealing with men.&rdquo; <br /> &mdash;Joseph Conrad',
         '&ldquo;Gravitation is not responsible for people falling in love.&rdquo; <br /> &mdash;Albert Einstein',
         '&ldquo;A rich man is nothing but a poor man with money.&rdquo; <br /> &mdash;W. C. Fields',
-        '&ldquo;Time is nature&rsquo;s way of keeping everything from happening at once.&rdquo; <br /> &mdash;John Archibald Wheeler'
+        '&ldquo;Time is nature&rsquo;s way of keeping everything from happening at once.&rdquo; <br /> &mdash;John Archibald Wheeler',
+        '&ldquo;May the forces of evil become confused on the way to your house.&rdquo; <br /> &mdash;George Carlin'
     ]
 
     let septemberArray = [
