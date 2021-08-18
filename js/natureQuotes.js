@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;The flower that smells the sweetest is shy and lowly.&rdquo; <br /> &mdash;William Wordsworth',
         '&ldquo;Disease is the retribution of outraged Nature.&rdquo; <br /> &mdash;Hosea Ballou',
         '&ldquo;Nature is the master of talents; genius is the master of nature.&rdquo; <br /> &mdash;Josiah Gilbert Holland',
-        '&ldquo;Nature is indifferent to the survival of the human species, including Americans.&rdquo; <br /> &mdash;Adlai Stevenson I'
+        '&ldquo;Nature is indifferent to the survival of the human species, including Americans.&rdquo; <br /> &mdash;Adlai Stevenson I',
+        '&ldquo;The old cathedrals are good, but the great blue dome that hangs over everything is better.&rdquo; <br /> &mdash;Thomas Carlyle'
     ]
 
     let septemberArray = [

@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;Gravitation is not responsible for people falling in love.&rdquo; <br /> &mdash;Albert Einstein',
         '&ldquo;A rich man is nothing but a poor man with money.&rdquo; <br /> &mdash;W. C. Fields',
         '&ldquo;Time is nature&rsquo;s way of keeping everything from happening at once.&rdquo; <br /> &mdash;John Archibald Wheeler',
-        '&ldquo;May the forces of evil become confused on the way to your house.&rdquo; <br /> &mdash;George Carlin'
+        '&ldquo;May the forces of evil become confused on the way to your house.&rdquo; <br /> &mdash;George Carlin',
+        '&ldquo;We can lick gravity, but sometimes the paperwork is overwhelming.&rdquo; <br /> &mdash;Wernher von Braun'
     ]
 
     let septemberArray = [
