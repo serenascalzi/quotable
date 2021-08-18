@@ -18,7 +18,8 @@ $(document).ready(function() {
         '&ldquo;May the forces of evil become confused on the way to your house.&rdquo; <br /> &mdash;George Carlin',
         '&ldquo;We can lick gravity, but sometimes the paperwork is overwhelming.&rdquo; <br /> &mdash;Wernher von Braun',
         '&ldquo;Who included me among the ranks of the human race?&rdquo; <br /> &mdash;Joseph Brodsky',
-        '&ldquo;Summer bachelors, like summer breezes, are never as cool as they pretend to be.&rdquo; <br /> &mdash;Nora Ephron'
+        '&ldquo;Summer bachelors, like summer breezes, are never as cool as they pretend to be.&rdquo; <br /> &mdash;Nora Ephron',
+        '&ldquo;There is only one cure for gray hair. It was invented by a Frenchman. It is called the guillotine.&rdquo; <br /> &mdash;P. G. Wodehouse'
     ]
 
     let septemberArray = [
