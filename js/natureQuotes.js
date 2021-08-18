@@ -16,7 +16,8 @@ $(document).ready(function() {
         '&ldquo;Disease is the retribution of outraged Nature.&rdquo; <br /> &mdash;Hosea Ballou',
         '&ldquo;Nature is the master of talents; genius is the master of nature.&rdquo; <br /> &mdash;Josiah Gilbert Holland',
         '&ldquo;Nature is indifferent to the survival of the human species, including Americans.&rdquo; <br /> &mdash;Adlai Stevenson I',
-        '&ldquo;The old cathedrals are good, but the great blue dome that hangs over everything is better.&rdquo; <br /> &mdash;Thomas Carlyle'
+        '&ldquo;The old cathedrals are good, but the great blue dome that hangs over everything is better.&rdquo; <br /> &mdash;Thomas Carlyle',
+        '&ldquo;What would be left of our tragedies if an insect were to present us his?&rdquo; <br /> &mdash;Emil Cioran'
     ]
 
     let septemberArray = [
