@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;I know the joy of fishes in the river through my own joy, as I go walking along the same river.&rdquo; <br /> &mdash;Zhuangzi',
         '&ldquo;Nature uses human imagination to lift her work of creation to even higher levels.&rdquo; <br /> &mdash;Luigi Pirandello',
         '&ldquo;A lawn is nature under totalitarian rule.&rdquo; <br /> &mdash;Michael Pollan',
-        '&ldquo;If the skies fall, one may hope to catch larks.&rdquo; <br /> &mdash;Francois Rabelais'
+        '&ldquo;If the skies fall, one may hope to catch larks.&rdquo; <br /> &mdash;Francois Rabelais',
+        '&ldquo;A brier rose whose buds yield fragrant harvest for the honey bee.&rdquo; <br /> &mdash;Letitia Elizabeth Landon'
     ]
 
     let septemberArray = [
