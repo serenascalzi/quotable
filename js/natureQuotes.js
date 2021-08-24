@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;The old cathedrals are good, but the great blue dome that hangs over everything is better.&rdquo; <br /> &mdash;Thomas Carlyle',
         '&ldquo;What would be left of our tragedies if an insect were to present us his?&rdquo; <br /> &mdash;Emil Cioran',
         '&ldquo;I know the joy of fishes in the river through my own joy, as I go walking along the same river.&rdquo; <br /> &mdash;Zhuangzi',
-        '&ldquo;Nature uses human imagination to lift her work of creation to even higher levels.&rdquo; <br /> &mdash;Luigi Pirandello'
+        '&ldquo;Nature uses human imagination to lift her work of creation to even higher levels.&rdquo; <br /> &mdash;Luigi Pirandello',
+        '&ldquo;A lawn is nature under totalitarian rule.&rdquo; <br /> &mdash;Michael Pollan'
     ]
 
     let septemberArray = [

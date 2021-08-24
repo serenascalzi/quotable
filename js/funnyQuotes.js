@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;We can lick gravity, but sometimes the paperwork is overwhelming.&rdquo; <br /> &mdash;Wernher von Braun',
         '&ldquo;Who included me among the ranks of the human race?&rdquo; <br /> &mdash;Joseph Brodsky',
         '&ldquo;Summer bachelors, like summer breezes, are never as cool as they pretend to be.&rdquo; <br /> &mdash;Nora Ephron',
-        '&ldquo;There is only one cure for gray hair. It was invented by a Frenchman. It is called the guillotine.&rdquo; <br /> &mdash;P. G. Wodehouse'
+        '&ldquo;There is only one cure for gray hair. It was invented by a Frenchman. It is called the guillotine.&rdquo; <br /> &mdash;P. G. Wodehouse',
+        '&ldquo;I don&rsquo;t deserve any credit for turning the other cheek as my tongue is always in it.&rdquo; <br /> &mdash;Flannery O&rsquo;Connor'
     ]
 
     let septemberArray = [
