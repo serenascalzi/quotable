@@ -24,7 +24,8 @@ $(document).ready(function() {
         '&ldquo;If the skies fall, one may hope to catch larks.&rdquo; <br /> &mdash;Francois Rabelais',
         '&ldquo;A brier rose whose buds yield fragrant harvest for the honey bee.&rdquo; <br /> &mdash;Letitia Elizabeth Landon',
         '&ldquo;Trees love to toss and sway; they make such happy noises.&rdquo; <br /> &mdash;Emily Carr',
-        '&ldquo;When sparrows build and the leaves break forth, My old sorrow wakes and cries.&rdquo; <br /> &mdash;Jean Ingelow'
+        '&ldquo;When sparrows build and the leaves break forth, My old sorrow wakes and cries.&rdquo; <br /> &mdash;Jean Ingelow',
+        '&ldquo;Nature hasn&rsquo;t gone anywhere. It is all around us, all the planets, galaxies and so on. We are nothing in comparison.&rdquo; <br /> &mdash;Bjork'
     ]
 
     let septemberArray = [
