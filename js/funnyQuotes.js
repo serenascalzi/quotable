@@ -22,7 +22,8 @@ $(document).ready(function() {
         '&ldquo;There is only one cure for gray hair. It was invented by a Frenchman. It is called the guillotine.&rdquo; <br /> &mdash;P. G. Wodehouse',
         '&ldquo;I don&rsquo;t deserve any credit for turning the other cheek as my tongue is always in it.&rdquo; <br /> &mdash;Flannery O&rsquo;Connor',
         '&ldquo;The ability to delude yourself may be an important survival tool.&rdquo; <br /> &mdash;Jane Wagner',
-        '&ldquo;I divide all readers into two classes: those who read to remember and those who read to forget.&rdquo; <br /> &mdash;William Lyon Phelps'
+        '&ldquo;I divide all readers into two classes: those who read to remember and those who read to forget.&rdquo; <br /> &mdash;William Lyon Phelps',
+        '&ldquo;Vote for the man who promises least; he&rsquo;ll be the least disappointing.&rdquo; <br /> &mdash;Bernard Baruch'
     ]
 
     let septemberArray = [
