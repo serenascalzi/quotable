@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;I divide all readers into two classes: those who read to remember and those who read to forget.&rdquo; <br /> &mdash;William Lyon Phelps',
         '&ldquo;Vote for the man who promises least; he&rsquo;ll be the least disappointing.&rdquo; <br /> &mdash;Bernard Baruch',
         '&ldquo;Those are my principles, and if you don&rsquo;t like them&hellip; well, I have others.&rdquo; <br /> &mdash;Groucho Marx',
-        '&ldquo;I don&rsquo;t have a bank account because I don&rsquo;t know my mother&rsquo;s maiden name.&rdquo; <br /> &mdash;Paula Poundstone'
+        '&ldquo;I don&rsquo;t have a bank account because I don&rsquo;t know my mother&rsquo;s maiden name.&rdquo; <br /> &mdash;Paula Poundstone',
+        '&ldquo;All right everyone, line up alphabetically according to your height.&rdquo; <br /> &mdash;Casey Stengel'
     ]
 
     let septemberArray = [
