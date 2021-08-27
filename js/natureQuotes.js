@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;Trees love to toss and sway; they make such happy noises.&rdquo; <br /> &mdash;Emily Carr',
         '&ldquo;When sparrows build and the leaves break forth, My old sorrow wakes and cries.&rdquo; <br /> &mdash;Jean Ingelow',
         '&ldquo;Nature hasn&rsquo;t gone anywhere. It is all around us, all the planets, galaxies and so on. We are nothing in comparison.&rdquo; <br /> &mdash;Bjork',
-        '&ldquo;Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.&rdquo; <br /> &mdash;H. P. Lovecraft'
+        '&ldquo;Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.&rdquo; <br /> &mdash;H. P. Lovecraft',
+        '&ldquo;Sadly, it&rsquo;s much easier to create a desert than a forest.&rdquo; <br /> &mdash;James Lovelock'
     ]
 
     let septemberArray = [
