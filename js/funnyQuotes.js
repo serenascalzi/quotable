@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;Those are my principles, and if you don&rsquo;t like them&hellip; well, I have others.&rdquo; <br /> &mdash;Groucho Marx',
         '&ldquo;I don&rsquo;t have a bank account because I don&rsquo;t know my mother&rsquo;s maiden name.&rdquo; <br /> &mdash;Paula Poundstone',
         '&ldquo;All right everyone, line up alphabetically according to your height.&rdquo; <br /> &mdash;Casey Stengel',
-        '&ldquo;He was a bold man that first ate an oyster.&rdquo; <br /> &mdash;Jonathan Swift'
+        '&ldquo;He was a bold man that first ate an oyster.&rdquo; <br /> &mdash;Jonathan Swift',
+        '&ldquo;A hospital is no place to be sick.&rdquo; <br /> &mdash;Samuel Goldwyn'
     ]
 
     let septemberArray = [
