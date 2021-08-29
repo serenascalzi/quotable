@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;All right everyone, line up alphabetically according to your height.&rdquo; <br /> &mdash;Casey Stengel',
         '&ldquo;He was a bold man that first ate an oyster.&rdquo; <br /> &mdash;Jonathan Swift',
         '&ldquo;A hospital is no place to be sick.&rdquo; <br /> &mdash;Samuel Goldwyn',
-        '&ldquo;A fool and his money are soon elected.&rdquo; <br /> &mdash;Will Rogers'
+        '&ldquo;A fool and his money are soon elected.&rdquo; <br /> &mdash;Will Rogers',
+        '&ldquo;A government that robs Peter to pay Paul can always depend on the support of Paul.&rdquo; <br /> &mdash;George Bernard Shaw'
     ]
 
     let septemberArray = [

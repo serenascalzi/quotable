@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.&rdquo; <br /> &mdash;H. P. Lovecraft',
         '&ldquo;Sadly, it&rsquo;s much easier to create a desert than a forest.&rdquo; <br /> &mdash;James Lovelock',
         '&ldquo;Nature was my kindergarten.&rdquo; <br /> &mdash;William Christopher Handy',
-        '&ldquo;Who loves a garden loves a greenhouse too.&rdquo; <br /> &mdash;William Cowper'
+        '&ldquo;Who loves a garden loves a greenhouse too.&rdquo; <br /> &mdash;William Cowper',
+        '&ldquo;Any landscape is a condition of the spirit.&rdquo; <br /> &mdash;Henri Frederic Amiel'
     ]
 
     let septemberArray = [
