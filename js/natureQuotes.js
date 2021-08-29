@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;Nature hasn&rsquo;t gone anywhere. It is all around us, all the planets, galaxies and so on. We are nothing in comparison.&rdquo; <br /> &mdash;Bjork',
         '&ldquo;Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.&rdquo; <br /> &mdash;H. P. Lovecraft',
         '&ldquo;Sadly, it&rsquo;s much easier to create a desert than a forest.&rdquo; <br /> &mdash;James Lovelock',
-        '&ldquo;Nature was my kindergarten.&rdquo; <br /> &mdash;William Christopher Handy'
+        '&ldquo;Nature was my kindergarten.&rdquo; <br /> &mdash;William Christopher Handy',
+        '&ldquo;Who loves a garden loves a greenhouse too.&rdquo; <br /> &mdash;William Cowper'
     ]
 
     let septemberArray = [
