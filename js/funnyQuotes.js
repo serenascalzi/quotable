@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;He was a bold man that first ate an oyster.&rdquo; <br /> &mdash;Jonathan Swift',
         '&ldquo;A hospital is no place to be sick.&rdquo; <br /> &mdash;Samuel Goldwyn',
         '&ldquo;A fool and his money are soon elected.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;A government that robs Peter to pay Paul can always depend on the support of Paul.&rdquo; <br /> &mdash;George Bernard Shaw'
+        '&ldquo;A government that robs Peter to pay Paul can always depend on the support of Paul.&rdquo; <br /> &mdash;George Bernard Shaw',
+        '&ldquo;My Father had a profound influence on me. He was a lunatic.&rdquo; <br /> &mdash;Spike Milligan'
     ]
 
     let septemberArray = [
