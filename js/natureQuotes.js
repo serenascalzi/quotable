@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;Sadly, it&rsquo;s much easier to create a desert than a forest.&rdquo; <br /> &mdash;James Lovelock',
         '&ldquo;Nature was my kindergarten.&rdquo; <br /> &mdash;William Christopher Handy',
         '&ldquo;Who loves a garden loves a greenhouse too.&rdquo; <br /> &mdash;William Cowper',
-        '&ldquo;Any landscape is a condition of the spirit.&rdquo; <br /> &mdash;Henri Frederic Amiel'
+        '&ldquo;Any landscape is a condition of the spirit.&rdquo; <br /> &mdash;Henri Frederic Amiel',
+        '&ldquo;There is no forgiveness in nature.&rdquo; <br /> &mdash;Ugo Betti'
     ]
 
     let septemberArray = [
