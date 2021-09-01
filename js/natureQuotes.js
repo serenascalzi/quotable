@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let augustArray = [
-        '&ldquo;Trees are the earth&rsquo;s endless effort to speak to the listening heaven.&rdquo; <br /> &mdash;Rabindranath Tagore',
-        '&ldquo;We cannot command Nature except by obeying her.&rdquo; <br /> &mdash;Francis Bacon',
-        '&ldquo;Give me odorous at sunrise a garden of beautiful flowers where I can walk undisturbed.&rdquo; <br /> &mdash;Walt Whitman',
-        '&ldquo;There are a thousand hacking at the branches of evil to one who is striking at the root.&rdquo; <br /> &mdash;Henry David Thoreau',
-        '&ldquo;When I have a terrible need of &ndash; shall I say the word &ndash; religion. Then I go out and paint the stars.&rdquo; <br /> &mdash;Vincent Van Gogh',
-        '&ldquo;I love not man the less, but Nature more.&rdquo; <br /> &mdash;Lord Byron',
-        '&ldquo;To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.&rdquo; <br /> &mdash;Jane Austen',
-        '&ldquo;Sadness is but a wall between two gardens.&rdquo; <br /> &mdash;Khalil Gibran',
-        '&ldquo;However much you knock at nature&rsquo;s door, she will never answer you in comprehensible words.&rdquo; <br /> &mdash;Ivan Turgenev',
-        '&ldquo;Nature provides exceptions to every rule.&rdquo; <br /> &mdash;Margaret Fuller',
-        '&ldquo;The flower that smells the sweetest is shy and lowly.&rdquo; <br /> &mdash;William Wordsworth',
-        '&ldquo;Disease is the retribution of outraged Nature.&rdquo; <br /> &mdash;Hosea Ballou',
-        '&ldquo;Nature is the master of talents; genius is the master of nature.&rdquo; <br /> &mdash;Josiah Gilbert Holland',
-        '&ldquo;Nature is indifferent to the survival of the human species, including Americans.&rdquo; <br /> &mdash;Adlai Stevenson I',
-        '&ldquo;The old cathedrals are good, but the great blue dome that hangs over everything is better.&rdquo; <br /> &mdash;Thomas Carlyle',
-        '&ldquo;What would be left of our tragedies if an insect were to present us his?&rdquo; <br /> &mdash;Emil Cioran',
-        '&ldquo;I know the joy of fishes in the river through my own joy, as I go walking along the same river.&rdquo; <br /> &mdash;Zhuangzi',
-        '&ldquo;Nature uses human imagination to lift her work of creation to even higher levels.&rdquo; <br /> &mdash;Luigi Pirandello',
-        '&ldquo;A lawn is nature under totalitarian rule.&rdquo; <br /> &mdash;Michael Pollan',
-        '&ldquo;If the skies fall, one may hope to catch larks.&rdquo; <br /> &mdash;Francois Rabelais',
-        '&ldquo;A brier rose whose buds yield fragrant harvest for the honey bee.&rdquo; <br /> &mdash;Letitia Elizabeth Landon',
-        '&ldquo;Trees love to toss and sway; they make such happy noises.&rdquo; <br /> &mdash;Emily Carr',
-        '&ldquo;When sparrows build and the leaves break forth, My old sorrow wakes and cries.&rdquo; <br /> &mdash;Jean Ingelow',
-        '&ldquo;Nature hasn&rsquo;t gone anywhere. It is all around us, all the planets, galaxies and so on. We are nothing in comparison.&rdquo; <br /> &mdash;Bjork',
-        '&ldquo;Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.&rdquo; <br /> &mdash;H. P. Lovecraft',
-        '&ldquo;Sadly, it&rsquo;s much easier to create a desert than a forest.&rdquo; <br /> &mdash;James Lovelock',
-        '&ldquo;Nature was my kindergarten.&rdquo; <br /> &mdash;William Christopher Handy',
-        '&ldquo;Who loves a garden loves a greenhouse too.&rdquo; <br /> &mdash;William Cowper',
-        '&ldquo;Any landscape is a condition of the spirit.&rdquo; <br /> &mdash;Henri Frederic Amiel',
-        '&ldquo;There is no forgiveness in nature.&rdquo; <br /> &mdash;Ugo Betti',
-        '&ldquo;Without poets, without artists, men would soon weary of nature&rsquo;s monotony.&rdquo; <br /> &mdash;Guillaume Apollinaire'
-    ]
-
     let septemberArray = [
-        // September Quotes
+        '&ldquo;I would rather sit on a pumpkin and have it all to myself, than be crowded on a velvet cushion.&rdquo; <br /> &mdash;Henry David Thoreau'
     ]
 
     let octoberArray = [
@@ -283,6 +249,40 @@ $(document).ready(function() {
         '&ldquo;Ah, summer, what power you have to make us suffer and like it.&rdquo; <br /> &mdash;Russell Baker',
         '&ldquo;In nature there are few sharp lines.&rdquo; <br /> &mdash;A. R. Ammons',
         '&ldquo;Hey sky, take off your hat, I&rsquo;m on my way!&rdquo; <br /> &mdash;Valentina Tereshkova'
+    ]
+
+    let augustArray = [
+        '&ldquo;Trees are the earth&rsquo;s endless effort to speak to the listening heaven.&rdquo; <br /> &mdash;Rabindranath Tagore',
+        '&ldquo;We cannot command Nature except by obeying her.&rdquo; <br /> &mdash;Francis Bacon',
+        '&ldquo;Give me odorous at sunrise a garden of beautiful flowers where I can walk undisturbed.&rdquo; <br /> &mdash;Walt Whitman',
+        '&ldquo;There are a thousand hacking at the branches of evil to one who is striking at the root.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;When I have a terrible need of &ndash; shall I say the word &ndash; religion. Then I go out and paint the stars.&rdquo; <br /> &mdash;Vincent Van Gogh',
+        '&ldquo;I love not man the less, but Nature more.&rdquo; <br /> &mdash;Lord Byron',
+        '&ldquo;To sit in the shade on a fine day and look upon verdure is the most perfect refreshment.&rdquo; <br /> &mdash;Jane Austen',
+        '&ldquo;Sadness is but a wall between two gardens.&rdquo; <br /> &mdash;Khalil Gibran',
+        '&ldquo;However much you knock at nature&rsquo;s door, she will never answer you in comprehensible words.&rdquo; <br /> &mdash;Ivan Turgenev',
+        '&ldquo;Nature provides exceptions to every rule.&rdquo; <br /> &mdash;Margaret Fuller',
+        '&ldquo;The flower that smells the sweetest is shy and lowly.&rdquo; <br /> &mdash;William Wordsworth',
+        '&ldquo;Disease is the retribution of outraged Nature.&rdquo; <br /> &mdash;Hosea Ballou',
+        '&ldquo;Nature is the master of talents; genius is the master of nature.&rdquo; <br /> &mdash;Josiah Gilbert Holland',
+        '&ldquo;Nature is indifferent to the survival of the human species, including Americans.&rdquo; <br /> &mdash;Adlai Stevenson I',
+        '&ldquo;The old cathedrals are good, but the great blue dome that hangs over everything is better.&rdquo; <br /> &mdash;Thomas Carlyle',
+        '&ldquo;What would be left of our tragedies if an insect were to present us his?&rdquo; <br /> &mdash;Emil Cioran',
+        '&ldquo;I know the joy of fishes in the river through my own joy, as I go walking along the same river.&rdquo; <br /> &mdash;Zhuangzi',
+        '&ldquo;Nature uses human imagination to lift her work of creation to even higher levels.&rdquo; <br /> &mdash;Luigi Pirandello',
+        '&ldquo;A lawn is nature under totalitarian rule.&rdquo; <br /> &mdash;Michael Pollan',
+        '&ldquo;If the skies fall, one may hope to catch larks.&rdquo; <br /> &mdash;Francois Rabelais',
+        '&ldquo;A brier rose whose buds yield fragrant harvest for the honey bee.&rdquo; <br /> &mdash;Letitia Elizabeth Landon',
+        '&ldquo;Trees love to toss and sway; they make such happy noises.&rdquo; <br /> &mdash;Emily Carr',
+        '&ldquo;When sparrows build and the leaves break forth, My old sorrow wakes and cries.&rdquo; <br /> &mdash;Jean Ingelow',
+        '&ldquo;Nature hasn&rsquo;t gone anywhere. It is all around us, all the planets, galaxies and so on. We are nothing in comparison.&rdquo; <br /> &mdash;Bjork',
+        '&ldquo;Blue, green, grey, white, or black; smooth, ruffled, or mountainous; that ocean is not silent.&rdquo; <br /> &mdash;H. P. Lovecraft',
+        '&ldquo;Sadly, it&rsquo;s much easier to create a desert than a forest.&rdquo; <br /> &mdash;James Lovelock',
+        '&ldquo;Nature was my kindergarten.&rdquo; <br /> &mdash;William Christopher Handy',
+        '&ldquo;Who loves a garden loves a greenhouse too.&rdquo; <br /> &mdash;William Cowper',
+        '&ldquo;Any landscape is a condition of the spirit.&rdquo; <br /> &mdash;Henri Frederic Amiel',
+        '&ldquo;There is no forgiveness in nature.&rdquo; <br /> &mdash;Ugo Betti',
+        '&ldquo;Without poets, without artists, men would soon weary of nature&rsquo;s monotony.&rdquo; <br /> &mdash;Guillaume Apollinaire'
     ]
 
     let date = new Date()
