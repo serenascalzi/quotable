@@ -31,7 +31,8 @@ $(document).ready(function() {
         '&ldquo;Nature was my kindergarten.&rdquo; <br /> &mdash;William Christopher Handy',
         '&ldquo;Who loves a garden loves a greenhouse too.&rdquo; <br /> &mdash;William Cowper',
         '&ldquo;Any landscape is a condition of the spirit.&rdquo; <br /> &mdash;Henri Frederic Amiel',
-        '&ldquo;There is no forgiveness in nature.&rdquo; <br /> &mdash;Ugo Betti'
+        '&ldquo;There is no forgiveness in nature.&rdquo; <br /> &mdash;Ugo Betti',
+        '&ldquo;Without poets, without artists, men would soon weary of nature&rsquo;s monotony.&rdquo; <br /> &mdash;Guillaume Apollinaire'
     ]
 
     let septemberArray = [
