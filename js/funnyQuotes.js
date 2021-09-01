@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let augustArray = [
-        '&ldquo;I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.&rdquo; <br /> &mdash;Robert Benchley',
-        '&ldquo;I don&rsquo;t deserve this award, but I have arthritis and I don&rsquo;t deserve that either.&rdquo; <br /> &mdash;Jack Benny',
-        '&ldquo;Tell us your phobias and we will tell you what you are afraid of.&rdquo; <br /> &mdash;Robert Benchley',
-        '&ldquo;A door is what a dog is perpetually on the wrong side of.&rdquo; <br /> &mdash;Ogden Nash',
-        '&ldquo;Always make the audience suffer as much as possible.&rdquo; <br /> &mdash;Alfred Hitchcock',
-        '&ldquo;Originality is the fine art of remembering what you hear but forgetting where you heard it.&rdquo; <br /> &mdash;Laurence J. Peter',
-        '&ldquo;A bookstore is one of the only pieces of evidence we have that people are still thinking.&rdquo; <br /> &mdash;Jerry Seinfeld',
-        '&ldquo;It is a scientific fact that your body will not absorb cholesterol if you take it from another person&rsquo;s plate.&rdquo; <br /> &mdash;Dave Barry',
-        '&ldquo;If I had to live my life again, I&rsquo;d make the same mistakes, only sooner.&rdquo; <br /> &mdash;Tallulah Bankhead',
-        '&ldquo;Being a woman is a terribly difficult task, since it consists principally in dealing with men.&rdquo; <br /> &mdash;Joseph Conrad',
-        '&ldquo;Gravitation is not responsible for people falling in love.&rdquo; <br /> &mdash;Albert Einstein',
-        '&ldquo;A rich man is nothing but a poor man with money.&rdquo; <br /> &mdash;W. C. Fields',
-        '&ldquo;Time is nature&rsquo;s way of keeping everything from happening at once.&rdquo; <br /> &mdash;John Archibald Wheeler',
-        '&ldquo;May the forces of evil become confused on the way to your house.&rdquo; <br /> &mdash;George Carlin',
-        '&ldquo;We can lick gravity, but sometimes the paperwork is overwhelming.&rdquo; <br /> &mdash;Wernher von Braun',
-        '&ldquo;Who included me among the ranks of the human race?&rdquo; <br /> &mdash;Joseph Brodsky',
-        '&ldquo;Summer bachelors, like summer breezes, are never as cool as they pretend to be.&rdquo; <br /> &mdash;Nora Ephron',
-        '&ldquo;There is only one cure for gray hair. It was invented by a Frenchman. It is called the guillotine.&rdquo; <br /> &mdash;P. G. Wodehouse',
-        '&ldquo;I don&rsquo;t deserve any credit for turning the other cheek as my tongue is always in it.&rdquo; <br /> &mdash;Flannery O&rsquo;Connor',
-        '&ldquo;The ability to delude yourself may be an important survival tool.&rdquo; <br /> &mdash;Jane Wagner',
-        '&ldquo;I divide all readers into two classes: those who read to remember and those who read to forget.&rdquo; <br /> &mdash;William Lyon Phelps',
-        '&ldquo;Vote for the man who promises least; he&rsquo;ll be the least disappointing.&rdquo; <br /> &mdash;Bernard Baruch',
-        '&ldquo;Those are my principles, and if you don&rsquo;t like them&hellip; well, I have others.&rdquo; <br /> &mdash;Groucho Marx',
-        '&ldquo;I don&rsquo;t have a bank account because I don&rsquo;t know my mother&rsquo;s maiden name.&rdquo; <br /> &mdash;Paula Poundstone',
-        '&ldquo;All right everyone, line up alphabetically according to your height.&rdquo; <br /> &mdash;Casey Stengel',
-        '&ldquo;He was a bold man that first ate an oyster.&rdquo; <br /> &mdash;Jonathan Swift',
-        '&ldquo;A hospital is no place to be sick.&rdquo; <br /> &mdash;Samuel Goldwyn',
-        '&ldquo;A fool and his money are soon elected.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;A government that robs Peter to pay Paul can always depend on the support of Paul.&rdquo; <br /> &mdash;George Bernard Shaw',
-        '&ldquo;My Father had a profound influence on me. He was a lunatic.&rdquo; <br /> &mdash;Spike Milligan',
-        '&ldquo;I got some new underwear the other day. Well, new to me.&rdquo; <br /> &mdash;Emo Philips'
-    ]
-
     let septemberArray = [
-        // September Quotes
+        '&ldquo;There is still no cure for the common birthday.&rdquo; <br /> &mdash;John Glenn'
     ]
 
     let octoberArray = [
@@ -283,6 +249,40 @@ $(document).ready(function() {
         '&ldquo;The only athletic sport I ever mastered was backgammon.&rdquo; <br /> &mdash;Douglas William Jerrold',
         '&ldquo;Burt Reynolds once asked me out. I was in his room.&rdquo; <br /> &mdash;Phyllis Diller',
         '&ldquo;I am a Ford, not a Lincoln.&rdquo; <br /> &mdash;Gerald R. Ford'
+    ]
+
+    let augustArray = [
+        '&ldquo;I have tried to know absolutely nothing about a great many things, and I have succeeded fairly well.&rdquo; <br /> &mdash;Robert Benchley',
+        '&ldquo;I don&rsquo;t deserve this award, but I have arthritis and I don&rsquo;t deserve that either.&rdquo; <br /> &mdash;Jack Benny',
+        '&ldquo;Tell us your phobias and we will tell you what you are afraid of.&rdquo; <br /> &mdash;Robert Benchley',
+        '&ldquo;A door is what a dog is perpetually on the wrong side of.&rdquo; <br /> &mdash;Ogden Nash',
+        '&ldquo;Always make the audience suffer as much as possible.&rdquo; <br /> &mdash;Alfred Hitchcock',
+        '&ldquo;Originality is the fine art of remembering what you hear but forgetting where you heard it.&rdquo; <br /> &mdash;Laurence J. Peter',
+        '&ldquo;A bookstore is one of the only pieces of evidence we have that people are still thinking.&rdquo; <br /> &mdash;Jerry Seinfeld',
+        '&ldquo;It is a scientific fact that your body will not absorb cholesterol if you take it from another person&rsquo;s plate.&rdquo; <br /> &mdash;Dave Barry',
+        '&ldquo;If I had to live my life again, I&rsquo;d make the same mistakes, only sooner.&rdquo; <br /> &mdash;Tallulah Bankhead',
+        '&ldquo;Being a woman is a terribly difficult task, since it consists principally in dealing with men.&rdquo; <br /> &mdash;Joseph Conrad',
+        '&ldquo;Gravitation is not responsible for people falling in love.&rdquo; <br /> &mdash;Albert Einstein',
+        '&ldquo;A rich man is nothing but a poor man with money.&rdquo; <br /> &mdash;W. C. Fields',
+        '&ldquo;Time is nature&rsquo;s way of keeping everything from happening at once.&rdquo; <br /> &mdash;John Archibald Wheeler',
+        '&ldquo;May the forces of evil become confused on the way to your house.&rdquo; <br /> &mdash;George Carlin',
+        '&ldquo;We can lick gravity, but sometimes the paperwork is overwhelming.&rdquo; <br /> &mdash;Wernher von Braun',
+        '&ldquo;Who included me among the ranks of the human race?&rdquo; <br /> &mdash;Joseph Brodsky',
+        '&ldquo;Summer bachelors, like summer breezes, are never as cool as they pretend to be.&rdquo; <br /> &mdash;Nora Ephron',
+        '&ldquo;There is only one cure for gray hair. It was invented by a Frenchman. It is called the guillotine.&rdquo; <br /> &mdash;P. G. Wodehouse',
+        '&ldquo;I don&rsquo;t deserve any credit for turning the other cheek as my tongue is always in it.&rdquo; <br /> &mdash;Flannery O&rsquo;Connor',
+        '&ldquo;The ability to delude yourself may be an important survival tool.&rdquo; <br /> &mdash;Jane Wagner',
+        '&ldquo;I divide all readers into two classes: those who read to remember and those who read to forget.&rdquo; <br /> &mdash;William Lyon Phelps',
+        '&ldquo;Vote for the man who promises least; he&rsquo;ll be the least disappointing.&rdquo; <br /> &mdash;Bernard Baruch',
+        '&ldquo;Those are my principles, and if you don&rsquo;t like them&hellip; well, I have others.&rdquo; <br /> &mdash;Groucho Marx',
+        '&ldquo;I don&rsquo;t have a bank account because I don&rsquo;t know my mother&rsquo;s maiden name.&rdquo; <br /> &mdash;Paula Poundstone',
+        '&ldquo;All right everyone, line up alphabetically according to your height.&rdquo; <br /> &mdash;Casey Stengel',
+        '&ldquo;He was a bold man that first ate an oyster.&rdquo; <br /> &mdash;Jonathan Swift',
+        '&ldquo;A hospital is no place to be sick.&rdquo; <br /> &mdash;Samuel Goldwyn',
+        '&ldquo;A fool and his money are soon elected.&rdquo; <br /> &mdash;Will Rogers',
+        '&ldquo;A government that robs Peter to pay Paul can always depend on the support of Paul.&rdquo; <br /> &mdash;George Bernard Shaw',
+        '&ldquo;My Father had a profound influence on me. He was a lunatic.&rdquo; <br /> &mdash;Spike Milligan',
+        '&ldquo;I got some new underwear the other day. Well, new to me.&rdquo; <br /> &mdash;Emo Philips'
     ]
 
     let date = new Date()
