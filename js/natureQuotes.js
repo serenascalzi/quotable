@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let septemberArray = [
-        '&ldquo;I would rather sit on a pumpkin and have it all to myself, than be crowded on a velvet cushion.&rdquo; <br /> &mdash;Henry David Thoreau'
+        '&ldquo;I would rather sit on a pumpkin and have it all to myself, than be crowded on a velvet cushion.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;Perhaps the truth depends on a walk around the lake.&rdquo; <br /> &mdash;Wallace Stevens'
     ]
 
     let octoberArray = [
