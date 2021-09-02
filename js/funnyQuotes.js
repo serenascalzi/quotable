@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let septemberArray = [
-        '&ldquo;There is still no cure for the common birthday.&rdquo; <br /> &mdash;John Glenn'
+        '&ldquo;There is still no cure for the common birthday.&rdquo; <br /> &mdash;John Glenn',
+        '&ldquo;I installed a skylight in my apartment&hellip; the people who live above me are furious!&rdquo; <br /> &mdash;Steven Wright'
     ]
 
     let octoberArray = [
