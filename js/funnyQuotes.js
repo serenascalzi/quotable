@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let septemberArray = [
         '&ldquo;There is still no cure for the common birthday.&rdquo; <br /> &mdash;John Glenn',
-        '&ldquo;I installed a skylight in my apartment&hellip; the people who live above me are furious!&rdquo; <br /> &mdash;Steven Wright'
+        '&ldquo;I installed a skylight in my apartment&hellip; the people who live above me are furious!&rdquo; <br /> &mdash;Steven Wright',
+        '&ldquo;I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.&rdquo; <br /> &mdash;Winston Churchill'
     ]
 
     let octoberArray = [
