@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let septemberArray = [
         '&ldquo;I would rather sit on a pumpkin and have it all to myself, than be crowded on a velvet cushion.&rdquo; <br /> &mdash;Henry David Thoreau',
-        '&ldquo;Perhaps the truth depends on a walk around the lake.&rdquo; <br /> &mdash;Wallace Stevens'
+        '&ldquo;Perhaps the truth depends on a walk around the lake.&rdquo; <br /> &mdash;Wallace Stevens',
+        '&ldquo;The Amen of nature is always a flower.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.'
     ]
 
     let octoberArray = [
