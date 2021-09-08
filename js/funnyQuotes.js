@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;If voting changed anything, they&rsquo;d make it illegal.&rdquo; <br /> &mdash;Emma Goldman',
         '&ldquo;If you cannot get rid of the family skeleton, you may as well make it dance.&rdquo; <br /> &mdash;George Bernard Shaw',
         '&ldquo;If all the cars in the United States were placed end to end, it would probably be Labor Day Weekend.&rdquo; <br /> &mdash;Doug Larson',
-        '&ldquo;You&rsquo;re only as good as your last haircut.&rdquo; <br /> &mdash;Fran Lebowitz'
+        '&ldquo;You&rsquo;re only as good as your last haircut.&rdquo; <br /> &mdash;Fran Lebowitz',
+        '&ldquo;I never eat in a restaurant that&rsquo;s over a hundred feet off the ground and won&rsquo;t stand still.&rdquo; <br /> &mdash;Calvin Trillin'
     ]
 
     let octoberArray = [

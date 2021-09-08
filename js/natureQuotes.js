@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;Nature&rsquo;s music is never over; her silences are pauses, not conclusions.&rdquo; <br /> &mdash;Mary Webb',
         '&ldquo;Nature never did betray the heart that loved her.&rdquo; <br /> &mdash;William Wordsworth',
         '&ldquo;You&rsquo;re only here for a short visit. Don&rsquo;t hurry, don&rsquo;t worry. And be sure to smell the flowers along the way.&rdquo; <br /> &mdash;Walter Hagen',
-        '&ldquo;Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.&rdquo; <br /> &mdash;Rabindranath Tagore'
+        '&ldquo;Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.&rdquo; <br /> &mdash;Rabindranath Tagore',
+        '&ldquo;The winds and the waves are always on the side of the ablest navigators.&rdquo; <br /> &mdash;Edward Gibbon'
     ]
 
     let octoberArray = [
