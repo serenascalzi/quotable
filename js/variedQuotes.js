@@ -273,8 +273,8 @@ $(document).ready(function() {
         '&ldquo;Leap, and the net will appear.&rdquo; <br /> &mdash;John Burroughs',
         '&ldquo;I just invent, then wait until man comes around to needing what I&rsquo;ve invented.&rdquo; <br /> &mdash;R. Buckminster Fuller',
         '&ldquo;What happens is not as important as how you react to what happens.&rdquo; <br /> &mdash;Ellen Glasgow',
-        '&ldquo;The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.&rdquo; <br /> &mdash;Henry Miller',
         '&ldquo;The end of labor is to gain leisure.&rdquo; <br /> &mdash;Aristotle',
+        '&ldquo;The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.&rdquo; <br /> &mdash;Henry Miller',
         '&ldquo;I&rsquo;ve never known any trouble than an hour&rsquo;s reading didn&rsquo;t assuage.&rdquo; <br /> &mdash;Arthur Schopenhauer',
         '&ldquo;Obstacles are things a person sees when he takes his eyes off his goal.&rdquo; <br /> &mdash;E. Joseph Cossman',
         '&ldquo;One fails forward toward success.&rdquo; <br /> &mdash;Charles Kettering',
@@ -438,6 +438,6 @@ $(document).ready(function() {
     let variedQuote = monthArray[dayOfMonth - 1]
 
     let varied = `<h3>${variedQuote}</h3>`
-    
+
     $('#varied').html(varied)
 })

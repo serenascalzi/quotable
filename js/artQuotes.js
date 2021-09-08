@@ -366,7 +366,7 @@ $(document).ready(function() {
         '&ldquo;In life, as in art, the beautiful moves in curves.&rdquo; <br /> &mdash;Edward G. Bulwer-Lytton',
         '&ldquo;I decided to start anew, to strip away what I had been taught.&rdquo; <br /> &mdash;Georgia O&rsquo;Keeffe'
     ]
-    
+
     let decemberArray = [
         '&ldquo;Classic art was the art of necessity: modern romantic art bears the stamp of caprice and chance.&rdquo; <br /> &mdash;Max Eastman',
         '&ldquo;I never know what I&rsquo;m going to put on the canvas. The canvas paints itself. I&rsquo;m just the middleman.&rdquo; <br /> &mdash;Peter Max',
@@ -438,6 +438,6 @@ $(document).ready(function() {
     let artQuote = monthArray[dayOfMonth - 1]
 
     let art = `<h3>${artQuote}</h3>`
-    
+
     $('#art').html(art)
 })

@@ -273,8 +273,8 @@ $(document).ready(function() {
         '&ldquo;You are the bows from which your children as living arrows are sent forth.&rdquo; <br /> &mdash;Khalil Gibran',
         '&ldquo;I may not have gone where I intended to go, but I think I have ended up where I intended to be.&rdquo; <br /> &mdash;Douglas Adams',
         '&ldquo;Though we travel the world over to find the beautiful, we must carry it with us or we find it not.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
-        '&ldquo;It is not in the stars to hold our destiny but in ourselves.&rdquo; <br /> &mdash;William Shakespeare',
         '&ldquo;Opportunity is missed by most people because it is dressed in overalls and looks like work.&rdquo; <br /> &mdash;Thomas A. Edison',
+        '&ldquo;It is not in the stars to hold our destiny but in ourselves.&rdquo; <br /> &mdash;William Shakespeare',
         '&ldquo;Beware the fury of a patient man.&rdquo; <br /> &mdash;John Dryden',
         '&ldquo;Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.&rdquo; <br /> &mdash;Archimedes',
         '&ldquo;The past cannot be cured.&rdquo; <br /> &mdash;Elizabeth I',
@@ -438,7 +438,7 @@ $(document).ready(function() {
     let brainyQuote = monthArray[dayOfMonth - 1]
 
     let brainy = `<h3>${brainyQuote}</h3>`
-    
+
     $('#brainy').html(brainy)
 
     let year = date.getFullYear()
