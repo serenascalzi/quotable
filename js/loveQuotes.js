@@ -438,6 +438,6 @@ $(document).ready(function() {
     let loveQuote = monthArray[dayOfMonth - 1]
 
     let love = `<h3>${loveQuote}</h3>`
-    
+
     $('#love').html(love)
 })
