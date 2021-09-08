@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.&rdquo; <br /> &mdash;Winston Churchill',
         '&ldquo;If voting changed anything, they&rsquo;d make it illegal.&rdquo; <br /> &mdash;Emma Goldman',
         '&ldquo;If you cannot get rid of the family skeleton, you may as well make it dance.&rdquo; <br /> &mdash;George Bernard Shaw',
-        '&ldquo;If all the cars in the United States were placed end to end, it would probably be Labor Day Weekend.&rdquo; <br /> &mdash;Doug Larson'
+        '&ldquo;If all the cars in the United States were placed end to end, it would probably be Labor Day Weekend.&rdquo; <br /> &mdash;Doug Larson',
+        '&ldquo;You&rsquo;re only as good as your last haircut.&rdquo; <br /> &mdash;Fran Lebowitz'
     ]
 
     let octoberArray = [
