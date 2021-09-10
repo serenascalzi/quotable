@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;If you cannot get rid of the family skeleton, you may as well make it dance.&rdquo; <br /> &mdash;George Bernard Shaw',
         '&ldquo;If all the cars in the United States were placed end to end, it would probably be Labor Day Weekend.&rdquo; <br /> &mdash;Doug Larson',
         '&ldquo;You&rsquo;re only as good as your last haircut.&rdquo; <br /> &mdash;Fran Lebowitz',
-        '&ldquo;I never eat in a restaurant that&rsquo;s over a hundred feet off the ground and won&rsquo;t stand still.&rdquo; <br /> &mdash;Calvin Trillin'
+        '&ldquo;I never eat in a restaurant that&rsquo;s over a hundred feet off the ground and won&rsquo;t stand still.&rdquo; <br /> &mdash;Calvin Trillin',
+        '&ldquo;Just remember, once you&rsquo;re over the hill you begin to pick up speed.&rdquo; <br /> &mdash;Arthur Schopenhauer'
     ]
 
     let octoberArray = [
