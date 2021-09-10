@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;You&rsquo;re only here for a short visit. Don&rsquo;t hurry, don&rsquo;t worry. And be sure to smell the flowers along the way.&rdquo; <br /> &mdash;Walter Hagen',
         '&ldquo;Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.&rdquo; <br /> &mdash;Rabindranath Tagore',
         '&ldquo;The winds and the waves are always on the side of the ablest navigators.&rdquo; <br /> &mdash;Edward Gibbon',
-        '&ldquo;Too low they build, who build beneath the stars.&rdquo; <br /> &mdash;Edward Young'
+        '&ldquo;Too low they build, who build beneath the stars.&rdquo; <br /> &mdash;Edward Young',
+        '&ldquo;We are embedded in a biological world and related to the organisms around us.&rdquo; <br /> &mdash;Walter Gilbert'
     ]
 
     let octoberArray = [
