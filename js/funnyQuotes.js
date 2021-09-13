@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;I never eat in a restaurant that&rsquo;s over a hundred feet off the ground and won&rsquo;t stand still.&rdquo; <br /> &mdash;Calvin Trillin',
         '&ldquo;Just remember, once you&rsquo;re over the hill you begin to pick up speed.&rdquo; <br /> &mdash;Arthur Schopenhauer',
         '&ldquo;If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.&rdquo; <br /> &mdash;Abraham Lincoln',
-        '&ldquo;I know I am getting better at golf because I am hitting fewer spectators.&rdquo; <br /> &mdash;Gerald R. Ford'
+        '&ldquo;I know I am getting better at golf because I am hitting fewer spectators.&rdquo; <br /> &mdash;Gerald R. Ford',
+        '&ldquo;Television is a medium because anything well done is rare.&rdquo; <br /> &mdash;Fred Allen'
     ]
 
     let octoberArray = [

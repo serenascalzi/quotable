@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;The winds and the waves are always on the side of the ablest navigators.&rdquo; <br /> &mdash;Edward Gibbon',
         '&ldquo;Too low they build, who build beneath the stars.&rdquo; <br /> &mdash;Edward Young',
         '&ldquo;We are embedded in a biological world and related to the organisms around us.&rdquo; <br /> &mdash;Walter Gilbert',
-        '&ldquo;Moonlight is sculpture.&rdquo; <br /> &mdash;Nathaniel Hawthorne'
+        '&ldquo;Moonlight is sculpture.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
+        '&ldquo;Adapt or perish, now as ever, is nature&rsquo;s inexorable imperative.&rdquo; <br /> &mdash;H. G. Wells'
     ]
 
     let octoberArray = [
