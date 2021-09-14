@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;Too low they build, who build beneath the stars.&rdquo; <br /> &mdash;Edward Young',
         '&ldquo;We are embedded in a biological world and related to the organisms around us.&rdquo; <br /> &mdash;Walter Gilbert',
         '&ldquo;Moonlight is sculpture.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
-        '&ldquo;Adapt or perish, now as ever, is nature&rsquo;s inexorable imperative.&rdquo; <br /> &mdash;H. G. Wells'
+        '&ldquo;Adapt or perish, now as ever, is nature&rsquo;s inexorable imperative.&rdquo; <br /> &mdash;H. G. Wells',
+        '&ldquo;When you have seen one ant, one bird, one tree, you have not seen them all.&rdquo; <br /> &mdash;E. O. Wilson'
     ]
 
     let octoberArray = [
