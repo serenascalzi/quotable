@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;Just remember, once you&rsquo;re over the hill you begin to pick up speed.&rdquo; <br /> &mdash;Arthur Schopenhauer',
         '&ldquo;If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.&rdquo; <br /> &mdash;Abraham Lincoln',
         '&ldquo;I know I am getting better at golf because I am hitting fewer spectators.&rdquo; <br /> &mdash;Gerald R. Ford',
-        '&ldquo;Television is a medium because anything well done is rare.&rdquo; <br /> &mdash;Fred Allen'
+        '&ldquo;Television is a medium because anything well done is rare.&rdquo; <br /> &mdash;Fred Allen',
+        '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Noel Coward'
     ]
 
     let octoberArray = [
