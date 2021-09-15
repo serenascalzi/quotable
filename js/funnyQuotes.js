@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.&rdquo; <br /> &mdash;Abraham Lincoln',
         '&ldquo;I know I am getting better at golf because I am hitting fewer spectators.&rdquo; <br /> &mdash;Gerald R. Ford',
         '&ldquo;Television is a medium because anything well done is rare.&rdquo; <br /> &mdash;Fred Allen',
-        '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Noel Coward'
+        '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Noel Coward',
+        '&ldquo;Never trust a husband too far, nor a bachelor too near.&rdquo; <br /> &mdash;Helen Rowland'
     ]
 
     let octoberArray = [
