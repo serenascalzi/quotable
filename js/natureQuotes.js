@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;We are embedded in a biological world and related to the organisms around us.&rdquo; <br /> &mdash;Walter Gilbert',
         '&ldquo;Moonlight is sculpture.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
         '&ldquo;Adapt or perish, now as ever, is nature&rsquo;s inexorable imperative.&rdquo; <br /> &mdash;H. G. Wells',
-        '&ldquo;When you have seen one ant, one bird, one tree, you have not seen them all.&rdquo; <br /> &mdash;E. O. Wilson'
+        '&ldquo;When you have seen one ant, one bird, one tree, you have not seen them all.&rdquo; <br /> &mdash;E. O. Wilson',
+        '&ldquo;Water, air, and cleanness are the chief articles in my pharmacy.&rdquo; <br /> &mdash;Napoleon Bonaparte'
     ]
 
     let octoberArray = [
