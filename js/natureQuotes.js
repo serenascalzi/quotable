@@ -18,7 +18,8 @@ $(document).ready(function() {
         '&ldquo;Water, air, and cleanness are the chief articles in my pharmacy.&rdquo; <br /> &mdash;Napoleon Bonaparte',
         '&ldquo;It is only in the country that we can get to know a person or a book.&rdquo; <br /> &mdash;Cyril Connolly',
         '&ldquo;The world is mud-luscious and puddle-wonderful.&rdquo; <br /> &mdash;e. e. cummings',
-        '&ldquo;The subtlety of nature is greater many times over than the subtlety of the senses and understanding.&rdquo; <br /> &mdash;Francis Bacon'
+        '&ldquo;The subtlety of nature is greater many times over than the subtlety of the senses and understanding.&rdquo; <br /> &mdash;Francis Bacon',
+        '&ldquo;Unless a tree has borne blossoms in spring, you will vainly look for fruit on it in autumn.&rdquo; <br /> &mdash;Walter Scott'
     ]
 
     let octoberArray = [
