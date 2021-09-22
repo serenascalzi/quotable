@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;The subtlety of nature is greater many times over than the subtlety of the senses and understanding.&rdquo; <br /> &mdash;Francis Bacon',
         '&ldquo;Unless a tree has borne blossoms in spring, you will vainly look for fruit on it in autumn.&rdquo; <br /> &mdash;Walter Scott',
         '&ldquo;The moon looks upon many night flowers; the night flowers see but one moon.&rdquo; <br /> &mdash;Jean Ingelow',
-        '&ldquo;Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.&rdquo; <br /> &mdash;Alphonse Karr'
+        '&ldquo;Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.&rdquo; <br /> &mdash;Alphonse Karr',
+        '&ldquo;There is not a sprig of grass that shoots uninteresting to me.&rdquo; <br /> &mdash;Thomas Jefferson'
     ]
 
     let octoberArray = [
