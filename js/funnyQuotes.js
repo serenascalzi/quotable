@@ -22,7 +22,8 @@ $(document).ready(function() {
         '&ldquo;We owe to the Middle Ages the two worst inventions of humanity &ndash; romantic love and gunpowder.&rdquo; <br /> &mdash;Andre Maurois',
         '&ldquo;Don&rsquo;t go around saying the world owes you a living. The world owes you nothing. It was here first.&rdquo; <br /> &mdash;Mark Twain',
         '&ldquo;The real menace in dealing with a five-year-old is that in no time at all you begin to sound like a five-year-old.&rdquo; <br /> &mdash;Jean Kerr',
-        '&ldquo;Economics is extremely useful as a form of employment for economists.&rdquo; <br /> &mdash;John Kenneth Galbraith'
+        '&ldquo;Economics is extremely useful as a form of employment for economists.&rdquo; <br /> &mdash;John Kenneth Galbraith',
+        '&ldquo;I handed my passport to the immigration officer, and he looked at it and looked at me and said, &lsquo;What are you?&rsquo;&rdquo; <br /> &mdash;Grace Hopper'
     ]
 
     let octoberArray = [
