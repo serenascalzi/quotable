@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;Never lend your car to anyone to whom you have given birth.&rdquo; <br /> &mdash;Erma Bombeck',
         '&ldquo;The politicians were talking themselves red, white and blue in the face.&rdquo; <br /> &mdash;Clare Boothe Luce',
         '&ldquo;He has Van Gogh&rsquo;s ear for music.&rdquo; <br /> &mdash;Billy Wilder',
-        '&ldquo;We owe to the Middle Ages the two worst inventions of humanity &ndash; romantic love and gunpowder.&rdquo; <br /> &mdash;Andre Maurois'
+        '&ldquo;We owe to the Middle Ages the two worst inventions of humanity &ndash; romantic love and gunpowder.&rdquo; <br /> &mdash;Andre Maurois',
+        '&ldquo;Don&rsquo;t go around saying the world owes you a living. The world owes you nothing. It was here first.&rdquo; <br /> &mdash;Mark Twain'
     ]
 
     let octoberArray = [
