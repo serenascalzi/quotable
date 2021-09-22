@@ -17,7 +17,8 @@ $(document).ready(function() {
         '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Noel Coward',
         '&ldquo;Never trust a husband too far, nor a bachelor too near.&rdquo; <br /> &mdash;Helen Rowland',
         '&ldquo;Never lend your car to anyone to whom you have given birth.&rdquo; <br /> &mdash;Erma Bombeck',
-        '&ldquo;The politicians were talking themselves red, white and blue in the face.&rdquo; <br /> &mdash;Clare Boothe Luce'
+        '&ldquo;The politicians were talking themselves red, white and blue in the face.&rdquo; <br /> &mdash;Clare Boothe Luce',
+        '&ldquo;He has Van Gogh&rsquo;s ear for music.&rdquo; <br /> &mdash;Billy Wilder'
     ]
 
     let octoberArray = [
