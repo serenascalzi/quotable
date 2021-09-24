@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;The moon looks upon many night flowers; the night flowers see but one moon.&rdquo; <br /> &mdash;Jean Ingelow',
         '&ldquo;Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.&rdquo; <br /> &mdash;Alphonse Karr',
         '&ldquo;There is not a sprig of grass that shoots uninteresting to me.&rdquo; <br /> &mdash;Thomas Jefferson',
-        '&ldquo;No man can taste the fruits of autumn while he is delighting his scent with the flowers of spring.&rdquo; <br /> &mdash;Samuel Johnson'
+        '&ldquo;No man can taste the fruits of autumn while he is delighting his scent with the flowers of spring.&rdquo; <br /> &mdash;Samuel Johnson',
+        '&ldquo;The good man is the friend of all living things.&rdquo; <br /> &mdash;Mahatma Gandhi'
     ]
 
     let octoberArray = [
