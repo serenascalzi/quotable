@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;I handed my passport to the immigration officer, and he looked at it and looked at me and said, &lsquo;What are you?&rsquo;&rdquo; <br /> &mdash;Grace Hopper',
         '&ldquo;Love is only a dirty trick played on us to achieve continuation of the species.&rdquo; <br /> &mdash;W. Somerset Maugham',
         '&ldquo;The only time a woman really succeeds in changing a man is when he is a baby.&rdquo; <br /> &mdash;Natalie Wood',
-        '&ldquo;Never take a solemn oath. People think you mean it.&rdquo; <br /> &mdash;Norman Douglas'
+        '&ldquo;Never take a solemn oath. People think you mean it.&rdquo; <br /> &mdash;Norman Douglas',
+        '&ldquo;I didn&rsquo;t like the play, but then I saw it under adverse conditions &ndash; the curtain was up.&rdquo; <br /> &mdash;Groucho Marx'
     ]
 
     let octoberArray = [
