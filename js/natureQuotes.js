@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;No man can taste the fruits of autumn while he is delighting his scent with the flowers of spring.&rdquo; <br /> &mdash;Samuel Johnson',
         '&ldquo;The good man is the friend of all living things.&rdquo; <br /> &mdash;Mahatma Gandhi',
         '&ldquo;Autumn is my favorite season.&rdquo; <br /> &mdash;Johnny Kelly',
-        '&ldquo;Nature knows no pause in progress and development, and attaches her curse on all inaction.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
+        '&ldquo;Nature knows no pause in progress and development, and attaches her curse on all inaction.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        '&ldquo;Happiness is the natural flower of duty.&rdquo; <br /> &mdash;Phillips Brooks'
     ]
 
     let octoberArray = [
