@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;The only time a woman really succeeds in changing a man is when he is a baby.&rdquo; <br /> &mdash;Natalie Wood',
         '&ldquo;Never take a solemn oath. People think you mean it.&rdquo; <br /> &mdash;Norman Douglas',
         '&ldquo;I didn&rsquo;t like the play, but then I saw it under adverse conditions &ndash; the curtain was up.&rdquo; <br /> &mdash;Groucho Marx',
-        '&ldquo;I love California, I practically grew up in Phoenix.&rdquo; <br /> &mdash;Dan Quayle'
+        '&ldquo;I love California, I practically grew up in Phoenix.&rdquo; <br /> &mdash;Dan Quayle',
+        '&ldquo;I love mankind; it&rsquo;s people I can&rsquo;t stand.&rdquo; <br /> &mdash;Charles M. Schulz'
     ]
 
     let octoberArray = [

@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;Autumn is my favorite season.&rdquo; <br /> &mdash;Johnny Kelly',
         '&ldquo;Nature knows no pause in progress and development, and attaches her curse on all inaction.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         '&ldquo;Happiness is the natural flower of duty.&rdquo; <br /> &mdash;Phillips Brooks',
-        '&ldquo;God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man.&rdquo; <br /> &mdash;Arthur Young'
+        '&ldquo;God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man.&rdquo; <br /> &mdash;Arthur Young',
+        '&ldquo;If I had to choose, I would rather have birds than airplanes.&rdquo; <br /> &mdash;Charles Lindbergh'
     ]
 
     let octoberArray = [
