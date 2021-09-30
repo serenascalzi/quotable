@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;I didn&rsquo;t like the play, but then I saw it under adverse conditions &ndash; the curtain was up.&rdquo; <br /> &mdash;Groucho Marx',
         '&ldquo;I love California, I practically grew up in Phoenix.&rdquo; <br /> &mdash;Dan Quayle',
         '&ldquo;I love mankind; it&rsquo;s people I can&rsquo;t stand.&rdquo; <br /> &mdash;Charles M. Schulz',
-        '&ldquo;Suburbia is where the developer bulldozes out the trees, then names the streets after them.&rdquo; <br /> &mdash;Bill Vaughan'
+        '&ldquo;Suburbia is where the developer bulldozes out the trees, then names the streets after them.&rdquo; <br /> &mdash;Bill Vaughan',
+        '&ldquo;I&rsquo;m proud to pay taxes in the United States; the only thing is, I could be just as proud for half the money.&rdquo; <br /> &mdash;Arthur Godfrey'
     ]
 
     let octoberArray = [
