@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;Happiness is the natural flower of duty.&rdquo; <br /> &mdash;Phillips Brooks',
         '&ldquo;God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man.&rdquo; <br /> &mdash;Arthur Young',
         '&ldquo;If I had to choose, I would rather have birds than airplanes.&rdquo; <br /> &mdash;Charles Lindbergh',
-        '&ldquo;In nature there are neither rewards nor punishments; there are consequences.&rdquo; <br /> &mdash;Robert Green Ingersoll'
+        '&ldquo;In nature there are neither rewards nor punishments; there are consequences.&rdquo; <br /> &mdash;Robert Green Ingersoll',
+        '&ldquo;Autumn&rsquo;s the mellow time.&rdquo; <br /> &mdash;William Allingham'
     ]
 
     let octoberArray = [
