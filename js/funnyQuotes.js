@@ -1,41 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let septemberArray = [
-        '&ldquo;There is still no cure for the common birthday.&rdquo; <br /> &mdash;John Glenn',
-        '&ldquo;I installed a skylight in my apartment&hellip; the people who live above me are furious!&rdquo; <br /> &mdash;Steven Wright',
-        '&ldquo;I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.&rdquo; <br /> &mdash;Winston Churchill',
-        '&ldquo;If voting changed anything, they&rsquo;d make it illegal.&rdquo; <br /> &mdash;Emma Goldman',
-        '&ldquo;If you cannot get rid of the family skeleton, you may as well make it dance.&rdquo; <br /> &mdash;George Bernard Shaw',
-        '&ldquo;If all the cars in the United States were placed end to end, it would probably be Labor Day Weekend.&rdquo; <br /> &mdash;Doug Larson',
-        '&ldquo;You&rsquo;re only as good as your last haircut.&rdquo; <br /> &mdash;Fran Lebowitz',
-        '&ldquo;I never eat in a restaurant that&rsquo;s over a hundred feet off the ground and won&rsquo;t stand still.&rdquo; <br /> &mdash;Calvin Trillin',
-        '&ldquo;Just remember, once you&rsquo;re over the hill you begin to pick up speed.&rdquo; <br /> &mdash;Arthur Schopenhauer',
-        '&ldquo;If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.&rdquo; <br /> &mdash;Abraham Lincoln',
-        '&ldquo;I know I am getting better at golf because I am hitting fewer spectators.&rdquo; <br /> &mdash;Gerald R. Ford',
-        '&ldquo;Television is a medium because anything well done is rare.&rdquo; <br /> &mdash;Fred Allen',
-        '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Noel Coward',
-        '&ldquo;Never trust a husband too far, nor a bachelor too near.&rdquo; <br /> &mdash;Helen Rowland',
-        '&ldquo;Never lend your car to anyone to whom you have given birth.&rdquo; <br /> &mdash;Erma Bombeck',
-        '&ldquo;The politicians were talking themselves red, white and blue in the face.&rdquo; <br /> &mdash;Clare Boothe Luce',
-        '&ldquo;He has Van Gogh&rsquo;s ear for music.&rdquo; <br /> &mdash;Billy Wilder',
-        '&ldquo;We owe to the Middle Ages the two worst inventions of humanity &ndash; romantic love and gunpowder.&rdquo; <br /> &mdash;Andre Maurois',
-        '&ldquo;Don&rsquo;t go around saying the world owes you a living. The world owes you nothing. It was here first.&rdquo; <br /> &mdash;Mark Twain',
-        '&ldquo;The real menace in dealing with a five-year-old is that in no time at all you begin to sound like a five-year-old.&rdquo; <br /> &mdash;Jean Kerr',
-        '&ldquo;Economics is extremely useful as a form of employment for economists.&rdquo; <br /> &mdash;John Kenneth Galbraith',
-        '&ldquo;I handed my passport to the immigration officer, and he looked at it and looked at me and said, &lsquo;What are you?&rsquo;&rdquo; <br /> &mdash;Grace Hopper',
-        '&ldquo;Love is only a dirty trick played on us to achieve continuation of the species.&rdquo; <br /> &mdash;W. Somerset Maugham',
-        '&ldquo;The only time a woman really succeeds in changing a man is when he is a baby.&rdquo; <br /> &mdash;Natalie Wood',
-        '&ldquo;Never take a solemn oath. People think you mean it.&rdquo; <br /> &mdash;Norman Douglas',
-        '&ldquo;I didn&rsquo;t like the play, but then I saw it under adverse conditions &ndash; the curtain was up.&rdquo; <br /> &mdash;Groucho Marx',
-        '&ldquo;I love California, I practically grew up in Phoenix.&rdquo; <br /> &mdash;Dan Quayle',
-        '&ldquo;I love mankind; it&rsquo;s people I can&rsquo;t stand.&rdquo; <br /> &mdash;Charles M. Schulz',
-        '&ldquo;Suburbia is where the developer bulldozes out the trees, then names the streets after them.&rdquo; <br /> &mdash;Bill Vaughan',
-        '&ldquo;I&rsquo;m proud to pay taxes in the United States; the only thing is, I could be just as proud for half the money.&rdquo; <br /> &mdash;Arthur Godfrey'
-    ]
-
     let octoberArray = [
-        // October Quotes
+        '&ldquo;The future will be better tomorrow.&rdquo; <br /> &mdash;Dan Quayle'
     ]
 
     let novemberArray = [
@@ -312,6 +279,39 @@ $(document).ready(function() {
         '&ldquo;A government that robs Peter to pay Paul can always depend on the support of Paul.&rdquo; <br /> &mdash;George Bernard Shaw',
         '&ldquo;My Father had a profound influence on me. He was a lunatic.&rdquo; <br /> &mdash;Spike Milligan',
         '&ldquo;I got some new underwear the other day. Well, new to me.&rdquo; <br /> &mdash;Emo Philips'
+    ]
+
+    let septemberArray = [
+        '&ldquo;There is still no cure for the common birthday.&rdquo; <br /> &mdash;John Glenn',
+        '&ldquo;I installed a skylight in my apartment&hellip; the people who live above me are furious!&rdquo; <br /> &mdash;Steven Wright',
+        '&ldquo;I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals.&rdquo; <br /> &mdash;Winston Churchill',
+        '&ldquo;If voting changed anything, they&rsquo;d make it illegal.&rdquo; <br /> &mdash;Emma Goldman',
+        '&ldquo;If you cannot get rid of the family skeleton, you may as well make it dance.&rdquo; <br /> &mdash;George Bernard Shaw',
+        '&ldquo;If all the cars in the United States were placed end to end, it would probably be Labor Day Weekend.&rdquo; <br /> &mdash;Doug Larson',
+        '&ldquo;You&rsquo;re only as good as your last haircut.&rdquo; <br /> &mdash;Fran Lebowitz',
+        '&ldquo;I never eat in a restaurant that&rsquo;s over a hundred feet off the ground and won&rsquo;t stand still.&rdquo; <br /> &mdash;Calvin Trillin',
+        '&ldquo;Just remember, once you&rsquo;re over the hill you begin to pick up speed.&rdquo; <br /> &mdash;Arthur Schopenhauer',
+        '&ldquo;If this is coffee, please bring me some tea; but if this is tea, please bring me some coffee.&rdquo; <br /> &mdash;Abraham Lincoln',
+        '&ldquo;I know I am getting better at golf because I am hitting fewer spectators.&rdquo; <br /> &mdash;Gerald R. Ford',
+        '&ldquo;Television is a medium because anything well done is rare.&rdquo; <br /> &mdash;Fred Allen',
+        '&ldquo;I like long walks, especially when they are taken by people who annoy me.&rdquo; <br /> &mdash;Noel Coward',
+        '&ldquo;Never trust a husband too far, nor a bachelor too near.&rdquo; <br /> &mdash;Helen Rowland',
+        '&ldquo;Never lend your car to anyone to whom you have given birth.&rdquo; <br /> &mdash;Erma Bombeck',
+        '&ldquo;The politicians were talking themselves red, white and blue in the face.&rdquo; <br /> &mdash;Clare Boothe Luce',
+        '&ldquo;He has Van Gogh&rsquo;s ear for music.&rdquo; <br /> &mdash;Billy Wilder',
+        '&ldquo;We owe to the Middle Ages the two worst inventions of humanity &ndash; romantic love and gunpowder.&rdquo; <br /> &mdash;Andre Maurois',
+        '&ldquo;Don&rsquo;t go around saying the world owes you a living. The world owes you nothing. It was here first.&rdquo; <br /> &mdash;Mark Twain',
+        '&ldquo;The real menace in dealing with a five-year-old is that in no time at all you begin to sound like a five-year-old.&rdquo; <br /> &mdash;Jean Kerr',
+        '&ldquo;Economics is extremely useful as a form of employment for economists.&rdquo; <br /> &mdash;John Kenneth Galbraith',
+        '&ldquo;I handed my passport to the immigration officer, and he looked at it and looked at me and said, &lsquo;What are you?&rsquo;&rdquo; <br /> &mdash;Grace Hopper',
+        '&ldquo;Love is only a dirty trick played on us to achieve continuation of the species.&rdquo; <br /> &mdash;W. Somerset Maugham',
+        '&ldquo;The only time a woman really succeeds in changing a man is when he is a baby.&rdquo; <br /> &mdash;Natalie Wood',
+        '&ldquo;Never take a solemn oath. People think you mean it.&rdquo; <br /> &mdash;Norman Douglas',
+        '&ldquo;I didn&rsquo;t like the play, but then I saw it under adverse conditions &ndash; the curtain was up.&rdquo; <br /> &mdash;Groucho Marx',
+        '&ldquo;I love California, I practically grew up in Phoenix.&rdquo; <br /> &mdash;Dan Quayle',
+        '&ldquo;I love mankind; it&rsquo;s people I can&rsquo;t stand.&rdquo; <br /> &mdash;Charles M. Schulz',
+        '&ldquo;Suburbia is where the developer bulldozes out the trees, then names the streets after them.&rdquo; <br /> &mdash;Bill Vaughan',
+        '&ldquo;I&rsquo;m proud to pay taxes in the United States; the only thing is, I could be just as proud for half the money.&rdquo; <br /> &mdash;Arthur Godfrey'
     ]
 
     let date = new Date()

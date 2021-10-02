@@ -1,41 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let septemberArray = [
-        '&ldquo;I would rather sit on a pumpkin and have it all to myself, than be crowded on a velvet cushion.&rdquo; <br /> &mdash;Henry David Thoreau',
-        '&ldquo;Perhaps the truth depends on a walk around the lake.&rdquo; <br /> &mdash;Wallace Stevens',
-        '&ldquo;The Amen of nature is always a flower.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
-        '&ldquo;Nature&rsquo;s music is never over; her silences are pauses, not conclusions.&rdquo; <br /> &mdash;Mary Webb',
-        '&ldquo;Nature never did betray the heart that loved her.&rdquo; <br /> &mdash;William Wordsworth',
-        '&ldquo;You&rsquo;re only here for a short visit. Don&rsquo;t hurry, don&rsquo;t worry. And be sure to smell the flowers along the way.&rdquo; <br /> &mdash;Walter Hagen',
-        '&ldquo;Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.&rdquo; <br /> &mdash;Rabindranath Tagore',
-        '&ldquo;The winds and the waves are always on the side of the ablest navigators.&rdquo; <br /> &mdash;Edward Gibbon',
-        '&ldquo;Too low they build, who build beneath the stars.&rdquo; <br /> &mdash;Edward Young',
-        '&ldquo;We are embedded in a biological world and related to the organisms around us.&rdquo; <br /> &mdash;Walter Gilbert',
-        '&ldquo;Moonlight is sculpture.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
-        '&ldquo;Adapt or perish, now as ever, is nature&rsquo;s inexorable imperative.&rdquo; <br /> &mdash;H. G. Wells',
-        '&ldquo;When you have seen one ant, one bird, one tree, you have not seen them all.&rdquo; <br /> &mdash;E. O. Wilson',
-        '&ldquo;Water, air, and cleanness are the chief articles in my pharmacy.&rdquo; <br /> &mdash;Napoleon Bonaparte',
-        '&ldquo;It is only in the country that we can get to know a person or a book.&rdquo; <br /> &mdash;Cyril Connolly',
-        '&ldquo;The world is mud-luscious and puddle-wonderful.&rdquo; <br /> &mdash;e. e. cummings',
-        '&ldquo;The subtlety of nature is greater many times over than the subtlety of the senses and understanding.&rdquo; <br /> &mdash;Francis Bacon',
-        '&ldquo;Unless a tree has borne blossoms in spring, you will vainly look for fruit on it in autumn.&rdquo; <br /> &mdash;Walter Scott',
-        '&ldquo;The moon looks upon many night flowers; the night flowers see but one moon.&rdquo; <br /> &mdash;Jean Ingelow',
-        '&ldquo;Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.&rdquo; <br /> &mdash;Alphonse Karr',
-        '&ldquo;There is not a sprig of grass that shoots uninteresting to me.&rdquo; <br /> &mdash;Thomas Jefferson',
-        '&ldquo;No man can taste the fruits of autumn while he is delighting his scent with the flowers of spring.&rdquo; <br /> &mdash;Samuel Johnson',
-        '&ldquo;The good man is the friend of all living things.&rdquo; <br /> &mdash;Mahatma Gandhi',
-        '&ldquo;Autumn is my favorite season.&rdquo; <br /> &mdash;Johnny Kelly',
-        '&ldquo;Nature knows no pause in progress and development, and attaches her curse on all inaction.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
-        '&ldquo;Happiness is the natural flower of duty.&rdquo; <br /> &mdash;Phillips Brooks',
-        '&ldquo;God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man.&rdquo; <br /> &mdash;Arthur Young',
-        '&ldquo;If I had to choose, I would rather have birds than airplanes.&rdquo; <br /> &mdash;Charles Lindbergh',
-        '&ldquo;In nature there are neither rewards nor punishments; there are consequences.&rdquo; <br /> &mdash;Robert Green Ingersoll',
-        '&ldquo;Autumn&rsquo;s the mellow time.&rdquo; <br /> &mdash;William Allingham'
-    ]
-
     let octoberArray = [
-        // October Quotes
+        '&ldquo;Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.&rdquo; <br /> &mdash;Augustus Hare'
     ]
 
     let novemberArray = [
@@ -312,6 +279,39 @@ $(document).ready(function() {
         '&ldquo;Any landscape is a condition of the spirit.&rdquo; <br /> &mdash;Henri Frederic Amiel',
         '&ldquo;There is no forgiveness in nature.&rdquo; <br /> &mdash;Ugo Betti',
         '&ldquo;Without poets, without artists, men would soon weary of nature&rsquo;s monotony.&rdquo; <br /> &mdash;Guillaume Apollinaire'
+    ]
+
+    let septemberArray = [
+        '&ldquo;I would rather sit on a pumpkin and have it all to myself, than be crowded on a velvet cushion.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;Perhaps the truth depends on a walk around the lake.&rdquo; <br /> &mdash;Wallace Stevens',
+        '&ldquo;The Amen of nature is always a flower.&rdquo; <br /> &mdash;Oliver Wendell Holmes, Sr.',
+        '&ldquo;Nature&rsquo;s music is never over; her silences are pauses, not conclusions.&rdquo; <br /> &mdash;Mary Webb',
+        '&ldquo;Nature never did betray the heart that loved her.&rdquo; <br /> &mdash;William Wordsworth',
+        '&ldquo;You&rsquo;re only here for a short visit. Don&rsquo;t hurry, don&rsquo;t worry. And be sure to smell the flowers along the way.&rdquo; <br /> &mdash;Walter Hagen',
+        '&ldquo;Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky.&rdquo; <br /> &mdash;Rabindranath Tagore',
+        '&ldquo;The winds and the waves are always on the side of the ablest navigators.&rdquo; <br /> &mdash;Edward Gibbon',
+        '&ldquo;Too low they build, who build beneath the stars.&rdquo; <br /> &mdash;Edward Young',
+        '&ldquo;We are embedded in a biological world and related to the organisms around us.&rdquo; <br /> &mdash;Walter Gilbert',
+        '&ldquo;Moonlight is sculpture.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
+        '&ldquo;Adapt or perish, now as ever, is nature&rsquo;s inexorable imperative.&rdquo; <br /> &mdash;H. G. Wells',
+        '&ldquo;When you have seen one ant, one bird, one tree, you have not seen them all.&rdquo; <br /> &mdash;E. O. Wilson',
+        '&ldquo;Water, air, and cleanness are the chief articles in my pharmacy.&rdquo; <br /> &mdash;Napoleon Bonaparte',
+        '&ldquo;It is only in the country that we can get to know a person or a book.&rdquo; <br /> &mdash;Cyril Connolly',
+        '&ldquo;The world is mud-luscious and puddle-wonderful.&rdquo; <br /> &mdash;e. e. cummings',
+        '&ldquo;The subtlety of nature is greater many times over than the subtlety of the senses and understanding.&rdquo; <br /> &mdash;Francis Bacon',
+        '&ldquo;Unless a tree has borne blossoms in spring, you will vainly look for fruit on it in autumn.&rdquo; <br /> &mdash;Walter Scott',
+        '&ldquo;The moon looks upon many night flowers; the night flowers see but one moon.&rdquo; <br /> &mdash;Jean Ingelow',
+        '&ldquo;Some people are always grumbling because roses have thorns; I am thankful that thorns have roses.&rdquo; <br /> &mdash;Alphonse Karr',
+        '&ldquo;There is not a sprig of grass that shoots uninteresting to me.&rdquo; <br /> &mdash;Thomas Jefferson',
+        '&ldquo;No man can taste the fruits of autumn while he is delighting his scent with the flowers of spring.&rdquo; <br /> &mdash;Samuel Johnson',
+        '&ldquo;The good man is the friend of all living things.&rdquo; <br /> &mdash;Mahatma Gandhi',
+        '&ldquo;Autumn is my favorite season.&rdquo; <br /> &mdash;Johnny Kelly',
+        '&ldquo;Nature knows no pause in progress and development, and attaches her curse on all inaction.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        '&ldquo;Happiness is the natural flower of duty.&rdquo; <br /> &mdash;Phillips Brooks',
+        '&ldquo;God sleeps in the minerals, awakens in plants, walks in animals, and thinks in man.&rdquo; <br /> &mdash;Arthur Young',
+        '&ldquo;If I had to choose, I would rather have birds than airplanes.&rdquo; <br /> &mdash;Charles Lindbergh',
+        '&ldquo;In nature there are neither rewards nor punishments; there are consequences.&rdquo; <br /> &mdash;Robert Green Ingersoll',
+        '&ldquo;Autumn&rsquo;s the mellow time.&rdquo; <br /> &mdash;William Allingham'
     ]
 
     let date = new Date()
