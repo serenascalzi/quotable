@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let octoberArray = [
         '&ldquo;The future will be better tomorrow.&rdquo; <br /> &mdash;Dan Quayle',
-        '&ldquo;How can I know what I think till I see what I say?&rdquo; <br /> &mdash;E. M. Forster'
+        '&ldquo;How can I know what I think till I see what I say?&rdquo; <br /> &mdash;E. M. Forster',
+        '&ldquo;The fact that an opinion has been widely held is no evidence whatever that it is not utterly absurd.&rdquo; <br /> &mdash;Bertrand Russell'
     ]
 
     let novemberArray = [
