@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let octoberArray = [
-        '&ldquo;The future will be better tomorrow.&rdquo; <br /> &mdash;Dan Quayle'
+        '&ldquo;The future will be better tomorrow.&rdquo; <br /> &mdash;Dan Quayle',
+        '&ldquo;How can I know what I think till I see what I say?&rdquo; <br /> &mdash;E. M. Forster'
     ]
 
     let novemberArray = [

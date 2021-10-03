@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let octoberArray = [
-        '&ldquo;Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.&rdquo; <br /> &mdash;Augustus Hare'
+        '&ldquo;Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.&rdquo; <br /> &mdash;Augustus Hare',
+        '&ldquo;How inappropriate to call this planet Earth when it is quite clearly Ocean.&rdquo; <br /> &mdash;Arthur C. Clarke'
     ]
 
     let novemberArray = [
