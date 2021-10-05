@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;The future will be better tomorrow.&rdquo; <br /> &mdash;Dan Quayle',
         '&ldquo;How can I know what I think till I see what I say?&rdquo; <br /> &mdash;E. M. Forster',
         '&ldquo;The fact that an opinion has been widely held is no evidence whatever that it is not utterly absurd.&rdquo; <br /> &mdash;Bertrand Russell',
-        '&ldquo;Work is accomplished by those employees who have not yet reached their level of incompetence.&rdquo; <br /> &mdash;Laurence J. Peter'
+        '&ldquo;Work is accomplished by those employees who have not yet reached their level of incompetence.&rdquo; <br /> &mdash;Laurence J. Peter',
+        '&ldquo;The nice thing about being a celebrity is that, if you bore people, they think it&rsquo;s their fault.&rdquo; <br /> &mdash;Henry Kissinger'
     ]
 
     let novemberArray = [

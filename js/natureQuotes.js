@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.&rdquo; <br /> &mdash;Augustus Hare',
         '&ldquo;How inappropriate to call this planet Earth when it is quite clearly Ocean.&rdquo; <br /> &mdash;Arthur C. Clarke',
         '&ldquo;Keep your face always toward the sunshine &ndash; and shadows will fall behind you.&rdquo; <br /> &mdash;Walt Whitman',
-        '&ldquo;The bluebird carries the sky on his back.&rdquo; <br /> &mdash;Henry David Thoreau'
+        '&ldquo;The bluebird carries the sky on his back.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;I drank the silence of God from a spring in the woods.&rdquo; <br /> &mdash;Georg Trakl'
     ]
 
     let novemberArray = [
