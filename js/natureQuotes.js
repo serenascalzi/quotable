@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;Keep your face always toward the sunshine &ndash; and shadows will fall behind you.&rdquo; <br /> &mdash;Walt Whitman',
         '&ldquo;The bluebird carries the sky on his back.&rdquo; <br /> &mdash;Henry David Thoreau',
         '&ldquo;I drank the silence of God from a spring in the woods.&rdquo; <br /> &mdash;Georg Trakl',
-        '&ldquo;The love of gardening is a seed once sown that never dies.&rdquo; <br /> &mdash;Gertrude Jekyll'
+        '&ldquo;The love of gardening is a seed once sown that never dies.&rdquo; <br /> &mdash;Gertrude Jekyll',
+        '&ldquo;There&rsquo;s something about taking a plow and breaking new ground. It gives you energy.&rdquo; <br /> &mdash;Ken Kesey'
     ]
 
     let novemberArray = [
