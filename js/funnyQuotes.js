@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;Work is accomplished by those employees who have not yet reached their level of incompetence.&rdquo; <br /> &mdash;Laurence J. Peter',
         '&ldquo;The nice thing about being a celebrity is that, if you bore people, they think it&rsquo;s their fault.&rdquo; <br /> &mdash;Henry Kissinger',
         '&ldquo;Nobody ever forgets where he buried the hatchet.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;When a man tells you that he got rich through hard work, ask him: &lsquo;Whose?&rsquo;&rdquo; <br /> &mdash;Don Marquis'
+        '&ldquo;When a man tells you that he got rich through hard work, ask him: &lsquo;Whose?&rsquo;&rdquo; <br /> &mdash;Don Marquis',
+        '&ldquo;All the world&rsquo;s a stage and most of us are desperately unrehearsed.&rdquo; <br /> &mdash;Sean O&rsquo;Casey'
     ]
 
     let novemberArray = [

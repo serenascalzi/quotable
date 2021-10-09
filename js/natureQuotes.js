@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;The bluebird carries the sky on his back.&rdquo; <br /> &mdash;Henry David Thoreau',
         '&ldquo;I drank the silence of God from a spring in the woods.&rdquo; <br /> &mdash;Georg Trakl',
         '&ldquo;The love of gardening is a seed once sown that never dies.&rdquo; <br /> &mdash;Gertrude Jekyll',
-        '&ldquo;There&rsquo;s something about taking a plow and breaking new ground. It gives you energy.&rdquo; <br /> &mdash;Ken Kesey'
+        '&ldquo;There&rsquo;s something about taking a plow and breaking new ground. It gives you energy.&rdquo; <br /> &mdash;Ken Kesey',
+        '&ldquo;The earth is the mother of all people, and all people should have equal rights upon it.&rdquo; <br /> &mdash;Chief Joseph'
     ]
 
     let novemberArray = [
