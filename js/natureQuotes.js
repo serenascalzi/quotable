@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;The love of gardening is a seed once sown that never dies.&rdquo; <br /> &mdash;Gertrude Jekyll',
         '&ldquo;There&rsquo;s something about taking a plow and breaking new ground. It gives you energy.&rdquo; <br /> &mdash;Ken Kesey',
         '&ldquo;The earth is the mother of all people, and all people should have equal rights upon it.&rdquo; <br /> &mdash;Chief Joseph',
-        '&ldquo;If nature offers no home, then we must make a home one way or another. The only question is how.&rdquo; <br /> &mdash;John Burnside'
+        '&ldquo;If nature offers no home, then we must make a home one way or another. The only question is how.&rdquo; <br /> &mdash;John Burnside',
+        '&ldquo;No spring nor summer beauty hath such grace as I have seen in one autumnal face.&rdquo; <br /> &mdash;John Donne'
     ]
 
     let novemberArray = [
