@@ -11,7 +11,8 @@ $(document).ready(function() {
         '&ldquo;When a man tells you that he got rich through hard work, ask him: &lsquo;Whose?&rsquo;&rdquo; <br /> &mdash;Don Marquis',
         '&ldquo;All the world&rsquo;s a stage and most of us are desperately unrehearsed.&rdquo; <br /> &mdash;Sean O&rsquo;Casey',
         '&ldquo;Christopher Columbus, as everyone knows, is honored by posterity because he was the last to discover America.&rdquo; <br /> &mdash;James Joyce',
-        '&ldquo;I used to sell furniture for a living. The trouble was, it was my own.&rdquo; <br /> &mdash;Les Dawson'
+        '&ldquo;I used to sell furniture for a living. The trouble was, it was my own.&rdquo; <br /> &mdash;Les Dawson',
+        '&ldquo;My favorite animal is steak.&rdquo; <br /> &mdash;Fran Lebowitz'
     ]
 
     let novemberArray = [
