@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;The earth is the mother of all people, and all people should have equal rights upon it.&rdquo; <br /> &mdash;Chief Joseph',
         '&ldquo;If nature offers no home, then we must make a home one way or another. The only question is how.&rdquo; <br /> &mdash;John Burnside',
         '&ldquo;No spring nor summer beauty hath such grace as I have seen in one autumnal face.&rdquo; <br /> &mdash;John Donne',
-        '&ldquo;Human life is as evanescent as the morning dew or a flash of lightning.&rdquo; <br /> &mdash;Samuel Butler'
+        '&ldquo;Human life is as evanescent as the morning dew or a flash of lightning.&rdquo; <br /> &mdash;Samuel Butler',
+        '&ldquo;We forget that the water cycle and the life cycle are one.&rdquo; <br /> &mdash;Jacques Yves Cousteau'
     ]
 
     let novemberArray = [
