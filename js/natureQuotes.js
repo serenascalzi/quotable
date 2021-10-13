@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;If nature offers no home, then we must make a home one way or another. The only question is how.&rdquo; <br /> &mdash;John Burnside',
         '&ldquo;No spring nor summer beauty hath such grace as I have seen in one autumnal face.&rdquo; <br /> &mdash;John Donne',
         '&ldquo;Human life is as evanescent as the morning dew or a flash of lightning.&rdquo; <br /> &mdash;Samuel Butler',
-        '&ldquo;We forget that the water cycle and the life cycle are one.&rdquo; <br /> &mdash;Jacques Yves Cousteau'
+        '&ldquo;We forget that the water cycle and the life cycle are one.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
+        '&ldquo;I&rsquo;m very gregarious, but I love being in the hills on my own.&rdquo; <br /> &mdash;Norman MacCaig'
     ]
 
     let novemberArray = [
