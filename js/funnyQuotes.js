@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;Christopher Columbus, as everyone knows, is honored by posterity because he was the last to discover America.&rdquo; <br /> &mdash;James Joyce',
         '&ldquo;I used to sell furniture for a living. The trouble was, it was my own.&rdquo; <br /> &mdash;Les Dawson',
         '&ldquo;My favorite animal is steak.&rdquo; <br /> &mdash;Fran Lebowitz',
-        '&ldquo;People will buy anything that is &lsquo;one to a customer.&rsquo;&rdquo; <br /> &mdash;Sinclair Lewis'
+        '&ldquo;People will buy anything that is &lsquo;one to a customer.&rsquo;&rdquo; <br /> &mdash;Sinclair Lewis',
+        '&ldquo;A camel makes an elephant feel like a jet plane.&rdquo; <br /> &mdash;Jackie Kennedy'
     ]
 
     let novemberArray = [
