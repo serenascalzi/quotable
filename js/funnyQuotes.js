@@ -14,7 +14,8 @@ $(document).ready(function() {
         '&ldquo;I used to sell furniture for a living. The trouble was, it was my own.&rdquo; <br /> &mdash;Les Dawson',
         '&ldquo;My favorite animal is steak.&rdquo; <br /> &mdash;Fran Lebowitz',
         '&ldquo;People will buy anything that is &lsquo;one to a customer.&rsquo;&rdquo; <br /> &mdash;Sinclair Lewis',
-        '&ldquo;A camel makes an elephant feel like a jet plane.&rdquo; <br /> &mdash;Jackie Kennedy'
+        '&ldquo;A camel makes an elephant feel like a jet plane.&rdquo; <br /> &mdash;Jackie Kennedy',
+        '&ldquo;I haven&rsquo;t spoken to my wife in years. I didn&rsquo;t want to interrupt her.&rdquo; <br /> &mdash;Rodney Dangerfield'
     ]
 
     let novemberArray = [
