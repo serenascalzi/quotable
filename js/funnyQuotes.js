@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;My favorite animal is steak.&rdquo; <br /> &mdash;Fran Lebowitz',
         '&ldquo;People will buy anything that is &lsquo;one to a customer.&rsquo;&rdquo; <br /> &mdash;Sinclair Lewis',
         '&ldquo;A camel makes an elephant feel like a jet plane.&rdquo; <br /> &mdash;Jackie Kennedy',
-        '&ldquo;I haven&rsquo;t spoken to my wife in years. I didn&rsquo;t want to interrupt her.&rdquo; <br /> &mdash;Rodney Dangerfield'
+        '&ldquo;I haven&rsquo;t spoken to my wife in years. I didn&rsquo;t want to interrupt her.&rdquo; <br /> &mdash;Rodney Dangerfield',
+        '&ldquo;Laziness is nothing more than the habit of resting before you get tired.&rdquo; <br /> &mdash;Jules Renard'
     ]
 
     let novemberArray = [
