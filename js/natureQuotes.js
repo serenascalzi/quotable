@@ -18,7 +18,8 @@ $(document).ready(function() {
         '&ldquo;Man is a creative retrospection of nature upon itself.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
         '&ldquo;And when I breathed, my breath was lightning.&rdquo; <br /> &mdash;Black Elk',
         '&ldquo;Nature is the art of God.&rdquo; <br /> &mdash;Dante Alighieri',
-        '&ldquo;A weed is but an unloved flower.&rdquo; <br /> &mdash;Ella Wheeler Wilcox'
+        '&ldquo;A weed is but an unloved flower.&rdquo; <br /> &mdash;Ella Wheeler Wilcox',
+        '&ldquo;Countless as the sands of the sea are human passions.&rdquo; <br /> &mdash;Nikolai Gogol'
     ]
 
     let novemberArray = [
