@@ -16,7 +16,8 @@ $(document).ready(function() {
         '&ldquo;We forget that the water cycle and the life cycle are one.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
         '&ldquo;I&rsquo;m very gregarious, but I love being in the hills on my own.&rdquo; <br /> &mdash;Norman MacCaig',
         '&ldquo;Man is a creative retrospection of nature upon itself.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
-        '&ldquo;And when I breathed, my breath was lightning.&rdquo; <br /> &mdash;Black Elk'
+        '&ldquo;And when I breathed, my breath was lightning.&rdquo; <br /> &mdash;Black Elk',
+        '&ldquo;Nature is the art of God.&rdquo; <br /> &mdash;Dante Alighieri'
     ]
 
     let novemberArray = [
