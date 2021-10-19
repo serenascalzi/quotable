@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;And when I breathed, my breath was lightning.&rdquo; <br /> &mdash;Black Elk',
         '&ldquo;Nature is the art of God.&rdquo; <br /> &mdash;Dante Alighieri',
         '&ldquo;A weed is but an unloved flower.&rdquo; <br /> &mdash;Ella Wheeler Wilcox',
-        '&ldquo;Countless as the sands of the sea are human passions.&rdquo; <br /> &mdash;Nikolai Gogol'
+        '&ldquo;Countless as the sands of the sea are human passions.&rdquo; <br /> &mdash;Nikolai Gogol',
+        '&ldquo;Miracles do not, in fact, break the laws of nature.&rdquo; <br /> &mdash;C. S. Lewis'
     ]
 
     let novemberArray = [

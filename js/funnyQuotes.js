@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;Laziness is nothing more than the habit of resting before you get tired.&rdquo; <br /> &mdash;Jules Renard',
         '&ldquo;A wide screen just makes a bad film twice as bad.&rdquo; <br /> &mdash;Samuel Goldwyn',
         '&ldquo;When we ask for advice, we are usually looking for an accomplice.&rdquo; <br /> &mdash;Saul Bellow',
-        '&ldquo;I&rsquo;m dating a woman now who, evidently, is unaware of it.&rdquo; <br /> &mdash;Garry Shandling'
+        '&ldquo;I&rsquo;m dating a woman now who, evidently, is unaware of it.&rdquo; <br /> &mdash;Garry Shandling',
+        '&ldquo;I don&rsquo;t make jokes. I just watch the government and report the facts.&rdquo; <br /> &mdash;Will Rogers'
     ]
 
     let novemberArray = [
