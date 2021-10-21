@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;A weed is but an unloved flower.&rdquo; <br /> &mdash;Ella Wheeler Wilcox',
         '&ldquo;Countless as the sands of the sea are human passions.&rdquo; <br /> &mdash;Nikolai Gogol',
         '&ldquo;Miracles do not, in fact, break the laws of nature.&rdquo; <br /> &mdash;C. S. Lewis',
-        '&ldquo;Nature&hellip; is nothing but the inner voice of self-interest.&rdquo; <br /> &mdash;Charles Baudelaire'
+        '&ldquo;Nature&hellip; is nothing but the inner voice of self-interest.&rdquo; <br /> &mdash;Charles Baudelaire',
+        '&ldquo;Energy, like the biblical grain of the mustard-seed, will remove mountains.&rdquo; <br /> &mdash;Hosea Ballou'
     ]
 
     let novemberArray = [

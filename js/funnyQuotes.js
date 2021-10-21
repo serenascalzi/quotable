@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;When we ask for advice, we are usually looking for an accomplice.&rdquo; <br /> &mdash;Saul Bellow',
         '&ldquo;I&rsquo;m dating a woman now who, evidently, is unaware of it.&rdquo; <br /> &mdash;Garry Shandling',
         '&ldquo;I don&rsquo;t make jokes. I just watch the government and report the facts.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;I personally think we developed language because of our deep need to complain.&rdquo; <br /> &mdash;Lily Tomlin'
+        '&ldquo;I personally think we developed language because of our deep need to complain.&rdquo; <br /> &mdash;Lily Tomlin',
+        '&ldquo;A hospital bed is a parked taxi with the meter running.&rdquo; <br /> &mdash;Groucho Marx'
     ]
 
     let novemberArray = [
