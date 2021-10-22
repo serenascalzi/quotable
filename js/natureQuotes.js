@@ -22,7 +22,8 @@ $(document).ready(function() {
         '&ldquo;Countless as the sands of the sea are human passions.&rdquo; <br /> &mdash;Nikolai Gogol',
         '&ldquo;Miracles do not, in fact, break the laws of nature.&rdquo; <br /> &mdash;C. S. Lewis',
         '&ldquo;Nature&hellip; is nothing but the inner voice of self-interest.&rdquo; <br /> &mdash;Charles Baudelaire',
-        '&ldquo;Energy, like the biblical grain of the mustard-seed, will remove mountains.&rdquo; <br /> &mdash;Hosea Ballou'
+        '&ldquo;Energy, like the biblical grain of the mustard-seed, will remove mountains.&rdquo; <br /> &mdash;Hosea Ballou',
+        '&ldquo;We still do not know one thousandth of one percent of what nature has revealed to us.&rdquo; <br /> &mdash;Albert Einstein'
     ]
 
     let novemberArray = [
