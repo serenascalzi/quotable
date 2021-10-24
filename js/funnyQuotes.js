@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;I don&rsquo;t make jokes. I just watch the government and report the facts.&rdquo; <br /> &mdash;Will Rogers',
         '&ldquo;I personally think we developed language because of our deep need to complain.&rdquo; <br /> &mdash;Lily Tomlin',
         '&ldquo;A hospital bed is a parked taxi with the meter running.&rdquo; <br /> &mdash;Groucho Marx',
-        '&ldquo;Happiness is having a large, loving, caring, close-knit family in another city.&rdquo; <br /> &mdash;George Burns'
+        '&ldquo;Happiness is having a large, loving, caring, close-knit family in another city.&rdquo; <br /> &mdash;George Burns',
+        '&ldquo;Most of what we call management consists of making it difficult for people to get their work done.&rdquo; <br /> &mdash;Peter Drucker'
     ]
 
     let novemberArray = [
