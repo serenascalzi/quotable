@@ -24,7 +24,8 @@ $(document).ready(function() {
         '&ldquo;Nature&hellip; is nothing but the inner voice of self-interest.&rdquo; <br /> &mdash;Charles Baudelaire',
         '&ldquo;Energy, like the biblical grain of the mustard-seed, will remove mountains.&rdquo; <br /> &mdash;Hosea Ballou',
         '&ldquo;We still do not know one thousandth of one percent of what nature has revealed to us.&rdquo; <br /> &mdash;Albert Einstein',
-        '&ldquo;Rose is a rose is a rose is a rose.&rdquo; <br /> &mdash;Gertrude Stein'
+        '&ldquo;Rose is a rose is a rose is a rose.&rdquo; <br /> &mdash;Gertrude Stein',
+        '&ldquo;I can find God in nature, in animals, in birds and the environment.&rdquo; <br /> &mdash;Pat Buckley'
     ]
 
     let novemberArray = [
