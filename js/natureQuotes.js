@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;We still do not know one thousandth of one percent of what nature has revealed to us.&rdquo; <br /> &mdash;Albert Einstein',
         '&ldquo;Rose is a rose is a rose is a rose.&rdquo; <br /> &mdash;Gertrude Stein',
         '&ldquo;I can find God in nature, in animals, in birds and the environment.&rdquo; <br /> &mdash;Pat Buckley',
-        '&ldquo;The sea has neither meaning nor pity.&rdquo; <br /> &mdash;Anton Chekhov'
+        '&ldquo;The sea has neither meaning nor pity.&rdquo; <br /> &mdash;Anton Chekhov',
+        '&ldquo;Wilderness is not a luxury but a necessity of the human spirit.&rdquo; <br /> &mdash;Edward Abbey'
     ]
 
     let novemberArray = [

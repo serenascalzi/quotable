@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;Happiness is having a large, loving, caring, close-knit family in another city.&rdquo; <br /> &mdash;George Burns',
         '&ldquo;Most of what we call management consists of making it difficult for people to get their work done.&rdquo; <br /> &mdash;Peter Drucker',
         '&ldquo;All I ask is the chance to prove that money can&rsquo;t make me happy.&rdquo; <br /> &mdash;Spike Milligan',
-        '&ldquo;Bachelors have consciences, married men have wives.&rdquo; <br /> &mdash;Samuel Johnson'
+        '&ldquo;Bachelors have consciences, married men have wives.&rdquo; <br /> &mdash;Samuel Johnson',
+        '&ldquo;An Englishman teaching an American about food is like the blind leading the one-eyed.&rdquo; <br /> &mdash;A. J. Liebling'
     ]
 
     let novemberArray = [
