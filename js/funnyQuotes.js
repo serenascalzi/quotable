@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;Most of what we call management consists of making it difficult for people to get their work done.&rdquo; <br /> &mdash;Peter Drucker',
         '&ldquo;All I ask is the chance to prove that money can&rsquo;t make me happy.&rdquo; <br /> &mdash;Spike Milligan',
         '&ldquo;Bachelors have consciences, married men have wives.&rdquo; <br /> &mdash;Samuel Johnson',
-        '&ldquo;An Englishman teaching an American about food is like the blind leading the one-eyed.&rdquo; <br /> &mdash;A. J. Liebling'
+        '&ldquo;An Englishman teaching an American about food is like the blind leading the one-eyed.&rdquo; <br /> &mdash;A. J. Liebling',
+        '&ldquo;I have an unfortunate personality.&rdquo; <br /> &mdash;Orson Welles'
     ]
 
     let novemberArray = [
