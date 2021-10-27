@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;Rose is a rose is a rose is a rose.&rdquo; <br /> &mdash;Gertrude Stein',
         '&ldquo;I can find God in nature, in animals, in birds and the environment.&rdquo; <br /> &mdash;Pat Buckley',
         '&ldquo;The sea has neither meaning nor pity.&rdquo; <br /> &mdash;Anton Chekhov',
-        '&ldquo;Wilderness is not a luxury but a necessity of the human spirit.&rdquo; <br /> &mdash;Edward Abbey'
+        '&ldquo;Wilderness is not a luxury but a necessity of the human spirit.&rdquo; <br /> &mdash;Edward Abbey',
+        '&ldquo;You forget that the fruits belong to all and that the land belongs to no one.&rdquo; <br /> &mdash;Jean-Jacques Rousseau'
     ]
 
     let novemberArray = [
