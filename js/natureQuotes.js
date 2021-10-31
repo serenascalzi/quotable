@@ -31,7 +31,8 @@ $(document).ready(function() {
         '&ldquo;You forget that the fruits belong to all and that the land belongs to no one.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
         '&ldquo;Without the oceans there would be no life on Earth.&rdquo; <br /> &mdash;Peter Benchley',
         '&ldquo;But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.&rdquo; <br /> &mdash;H. P. Lovecraft',
-        '&ldquo;The man who interprets Nature is always held in great honor.&rdquo; <br /> &mdash;Zora Neale Hurston'
+        '&ldquo;The man who interprets Nature is always held in great honor.&rdquo; <br /> &mdash;Zora Neale Hurston',
+        '&ldquo;I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.&rdquo; <br /> &mdash;Muhammad Iqbal'
     ]
 
     let novemberArray = [

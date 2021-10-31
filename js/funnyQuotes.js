@@ -31,7 +31,8 @@ $(document).ready(function() {
         '&ldquo;I have an unfortunate personality.&rdquo; <br /> &mdash;Orson Welles',
         '&ldquo;I don&rsquo;t necessarily agree with everything I say.&rdquo; <br /> &mdash;Marshall McLuhan',
         '&ldquo;All men are equal before fish.&rdquo; <br /> &mdash;Herbert Hoover',
-        '&ldquo;Why do you have to be a nonconformist like everybody else?&rdquo; <br /> &mdash;James Thurber'
+        '&ldquo;Why do you have to be a nonconformist like everybody else?&rdquo; <br /> &mdash;James Thurber',
+        '&ldquo;On Halloween, the parents sent their kids out looking like me.&rdquo; <br /> &mdash;Rodney Dangerfield'
     ]
 
     let novemberArray = [
