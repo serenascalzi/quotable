@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;An Englishman teaching an American about food is like the blind leading the one-eyed.&rdquo; <br /> &mdash;A. J. Liebling',
         '&ldquo;I have an unfortunate personality.&rdquo; <br /> &mdash;Orson Welles',
         '&ldquo;I don&rsquo;t necessarily agree with everything I say.&rdquo; <br /> &mdash;Marshall McLuhan',
-        '&ldquo;All men are equal before fish.&rdquo; <br /> &mdash;Herbert Hoover'
+        '&ldquo;All men are equal before fish.&rdquo; <br /> &mdash;Herbert Hoover',
+        '&ldquo;Why do you have to be a nonconformist like everybody else?&rdquo; <br /> &mdash;James Thurber'
     ]
 
     let novemberArray = [

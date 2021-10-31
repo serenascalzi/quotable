@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;Wilderness is not a luxury but a necessity of the human spirit.&rdquo; <br /> &mdash;Edward Abbey',
         '&ldquo;You forget that the fruits belong to all and that the land belongs to no one.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
         '&ldquo;Without the oceans there would be no life on Earth.&rdquo; <br /> &mdash;Peter Benchley',
-        '&ldquo;But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.&rdquo; <br /> &mdash;H. P. Lovecraft'
+        '&ldquo;But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.&rdquo; <br /> &mdash;H. P. Lovecraft',
+        '&ldquo;The man who interprets Nature is always held in great honor.&rdquo; <br /> &mdash;Zora Neale Hurston'
     ]
 
     let novemberArray = [
