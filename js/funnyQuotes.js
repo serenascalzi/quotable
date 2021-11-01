@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let octoberArray = [
-        '&ldquo;The future will be better tomorrow.&rdquo; <br /> &mdash;Dan Quayle',
-        '&ldquo;How can I know what I think till I see what I say?&rdquo; <br /> &mdash;E. M. Forster',
-        '&ldquo;The fact that an opinion has been widely held is no evidence whatever that it is not utterly absurd.&rdquo; <br /> &mdash;Bertrand Russell',
-        '&ldquo;Work is accomplished by those employees who have not yet reached their level of incompetence.&rdquo; <br /> &mdash;Laurence J. Peter',
-        '&ldquo;The nice thing about being a celebrity is that, if you bore people, they think it&rsquo;s their fault.&rdquo; <br /> &mdash;Henry Kissinger',
-        '&ldquo;Nobody ever forgets where he buried the hatchet.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;When a man tells you that he got rich through hard work, ask him: &lsquo;Whose?&rsquo;&rdquo; <br /> &mdash;Don Marquis',
-        '&ldquo;All the world&rsquo;s a stage and most of us are desperately unrehearsed.&rdquo; <br /> &mdash;Sean O&rsquo;Casey',
-        '&ldquo;Christopher Columbus, as everyone knows, is honored by posterity because he was the last to discover America.&rdquo; <br /> &mdash;James Joyce',
-        '&ldquo;I used to sell furniture for a living. The trouble was, it was my own.&rdquo; <br /> &mdash;Les Dawson',
-        '&ldquo;My favorite animal is steak.&rdquo; <br /> &mdash;Fran Lebowitz',
-        '&ldquo;People will buy anything that is &lsquo;one to a customer.&rsquo;&rdquo; <br /> &mdash;Sinclair Lewis',
-        '&ldquo;A camel makes an elephant feel like a jet plane.&rdquo; <br /> &mdash;Jackie Kennedy',
-        '&ldquo;I haven&rsquo;t spoken to my wife in years. I didn&rsquo;t want to interrupt her.&rdquo; <br /> &mdash;Rodney Dangerfield',
-        '&ldquo;Laziness is nothing more than the habit of resting before you get tired.&rdquo; <br /> &mdash;Jules Renard',
-        '&ldquo;A wide screen just makes a bad film twice as bad.&rdquo; <br /> &mdash;Samuel Goldwyn',
-        '&ldquo;When we ask for advice, we are usually looking for an accomplice.&rdquo; <br /> &mdash;Saul Bellow',
-        '&ldquo;I&rsquo;m dating a woman now who, evidently, is unaware of it.&rdquo; <br /> &mdash;Garry Shandling',
-        '&ldquo;I don&rsquo;t make jokes. I just watch the government and report the facts.&rdquo; <br /> &mdash;Will Rogers',
-        '&ldquo;I personally think we developed language because of our deep need to complain.&rdquo; <br /> &mdash;Lily Tomlin',
-        '&ldquo;A hospital bed is a parked taxi with the meter running.&rdquo; <br /> &mdash;Groucho Marx',
-        '&ldquo;Happiness is having a large, loving, caring, close-knit family in another city.&rdquo; <br /> &mdash;George Burns',
-        '&ldquo;Most of what we call management consists of making it difficult for people to get their work done.&rdquo; <br /> &mdash;Peter Drucker',
-        '&ldquo;All I ask is the chance to prove that money can&rsquo;t make me happy.&rdquo; <br /> &mdash;Spike Milligan',
-        '&ldquo;Bachelors have consciences, married men have wives.&rdquo; <br /> &mdash;Samuel Johnson',
-        '&ldquo;An Englishman teaching an American about food is like the blind leading the one-eyed.&rdquo; <br /> &mdash;A. J. Liebling',
-        '&ldquo;I have an unfortunate personality.&rdquo; <br /> &mdash;Orson Welles',
-        '&ldquo;I don&rsquo;t necessarily agree with everything I say.&rdquo; <br /> &mdash;Marshall McLuhan',
-        '&ldquo;All men are equal before fish.&rdquo; <br /> &mdash;Herbert Hoover',
-        '&ldquo;Why do you have to be a nonconformist like everybody else?&rdquo; <br /> &mdash;James Thurber',
-        '&ldquo;On Halloween, the parents sent their kids out looking like me.&rdquo; <br /> &mdash;Rodney Dangerfield'
-    ]
-
     let novemberArray = [
-        // November Quotes
+        '&ldquo;I&rsquo;d luv to kiss ya, but I just washed my hair.&rdquo; <br /> &mdash;Bette Davis'
     ]
 
     let decemberArray = [
@@ -342,6 +308,40 @@ $(document).ready(function() {
         '&ldquo;I love mankind; it&rsquo;s people I can&rsquo;t stand.&rdquo; <br /> &mdash;Charles M. Schulz',
         '&ldquo;Suburbia is where the developer bulldozes out the trees, then names the streets after them.&rdquo; <br /> &mdash;Bill Vaughan',
         '&ldquo;I&rsquo;m proud to pay taxes in the United States; the only thing is, I could be just as proud for half the money.&rdquo; <br /> &mdash;Arthur Godfrey'
+    ]
+
+    let octoberArray = [
+        '&ldquo;The future will be better tomorrow.&rdquo; <br /> &mdash;Dan Quayle',
+        '&ldquo;How can I know what I think till I see what I say?&rdquo; <br /> &mdash;E. M. Forster',
+        '&ldquo;The fact that an opinion has been widely held is no evidence whatever that it is not utterly absurd.&rdquo; <br /> &mdash;Bertrand Russell',
+        '&ldquo;Work is accomplished by those employees who have not yet reached their level of incompetence.&rdquo; <br /> &mdash;Laurence J. Peter',
+        '&ldquo;The nice thing about being a celebrity is that, if you bore people, they think it&rsquo;s their fault.&rdquo; <br /> &mdash;Henry Kissinger',
+        '&ldquo;Nobody ever forgets where he buried the hatchet.&rdquo; <br /> &mdash;Kin Hubbard',
+        '&ldquo;When a man tells you that he got rich through hard work, ask him: &lsquo;Whose?&rsquo;&rdquo; <br /> &mdash;Don Marquis',
+        '&ldquo;All the world&rsquo;s a stage and most of us are desperately unrehearsed.&rdquo; <br /> &mdash;Sean O&rsquo;Casey',
+        '&ldquo;Christopher Columbus, as everyone knows, is honored by posterity because he was the last to discover America.&rdquo; <br /> &mdash;James Joyce',
+        '&ldquo;I used to sell furniture for a living. The trouble was, it was my own.&rdquo; <br /> &mdash;Les Dawson',
+        '&ldquo;My favorite animal is steak.&rdquo; <br /> &mdash;Fran Lebowitz',
+        '&ldquo;People will buy anything that is &lsquo;one to a customer.&rsquo;&rdquo; <br /> &mdash;Sinclair Lewis',
+        '&ldquo;A camel makes an elephant feel like a jet plane.&rdquo; <br /> &mdash;Jackie Kennedy',
+        '&ldquo;I haven&rsquo;t spoken to my wife in years. I didn&rsquo;t want to interrupt her.&rdquo; <br /> &mdash;Rodney Dangerfield',
+        '&ldquo;Laziness is nothing more than the habit of resting before you get tired.&rdquo; <br /> &mdash;Jules Renard',
+        '&ldquo;A wide screen just makes a bad film twice as bad.&rdquo; <br /> &mdash;Samuel Goldwyn',
+        '&ldquo;When we ask for advice, we are usually looking for an accomplice.&rdquo; <br /> &mdash;Saul Bellow',
+        '&ldquo;I&rsquo;m dating a woman now who, evidently, is unaware of it.&rdquo; <br /> &mdash;Garry Shandling',
+        '&ldquo;I don&rsquo;t make jokes. I just watch the government and report the facts.&rdquo; <br /> &mdash;Will Rogers',
+        '&ldquo;I personally think we developed language because of our deep need to complain.&rdquo; <br /> &mdash;Lily Tomlin',
+        '&ldquo;A hospital bed is a parked taxi with the meter running.&rdquo; <br /> &mdash;Groucho Marx',
+        '&ldquo;Happiness is having a large, loving, caring, close-knit family in another city.&rdquo; <br /> &mdash;George Burns',
+        '&ldquo;Most of what we call management consists of making it difficult for people to get their work done.&rdquo; <br /> &mdash;Peter Drucker',
+        '&ldquo;All I ask is the chance to prove that money can&rsquo;t make me happy.&rdquo; <br /> &mdash;Spike Milligan',
+        '&ldquo;Bachelors have consciences, married men have wives.&rdquo; <br /> &mdash;Samuel Johnson',
+        '&ldquo;An Englishman teaching an American about food is like the blind leading the one-eyed.&rdquo; <br /> &mdash;A. J. Liebling',
+        '&ldquo;I have an unfortunate personality.&rdquo; <br /> &mdash;Orson Welles',
+        '&ldquo;I don&rsquo;t necessarily agree with everything I say.&rdquo; <br /> &mdash;Marshall McLuhan',
+        '&ldquo;All men are equal before fish.&rdquo; <br /> &mdash;Herbert Hoover',
+        '&ldquo;Why do you have to be a nonconformist like everybody else?&rdquo; <br /> &mdash;James Thurber',
+        '&ldquo;On Halloween, the parents sent their kids out looking like me.&rdquo; <br /> &mdash;Rodney Dangerfield'
     ]
 
     let date = new Date()
