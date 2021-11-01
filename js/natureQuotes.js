@@ -1,42 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let octoberArray = [
-        '&ldquo;Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.&rdquo; <br /> &mdash;Augustus Hare',
-        '&ldquo;How inappropriate to call this planet Earth when it is quite clearly Ocean.&rdquo; <br /> &mdash;Arthur C. Clarke',
-        '&ldquo;Keep your face always toward the sunshine &ndash; and shadows will fall behind you.&rdquo; <br /> &mdash;Walt Whitman',
-        '&ldquo;The bluebird carries the sky on his back.&rdquo; <br /> &mdash;Henry David Thoreau',
-        '&ldquo;I drank the silence of God from a spring in the woods.&rdquo; <br /> &mdash;Georg Trakl',
-        '&ldquo;The love of gardening is a seed once sown that never dies.&rdquo; <br /> &mdash;Gertrude Jekyll',
-        '&ldquo;There&rsquo;s something about taking a plow and breaking new ground. It gives you energy.&rdquo; <br /> &mdash;Ken Kesey',
-        '&ldquo;The earth is the mother of all people, and all people should have equal rights upon it.&rdquo; <br /> &mdash;Chief Joseph',
-        '&ldquo;If nature offers no home, then we must make a home one way or another. The only question is how.&rdquo; <br /> &mdash;John Burnside',
-        '&ldquo;No spring nor summer beauty hath such grace as I have seen in one autumnal face.&rdquo; <br /> &mdash;John Donne',
-        '&ldquo;Human life is as evanescent as the morning dew or a flash of lightning.&rdquo; <br /> &mdash;Samuel Butler',
-        '&ldquo;We forget that the water cycle and the life cycle are one.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
-        '&ldquo;I&rsquo;m very gregarious, but I love being in the hills on my own.&rdquo; <br /> &mdash;Norman MacCaig',
-        '&ldquo;Man is a creative retrospection of nature upon itself.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
-        '&ldquo;And when I breathed, my breath was lightning.&rdquo; <br /> &mdash;Black Elk',
-        '&ldquo;Nature is the art of God.&rdquo; <br /> &mdash;Dante Alighieri',
-        '&ldquo;A weed is but an unloved flower.&rdquo; <br /> &mdash;Ella Wheeler Wilcox',
-        '&ldquo;Countless as the sands of the sea are human passions.&rdquo; <br /> &mdash;Nikolai Gogol',
-        '&ldquo;Miracles do not, in fact, break the laws of nature.&rdquo; <br /> &mdash;C. S. Lewis',
-        '&ldquo;Nature&hellip; is nothing but the inner voice of self-interest.&rdquo; <br /> &mdash;Charles Baudelaire',
-        '&ldquo;Energy, like the biblical grain of the mustard-seed, will remove mountains.&rdquo; <br /> &mdash;Hosea Ballou',
-        '&ldquo;We still do not know one thousandth of one percent of what nature has revealed to us.&rdquo; <br /> &mdash;Albert Einstein',
-        '&ldquo;Rose is a rose is a rose is a rose.&rdquo; <br /> &mdash;Gertrude Stein',
-        '&ldquo;I can find God in nature, in animals, in birds and the environment.&rdquo; <br /> &mdash;Pat Buckley',
-        '&ldquo;The sea has neither meaning nor pity.&rdquo; <br /> &mdash;Anton Chekhov',
-        '&ldquo;Wilderness is not a luxury but a necessity of the human spirit.&rdquo; <br /> &mdash;Edward Abbey',
-        '&ldquo;You forget that the fruits belong to all and that the land belongs to no one.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
-        '&ldquo;Without the oceans there would be no life on Earth.&rdquo; <br /> &mdash;Peter Benchley',
-        '&ldquo;But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.&rdquo; <br /> &mdash;H. P. Lovecraft',
-        '&ldquo;The man who interprets Nature is always held in great honor.&rdquo; <br /> &mdash;Zora Neale Hurston',
-        '&ldquo;I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.&rdquo; <br /> &mdash;Muhammad Iqbal'
-    ]
-
     let novemberArray = [
-        // November Quotes
+        '&ldquo;I know the lands are lit, with all the autumn blaze of Goldenrod.&rdquo; <br /> &mdash;Helen Hunt Jackson'
     ]
 
     let decemberArray = [
@@ -342,6 +308,40 @@ $(document).ready(function() {
         '&ldquo;If I had to choose, I would rather have birds than airplanes.&rdquo; <br /> &mdash;Charles Lindbergh',
         '&ldquo;In nature there are neither rewards nor punishments; there are consequences.&rdquo; <br /> &mdash;Robert Green Ingersoll',
         '&ldquo;Autumn&rsquo;s the mellow time.&rdquo; <br /> &mdash;William Allingham'
+    ]
+
+    let octoberArray = [
+        '&ldquo;Nothing is farther than earth from heaven; nothing is nearer than heaven to earth.&rdquo; <br /> &mdash;Augustus Hare',
+        '&ldquo;How inappropriate to call this planet Earth when it is quite clearly Ocean.&rdquo; <br /> &mdash;Arthur C. Clarke',
+        '&ldquo;Keep your face always toward the sunshine &ndash; and shadows will fall behind you.&rdquo; <br /> &mdash;Walt Whitman',
+        '&ldquo;The bluebird carries the sky on his back.&rdquo; <br /> &mdash;Henry David Thoreau',
+        '&ldquo;I drank the silence of God from a spring in the woods.&rdquo; <br /> &mdash;Georg Trakl',
+        '&ldquo;The love of gardening is a seed once sown that never dies.&rdquo; <br /> &mdash;Gertrude Jekyll',
+        '&ldquo;There&rsquo;s something about taking a plow and breaking new ground. It gives you energy.&rdquo; <br /> &mdash;Ken Kesey',
+        '&ldquo;The earth is the mother of all people, and all people should have equal rights upon it.&rdquo; <br /> &mdash;Chief Joseph',
+        '&ldquo;If nature offers no home, then we must make a home one way or another. The only question is how.&rdquo; <br /> &mdash;John Burnside',
+        '&ldquo;No spring nor summer beauty hath such grace as I have seen in one autumnal face.&rdquo; <br /> &mdash;John Donne',
+        '&ldquo;Human life is as evanescent as the morning dew or a flash of lightning.&rdquo; <br /> &mdash;Samuel Butler',
+        '&ldquo;We forget that the water cycle and the life cycle are one.&rdquo; <br /> &mdash;Jacques Yves Cousteau',
+        '&ldquo;I&rsquo;m very gregarious, but I love being in the hills on my own.&rdquo; <br /> &mdash;Norman MacCaig',
+        '&ldquo;Man is a creative retrospection of nature upon itself.&rdquo; <br /> &mdash;Karl Wilhelm Friedrich Schlegel',
+        '&ldquo;And when I breathed, my breath was lightning.&rdquo; <br /> &mdash;Black Elk',
+        '&ldquo;Nature is the art of God.&rdquo; <br /> &mdash;Dante Alighieri',
+        '&ldquo;A weed is but an unloved flower.&rdquo; <br /> &mdash;Ella Wheeler Wilcox',
+        '&ldquo;Countless as the sands of the sea are human passions.&rdquo; <br /> &mdash;Nikolai Gogol',
+        '&ldquo;Miracles do not, in fact, break the laws of nature.&rdquo; <br /> &mdash;C. S. Lewis',
+        '&ldquo;Nature&hellip; is nothing but the inner voice of self-interest.&rdquo; <br /> &mdash;Charles Baudelaire',
+        '&ldquo;Energy, like the biblical grain of the mustard-seed, will remove mountains.&rdquo; <br /> &mdash;Hosea Ballou',
+        '&ldquo;We still do not know one thousandth of one percent of what nature has revealed to us.&rdquo; <br /> &mdash;Albert Einstein',
+        '&ldquo;Rose is a rose is a rose is a rose.&rdquo; <br /> &mdash;Gertrude Stein',
+        '&ldquo;I can find God in nature, in animals, in birds and the environment.&rdquo; <br /> &mdash;Pat Buckley',
+        '&ldquo;The sea has neither meaning nor pity.&rdquo; <br /> &mdash;Anton Chekhov',
+        '&ldquo;Wilderness is not a luxury but a necessity of the human spirit.&rdquo; <br /> &mdash;Edward Abbey',
+        '&ldquo;You forget that the fruits belong to all and that the land belongs to no one.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
+        '&ldquo;Without the oceans there would be no life on Earth.&rdquo; <br /> &mdash;Peter Benchley',
+        '&ldquo;But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.&rdquo; <br /> &mdash;H. P. Lovecraft',
+        '&ldquo;The man who interprets Nature is always held in great honor.&rdquo; <br /> &mdash;Zora Neale Hurston',
+        '&ldquo;I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.&rdquo; <br /> &mdash;Muhammad Iqbal'
     ]
 
     let date = new Date()
