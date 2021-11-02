@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let novemberArray = [
-        '&ldquo;I know the lands are lit, with all the autumn blaze of Goldenrod.&rdquo; <br /> &mdash;Helen Hunt Jackson'
+        '&ldquo;I know the lands are lit, with all the autumn blaze of Goldenrod.&rdquo; <br /> &mdash;Helen Hunt Jackson',
+        '&ldquo;The tree that is beside the running water is fresher and gives more fruit.&rdquo; <br /> &mdash;Saint Teresa of Avila'
     ]
 
     let decemberArray = [
