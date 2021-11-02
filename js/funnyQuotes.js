@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let novemberArray = [
-        '&ldquo;I&rsquo;d luv to kiss ya, but I just washed my hair.&rdquo; <br /> &mdash;Bette Davis'
+        '&ldquo;I&rsquo;d luv to kiss ya, but I just washed my hair.&rdquo; <br /> &mdash;Bette Davis',
+        '&ldquo;Truth is a tendency.&rdquo; <br /> &mdash;R. Buckminster Fuller'
     ]
 
     let decemberArray = [
