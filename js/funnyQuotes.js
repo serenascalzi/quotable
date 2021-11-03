@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let novemberArray = [
         '&ldquo;I&rsquo;d luv to kiss ya, but I just washed my hair.&rdquo; <br /> &mdash;Bette Davis',
-        '&ldquo;Truth is a tendency.&rdquo; <br /> &mdash;R. Buckminster Fuller'
+        '&ldquo;Truth is a tendency.&rdquo; <br /> &mdash;R. Buckminster Fuller',
+        '&ldquo;Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself.&rdquo; <br /> &mdash;Mark Twain'
     ]
 
     let decemberArray = [

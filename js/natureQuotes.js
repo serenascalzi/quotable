@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let novemberArray = [
         '&ldquo;I know the lands are lit, with all the autumn blaze of Goldenrod.&rdquo; <br /> &mdash;Helen Hunt Jackson',
-        '&ldquo;The tree that is beside the running water is fresher and gives more fruit.&rdquo; <br /> &mdash;Saint Teresa of Avila'
+        '&ldquo;The tree that is beside the running water is fresher and gives more fruit.&rdquo; <br /> &mdash;Saint Teresa of Avila',
+        '&ldquo;Nature does nothing in vain.&rdquo; <br /> &mdash;Aristotle'
     ]
 
     let decemberArray = [
