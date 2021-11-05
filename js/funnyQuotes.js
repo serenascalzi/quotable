@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;I&rsquo;d luv to kiss ya, but I just washed my hair.&rdquo; <br /> &mdash;Bette Davis',
         '&ldquo;Truth is a tendency.&rdquo; <br /> &mdash;R. Buckminster Fuller',
         '&ldquo;Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself.&rdquo; <br /> &mdash;Mark Twain',
-        '&ldquo;If you want to kill any idea in the world, get a committee working on it.&rdquo; <br /> &mdash;Charles Kettering'
+        '&ldquo;If you want to kill any idea in the world, get a committee working on it.&rdquo; <br /> &mdash;Charles Kettering',
+        '&ldquo;All the people like us are we, and everyone else is They.&rdquo; <br /> &mdash;Rudyard Kipling'
     ]
 
     let decemberArray = [
