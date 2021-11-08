@@ -7,7 +7,8 @@ $(document).ready(function() {
         '&ldquo;Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself.&rdquo; <br /> &mdash;Mark Twain',
         '&ldquo;If you want to kill any idea in the world, get a committee working on it.&rdquo; <br /> &mdash;Charles Kettering',
         '&ldquo;All the people like us are we, and everyone else is They.&rdquo; <br /> &mdash;Rudyard Kipling',
-        '&ldquo;Under every stone lurks a politician.&rdquo; <br /> &mdash;Aristophanes'
+        '&ldquo;Under every stone lurks a politician.&rdquo; <br /> &mdash;Aristophanes',
+        '&ldquo;We would all like to vote for the best man but he is never a candidate.&rdquo; <br /> &mdash;Kin Hubbard'
     ]
 
     let decemberArray = [
