@@ -6,7 +6,8 @@ $(document).ready(function() {
         '&ldquo;The tree that is beside the running water is fresher and gives more fruit.&rdquo; <br /> &mdash;Saint Teresa of Avila',
         '&ldquo;Nature does nothing in vain.&rdquo; <br /> &mdash;Aristotle',
         '&ldquo;The breaking of a wave cannot explain the whole sea.&rdquo; <br /> &mdash;Vladimir Nabokov',
-        '&ldquo;Oh, don&rsquo;t let&rsquo;s ask for the moon. We&rsquo;ve already got the stars.&rdquo; <br /> &mdash;Bette Davis'
+        '&ldquo;Oh, don&rsquo;t let&rsquo;s ask for the moon. We&rsquo;ve already got the stars.&rdquo; <br /> &mdash;Bette Davis',
+        '&ldquo;The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky'
     ]
 
     let decemberArray = [
