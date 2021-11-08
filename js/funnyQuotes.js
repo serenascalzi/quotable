@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;If you want to kill any idea in the world, get a committee working on it.&rdquo; <br /> &mdash;Charles Kettering',
         '&ldquo;All the people like us are we, and everyone else is They.&rdquo; <br /> &mdash;Rudyard Kipling',
         '&ldquo;Under every stone lurks a politician.&rdquo; <br /> &mdash;Aristophanes',
-        '&ldquo;We would all like to vote for the best man but he is never a candidate.&rdquo; <br /> &mdash;Kin Hubbard'
+        '&ldquo;We would all like to vote for the best man but he is never a candidate.&rdquo; <br /> &mdash;Kin Hubbard',
+        '&ldquo;The best argument against democracy is a five-minute conversation with the average voter.&rdquo; <br /> &mdash;Winston Churchill'
     ]
 
     let decemberArray = [
