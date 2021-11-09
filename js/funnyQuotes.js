@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;All the people like us are we, and everyone else is They.&rdquo; <br /> &mdash;Rudyard Kipling',
         '&ldquo;Under every stone lurks a politician.&rdquo; <br /> &mdash;Aristophanes',
         '&ldquo;We would all like to vote for the best man but he is never a candidate.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;The best argument against democracy is a five-minute conversation with the average voter.&rdquo; <br /> &mdash;Winston Churchill'
+        '&ldquo;The best argument against democracy is a five-minute conversation with the average voter.&rdquo; <br /> &mdash;Winston Churchill',
+        '&ldquo;The secret of a happy marriage remains a secret.&rdquo; <br /> &mdash;Henny Youngman'
     ]
 
     let decemberArray = [

@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;Oh, don&rsquo;t let&rsquo;s ask for the moon. We&rsquo;ve already got the stars.&rdquo; <br /> &mdash;Bette Davis',
         '&ldquo;The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky',
         '&ldquo;If man doesn&rsquo;t learn to treat the oceans and the rain forest with respect, man will become extinct.&rdquo; <br /> &mdash;Peter Benchley',
-        '&ldquo;Read nature; nature is a friend to truth.&rdquo; <br /> &mdash;Edward Young'
+        '&ldquo;Read nature; nature is a friend to truth.&rdquo; <br /> &mdash;Edward Young',
+        '&ldquo;All nature wears one universal grin.&rdquo; <br /> &mdash;Henry Fielding'
     ]
 
     let decemberArray = [
