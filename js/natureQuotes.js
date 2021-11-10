@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky',
         '&ldquo;If man doesn&rsquo;t learn to treat the oceans and the rain forest with respect, man will become extinct.&rdquo; <br /> &mdash;Peter Benchley',
         '&ldquo;Read nature; nature is a friend to truth.&rdquo; <br /> &mdash;Edward Young',
-        '&ldquo;All nature wears one universal grin.&rdquo; <br /> &mdash;Henry Fielding'
+        '&ldquo;All nature wears one universal grin.&rdquo; <br /> &mdash;Henry Fielding',
+        '&ldquo;America forms the longest and straightest bone in the earth&rsquo;s skeleton.&rdquo; <br /> &mdash;Ellsworth Huntington'
     ]
 
     let decemberArray = [
