@@ -11,7 +11,8 @@ $(document).ready(function() {
         '&ldquo;If man doesn&rsquo;t learn to treat the oceans and the rain forest with respect, man will become extinct.&rdquo; <br /> &mdash;Peter Benchley',
         '&ldquo;Read nature; nature is a friend to truth.&rdquo; <br /> &mdash;Edward Young',
         '&ldquo;All nature wears one universal grin.&rdquo; <br /> &mdash;Henry Fielding',
-        '&ldquo;America forms the longest and straightest bone in the earth&rsquo;s skeleton.&rdquo; <br /> &mdash;Ellsworth Huntington'
+        '&ldquo;America forms the longest and straightest bone in the earth&rsquo;s skeleton.&rdquo; <br /> &mdash;Ellsworth Huntington',
+        '&ldquo;Today&rsquo;s mighty oak is just yesterday&rsquo;s nut, that held its ground.&rdquo; <br /> &mdash;David Icke'
     ]
 
     let decemberArray = [
