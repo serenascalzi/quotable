@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;The best argument against democracy is a five-minute conversation with the average voter.&rdquo; <br /> &mdash;Winston Churchill',
         '&ldquo;The secret of a happy marriage remains a secret.&rdquo; <br /> &mdash;Henny Youngman',
         '&ldquo;Research is what I&rsquo;m doing when I don&rsquo;t know what I&rsquo;m doing.&rdquo; <br /> &mdash;Wernher von Braun',
-        '&ldquo;The trouble with super heroes is what to do between phone booths.&rdquo; <br /> &mdash;Ken Kesey'
+        '&ldquo;The trouble with super heroes is what to do between phone booths.&rdquo; <br /> &mdash;Ken Kesey',
+        '&ldquo;There must be quite a few things that a hot bath won&rsquo;t cure, but I don&rsquo;t know many of them.&rdquo; <br /> &mdash;Sylvia Plath'
     ]
 
     let decemberArray = [

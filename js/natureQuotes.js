@@ -12,7 +12,8 @@ $(document).ready(function() {
         '&ldquo;Read nature; nature is a friend to truth.&rdquo; <br /> &mdash;Edward Young',
         '&ldquo;All nature wears one universal grin.&rdquo; <br /> &mdash;Henry Fielding',
         '&ldquo;America forms the longest and straightest bone in the earth&rsquo;s skeleton.&rdquo; <br /> &mdash;Ellsworth Huntington',
-        '&ldquo;Today&rsquo;s mighty oak is just yesterday&rsquo;s nut, that held its ground.&rdquo; <br /> &mdash;David Icke'
+        '&ldquo;Today&rsquo;s mighty oak is just yesterday&rsquo;s nut, that held its ground.&rdquo; <br /> &mdash;David Icke',
+        '&ldquo;Nature is never finished.&rdquo; <br /> &mdash;Robert Smithson'
     ]
 
     let decemberArray = [
