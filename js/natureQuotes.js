@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;Today&rsquo;s mighty oak is just yesterday&rsquo;s nut, that held its ground.&rdquo; <br /> &mdash;David Icke',
         '&ldquo;Nature is never finished.&rdquo; <br /> &mdash;Robert Smithson',
         '&ldquo;The view of Earth is spectacular.&rdquo; <br /> &mdash;Sally Ride',
-        '&ldquo;Everything in excess is opposed to nature.&rdquo; <br /> &mdash;Hippocrates'
+        '&ldquo;Everything in excess is opposed to nature.&rdquo; <br /> &mdash;Hippocrates',
+        '&ldquo;If you have a garden and a library, you have everything you need.&rdquo; <br /> &mdash;Marcus Tullius Cicero'
     ]
 
     let decemberArray = [

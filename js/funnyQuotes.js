@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;The trouble with super heroes is what to do between phone booths.&rdquo; <br /> &mdash;Ken Kesey',
         '&ldquo;There must be quite a few things that a hot bath won&rsquo;t cure, but I don&rsquo;t know many of them.&rdquo; <br /> &mdash;Sylvia Plath',
         '&ldquo;A bank is a place that will lend you money if you can prove that you don&rsquo;t need it.&rdquo; <br /> &mdash;Bob Hope',
-        '&ldquo;Too much of a good thing can be taxing.&rdquo; <br /> &mdash;Mae West'
+        '&ldquo;Too much of a good thing can be taxing.&rdquo; <br /> &mdash;Mae West',
+        '&ldquo;Scratch a dog and you&rsquo;ll find a permanent job.&rdquo; <br /> &mdash;Franklin P. Jones'
     ]
 
     let decemberArray = [
