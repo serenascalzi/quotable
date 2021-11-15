@@ -11,7 +11,8 @@ $(document).ready(function() {
         '&ldquo;We would all like to vote for the best man but he is never a candidate.&rdquo; <br /> &mdash;Kin Hubbard',
         '&ldquo;The best argument against democracy is a five-minute conversation with the average voter.&rdquo; <br /> &mdash;Winston Churchill',
         '&ldquo;The secret of a happy marriage remains a secret.&rdquo; <br /> &mdash;Henny Youngman',
-        '&ldquo;Research is what I&rsquo;m doing when I don&rsquo;t know what I&rsquo;m doing.&rdquo; <br /> &mdash;Wernher von Braun'
+        '&ldquo;Research is what I&rsquo;m doing when I don&rsquo;t know what I&rsquo;m doing.&rdquo; <br /> &mdash;Wernher von Braun',
+        '&ldquo;The trouble with super heroes is what to do between phone booths.&rdquo; <br /> &mdash;Ken Kesey'
     ]
 
     let decemberArray = [
