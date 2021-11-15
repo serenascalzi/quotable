@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;All nature wears one universal grin.&rdquo; <br /> &mdash;Henry Fielding',
         '&ldquo;America forms the longest and straightest bone in the earth&rsquo;s skeleton.&rdquo; <br /> &mdash;Ellsworth Huntington',
         '&ldquo;Today&rsquo;s mighty oak is just yesterday&rsquo;s nut, that held its ground.&rdquo; <br /> &mdash;David Icke',
-        '&ldquo;Nature is never finished.&rdquo; <br /> &mdash;Robert Smithson'
+        '&ldquo;Nature is never finished.&rdquo; <br /> &mdash;Robert Smithson',
+        '&ldquo;The view of Earth is spectacular.&rdquo; <br /> &mdash;Sally Ride'
     ]
 
     let decemberArray = [
