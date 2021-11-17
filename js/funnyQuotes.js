@@ -17,7 +17,8 @@ $(document).ready(function() {
         '&ldquo;A bank is a place that will lend you money if you can prove that you don&rsquo;t need it.&rdquo; <br /> &mdash;Bob Hope',
         '&ldquo;Too much of a good thing can be taxing.&rdquo; <br /> &mdash;Mae West',
         '&ldquo;Scratch a dog and you&rsquo;ll find a permanent job.&rdquo; <br /> &mdash;Franklin P. Jones',
-        '&ldquo;Never go to bed mad. Stay up and fight.&rdquo; <br /> &mdash;Phyllis Diller'
+        '&ldquo;Never go to bed mad. Stay up and fight.&rdquo; <br /> &mdash;Phyllis Diller',
+        '&ldquo;People say that life is the thing, but I prefer reading.&rdquo; <br /> &mdash;Logan Pearsall Smith'
     ]
 
     let decemberArray = [
