@@ -18,7 +18,8 @@ $(document).ready(function() {
         '&ldquo;Everything in excess is opposed to nature.&rdquo; <br /> &mdash;Hippocrates',
         '&ldquo;If you have a garden and a library, you have everything you need.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
         '&ldquo;I saw old Autumn in the misty morn stand shadowless like silence, listening to silence.&rdquo; <br /> &mdash;Thomas Hood',
-        '&ldquo;Now Autumn&rsquo;s fire burns slowly along the woods and day by day the dead leaves fall and melt.&rdquo; <br /> &mdash;William Allingham'
+        '&ldquo;Now Autumn&rsquo;s fire burns slowly along the woods and day by day the dead leaves fall and melt.&rdquo; <br /> &mdash;William Allingham',
+        '&ldquo;Behind every cloud is another cloud.&rdquo; <br /> &mdash;Judy Garland'
     ]
 
     let decemberArray = [
