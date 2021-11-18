@@ -18,7 +18,8 @@ $(document).ready(function() {
         '&ldquo;Too much of a good thing can be taxing.&rdquo; <br /> &mdash;Mae West',
         '&ldquo;Scratch a dog and you&rsquo;ll find a permanent job.&rdquo; <br /> &mdash;Franklin P. Jones',
         '&ldquo;Never go to bed mad. Stay up and fight.&rdquo; <br /> &mdash;Phyllis Diller',
-        '&ldquo;People say that life is the thing, but I prefer reading.&rdquo; <br /> &mdash;Logan Pearsall Smith'
+        '&ldquo;People say that life is the thing, but I prefer reading.&rdquo; <br /> &mdash;Logan Pearsall Smith',
+        '&ldquo;There are a handful of people whom money won&rsquo;t spoil, and we all count ourselves among them.&rdquo; <br /> &mdash;Mignon McLaughlin'
     ]
 
     let decemberArray = [
