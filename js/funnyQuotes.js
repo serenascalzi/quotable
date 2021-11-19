@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;Scratch a dog and you&rsquo;ll find a permanent job.&rdquo; <br /> &mdash;Franklin P. Jones',
         '&ldquo;Never go to bed mad. Stay up and fight.&rdquo; <br /> &mdash;Phyllis Diller',
         '&ldquo;People say that life is the thing, but I prefer reading.&rdquo; <br /> &mdash;Logan Pearsall Smith',
-        '&ldquo;There are a handful of people whom money won&rsquo;t spoil, and we all count ourselves among them.&rdquo; <br /> &mdash;Mignon McLaughlin'
+        '&ldquo;There are a handful of people whom money won&rsquo;t spoil, and we all count ourselves among them.&rdquo; <br /> &mdash;Mignon McLaughlin',
+        '&ldquo;I wonder if other dogs think poodles are members of a weird religious cult.&rdquo; <br /> &mdash;Rita Rudner'
     ]
 
     let decemberArray = [
