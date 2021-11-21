@@ -20,7 +20,8 @@ $(document).ready(function() {
         '&ldquo;I saw old Autumn in the misty morn stand shadowless like silence, listening to silence.&rdquo; <br /> &mdash;Thomas Hood',
         '&ldquo;Now Autumn&rsquo;s fire burns slowly along the woods and day by day the dead leaves fall and melt.&rdquo; <br /> &mdash;William Allingham',
         '&ldquo;Behind every cloud is another cloud.&rdquo; <br /> &mdash;Judy Garland',
-        '&ldquo;Ye stars! which are the poetry of heaven!&rdquo; <br /> &mdash;Lord Byron'
+        '&ldquo;Ye stars! which are the poetry of heaven!&rdquo; <br /> &mdash;Lord Byron',
+        '&ldquo;A light wind swept over the corn, and all nature laughed in the sunshine.&rdquo; <br /> &mdash;Anne Bronte'
     ]
 
     let decemberArray = [
