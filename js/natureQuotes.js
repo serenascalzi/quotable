@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;Now Autumn&rsquo;s fire burns slowly along the woods and day by day the dead leaves fall and melt.&rdquo; <br /> &mdash;William Allingham',
         '&ldquo;Behind every cloud is another cloud.&rdquo; <br /> &mdash;Judy Garland',
         '&ldquo;Ye stars! which are the poetry of heaven!&rdquo; <br /> &mdash;Lord Byron',
-        '&ldquo;A light wind swept over the corn, and all nature laughed in the sunshine.&rdquo; <br /> &mdash;Anne Bronte'
+        '&ldquo;A light wind swept over the corn, and all nature laughed in the sunshine.&rdquo; <br /> &mdash;Anne Bronte',
+        '&ldquo;All nature is but art unknown to thee.&rdquo; <br /> &mdash;Alexander Pope'
     ]
 
     let decemberArray = [
