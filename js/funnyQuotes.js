@@ -22,7 +22,8 @@ $(document).ready(function() {
         '&ldquo;There are a handful of people whom money won&rsquo;t spoil, and we all count ourselves among them.&rdquo; <br /> &mdash;Mignon McLaughlin',
         '&ldquo;I wonder if other dogs think poodles are members of a weird religious cult.&rdquo; <br /> &mdash;Rita Rudner',
         '&ldquo;Never fight an inanimate object.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
-        '&ldquo;Success is simply a matter of luck. Ask any failure.&rdquo; <br /> &mdash;Earl Wilson'
+        '&ldquo;Success is simply a matter of luck. Ask any failure.&rdquo; <br /> &mdash;Earl Wilson',
+        '&ldquo;If your parents never had children, chances are&hellip; neither will you.&rdquo; <br /> &mdash;Dick Cavett'
     ]
 
     let decemberArray = [

@@ -22,7 +22,8 @@ $(document).ready(function() {
         '&ldquo;Behind every cloud is another cloud.&rdquo; <br /> &mdash;Judy Garland',
         '&ldquo;Ye stars! which are the poetry of heaven!&rdquo; <br /> &mdash;Lord Byron',
         '&ldquo;A light wind swept over the corn, and all nature laughed in the sunshine.&rdquo; <br /> &mdash;Anne Bronte',
-        '&ldquo;All nature is but art unknown to thee.&rdquo; <br /> &mdash;Alexander Pope'
+        '&ldquo;All nature is but art unknown to thee.&rdquo; <br /> &mdash;Alexander Pope',
+        '&ldquo;Joy in looking and comprehending is nature&rsquo;s most beautiful gift.&rdquo; <br /> &mdash;Albert Einstein'
     ]
 
     let decemberArray = [
