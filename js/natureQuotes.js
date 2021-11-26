@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;Joy in looking and comprehending is nature&rsquo;s most beautiful gift.&rdquo; <br /> &mdash;Albert Einstein',
         '&ldquo;A bee is never as busy as it seems; it&rsquo;s just that it can&rsquo;t buzz any slower.&rdquo; <br /> &mdash;Kin Hubbard',
         '&ldquo;It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn.&rdquo; <br /> &mdash;B. C. Forbes',
-        '&ldquo;We have the capacity to receive messages from the stars and the songs of the night winds.&rdquo; <br /> &mdash;Ruth St. Denis'
+        '&ldquo;We have the capacity to receive messages from the stars and the songs of the night winds.&rdquo; <br /> &mdash;Ruth St. Denis',
+        '&ldquo;The ocean moans over dead men&rsquo;s bones.&rdquo; <br /> &mdash;Thomas Bailey Aldrich'
     ]
 
     let decemberArray = [
