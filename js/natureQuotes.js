@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;All nature is but art unknown to thee.&rdquo; <br /> &mdash;Alexander Pope',
         '&ldquo;Joy in looking and comprehending is nature&rsquo;s most beautiful gift.&rdquo; <br /> &mdash;Albert Einstein',
         '&ldquo;A bee is never as busy as it seems; it&rsquo;s just that it can&rsquo;t buzz any slower.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn.&rdquo; <br /> &mdash;B. C. Forbes'
+        '&ldquo;It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn.&rdquo; <br /> &mdash;B. C. Forbes',
+        '&ldquo;We have the capacity to receive messages from the stars and the songs of the night winds.&rdquo; <br /> &mdash;Ruth St. Denis'
     ]
 
     let decemberArray = [
