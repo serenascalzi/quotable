@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;Success is simply a matter of luck. Ask any failure.&rdquo; <br /> &mdash;Earl Wilson',
         '&ldquo;If your parents never had children, chances are&hellip; neither will you.&rdquo; <br /> &mdash;Dick Cavett',
         '&ldquo;Progress is man&rsquo;s ability to complicate simplicity.&rdquo; <br /> &mdash;Thor Heyerdahl',
-        '&ldquo;The problem with beauty is that it&rsquo;s like being born rich and getting poorer.&rdquo; <br /> &mdash;Joan Collins'
+        '&ldquo;The problem with beauty is that it&rsquo;s like being born rich and getting poorer.&rdquo; <br /> &mdash;Joan Collins',
+        '&ldquo;Thanksgiving, man. Not a good day to be my pants.&rdquo; <br /> &mdash;Kevin James'
     ]
 
     let decemberArray = [
