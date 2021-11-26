@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;If your parents never had children, chances are&hellip; neither will you.&rdquo; <br /> &mdash;Dick Cavett',
         '&ldquo;Progress is man&rsquo;s ability to complicate simplicity.&rdquo; <br /> &mdash;Thor Heyerdahl',
         '&ldquo;The problem with beauty is that it&rsquo;s like being born rich and getting poorer.&rdquo; <br /> &mdash;Joan Collins',
-        '&ldquo;Thanksgiving, man. Not a good day to be my pants.&rdquo; <br /> &mdash;Kevin James'
+        '&ldquo;Thanksgiving, man. Not a good day to be my pants.&rdquo; <br /> &mdash;Kevin James',
+        '&ldquo;If you want a guarantee, buy a toaster.&rdquo; <br /> &mdash;Clint Eastwood'
     ]
 
     let decemberArray = [
