@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;Progress is man&rsquo;s ability to complicate simplicity.&rdquo; <br /> &mdash;Thor Heyerdahl',
         '&ldquo;The problem with beauty is that it&rsquo;s like being born rich and getting poorer.&rdquo; <br /> &mdash;Joan Collins',
         '&ldquo;Thanksgiving, man. Not a good day to be my pants.&rdquo; <br /> &mdash;Kevin James',
-        '&ldquo;If you want a guarantee, buy a toaster.&rdquo; <br /> &mdash;Clint Eastwood'
+        '&ldquo;If you want a guarantee, buy a toaster.&rdquo; <br /> &mdash;Clint Eastwood',
+        '&ldquo;An optimist is a person who starts a new diet on Thanksgiving Day.&rdquo; <br /> &mdash;Irv Kupcinet'
     ]
 
     let decemberArray = [
