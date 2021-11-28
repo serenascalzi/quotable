@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn.&rdquo; <br /> &mdash;B. C. Forbes',
         '&ldquo;We have the capacity to receive messages from the stars and the songs of the night winds.&rdquo; <br /> &mdash;Ruth St. Denis',
         '&ldquo;The ocean moans over dead men&rsquo;s bones.&rdquo; <br /> &mdash;Thomas Bailey Aldrich',
-        '&ldquo;This sunlight linked me through the ages to that past consciousness.&rdquo; <br /> &mdash;Richard Jefferies'
+        '&ldquo;This sunlight linked me through the ages to that past consciousness.&rdquo; <br /> &mdash;Richard Jefferies',
+        '&ldquo;Autumn arrives in early morning, but spring at the close of a winter day.&rdquo; <br /> &mdash;Elizabeth Bowen'
     ]
 
     let decemberArray = [
