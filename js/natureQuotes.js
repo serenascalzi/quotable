@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;We have the capacity to receive messages from the stars and the songs of the night winds.&rdquo; <br /> &mdash;Ruth St. Denis',
         '&ldquo;The ocean moans over dead men&rsquo;s bones.&rdquo; <br /> &mdash;Thomas Bailey Aldrich',
         '&ldquo;This sunlight linked me through the ages to that past consciousness.&rdquo; <br /> &mdash;Richard Jefferies',
-        '&ldquo;Autumn arrives in early morning, but spring at the close of a winter day.&rdquo; <br /> &mdash;Elizabeth Bowen'
+        '&ldquo;Autumn arrives in early morning, but spring at the close of a winter day.&rdquo; <br /> &mdash;Elizabeth Bowen',
+        '&ldquo;Water is the driving force of all nature.&rdquo; <br /> &mdash;Leonardo da Vinci'
     ]
 
     let decemberArray = [

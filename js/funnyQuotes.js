@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;Thanksgiving, man. Not a good day to be my pants.&rdquo; <br /> &mdash;Kevin James',
         '&ldquo;If you want a guarantee, buy a toaster.&rdquo; <br /> &mdash;Clint Eastwood',
         '&ldquo;An optimist is a person who starts a new diet on Thanksgiving Day.&rdquo; <br /> &mdash;Irv Kupcinet',
-        '&ldquo;Vegetables are a must on a diet. I suggest carrot cake, zucchini bread, and pumpkin pie.&rdquo; <br /> &mdash;Jim Davis'
+        '&ldquo;Vegetables are a must on a diet. I suggest carrot cake, zucchini bread, and pumpkin pie.&rdquo; <br /> &mdash;Jim Davis',
+        '&ldquo;A nickel ain&rsquo;t worth a dime anymore.&rdquo; <br /> &mdash;Yogi Berra'
     ]
 
     let decemberArray = [
