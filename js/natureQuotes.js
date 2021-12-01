@@ -1,41 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let novemberArray = [
-        '&ldquo;I know the lands are lit, with all the autumn blaze of Goldenrod.&rdquo; <br /> &mdash;Helen Hunt Jackson',
-        '&ldquo;The tree that is beside the running water is fresher and gives more fruit.&rdquo; <br /> &mdash;Saint Teresa of Avila',
-        '&ldquo;Nature does nothing in vain.&rdquo; <br /> &mdash;Aristotle',
-        '&ldquo;The breaking of a wave cannot explain the whole sea.&rdquo; <br /> &mdash;Vladimir Nabokov',
-        '&ldquo;Oh, don&rsquo;t let&rsquo;s ask for the moon. We&rsquo;ve already got the stars.&rdquo; <br /> &mdash;Bette Davis',
-        '&ldquo;The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky',
-        '&ldquo;If man doesn&rsquo;t learn to treat the oceans and the rain forest with respect, man will become extinct.&rdquo; <br /> &mdash;Peter Benchley',
-        '&ldquo;Read nature; nature is a friend to truth.&rdquo; <br /> &mdash;Edward Young',
-        '&ldquo;All nature wears one universal grin.&rdquo; <br /> &mdash;Henry Fielding',
-        '&ldquo;America forms the longest and straightest bone in the earth&rsquo;s skeleton.&rdquo; <br /> &mdash;Ellsworth Huntington',
-        '&ldquo;Today&rsquo;s mighty oak is just yesterday&rsquo;s nut, that held its ground.&rdquo; <br /> &mdash;David Icke',
-        '&ldquo;Nature is never finished.&rdquo; <br /> &mdash;Robert Smithson',
-        '&ldquo;The view of Earth is spectacular.&rdquo; <br /> &mdash;Sally Ride',
-        '&ldquo;Everything in excess is opposed to nature.&rdquo; <br /> &mdash;Hippocrates',
-        '&ldquo;If you have a garden and a library, you have everything you need.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
-        '&ldquo;I saw old Autumn in the misty morn stand shadowless like silence, listening to silence.&rdquo; <br /> &mdash;Thomas Hood',
-        '&ldquo;Now Autumn&rsquo;s fire burns slowly along the woods and day by day the dead leaves fall and melt.&rdquo; <br /> &mdash;William Allingham',
-        '&ldquo;Behind every cloud is another cloud.&rdquo; <br /> &mdash;Judy Garland',
-        '&ldquo;Ye stars! which are the poetry of heaven!&rdquo; <br /> &mdash;Lord Byron',
-        '&ldquo;A light wind swept over the corn, and all nature laughed in the sunshine.&rdquo; <br /> &mdash;Anne Bronte',
-        '&ldquo;All nature is but art unknown to thee.&rdquo; <br /> &mdash;Alexander Pope',
-        '&ldquo;Joy in looking and comprehending is nature&rsquo;s most beautiful gift.&rdquo; <br /> &mdash;Albert Einstein',
-        '&ldquo;A bee is never as busy as it seems; it&rsquo;s just that it can&rsquo;t buzz any slower.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn.&rdquo; <br /> &mdash;B. C. Forbes',
-        '&ldquo;We have the capacity to receive messages from the stars and the songs of the night winds.&rdquo; <br /> &mdash;Ruth St. Denis',
-        '&ldquo;The ocean moans over dead men&rsquo;s bones.&rdquo; <br /> &mdash;Thomas Bailey Aldrich',
-        '&ldquo;This sunlight linked me through the ages to that past consciousness.&rdquo; <br /> &mdash;Richard Jefferies',
-        '&ldquo;Autumn arrives in early morning, but spring at the close of a winter day.&rdquo; <br /> &mdash;Elizabeth Bowen',
-        '&ldquo;Water is the driving force of all nature.&rdquo; <br /> &mdash;Leonardo da Vinci',
-        '&ldquo;The pine stays green in winter&hellip; wisdom in hardship.&rdquo; <br /> &mdash;Norman Douglas'
-    ]
-
     let decemberArray = [
-        // December Quotes
+        '&ldquo;Breathless, we flung us on a windy hill, Laughed in the sun, and kissed the lovely grass.&rdquo; <br /> &mdash;Rupert Brooke'
     ]
 
     let januaryArray = [
@@ -371,6 +338,39 @@ $(document).ready(function() {
         '&ldquo;But more wonderful than the lore of old men and the lore of books is the secret lore of ocean.&rdquo; <br /> &mdash;H. P. Lovecraft',
         '&ldquo;The man who interprets Nature is always held in great honor.&rdquo; <br /> &mdash;Zora Neale Hurston',
         '&ldquo;I have seen the movement of the sinews of the sky, And the blood coursing in the veins of the moon.&rdquo; <br /> &mdash;Muhammad Iqbal'
+    ]
+
+    let novemberArray = [
+        '&ldquo;I know the lands are lit, with all the autumn blaze of Goldenrod.&rdquo; <br /> &mdash;Helen Hunt Jackson',
+        '&ldquo;The tree that is beside the running water is fresher and gives more fruit.&rdquo; <br /> &mdash;Saint Teresa of Avila',
+        '&ldquo;Nature does nothing in vain.&rdquo; <br /> &mdash;Aristotle',
+        '&ldquo;The breaking of a wave cannot explain the whole sea.&rdquo; <br /> &mdash;Vladimir Nabokov',
+        '&ldquo;Oh, don&rsquo;t let&rsquo;s ask for the moon. We&rsquo;ve already got the stars.&rdquo; <br /> &mdash;Bette Davis',
+        '&ldquo;The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever.&rdquo; <br /> &mdash;Konstantin Tsiolkovsky',
+        '&ldquo;If man doesn&rsquo;t learn to treat the oceans and the rain forest with respect, man will become extinct.&rdquo; <br /> &mdash;Peter Benchley',
+        '&ldquo;Read nature; nature is a friend to truth.&rdquo; <br /> &mdash;Edward Young',
+        '&ldquo;All nature wears one universal grin.&rdquo; <br /> &mdash;Henry Fielding',
+        '&ldquo;America forms the longest and straightest bone in the earth&rsquo;s skeleton.&rdquo; <br /> &mdash;Ellsworth Huntington',
+        '&ldquo;Today&rsquo;s mighty oak is just yesterday&rsquo;s nut, that held its ground.&rdquo; <br /> &mdash;David Icke',
+        '&ldquo;Nature is never finished.&rdquo; <br /> &mdash;Robert Smithson',
+        '&ldquo;The view of Earth is spectacular.&rdquo; <br /> &mdash;Sally Ride',
+        '&ldquo;Everything in excess is opposed to nature.&rdquo; <br /> &mdash;Hippocrates',
+        '&ldquo;If you have a garden and a library, you have everything you need.&rdquo; <br /> &mdash;Marcus Tullius Cicero',
+        '&ldquo;I saw old Autumn in the misty morn stand shadowless like silence, listening to silence.&rdquo; <br /> &mdash;Thomas Hood',
+        '&ldquo;Now Autumn&rsquo;s fire burns slowly along the woods and day by day the dead leaves fall and melt.&rdquo; <br /> &mdash;William Allingham',
+        '&ldquo;Behind every cloud is another cloud.&rdquo; <br /> &mdash;Judy Garland',
+        '&ldquo;Ye stars! which are the poetry of heaven!&rdquo; <br /> &mdash;Lord Byron',
+        '&ldquo;A light wind swept over the corn, and all nature laughed in the sunshine.&rdquo; <br /> &mdash;Anne Bronte',
+        '&ldquo;All nature is but art unknown to thee.&rdquo; <br /> &mdash;Alexander Pope',
+        '&ldquo;Joy in looking and comprehending is nature&rsquo;s most beautiful gift.&rdquo; <br /> &mdash;Albert Einstein',
+        '&ldquo;A bee is never as busy as it seems; it&rsquo;s just that it can&rsquo;t buzz any slower.&rdquo; <br /> &mdash;Kin Hubbard',
+        '&ldquo;It is only the farmer who faithfully plants seeds in the Spring, who reaps a harvest in the Autumn.&rdquo; <br /> &mdash;B. C. Forbes',
+        '&ldquo;We have the capacity to receive messages from the stars and the songs of the night winds.&rdquo; <br /> &mdash;Ruth St. Denis',
+        '&ldquo;The ocean moans over dead men&rsquo;s bones.&rdquo; <br /> &mdash;Thomas Bailey Aldrich',
+        '&ldquo;This sunlight linked me through the ages to that past consciousness.&rdquo; <br /> &mdash;Richard Jefferies',
+        '&ldquo;Autumn arrives in early morning, but spring at the close of a winter day.&rdquo; <br /> &mdash;Elizabeth Bowen',
+        '&ldquo;Water is the driving force of all nature.&rdquo; <br /> &mdash;Leonardo da Vinci',
+        '&ldquo;The pine stays green in winter&hellip; wisdom in hardship.&rdquo; <br /> &mdash;Norman Douglas'
     ]
 
     let date = new Date()

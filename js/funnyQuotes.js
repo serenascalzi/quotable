@@ -1,41 +1,8 @@
 $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
-    let novemberArray = [
-        '&ldquo;I&rsquo;d luv to kiss ya, but I just washed my hair.&rdquo; <br /> &mdash;Bette Davis',
-        '&ldquo;Truth is a tendency.&rdquo; <br /> &mdash;R. Buckminster Fuller',
-        '&ldquo;Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself.&rdquo; <br /> &mdash;Mark Twain',
-        '&ldquo;If you want to kill any idea in the world, get a committee working on it.&rdquo; <br /> &mdash;Charles Kettering',
-        '&ldquo;All the people like us are we, and everyone else is They.&rdquo; <br /> &mdash;Rudyard Kipling',
-        '&ldquo;Under every stone lurks a politician.&rdquo; <br /> &mdash;Aristophanes',
-        '&ldquo;We would all like to vote for the best man but he is never a candidate.&rdquo; <br /> &mdash;Kin Hubbard',
-        '&ldquo;The best argument against democracy is a five-minute conversation with the average voter.&rdquo; <br /> &mdash;Winston Churchill',
-        '&ldquo;The secret of a happy marriage remains a secret.&rdquo; <br /> &mdash;Henny Youngman',
-        '&ldquo;Research is what I&rsquo;m doing when I don&rsquo;t know what I&rsquo;m doing.&rdquo; <br /> &mdash;Wernher von Braun',
-        '&ldquo;The trouble with super heroes is what to do between phone booths.&rdquo; <br /> &mdash;Ken Kesey',
-        '&ldquo;There must be quite a few things that a hot bath won&rsquo;t cure, but I don&rsquo;t know many of them.&rdquo; <br /> &mdash;Sylvia Plath',
-        '&ldquo;A bank is a place that will lend you money if you can prove that you don&rsquo;t need it.&rdquo; <br /> &mdash;Bob Hope',
-        '&ldquo;Too much of a good thing can be taxing.&rdquo; <br /> &mdash;Mae West',
-        '&ldquo;Scratch a dog and you&rsquo;ll find a permanent job.&rdquo; <br /> &mdash;Franklin P. Jones',
-        '&ldquo;Never go to bed mad. Stay up and fight.&rdquo; <br /> &mdash;Phyllis Diller',
-        '&ldquo;People say that life is the thing, but I prefer reading.&rdquo; <br /> &mdash;Logan Pearsall Smith',
-        '&ldquo;There are a handful of people whom money won&rsquo;t spoil, and we all count ourselves among them.&rdquo; <br /> &mdash;Mignon McLaughlin',
-        '&ldquo;I wonder if other dogs think poodles are members of a weird religious cult.&rdquo; <br /> &mdash;Rita Rudner',
-        '&ldquo;Never fight an inanimate object.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
-        '&ldquo;Success is simply a matter of luck. Ask any failure.&rdquo; <br /> &mdash;Earl Wilson',
-        '&ldquo;If your parents never had children, chances are&hellip; neither will you.&rdquo; <br /> &mdash;Dick Cavett',
-        '&ldquo;Progress is man&rsquo;s ability to complicate simplicity.&rdquo; <br /> &mdash;Thor Heyerdahl',
-        '&ldquo;The problem with beauty is that it&rsquo;s like being born rich and getting poorer.&rdquo; <br /> &mdash;Joan Collins',
-        '&ldquo;Thanksgiving, man. Not a good day to be my pants.&rdquo; <br /> &mdash;Kevin James',
-        '&ldquo;If you want a guarantee, buy a toaster.&rdquo; <br /> &mdash;Clint Eastwood',
-        '&ldquo;An optimist is a person who starts a new diet on Thanksgiving Day.&rdquo; <br /> &mdash;Irv Kupcinet',
-        '&ldquo;Vegetables are a must on a diet. I suggest carrot cake, zucchini bread, and pumpkin pie.&rdquo; <br /> &mdash;Jim Davis',
-        '&ldquo;A nickel ain&rsquo;t worth a dime anymore.&rdquo; <br /> &mdash;Yogi Berra',
-        '&ldquo;I am a marvelous housekeeper. Every time I leave a man I keep his house.&rdquo; <br /> &mdash;Zsa Zsa Gabor'
-    ]
-
     let decemberArray = [
-        // December Quotes
+        '&ldquo;As far as I&rsquo;m concerned, &lsquo;whom&rsquo; is a word that was invented to make everyone sound like a butler.&rdquo; <br /> &mdash;Calvin Trillin'
     ]
 
     let januaryArray = [
@@ -371,6 +338,39 @@ $(document).ready(function() {
         '&ldquo;All men are equal before fish.&rdquo; <br /> &mdash;Herbert Hoover',
         '&ldquo;Why do you have to be a nonconformist like everybody else?&rdquo; <br /> &mdash;James Thurber',
         '&ldquo;On Halloween, the parents sent their kids out looking like me.&rdquo; <br /> &mdash;Rodney Dangerfield'
+    ]
+
+    let novemberArray = [
+        '&ldquo;I&rsquo;d luv to kiss ya, but I just washed my hair.&rdquo; <br /> &mdash;Bette Davis',
+        '&ldquo;Truth is a tendency.&rdquo; <br /> &mdash;R. Buckminster Fuller',
+        '&ldquo;Suppose you were an idiot, and suppose you were a member of Congress; but I repeat myself.&rdquo; <br /> &mdash;Mark Twain',
+        '&ldquo;If you want to kill any idea in the world, get a committee working on it.&rdquo; <br /> &mdash;Charles Kettering',
+        '&ldquo;All the people like us are we, and everyone else is They.&rdquo; <br /> &mdash;Rudyard Kipling',
+        '&ldquo;Under every stone lurks a politician.&rdquo; <br /> &mdash;Aristophanes',
+        '&ldquo;We would all like to vote for the best man but he is never a candidate.&rdquo; <br /> &mdash;Kin Hubbard',
+        '&ldquo;The best argument against democracy is a five-minute conversation with the average voter.&rdquo; <br /> &mdash;Winston Churchill',
+        '&ldquo;The secret of a happy marriage remains a secret.&rdquo; <br /> &mdash;Henny Youngman',
+        '&ldquo;Research is what I&rsquo;m doing when I don&rsquo;t know what I&rsquo;m doing.&rdquo; <br /> &mdash;Wernher von Braun',
+        '&ldquo;The trouble with super heroes is what to do between phone booths.&rdquo; <br /> &mdash;Ken Kesey',
+        '&ldquo;There must be quite a few things that a hot bath won&rsquo;t cure, but I don&rsquo;t know many of them.&rdquo; <br /> &mdash;Sylvia Plath',
+        '&ldquo;A bank is a place that will lend you money if you can prove that you don&rsquo;t need it.&rdquo; <br /> &mdash;Bob Hope',
+        '&ldquo;Too much of a good thing can be taxing.&rdquo; <br /> &mdash;Mae West',
+        '&ldquo;Scratch a dog and you&rsquo;ll find a permanent job.&rdquo; <br /> &mdash;Franklin P. Jones',
+        '&ldquo;Never go to bed mad. Stay up and fight.&rdquo; <br /> &mdash;Phyllis Diller',
+        '&ldquo;People say that life is the thing, but I prefer reading.&rdquo; <br /> &mdash;Logan Pearsall Smith',
+        '&ldquo;There are a handful of people whom money won&rsquo;t spoil, and we all count ourselves among them.&rdquo; <br /> &mdash;Mignon McLaughlin',
+        '&ldquo;I wonder if other dogs think poodles are members of a weird religious cult.&rdquo; <br /> &mdash;Rita Rudner',
+        '&ldquo;Never fight an inanimate object.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
+        '&ldquo;Success is simply a matter of luck. Ask any failure.&rdquo; <br /> &mdash;Earl Wilson',
+        '&ldquo;If your parents never had children, chances are&hellip; neither will you.&rdquo; <br /> &mdash;Dick Cavett',
+        '&ldquo;Progress is man&rsquo;s ability to complicate simplicity.&rdquo; <br /> &mdash;Thor Heyerdahl',
+        '&ldquo;The problem with beauty is that it&rsquo;s like being born rich and getting poorer.&rdquo; <br /> &mdash;Joan Collins',
+        '&ldquo;Thanksgiving, man. Not a good day to be my pants.&rdquo; <br /> &mdash;Kevin James',
+        '&ldquo;If you want a guarantee, buy a toaster.&rdquo; <br /> &mdash;Clint Eastwood',
+        '&ldquo;An optimist is a person who starts a new diet on Thanksgiving Day.&rdquo; <br /> &mdash;Irv Kupcinet',
+        '&ldquo;Vegetables are a must on a diet. I suggest carrot cake, zucchini bread, and pumpkin pie.&rdquo; <br /> &mdash;Jim Davis',
+        '&ldquo;A nickel ain&rsquo;t worth a dime anymore.&rdquo; <br /> &mdash;Yogi Berra',
+        '&ldquo;I am a marvelous housekeeper. Every time I leave a man I keep his house.&rdquo; <br /> &mdash;Zsa Zsa Gabor'
     ]
 
     let date = new Date()
