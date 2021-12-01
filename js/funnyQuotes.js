@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;If you want a guarantee, buy a toaster.&rdquo; <br /> &mdash;Clint Eastwood',
         '&ldquo;An optimist is a person who starts a new diet on Thanksgiving Day.&rdquo; <br /> &mdash;Irv Kupcinet',
         '&ldquo;Vegetables are a must on a diet. I suggest carrot cake, zucchini bread, and pumpkin pie.&rdquo; <br /> &mdash;Jim Davis',
-        '&ldquo;A nickel ain&rsquo;t worth a dime anymore.&rdquo; <br /> &mdash;Yogi Berra'
+        '&ldquo;A nickel ain&rsquo;t worth a dime anymore.&rdquo; <br /> &mdash;Yogi Berra',
+        '&ldquo;I am a marvelous housekeeper. Every time I leave a man I keep his house.&rdquo; <br /> &mdash;Zsa Zsa Gabor'
     ]
 
     let decemberArray = [

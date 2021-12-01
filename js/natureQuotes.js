@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;The ocean moans over dead men&rsquo;s bones.&rdquo; <br /> &mdash;Thomas Bailey Aldrich',
         '&ldquo;This sunlight linked me through the ages to that past consciousness.&rdquo; <br /> &mdash;Richard Jefferies',
         '&ldquo;Autumn arrives in early morning, but spring at the close of a winter day.&rdquo; <br /> &mdash;Elizabeth Bowen',
-        '&ldquo;Water is the driving force of all nature.&rdquo; <br /> &mdash;Leonardo da Vinci'
+        '&ldquo;Water is the driving force of all nature.&rdquo; <br /> &mdash;Leonardo da Vinci',
+        '&ldquo;The pine stays green in winter&hellip; wisdom in hardship.&rdquo; <br /> &mdash;Norman Douglas'
     ]
 
     let decemberArray = [
