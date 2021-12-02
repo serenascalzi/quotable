@@ -2,7 +2,8 @@ $(document).ready(function() {
     // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
 
     let decemberArray = [
-        '&ldquo;Breathless, we flung us on a windy hill, Laughed in the sun, and kissed the lovely grass.&rdquo; <br /> &mdash;Rupert Brooke'
+        '&ldquo;Breathless, we flung us on a windy hill, Laughed in the sun, and kissed the lovely grass.&rdquo; <br /> &mdash;Rupert Brooke',
+        '&ldquo;One must ask children and birds how cherries and strawberries taste.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
     ]
 
     let januaryArray = [
