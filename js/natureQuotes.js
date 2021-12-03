@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let decemberArray = [
         '&ldquo;Breathless, we flung us on a windy hill, Laughed in the sun, and kissed the lovely grass.&rdquo; <br /> &mdash;Rupert Brooke',
-        '&ldquo;One must ask children and birds how cherries and strawberries taste.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe'
+        '&ldquo;One must ask children and birds how cherries and strawberries taste.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        '&ldquo;Come forth into the light of things, let nature be your teacher.&rdquo; <br /> &mdash;William Wordsworth'
     ]
 
     let januaryArray = [
