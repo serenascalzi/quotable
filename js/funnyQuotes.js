@@ -3,7 +3,8 @@ $(document).ready(function() {
 
     let decemberArray = [
         '&ldquo;As far as I&rsquo;m concerned, &lsquo;whom&rsquo; is a word that was invented to make everyone sound like a butler.&rdquo; <br /> &mdash;Calvin Trillin',
-        '&ldquo;Thinking is one thing no one has ever been able to tax.&rdquo; <br /> &mdash;Charles Kettering'
+        '&ldquo;Thinking is one thing no one has ever been able to tax.&rdquo; <br /> &mdash;Charles Kettering',
+        '&ldquo;I am a deeply superficial person.&rdquo; <br /> &mdash;Andy Warhol'
     ]
 
     let januaryArray = [
