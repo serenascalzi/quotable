@@ -5,7 +5,8 @@ $(document).ready(function() {
         '&ldquo;As far as I&rsquo;m concerned, &lsquo;whom&rsquo; is a word that was invented to make everyone sound like a butler.&rdquo; <br /> &mdash;Calvin Trillin',
         '&ldquo;Thinking is one thing no one has ever been able to tax.&rdquo; <br /> &mdash;Charles Kettering',
         '&ldquo;I am a deeply superficial person.&rdquo; <br /> &mdash;Andy Warhol',
-        '&ldquo;Democracy is the art and science of running the circus from the monkey cage.&rdquo; <br /> &mdash;H. L. Mencken'
+        '&ldquo;Democracy is the art and science of running the circus from the monkey cage.&rdquo; <br /> &mdash;H. L. Mencken',
+        '&ldquo;My brother Bob doesn&rsquo;t want to be in government &ndash; he promised Dad he&rsquo;d go straight.&rdquo; <br /> &mdash;John F. Kennedy'
     ]
 
     let januaryArray = [
