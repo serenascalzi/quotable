@@ -6,7 +6,8 @@ $(document).ready(function() {
         '&ldquo;Thinking is one thing no one has ever been able to tax.&rdquo; <br /> &mdash;Charles Kettering',
         '&ldquo;I am a deeply superficial person.&rdquo; <br /> &mdash;Andy Warhol',
         '&ldquo;Democracy is the art and science of running the circus from the monkey cage.&rdquo; <br /> &mdash;H. L. Mencken',
-        '&ldquo;My brother Bob doesn&rsquo;t want to be in government &ndash; he promised Dad he&rsquo;d go straight.&rdquo; <br /> &mdash;John F. Kennedy'
+        '&ldquo;My brother Bob doesn&rsquo;t want to be in government &ndash; he promised Dad he&rsquo;d go straight.&rdquo; <br /> &mdash;John F. Kennedy',
+        '&ldquo;Let&rsquo;s have some new cliches.&rdquo; <br /> &mdash;Samuel Goldwyn'
     ]
 
     let januaryArray = [

@@ -6,7 +6,8 @@ $(document).ready(function() {
         '&ldquo;One must ask children and birds how cherries and strawberries taste.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
         '&ldquo;Come forth into the light of things, let nature be your teacher.&rdquo; <br /> &mdash;William Wordsworth',
         '&ldquo;The progress of rivers to the ocean is not so rapid as that of man to error.&rdquo; <br /> &mdash;Voltaire',
-        '&ldquo;Curiosity is the one thing invincible in Nature.&rdquo; <br /> &mdash;Freya Stark'
+        '&ldquo;Curiosity is the one thing invincible in Nature.&rdquo; <br /> &mdash;Freya Stark',
+        '&ldquo;Mountains are earth&rsquo;s undecaying monuments.&rdquo; <br /> &mdash;Nathaniel Hawthorne'
     ]
 
     let januaryArray = [
