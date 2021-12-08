@@ -8,7 +8,8 @@ $(document).ready(function() {
         '&ldquo;The progress of rivers to the ocean is not so rapid as that of man to error.&rdquo; <br /> &mdash;Voltaire',
         '&ldquo;Curiosity is the one thing invincible in Nature.&rdquo; <br /> &mdash;Freya Stark',
         '&ldquo;Mountains are earth&rsquo;s undecaying monuments.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
-        '&ldquo;No snowflake in an avalanche ever feels responsible.&rdquo; <br /> &mdash;Stanislaw Jerzy Lec'
+        '&ldquo;No snowflake in an avalanche ever feels responsible.&rdquo; <br /> &mdash;Stanislaw Jerzy Lec',
+        '&ldquo;Nature is a petrified magic city.&rdquo; <br /> &mdash;Novalis'
     ]
 
     let januaryArray = [
