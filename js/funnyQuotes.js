@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;My brother Bob doesn&rsquo;t want to be in government &ndash; he promised Dad he&rsquo;d go straight.&rdquo; <br /> &mdash;John F. Kennedy',
         '&ldquo;Let&rsquo;s have some new cliches.&rdquo; <br /> &mdash;Samuel Goldwyn',
         '&ldquo;Life is something to do when you can&rsquo;t get to sleep.&rdquo; <br /> &mdash;Fran Lebowitz',
-        '&ldquo;I always wanted to be somebody, but now I realize I should have been more specific.&rdquo; <br /> &mdash;Lily Tomlin'
+        '&ldquo;I always wanted to be somebody, but now I realize I should have been more specific.&rdquo; <br /> &mdash;Lily Tomlin',
+        '&ldquo;We&rsquo;ve had bad luck with our kids &ndash; they&rsquo;ve all grown up.&rdquo; <br /> &mdash;Christopher Morley'
     ]
 
     let januaryArray = [

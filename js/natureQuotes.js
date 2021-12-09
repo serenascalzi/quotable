@@ -9,7 +9,8 @@ $(document).ready(function() {
         '&ldquo;Curiosity is the one thing invincible in Nature.&rdquo; <br /> &mdash;Freya Stark',
         '&ldquo;Mountains are earth&rsquo;s undecaying monuments.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
         '&ldquo;No snowflake in an avalanche ever feels responsible.&rdquo; <br /> &mdash;Stanislaw Jerzy Lec',
-        '&ldquo;Nature is a petrified magic city.&rdquo; <br /> &mdash;Novalis'
+        '&ldquo;Nature is a petrified magic city.&rdquo; <br /> &mdash;Novalis',
+        '&ldquo;Vegetation is the basic instrument the creator uses to set all of nature in motion.&rdquo; <br /> &mdash;Antoine Lavoisier'
     ]
 
     let januaryArray = [
