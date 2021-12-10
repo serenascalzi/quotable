@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;Mountains are earth&rsquo;s undecaying monuments.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
         '&ldquo;No snowflake in an avalanche ever feels responsible.&rdquo; <br /> &mdash;Stanislaw Jerzy Lec',
         '&ldquo;Nature is a petrified magic city.&rdquo; <br /> &mdash;Novalis',
-        '&ldquo;Vegetation is the basic instrument the creator uses to set all of nature in motion.&rdquo; <br /> &mdash;Antoine Lavoisier'
+        '&ldquo;Vegetation is the basic instrument the creator uses to set all of nature in motion.&rdquo; <br /> &mdash;Antoine Lavoisier',
+        '&ldquo;Eagles come in all shapes and sizes, but you will recognize them chiefly by their attitudes.&rdquo; <br /> &mdash;E. F. Schumacher'
     ]
 
     let januaryArray = [
