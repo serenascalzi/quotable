@@ -10,7 +10,8 @@ $(document).ready(function() {
         '&ldquo;Let&rsquo;s have some new cliches.&rdquo; <br /> &mdash;Samuel Goldwyn',
         '&ldquo;Life is something to do when you can&rsquo;t get to sleep.&rdquo; <br /> &mdash;Fran Lebowitz',
         '&ldquo;I always wanted to be somebody, but now I realize I should have been more specific.&rdquo; <br /> &mdash;Lily Tomlin',
-        '&ldquo;We&rsquo;ve had bad luck with our kids &ndash; they&rsquo;ve all grown up.&rdquo; <br /> &mdash;Christopher Morley'
+        '&ldquo;We&rsquo;ve had bad luck with our kids &ndash; they&rsquo;ve all grown up.&rdquo; <br /> &mdash;Christopher Morley',
+        '&ldquo;You wouldn&rsquo;t have won if we&rsquo;d beaten you.&rdquo; <br /> &mdash;Yogi Berra'
     ]
 
     let januaryArray = [
