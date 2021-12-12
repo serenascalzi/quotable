@@ -379,7 +379,6 @@ $(document).ready(function() {
         '&ldquo;Wisdom outweighs any wealth.&rdquo; <br /> &mdash;Sophocles',
         '&ldquo;Some things are so unexpected that no one is prepared for them.&rdquo; <br /> &mdash;Leo Rosten',
         '&ldquo;It takes a planet to explore the universe.&rdquo; <br /> &mdash;Dylan Taylor',
-        // '&ldquo;God gives the nuts, but he does not crack them.&rdquo; <br /> &mdash;Franz Kafka',
         '&ldquo;Syllables govern the world.&rdquo; <br /> &mdash;George Bernard Shaw',
         '&ldquo;Home is the nicest word there is.&rdquo; <br /> &mdash;Laura Ingalls Wilder',
         '&ldquo;There&rsquo;s a world of difference between truth and facts. Facts can obscure the truth.&rdquo; <br /> &mdash;Maya Angelou',
