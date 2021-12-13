@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;Vegetation is the basic instrument the creator uses to set all of nature in motion.&rdquo; <br /> &mdash;Antoine Lavoisier',
         '&ldquo;Eagles come in all shapes and sizes, but you will recognize them chiefly by their attitudes.&rdquo; <br /> &mdash;E. F. Schumacher',
         '&ldquo;When nature has work to be done, she creates a genius to do it.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
-        '&ldquo;When you go in search of honey you must expect to be stung by bees.&rdquo; <br /> &mdash;Joseph Joubert'
+        '&ldquo;When you go in search of honey you must expect to be stung by bees.&rdquo; <br /> &mdash;Joseph Joubert',
+        '&ldquo;We live in the world when we love it.&rdquo; <br /> &mdash;Rabindranath Tagore'
     ]
 
     let januaryArray = [

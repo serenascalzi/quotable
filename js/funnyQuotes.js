@@ -13,7 +13,8 @@ $(document).ready(function() {
         '&ldquo;We&rsquo;ve had bad luck with our kids &ndash; they&rsquo;ve all grown up.&rdquo; <br /> &mdash;Christopher Morley',
         '&ldquo;You wouldn&rsquo;t have won if we&rsquo;d beaten you.&rdquo; <br /> &mdash;Yogi Berra',
         '&ldquo;The best measure of a man&rsquo;s honesty isn&rsquo;t his income tax return. It&rsquo;s the zero adjust on his bathroom scale.&rdquo; <br /> &mdash;Arthur C. Clarke',
-        '&ldquo;First you take a drink, then the drink takes a drink, then the drink takes you.&rdquo; <br /> &mdash;F. Scott Fitzgerald'
+        '&ldquo;First you take a drink, then the drink takes a drink, then the drink takes you.&rdquo; <br /> &mdash;F. Scott Fitzgerald',
+        '&ldquo;Always do sober what you said you&rsquo;d do drunk. That will teach you to keep your mouth shut.&rdquo; <br /> &mdash;Ernest Hemingway'
     ]
 
     let januaryArray = [
