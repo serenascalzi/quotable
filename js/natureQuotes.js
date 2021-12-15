@@ -15,7 +15,8 @@ $(document).ready(function() {
         '&ldquo;When nature has work to be done, she creates a genius to do it.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
         '&ldquo;When you go in search of honey you must expect to be stung by bees.&rdquo; <br /> &mdash;Joseph Joubert',
         '&ldquo;We live in the world when we love it.&rdquo; <br /> &mdash;Rabindranath Tagore',
-        '&ldquo;Nature can do more than physicians.&rdquo; <br /> &mdash;Oliver Cromwell'
+        '&ldquo;Nature can do more than physicians.&rdquo; <br /> &mdash;Oliver Cromwell',
+        '&ldquo;Nature, to be commanded, must be obeyed.&rdquo; <br /> &mdash;Francis Bacon'
     ]
 
     let januaryArray = [
