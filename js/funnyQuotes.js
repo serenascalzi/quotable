@@ -16,7 +16,8 @@ $(document).ready(function() {
         '&ldquo;First you take a drink, then the drink takes a drink, then the drink takes you.&rdquo; <br /> &mdash;F. Scott Fitzgerald',
         '&ldquo;Always do sober what you said you&rsquo;d do drunk. That will teach you to keep your mouth shut.&rdquo; <br /> &mdash;Ernest Hemingway',
         '&ldquo;I see nothing in space as promising as the view from a Ferris wheel.&rdquo; <br /> &mdash;E. B. White',
-        '&ldquo;A year from now, you&rsquo;re gonna weigh more or less than what you do right now.&rdquo; <br /> &mdash;Phil McGraw'
+        '&ldquo;A year from now, you&rsquo;re gonna weigh more or less than what you do right now.&rdquo; <br /> &mdash;Phil McGraw',
+        '&ldquo;The internet is a great way to get on the net.&rdquo; <br /> &mdash;Bob Dole'
     ]
 
     let januaryArray = [
