@@ -17,7 +17,8 @@ $(document).ready(function() {
         '&ldquo;We live in the world when we love it.&rdquo; <br /> &mdash;Rabindranath Tagore',
         '&ldquo;Nature can do more than physicians.&rdquo; <br /> &mdash;Oliver Cromwell',
         '&ldquo;Nature, to be commanded, must be obeyed.&rdquo; <br /> &mdash;Francis Bacon',
-        '&ldquo;Colors are the smiles of nature.&rdquo; <br /> &mdash;Leigh Hunt'
+        '&ldquo;Colors are the smiles of nature.&rdquo; <br /> &mdash;Leigh Hunt',
+        '&ldquo;Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.&rdquo; <br /> &mdash;Hal Borland'
     ]
 
     let januaryArray = [
