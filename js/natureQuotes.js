@@ -23,7 +23,8 @@ $(document).ready(function() {
         '&ldquo;And finally Winter, with its bitin&rsquo;, whinin&rsquo; wind, and all the land will be mantled with snow.&rdquo; <br /> &mdash;Roy Bean',
         '&ldquo;How beautiful the leaves grow old. How full of light and color are their last days.&rdquo; <br /> &mdash;John Burroughs',
         '&ldquo;Coming from Chicago, I like a white Christmas.&rdquo; <br /> &mdash;Dennis Franz',
-        '&ldquo;Nature never deceives us; it is we who deceive ourselves.&rdquo; <br /> &mdash;Jean-Jacques Rousseau'
+        '&ldquo;Nature never deceives us; it is we who deceive ourselves.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
+        '&ldquo;Remember that children, marriages, and flower gardens reflect the kind of care they get.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.'
     ]
 
     let januaryArray = [
