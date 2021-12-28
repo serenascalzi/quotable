@@ -26,7 +26,8 @@ $(document).ready(function() {
         '&ldquo;Nature never deceives us; it is we who deceive ourselves.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
         '&ldquo;Remember that children, marriages, and flower gardens reflect the kind of care they get.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.',
         '&ldquo;In seed time learn, in harvest teach, in winter enjoy.&rdquo; <br /> &mdash;William Blake',
-        '&ldquo;God gave us memory so that we might have roses in December.&rdquo; <br /> &mdash;James M. Barrie'
+        '&ldquo;God gave us memory so that we might have roses in December.&rdquo; <br /> &mdash;James M. Barrie',
+        '&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; <br /> &mdash;Socrates'
     ]
 
     let januaryArray = [
