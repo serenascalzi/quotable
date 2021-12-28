@@ -25,7 +25,8 @@ $(document).ready(function() {
         '&ldquo;Coming from Chicago, I like a white Christmas.&rdquo; <br /> &mdash;Dennis Franz',
         '&ldquo;Nature never deceives us; it is we who deceive ourselves.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
         '&ldquo;Remember that children, marriages, and flower gardens reflect the kind of care they get.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.',
-        '&ldquo;In seed time learn, in harvest teach, in winter enjoy.&rdquo; <br /> &mdash;William Blake'
+        '&ldquo;In seed time learn, in harvest teach, in winter enjoy.&rdquo; <br /> &mdash;William Blake',
+        '&ldquo;God gave us memory so that we might have roses in December.&rdquo; <br /> &mdash;James M. Barrie'
     ]
 
     let januaryArray = [
