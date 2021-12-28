@@ -27,7 +27,8 @@ $(document).ready(function() {
         '&ldquo;I cook with wine, sometimes I even add it to the food.&rdquo; <br /> &mdash;W. C. Fields',
         '&ldquo;Santa Claus has the right idea &ndash; visit people only once a year.&rdquo; <br /> &mdash;Victor Borge',
         '&ldquo;What I am looking for is a blessing not in disguise.&rdquo; <br /> &mdash;Jerome K. Jerome',
-        '&ldquo;Please to put a nickel, please to put a dime. How petitions trickle in at Christmas time!&rdquo; <br /> &mdash;Phyllis McGinley'
+        '&ldquo;Please to put a nickel, please to put a dime. How petitions trickle in at Christmas time!&rdquo; <br /> &mdash;Phyllis McGinley',
+        '&ldquo;I come from a family where gravy is considered a beverage.&rdquo; <br /> &mdash;Erma Bombeck'
     ]
 
     let januaryArray = [
