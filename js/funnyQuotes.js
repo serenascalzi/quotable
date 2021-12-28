@@ -24,7 +24,8 @@ $(document).ready(function() {
         '&ldquo;The meek shall inherit the Earth, but not its mineral rights.&rdquo; <br /> &mdash;J. Paul Getty',
         '&ldquo;A diplomat is a man who always remembers a woman&rsquo;s birthday but never remembers her age.&rdquo; <br /> &mdash;Robert Frost',
         '&ldquo;The only normal people are the ones you don&rsquo;t know very well.&rdquo; <br /> &mdash;Alfred Adler',
-        '&ldquo;I cook with wine, sometimes I even add it to the food.&rdquo; <br /> &mdash;W. C. Fields'
+        '&ldquo;I cook with wine, sometimes I even add it to the food.&rdquo; <br /> &mdash;W. C. Fields',
+        '&ldquo;Santa Claus has the right idea &ndash; visit people only once a year.&rdquo; <br /> &mdash;Victor Borge'
     ]
 
     let januaryArray = [
