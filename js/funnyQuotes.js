@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;A year from now, you&rsquo;re gonna weigh more or less than what you do right now.&rdquo; <br /> &mdash;Phil McGraw',
         '&ldquo;The internet is a great way to get on the net.&rdquo; <br /> &mdash;Bob Dole',
         '&ldquo;Mail your packages early so the post office can lose them in time for Christmas.&rdquo; <br /> &mdash;Johnny Carson',
-        '&ldquo;We didn&rsquo;t lose the game; we just ran out of time.&rdquo; <br /> &mdash;Vince Lombardi'
+        '&ldquo;We didn&rsquo;t lose the game; we just ran out of time.&rdquo; <br /> &mdash;Vince Lombardi',
+        '&ldquo;Always read something that will make you look good if you die in the middle of it.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke'
     ]
 
     let januaryArray = [
