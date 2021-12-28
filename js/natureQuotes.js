@@ -19,7 +19,8 @@ $(document).ready(function() {
         '&ldquo;Nature, to be commanded, must be obeyed.&rdquo; <br /> &mdash;Francis Bacon',
         '&ldquo;Colors are the smiles of nature.&rdquo; <br /> &mdash;Leigh Hunt',
         '&ldquo;Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.&rdquo; <br /> &mdash;Hal Borland',
-        '&ldquo;We build statues out of snow, and weep to see them melt.&rdquo; <br /> &mdash;Walter Scott'
+        '&ldquo;We build statues out of snow, and weep to see them melt.&rdquo; <br /> &mdash;Walter Scott',
+        '&ldquo;And finally Winter, with its bitin&rsquo;, whinin&rsquo; wind, and all the land will be mantled with snow.&rdquo; <br /> &mdash;Roy Bean'
     ]
 
     let januaryArray = [
