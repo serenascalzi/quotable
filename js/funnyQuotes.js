@@ -21,7 +21,8 @@ $(document).ready(function() {
         '&ldquo;Mail your packages early so the post office can lose them in time for Christmas.&rdquo; <br /> &mdash;Johnny Carson',
         '&ldquo;We didn&rsquo;t lose the game; we just ran out of time.&rdquo; <br /> &mdash;Vince Lombardi',
         '&ldquo;Always read something that will make you look good if you die in the middle of it.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
-        '&ldquo;The meek shall inherit the Earth, but not its mineral rights.&rdquo; <br /> &mdash;J. Paul Getty'
+        '&ldquo;The meek shall inherit the Earth, but not its mineral rights.&rdquo; <br /> &mdash;J. Paul Getty',
+        '&ldquo;A diplomat is a man who always remembers a woman&rsquo;s birthday but never remembers her age.&rdquo; <br /> &mdash;Robert Frost'
     ]
 
     let januaryArray = [
