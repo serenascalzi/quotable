@@ -28,7 +28,8 @@ $(document).ready(function() {
         '&ldquo;In seed time learn, in harvest teach, in winter enjoy.&rdquo; <br /> &mdash;William Blake',
         '&ldquo;God gave us memory so that we might have roses in December.&rdquo; <br /> &mdash;James M. Barrie',
         '&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; <br /> &mdash;Socrates',
-        '&ldquo;Nature was here a series of wonders, and a fund of delight.&rdquo; <br /> &mdash;Daniel Boone'
+        '&ldquo;Nature was here a series of wonders, and a fund of delight.&rdquo; <br /> &mdash;Daniel Boone',
+        '&ldquo;We do not see nature with our eyes, but with our understandings and our hearts.&rdquo; <br /> &mdash;William Hazlitt'
     ]
 
     let januaryArray = [
