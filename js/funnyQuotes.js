@@ -29,7 +29,8 @@ $(document).ready(function() {
         '&ldquo;What I am looking for is a blessing not in disguise.&rdquo; <br /> &mdash;Jerome K. Jerome',
         '&ldquo;Please to put a nickel, please to put a dime. How petitions trickle in at Christmas time!&rdquo; <br /> &mdash;Phyllis McGinley',
         '&ldquo;I come from a family where gravy is considered a beverage.&rdquo; <br /> &mdash;Erma Bombeck',
-        '&ldquo;Nothing says holidays, like a cheese log.&rdquo; <br /> &mdash;Ellen DeGeneres'
+        '&ldquo;Nothing says holidays, like a cheese log.&rdquo; <br /> &mdash;Ellen DeGeneres',
+        '&ldquo;Pets, like their owners, tend to expand a little over the Christmas period.&rdquo; <br /> &mdash;Frances Wright'
     ]
 
     let januaryArray = [
