@@ -397,8 +397,8 @@ $(document).ready(function() {
         '&ldquo;One faces the future with one&rsquo;s past.&rdquo; <br /> &mdash;Pearl S. Buck',
         '&ldquo;The less you talk, the more you&rsquo;re listened to.&rdquo; <br /> &mdash;Pauline Phillips',
         '&ldquo;We pass through this world but once.&rdquo; <br /> &mdash;Stephen Jay Gould',
-        '&ldquo;Every man regards his own life as the New Year&rsquo;s Eve of time.&rdquo; <br /> &mdash;Jean Paul',
-        '&ldquo;Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.&rdquo; <br /> &mdash;Benjamin Franklin'
+        '&ldquo;Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.&rdquo; <br /> &mdash;Benjamin Franklin',
+        '&ldquo;Every man regards his own life as the New Year&rsquo;s Eve of time.&rdquo; <br /> &mdash;Jean Paul'
     ]
 
     let date = new Date()
