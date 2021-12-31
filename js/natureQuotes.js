@@ -30,7 +30,8 @@ $(document).ready(function() {
         '&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; <br /> &mdash;Socrates',
         '&ldquo;Nature was here a series of wonders, and a fund of delight.&rdquo; <br /> &mdash;Daniel Boone',
         '&ldquo;We do not see nature with our eyes, but with our understandings and our hearts.&rdquo; <br /> &mdash;William Hazlitt',
-        '&ldquo;Let us permit nature to have her way. She understands her business better than we do.&rdquo; <br /> &mdash;Michel de Montaigne'
+        '&ldquo;Let us permit nature to have her way. She understands her business better than we do.&rdquo; <br /> &mdash;Michel de Montaigne',
+        '&ldquo;Over every mountain there is a path, although it may not be seen from the valley.&rdquo; <br /> &mdash;Theodore Roethke'
     ]
 
     let januaryArray = [
