@@ -1,39 +1,4 @@
 $(document).ready(function() {
-    // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
-
-    let decemberArray = [
-        '&ldquo;As far as I&rsquo;m concerned, &lsquo;whom&rsquo; is a word that was invented to make everyone sound like a butler.&rdquo; <br /> &mdash;Calvin Trillin',
-        '&ldquo;Thinking is one thing no one has ever been able to tax.&rdquo; <br /> &mdash;Charles Kettering',
-        '&ldquo;I am a deeply superficial person.&rdquo; <br /> &mdash;Andy Warhol',
-        '&ldquo;Democracy is the art and science of running the circus from the monkey cage.&rdquo; <br /> &mdash;H. L. Mencken',
-        '&ldquo;My brother Bob doesn&rsquo;t want to be in government &ndash; he promised Dad he&rsquo;d go straight.&rdquo; <br /> &mdash;John F. Kennedy',
-        '&ldquo;Let&rsquo;s have some new cliches.&rdquo; <br /> &mdash;Samuel Goldwyn',
-        '&ldquo;Life is something to do when you can&rsquo;t get to sleep.&rdquo; <br /> &mdash;Fran Lebowitz',
-        '&ldquo;I always wanted to be somebody, but now I realize I should have been more specific.&rdquo; <br /> &mdash;Lily Tomlin',
-        '&ldquo;We&rsquo;ve had bad luck with our kids &ndash; they&rsquo;ve all grown up.&rdquo; <br /> &mdash;Christopher Morley',
-        '&ldquo;You wouldn&rsquo;t have won if we&rsquo;d beaten you.&rdquo; <br /> &mdash;Yogi Berra',
-        '&ldquo;The best measure of a man&rsquo;s honesty isn&rsquo;t his income tax return. It&rsquo;s the zero adjust on his bathroom scale.&rdquo; <br /> &mdash;Arthur C. Clarke',
-        '&ldquo;First you take a drink, then the drink takes a drink, then the drink takes you.&rdquo; <br /> &mdash;F. Scott Fitzgerald',
-        '&ldquo;Always do sober what you said you&rsquo;d do drunk. That will teach you to keep your mouth shut.&rdquo; <br /> &mdash;Ernest Hemingway',
-        '&ldquo;I see nothing in space as promising as the view from a Ferris wheel.&rdquo; <br /> &mdash;E. B. White',
-        '&ldquo;A year from now, you&rsquo;re gonna weigh more or less than what you do right now.&rdquo; <br /> &mdash;Phil McGraw',
-        '&ldquo;The internet is a great way to get on the net.&rdquo; <br /> &mdash;Bob Dole',
-        '&ldquo;Mail your packages early so the post office can lose them in time for Christmas.&rdquo; <br /> &mdash;Johnny Carson',
-        '&ldquo;We didn&rsquo;t lose the game; we just ran out of time.&rdquo; <br /> &mdash;Vince Lombardi',
-        '&ldquo;Always read something that will make you look good if you die in the middle of it.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
-        '&ldquo;The meek shall inherit the Earth, but not its mineral rights.&rdquo; <br /> &mdash;J. Paul Getty',
-        '&ldquo;A diplomat is a man who always remembers a woman&rsquo;s birthday but never remembers her age.&rdquo; <br /> &mdash;Robert Frost',
-        '&ldquo;The only normal people are the ones you don&rsquo;t know very well.&rdquo; <br /> &mdash;Alfred Adler',
-        '&ldquo;I cook with wine, sometimes I even add it to the food.&rdquo; <br /> &mdash;W. C. Fields',
-        '&ldquo;Santa Claus has the right idea &ndash; visit people only once a year.&rdquo; <br /> &mdash;Victor Borge',
-        '&ldquo;What I am looking for is a blessing not in disguise.&rdquo; <br /> &mdash;Jerome K. Jerome',
-        '&ldquo;Please to put a nickel, please to put a dime. How petitions trickle in at Christmas time!&rdquo; <br /> &mdash;Phyllis McGinley',
-        '&ldquo;I come from a family where gravy is considered a beverage.&rdquo; <br /> &mdash;Erma Bombeck',
-        '&ldquo;Nothing says holidays, like a cheese log.&rdquo; <br /> &mdash;Ellen DeGeneres',
-        '&ldquo;Pets, like their owners, tend to expand a little over the Christmas period.&rdquo; <br /> &mdash;Frances Wright',
-        '&ldquo;Strange to see how a good dinner and feasting reconciles everybody.&rdquo; <br /> &mdash;Samuel Pepys'
-    ]
-
     let januaryArray = [
         '&ldquo;An intellectual is a man who doesn&rsquo;t know how to park a bike.&rdquo; <br /> &mdash;Spiro T. Agnew',
         '&ldquo;Prediction is very difficult, especially if it&rsquo;s about the future.&rdquo; <br /> &mdash;Niels Bohr',
@@ -400,6 +365,40 @@ $(document).ready(function() {
         '&ldquo;Vegetables are a must on a diet. I suggest carrot cake, zucchini bread, and pumpkin pie.&rdquo; <br /> &mdash;Jim Davis',
         '&ldquo;A nickel ain&rsquo;t worth a dime anymore.&rdquo; <br /> &mdash;Yogi Berra',
         '&ldquo;I am a marvelous housekeeper. Every time I leave a man I keep his house.&rdquo; <br /> &mdash;Zsa Zsa Gabor'
+    ]
+
+    let decemberArray = [
+        '&ldquo;As far as I&rsquo;m concerned, &lsquo;whom&rsquo; is a word that was invented to make everyone sound like a butler.&rdquo; <br /> &mdash;Calvin Trillin',
+        '&ldquo;Thinking is one thing no one has ever been able to tax.&rdquo; <br /> &mdash;Charles Kettering',
+        '&ldquo;I am a deeply superficial person.&rdquo; <br /> &mdash;Andy Warhol',
+        '&ldquo;Democracy is the art and science of running the circus from the monkey cage.&rdquo; <br /> &mdash;H. L. Mencken',
+        '&ldquo;My brother Bob doesn&rsquo;t want to be in government &ndash; he promised Dad he&rsquo;d go straight.&rdquo; <br /> &mdash;John F. Kennedy',
+        '&ldquo;Let&rsquo;s have some new cliches.&rdquo; <br /> &mdash;Samuel Goldwyn',
+        '&ldquo;Life is something to do when you can&rsquo;t get to sleep.&rdquo; <br /> &mdash;Fran Lebowitz',
+        '&ldquo;I always wanted to be somebody, but now I realize I should have been more specific.&rdquo; <br /> &mdash;Lily Tomlin',
+        '&ldquo;We&rsquo;ve had bad luck with our kids &ndash; they&rsquo;ve all grown up.&rdquo; <br /> &mdash;Christopher Morley',
+        '&ldquo;You wouldn&rsquo;t have won if we&rsquo;d beaten you.&rdquo; <br /> &mdash;Yogi Berra',
+        '&ldquo;The best measure of a man&rsquo;s honesty isn&rsquo;t his income tax return. It&rsquo;s the zero adjust on his bathroom scale.&rdquo; <br /> &mdash;Arthur C. Clarke',
+        '&ldquo;First you take a drink, then the drink takes a drink, then the drink takes you.&rdquo; <br /> &mdash;F. Scott Fitzgerald',
+        '&ldquo;Always do sober what you said you&rsquo;d do drunk. That will teach you to keep your mouth shut.&rdquo; <br /> &mdash;Ernest Hemingway',
+        '&ldquo;I see nothing in space as promising as the view from a Ferris wheel.&rdquo; <br /> &mdash;E. B. White',
+        '&ldquo;A year from now, you&rsquo;re gonna weigh more or less than what you do right now.&rdquo; <br /> &mdash;Phil McGraw',
+        '&ldquo;The internet is a great way to get on the net.&rdquo; <br /> &mdash;Bob Dole',
+        '&ldquo;Mail your packages early so the post office can lose them in time for Christmas.&rdquo; <br /> &mdash;Johnny Carson',
+        '&ldquo;We didn&rsquo;t lose the game; we just ran out of time.&rdquo; <br /> &mdash;Vince Lombardi',
+        '&ldquo;Always read something that will make you look good if you die in the middle of it.&rdquo; <br /> &mdash;P. J. O&rsquo;Rourke',
+        '&ldquo;The meek shall inherit the Earth, but not its mineral rights.&rdquo; <br /> &mdash;J. Paul Getty',
+        '&ldquo;A diplomat is a man who always remembers a woman&rsquo;s birthday but never remembers her age.&rdquo; <br /> &mdash;Robert Frost',
+        '&ldquo;The only normal people are the ones you don&rsquo;t know very well.&rdquo; <br /> &mdash;Alfred Adler',
+        '&ldquo;I cook with wine, sometimes I even add it to the food.&rdquo; <br /> &mdash;W. C. Fields',
+        '&ldquo;Santa Claus has the right idea &ndash; visit people only once a year.&rdquo; <br /> &mdash;Victor Borge',
+        '&ldquo;What I am looking for is a blessing not in disguise.&rdquo; <br /> &mdash;Jerome K. Jerome',
+        '&ldquo;Please to put a nickel, please to put a dime. How petitions trickle in at Christmas time!&rdquo; <br /> &mdash;Phyllis McGinley',
+        '&ldquo;I come from a family where gravy is considered a beverage.&rdquo; <br /> &mdash;Erma Bombeck',
+        '&ldquo;Nothing says holidays, like a cheese log.&rdquo; <br /> &mdash;Ellen DeGeneres',
+        '&ldquo;Pets, like their owners, tend to expand a little over the Christmas period.&rdquo; <br /> &mdash;Frances Wright',
+        '&ldquo;Strange to see how a good dinner and feasting reconciles everybody.&rdquo; <br /> &mdash;Samuel Pepys',
+        '&ldquo;Don&rsquo;t worry about the world coming to an end today. It is already tomorrow in Australia.&rdquo; <br /> &mdash;Charles M. Schulz'
     ]
 
     let date = new Date()

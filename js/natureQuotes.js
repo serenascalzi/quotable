@@ -1,39 +1,4 @@
 $(document).ready(function() {
-    // '&ldquo;Quote&rdquo; <br /> &mdash;Attribution'
-
-    let decemberArray = [
-        '&ldquo;Breathless, we flung us on a windy hill, Laughed in the sun, and kissed the lovely grass.&rdquo; <br /> &mdash;Rupert Brooke',
-        '&ldquo;One must ask children and birds how cherries and strawberries taste.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
-        '&ldquo;Come forth into the light of things, let nature be your teacher.&rdquo; <br /> &mdash;William Wordsworth',
-        '&ldquo;The progress of rivers to the ocean is not so rapid as that of man to error.&rdquo; <br /> &mdash;Voltaire',
-        '&ldquo;Curiosity is the one thing invincible in Nature.&rdquo; <br /> &mdash;Freya Stark',
-        '&ldquo;Mountains are earth&rsquo;s undecaying monuments.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
-        '&ldquo;No snowflake in an avalanche ever feels responsible.&rdquo; <br /> &mdash;Stanislaw Jerzy Lec',
-        '&ldquo;Nature is a petrified magic city.&rdquo; <br /> &mdash;Novalis',
-        '&ldquo;Vegetation is the basic instrument the creator uses to set all of nature in motion.&rdquo; <br /> &mdash;Antoine Lavoisier',
-        '&ldquo;Eagles come in all shapes and sizes, but you will recognize them chiefly by their attitudes.&rdquo; <br /> &mdash;E. F. Schumacher',
-        '&ldquo;When nature has work to be done, she creates a genius to do it.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
-        '&ldquo;When you go in search of honey you must expect to be stung by bees.&rdquo; <br /> &mdash;Joseph Joubert',
-        '&ldquo;We live in the world when we love it.&rdquo; <br /> &mdash;Rabindranath Tagore',
-        '&ldquo;Nature can do more than physicians.&rdquo; <br /> &mdash;Oliver Cromwell',
-        '&ldquo;Nature, to be commanded, must be obeyed.&rdquo; <br /> &mdash;Francis Bacon',
-        '&ldquo;Colors are the smiles of nature.&rdquo; <br /> &mdash;Leigh Hunt',
-        '&ldquo;Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.&rdquo; <br /> &mdash;Hal Borland',
-        '&ldquo;We build statues out of snow, and weep to see them melt.&rdquo; <br /> &mdash;Walter Scott',
-        '&ldquo;And finally Winter, with its bitin&rsquo;, whinin&rsquo; wind, and all the land will be mantled with snow.&rdquo; <br /> &mdash;Roy Bean',
-        '&ldquo;How beautiful the leaves grow old. How full of light and color are their last days.&rdquo; <br /> &mdash;John Burroughs',
-        '&ldquo;Coming from Chicago, I like a white Christmas.&rdquo; <br /> &mdash;Dennis Franz',
-        '&ldquo;Nature never deceives us; it is we who deceive ourselves.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
-        '&ldquo;Remember that children, marriages, and flower gardens reflect the kind of care they get.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.',
-        '&ldquo;In seed time learn, in harvest teach, in winter enjoy.&rdquo; <br /> &mdash;William Blake',
-        '&ldquo;God gave us memory so that we might have roses in December.&rdquo; <br /> &mdash;James M. Barrie',
-        '&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; <br /> &mdash;Socrates',
-        '&ldquo;Nature was here a series of wonders, and a fund of delight.&rdquo; <br /> &mdash;Daniel Boone',
-        '&ldquo;We do not see nature with our eyes, but with our understandings and our hearts.&rdquo; <br /> &mdash;William Hazlitt',
-        '&ldquo;Let us permit nature to have her way. She understands her business better than we do.&rdquo; <br /> &mdash;Michel de Montaigne',
-        '&ldquo;Over every mountain there is a path, although it may not be seen from the valley.&rdquo; <br /> &mdash;Theodore Roethke'
-    ]
-
     let januaryArray = [
         '&ldquo;I believe that if one always looked at the skies, one would end up with wings.&rdquo; <br /> &mdash;Gustave Flaubert',
         '&ldquo;It is a matter of shame that in the morning the birds should be awake earlier than you.&rdquo; <br /> &mdash;Abu Bakr',
@@ -400,6 +365,40 @@ $(document).ready(function() {
         '&ldquo;Autumn arrives in early morning, but spring at the close of a winter day.&rdquo; <br /> &mdash;Elizabeth Bowen',
         '&ldquo;Water is the driving force of all nature.&rdquo; <br /> &mdash;Leonardo da Vinci',
         '&ldquo;The pine stays green in winter&hellip; wisdom in hardship.&rdquo; <br /> &mdash;Norman Douglas'
+    ]
+
+    let decemberArray = [
+        '&ldquo;Breathless, we flung us on a windy hill, Laughed in the sun, and kissed the lovely grass.&rdquo; <br /> &mdash;Rupert Brooke',
+        '&ldquo;One must ask children and birds how cherries and strawberries taste.&rdquo; <br /> &mdash;Johann Wolfgang von Goethe',
+        '&ldquo;Come forth into the light of things, let nature be your teacher.&rdquo; <br /> &mdash;William Wordsworth',
+        '&ldquo;The progress of rivers to the ocean is not so rapid as that of man to error.&rdquo; <br /> &mdash;Voltaire',
+        '&ldquo;Curiosity is the one thing invincible in Nature.&rdquo; <br /> &mdash;Freya Stark',
+        '&ldquo;Mountains are earth&rsquo;s undecaying monuments.&rdquo; <br /> &mdash;Nathaniel Hawthorne',
+        '&ldquo;No snowflake in an avalanche ever feels responsible.&rdquo; <br /> &mdash;Stanislaw Jerzy Lec',
+        '&ldquo;Nature is a petrified magic city.&rdquo; <br /> &mdash;Novalis',
+        '&ldquo;Vegetation is the basic instrument the creator uses to set all of nature in motion.&rdquo; <br /> &mdash;Antoine Lavoisier',
+        '&ldquo;Eagles come in all shapes and sizes, but you will recognize them chiefly by their attitudes.&rdquo; <br /> &mdash;E. F. Schumacher',
+        '&ldquo;When nature has work to be done, she creates a genius to do it.&rdquo; <br /> &mdash;Ralph Waldo Emerson',
+        '&ldquo;When you go in search of honey you must expect to be stung by bees.&rdquo; <br /> &mdash;Joseph Joubert',
+        '&ldquo;We live in the world when we love it.&rdquo; <br /> &mdash;Rabindranath Tagore',
+        '&ldquo;Nature can do more than physicians.&rdquo; <br /> &mdash;Oliver Cromwell',
+        '&ldquo;Nature, to be commanded, must be obeyed.&rdquo; <br /> &mdash;Francis Bacon',
+        '&ldquo;Colors are the smiles of nature.&rdquo; <br /> &mdash;Leigh Hunt',
+        '&ldquo;Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence.&rdquo; <br /> &mdash;Hal Borland',
+        '&ldquo;We build statues out of snow, and weep to see them melt.&rdquo; <br /> &mdash;Walter Scott',
+        '&ldquo;And finally Winter, with its bitin&rsquo;, whinin&rsquo; wind, and all the land will be mantled with snow.&rdquo; <br /> &mdash;Roy Bean',
+        '&ldquo;How beautiful the leaves grow old. How full of light and color are their last days.&rdquo; <br /> &mdash;John Burroughs',
+        '&ldquo;Coming from Chicago, I like a white Christmas.&rdquo; <br /> &mdash;Dennis Franz',
+        '&ldquo;Nature never deceives us; it is we who deceive ourselves.&rdquo; <br /> &mdash;Jean-Jacques Rousseau',
+        '&ldquo;Remember that children, marriages, and flower gardens reflect the kind of care they get.&rdquo; <br /> &mdash;H. Jackson Brown, Jr.',
+        '&ldquo;In seed time learn, in harvest teach, in winter enjoy.&rdquo; <br /> &mdash;William Blake',
+        '&ldquo;God gave us memory so that we might have roses in December.&rdquo; <br /> &mdash;James M. Barrie',
+        '&ldquo;He is richest who is content with the least, for content is the wealth of nature.&rdquo; <br /> &mdash;Socrates',
+        '&ldquo;Nature was here a series of wonders, and a fund of delight.&rdquo; <br /> &mdash;Daniel Boone',
+        '&ldquo;We do not see nature with our eyes, but with our understandings and our hearts.&rdquo; <br /> &mdash;William Hazlitt',
+        '&ldquo;Let us permit nature to have her way. She understands her business better than we do.&rdquo; <br /> &mdash;Michel de Montaigne',
+        '&ldquo;Over every mountain there is a path, although it may not be seen from the valley.&rdquo; <br /> &mdash;Theodore Roethke',
+        '&ldquo;The sun does not shine for a few trees and flowers, but for the wide world&rsquo;s joy.&rdquo; <br /> &mdash;Henry Ward Beecher'
     ]
 
     let date = new Date()
